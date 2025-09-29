@@ -1,0 +1,1527 @@
+Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05
+            ------------------------------------------------------------
+                        Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: wellness, from 1971-04-29T13:30:00Z to 1971-04-29T14:14:19Z
+
+            Conditions: 
+- Only received primary school education (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: wellness, from 1972-05-04T13:30:00Z to 1972-05-04T14:23:03Z
+
+            Conditions: 
+- Limited social contact (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: wellness, from 1978-05-11T13:30:00Z to 1978-05-11T14:13:14Z
+
+            Conditions: 
+- Prediabetes (finding)
+- Anemia (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: wellness, from 1997-03-20T13:30:00Z to 1997-03-20T14:15:34Z
+
+            Conditions: 
+- Body mass index 30+ - obesity (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: wellness, from 2005-03-17T13:30:00Z to 2005-03-17T14:06:44Z
+
+            Conditions: 
+- Not in labor force (finding)
+- Stress (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: wellness, from 2006-03-23T13:30:00Z to 2006-03-23T14:21:06Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 168.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 79.0 kg
+- Body mass index (BMI) [Ratio]: 27.7 kg/m2
+- Diastolic Blood Pressure: 64.0 mm[Hg]
+- Systolic Blood Pressure: 95.0 mm[Hg]
+- Heart rate: 86.0 /min
+- Respiratory rate: 12.0 /min
+- Glucose [Mass/volume] in Blood: 73.5 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 15.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 10.1 mg/dL
+- Sodium [Moles/volume] in Blood: 136.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.6 mmol/L
+- Chloride [Moles/volume] in Blood: 103.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.1 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 144.8 mg/dL
+- Triglycerides: 106.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 74.0 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 49.5 mg/dL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 74369 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 791 Hilll Fort Apt 65
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- zoster vaccine  live
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2006-04-06T13:30:00Z to 2006-04-06T16:46:24Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: wellness, from 2007-03-29T13:30:00Z to 2007-03-29T14:18:02Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Body Height: 168.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 79.0 kg
+- Body mass index (BMI) [Ratio]: 27.7 kg/m2
+- Diastolic Blood Pressure: 63.0 mm[Hg]
+- Systolic Blood Pressure: 98.0 mm[Hg]
+- Heart rate: 64.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 82.2 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 14.5 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.4 mg/dL
+- Sodium [Moles/volume] in Blood: 139.6 mmol/L
+- Potassium [Moles/volume] in Blood: 3.7 mmol/L
+- Chloride [Moles/volume] in Blood: 106.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 28.0 mmol/L
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care (Medical  Dental  Mental Health  Vision)
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 74369 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 791 Hilll Fort Apt 65
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2008-01-03T03:30:00Z to 2008-01-03T03:45:00Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Measurement of respiratory function (procedure): code 23426006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: outpatient, from 2008-01-10T13:30:00Z to 2008-01-10T14:25:25Z
+
+            Conditions: 
+- Stress (finding)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Body Height: 168.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 79.0 kg
+- Body mass index (BMI) [Ratio]: 27.7 kg/m2
+- Diastolic Blood Pressure: 69.0 mm[Hg]
+- Systolic Blood Pressure: 106.0 mm[Hg]
+- Heart rate: 80.0 /min
+- Respiratory rate: 12.0 /min
+- Glucose [Mass/volume] in Blood: 84.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 15.9 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.9 mg/dL
+- Calcium [Mass/volume] in Blood: 10.0 mg/dL
+- Sodium [Moles/volume] in Blood: 137.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.9 mmol/L
+- Chloride [Moles/volume] in Blood: 103.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.2 mmol/L
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 74369 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 791 Hilll Fort Apt 65
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 12.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2008-01-24T13:30:00Z to 2008-01-24T16:44:22Z
+
+            Conditions: 
+- Primary dental caries (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure): code 1259293006
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: wellness, from 2008-04-03T13:30:00Z to 2008-04-03T14:16:35Z
+
+            Conditions: 
+- Social isolation (finding)
+- Unhealthy alcohol drinking behavior (finding)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Body Height: 168.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 79.0 kg
+- Body mass index (BMI) [Ratio]: 27.7 kg/m2
+- Diastolic Blood Pressure: 68.0 mm[Hg]
+- Systolic Blood Pressure: 103.0 mm[Hg]
+- Heart rate: 78.0 /min
+- Respiratory rate: 16.0 /min
+- Glucose [Mass/volume] in Blood: 90.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 8.5 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.9 mg/dL
+- Calcium [Mass/volume] in Blood: 9.8 mg/dL
+- Sodium [Moles/volume] in Blood: 138.9 mmol/L
+- Potassium [Moles/volume] in Blood: 4.4 mmol/L
+- Chloride [Moles/volume] in Blood: 105.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.9 mmol/L
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 74369 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 791 Hilll Fort Apt 65
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: I choose not to answer this question
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 5.0 {score}
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 7.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: wellness, from 2009-04-09T13:30:00Z to 2009-04-09T14:25:40Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Body Height: 168.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 79.0 kg
+- Body mass index (BMI) [Ratio]: 27.7 kg/m2
+- Diastolic Blood Pressure: 67.0 mm[Hg]
+- Systolic Blood Pressure: 106.0 mm[Hg]
+- Heart rate: 96.0 /min
+- Respiratory rate: 12.0 /min
+- Glucose [Mass/volume] in Blood: 72.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 7.7 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.0 mg/dL
+- Sodium [Moles/volume] in Blood: 138.7 mmol/L
+- Potassium [Moles/volume] in Blood: 4.5 mmol/L
+- Chloride [Moles/volume] in Blood: 105.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 20.7 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 158.9 mg/dL
+- Triglycerides: 113.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 89.9 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 46.4 mg/dL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Child care
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 74369 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 791 Hilll Fort Apt 65
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [DAST-10]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2009-04-23T13:30:00Z to 2009-04-23T17:00:59Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: wellness, from 2010-04-15T13:30:00Z to 2010-04-15T14:01:13Z
+
+            Conditions: 
+- Part-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %
+- Body Height: 168.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 79.0 kg
+- Body mass index (BMI) [Ratio]: 27.7 kg/m2
+- Diastolic Blood Pressure: 66.0 mm[Hg]
+- Systolic Blood Pressure: 96.0 mm[Hg]
+- Heart rate: 95.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 92.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 11.0 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.5 mg/dL
+- Sodium [Moles/volume] in Blood: 140.7 mmol/L
+- Potassium [Moles/volume] in Blood: 5.1 mmol/L
+- Chloride [Moles/volume] in Blood: 107.9 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 23.4 mmol/L
+- Leukocytes [#/volume] in Blood by Automated count: 10.0 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.3 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 45.8 %
+- MCV [Entitic volume] by Automated count: 82.1 fL
+- MCH [Entitic mass] by Automated count: 32.9 pg
+- MCHC [Mass/volume] by Automated count: 34.8 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 39.5 fL
+- Platelets [#/volume] in Blood by Automated count: 176.6 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 430.1 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 9.8 fL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Phone
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 74369 /a
+- Primary insurance: Private insurance
+- Employment status - current: Part-time or temporary work
+- Highest level of education: Less than high school degree
+- Address: 791 Hilll Fort Apt 65
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2010-04-29T13:30:00Z to 2010-04-29T16:59:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: wellness, from 2011-04-21T13:30:00Z to 2011-04-21T14:14:29Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 168.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 79.0 kg
+- Body mass index (BMI) [Ratio]: 27.7 kg/m2
+- Diastolic Blood Pressure: 68.0 mm[Hg]
+- Systolic Blood Pressure: 94.0 mm[Hg]
+- Heart rate: 76.0 /min
+- Respiratory rate: 16.0 /min
+- Glucose [Mass/volume] in Blood: 72.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 7.0 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.1 mg/dL
+- Sodium [Moles/volume] in Blood: 140.7 mmol/L
+- Potassium [Moles/volume] in Blood: 4.2 mmol/L
+- Chloride [Moles/volume] in Blood: 110.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.6 mmol/L
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 74369 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 791 Hilll Fort Apt 65
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2011-05-05T13:30:00Z to 2011-05-05T19:33:12Z
+
+            Conditions: 
+- Gingival disease (disorder)
+- Loose dental filling (finding)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure): code 1259293006
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: wellness, from 2012-04-26T13:30:00Z to 2012-04-26T14:25:56Z
+
+            Conditions: 
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Body Height: 168.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 79.0 kg
+- Body mass index (BMI) [Ratio]: 27.7 kg/m2
+- Diastolic Blood Pressure: 64.0 mm[Hg]
+- Systolic Blood Pressure: 103.0 mm[Hg]
+- Heart rate: 81.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 81.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 16.5 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.0 mg/dL
+- Sodium [Moles/volume] in Blood: 141.5 mmol/L
+- Potassium [Moles/volume] in Blood: 4.3 mmol/L
+- Chloride [Moles/volume] in Blood: 101.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 20.6 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 185.4 mg/dL
+- Triglycerides: 144.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 98.6 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 57.9 mg/dL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 74369 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 791 Hilll Fort Apt 65
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2012-05-10T13:30:00Z to 2012-05-10T19:19:38Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2012-07-24T13:30:00Z to 2012-07-24T13:45:00Z
+
+            Conditions: 
+- Bleeding from anus (disorder)
+- Protracted diarrhea (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2012-07-28T16:30:00Z to 2012-07-28T17:03:41Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Colonoscopy (procedure): code 73761001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2012-08-04T15:03:41Z to 2012-08-04T15:18:41Z
+
+            Conditions: 
+- Metastatic malignant neoplasm to colon (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2012-08-14T15:03:41Z to 2012-08-14T15:18:41Z
+
+            Conditions: None
+            Medications: 
+- Leucovorin 100 MG Injection
+- 10 ML oxaliplatin 5 MG/ML Injection
+            Observations: 
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 5.0 {score}
+- Glucose [Mass/volume] in Blood: 91.5 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 9.9 mg/dL
+- Creatinine [Mass/volume] in Blood: 3.1 mg/dL
+- Calcium [Mass/volume] in Blood: 9.6 mg/dL
+- Sodium [Moles/volume] in Blood: 136.5 mmol/L
+- Potassium [Moles/volume] in Blood: 3.8 mmol/L
+- Chloride [Moles/volume] in Blood: 105.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 20.4 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 12.1 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.6 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 5.0 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 3.2 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.9 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 102.1 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 35.1 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 18.7 U/L
+- Leukocytes [#/volume] in Blood by Automated count: 3.9 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.1 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 25.6 %
+- MCV [Entitic volume] by Automated count: 91.1 fL
+- MCH [Entitic mass] by Automated count: 30.1 pg
+- MCHC [Mass/volume] by Automated count: 35.7 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 41.3 fL
+- Platelets [#/volume] in Blood by Automated count: 330.7 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 356.2 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 12.1 fL
+            Procedures: 
+- Combined chemotherapy and radiation therapy (procedure): code 703423002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2012-09-17T21:03:41Z to 2012-09-17T21:18:41Z
+
+            Conditions: None
+            Medications: 
+- Leucovorin 100 MG Injection
+- 10 ML oxaliplatin 5 MG/ML Injection
+            Observations: 
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Glucose [Mass/volume] in Blood: 74.6 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 19.0 mg/dL
+- Creatinine [Mass/volume] in Blood: 2.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.1 mg/dL
+- Sodium [Moles/volume] in Blood: 139.8 mmol/L
+- Potassium [Moles/volume] in Blood: 5.2 mmol/L
+- Chloride [Moles/volume] in Blood: 101.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.7 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 14.3 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.8 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 5.3 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 3.0 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.4 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 130.3 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 53.8 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 20.9 U/L
+- Leukocytes [#/volume] in Blood by Automated count: 0.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.7 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 9.9 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 26.7 %
+- MCV [Entitic volume] by Automated count: 80.9 fL
+- MCH [Entitic mass] by Automated count: 28.9 pg
+- MCHC [Mass/volume] by Automated count: 35.3 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 39.0 fL
+- Platelets [#/volume] in Blood by Automated count: 378.6 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 378.9 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 12.3 fL
+            Procedures: 
+- Combined chemotherapy and radiation therapy (procedure): code 703423002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2012-10-16T19:03:41Z to 2012-10-16T19:18:41Z
+
+            Conditions: None
+            Medications: 
+- Leucovorin 100 MG Injection
+- 10 ML oxaliplatin 5 MG/ML Injection
+            Observations: 
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 8.0 {score}
+- Glucose [Mass/volume] in Blood: 64.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 11.0 mg/dL
+- Creatinine [Mass/volume] in Blood: 3.4 mg/dL
+- Calcium [Mass/volume] in Blood: 9.4 mg/dL
+- Sodium [Moles/volume] in Blood: 138.9 mmol/L
+- Potassium [Moles/volume] in Blood: 4.7 mmol/L
+- Chloride [Moles/volume] in Blood: 107.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.2 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 4.6 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.0 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.7 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.4 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.6 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 67.8 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 22.5 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 11.8 U/L
+- Leukocytes [#/volume] in Blood by Automated count: 3.6 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.4 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 9.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 28.5 %
+- MCV [Entitic volume] by Automated count: 83.9 fL
+- MCH [Entitic mass] by Automated count: 27.4 pg
+- MCHC [Mass/volume] by Automated count: 34.1 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 43.5 fL
+- Platelets [#/volume] in Blood by Automated count: 424.4 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 516.4 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 12.3 fL
+            Procedures: 
+- Combined chemotherapy and radiation therapy (procedure): code 703423002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2012-11-19T17:03:41Z to 2012-11-19T17:18:41Z
+
+            Conditions: None
+            Medications: 
+- Leucovorin 100 MG Injection
+- 10 ML oxaliplatin 5 MG/ML Injection
+            Observations: 
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 6.0 {score}
+- Glucose [Mass/volume] in Blood: 89.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 17.7 mg/dL
+- Creatinine [Mass/volume] in Blood: 2.7 mg/dL
+- Calcium [Mass/volume] in Blood: 9.9 mg/dL
+- Sodium [Moles/volume] in Blood: 140.3 mmol/L
+- Potassium [Moles/volume] in Blood: 4.2 mmol/L
+- Chloride [Moles/volume] in Blood: 106.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 25.2 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 7.8 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.5 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 5.1 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.7 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.7 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 68.3 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 46.3 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 26.8 U/L
+- Leukocytes [#/volume] in Blood by Automated count: 3.3 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.7 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 9.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 26.3 %
+- MCV [Entitic volume] by Automated count: 94.0 fL
+- MCH [Entitic mass] by Automated count: 28.2 pg
+- MCHC [Mass/volume] by Automated count: 33.7 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 44.9 fL
+- Platelets [#/volume] in Blood by Automated count: 289.6 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 393.6 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.8 fL
+            Procedures: 
+- Combined chemotherapy and radiation therapy (procedure): code 703423002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2012-12-22T20:03:41Z to 2012-12-22T20:18:41Z
+
+            Conditions: None
+            Medications: 
+- Leucovorin 100 MG Injection
+- 10 ML oxaliplatin 5 MG/ML Injection
+            Observations: 
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Glucose [Mass/volume] in Blood: 86.3 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 18.2 mg/dL
+- Creatinine [Mass/volume] in Blood: 2.9 mg/dL
+- Calcium [Mass/volume] in Blood: 9.0 mg/dL
+- Sodium [Moles/volume] in Blood: 141.6 mmol/L
+- Potassium [Moles/volume] in Blood: 4.5 mmol/L
+- Chloride [Moles/volume] in Blood: 105.5 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.9 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 13.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.7 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.5 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.4 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.3 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 77.1 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 21.8 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 18.2 U/L
+- Leukocytes [#/volume] in Blood by Automated count: 2.7 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.5 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 11.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 27.9 %
+- MCV [Entitic volume] by Automated count: 85.7 fL
+- MCH [Entitic mass] by Automated count: 31.9 pg
+- MCHC [Mass/volume] by Automated count: 33.1 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 39.2 fL
+- Platelets [#/volume] in Blood by Automated count: 395.7 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 441.0 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.8 fL
+            Procedures: 
+- Combined chemotherapy and radiation therapy (procedure): code 703423002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2013-01-23T12:03:41Z to 2013-01-23T12:18:41Z
+
+            Conditions: None
+            Medications: 
+- Leucovorin 100 MG Injection
+- 10 ML oxaliplatin 5 MG/ML Injection
+            Observations: 
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 5.0 {score}
+- Glucose [Mass/volume] in Blood: 82.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 15.8 mg/dL
+- Creatinine [Mass/volume] in Blood: 3.2 mg/dL
+- Calcium [Mass/volume] in Blood: 8.5 mg/dL
+- Sodium [Moles/volume] in Blood: 141.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.4 mmol/L
+- Chloride [Moles/volume] in Blood: 105.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 26.4 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 5.3 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.1 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 3.7 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.1 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.1 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 92.6 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 58.8 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 22.8 U/L
+- Leukocytes [#/volume] in Blood by Automated count: 0.6 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.8 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 11.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 26.3 %
+- MCV [Entitic volume] by Automated count: 81.8 fL
+- MCH [Entitic mass] by Automated count: 28.5 pg
+- MCHC [Mass/volume] by Automated count: 33.2 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 41.0 fL
+- Platelets [#/volume] in Blood by Automated count: 395.3 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 204.3 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 12.0 fL
+            Procedures: 
+- Combined chemotherapy and radiation therapy (procedure): code 703423002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: wellness, from 2013-05-02T13:30:00Z to 2013-05-02T14:08:11Z
+
+            Conditions: 
+- Osteoporosis (disorder)
+- Stress (finding)
+            Medications: 
+- Alendronic acid 10 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- DXA Radius and Ulna [T-score] Bone density: -3.5 {T-score}
+- Body Height: 168.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 79.0 kg
+- Body mass index (BMI) [Ratio]: 27.7 kg/m2
+- Diastolic Blood Pressure: 69.0 mm[Hg]
+- Systolic Blood Pressure: 96.0 mm[Hg]
+- Heart rate: 61.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 75.5 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 16.2 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.0 mg/dL
+- Sodium [Moles/volume] in Blood: 143.6 mmol/L
+- Potassium [Moles/volume] in Blood: 5.1 mmol/L
+- Chloride [Moles/volume] in Blood: 107.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 22.2 mmol/L
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care (Medical  Dental  Mental Health  Vision)
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 74369 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 791 Hilll Fort Apt 65
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Bone density scan (procedure): code 312681000
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2013-05-16T13:30:00Z to 2013-05-16T17:25:35Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: wellness, from 2014-05-08T13:30:00Z to 2014-05-08T14:12:52Z
+
+            Conditions: None
+            Medications: 
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %
+- Body Height: 168.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 79.0 kg
+- Body mass index (BMI) [Ratio]: 27.7 kg/m2
+- Diastolic Blood Pressure: 65.0 mm[Hg]
+- Systolic Blood Pressure: 96.0 mm[Hg]
+- Heart rate: 73.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 71.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 14.9 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.7 mg/dL
+- Calcium [Mass/volume] in Blood: 10.0 mg/dL
+- Sodium [Moles/volume] in Blood: 136.0 mmol/L
+- Potassium [Moles/volume] in Blood: 4.8 mmol/L
+- Chloride [Moles/volume] in Blood: 107.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 26.7 mmol/L
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Very much
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Phone
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 74369 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 791 Hilll Fort Apt 65
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Fall risk total [Morse Fall Scale]: 41.0 {#}
+- Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45)
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: emergency, from 2015-03-12T13:30:00Z to 2015-03-12T14:30:00Z
+
+            Conditions: 
+- Part-time employment (finding)
+            Medications: 
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Body Height: 168.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 79.0 kg
+- Body mass index (BMI) [Ratio]: 27.7 kg/m2
+- Diastolic Blood Pressure: 62.0 mm[Hg]
+- Systolic Blood Pressure: 102.0 mm[Hg]
+- Heart rate: 64.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 83.6 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 7.5 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.7 mg/dL
+- Calcium [Mass/volume] in Blood: 9.9 mg/dL
+- Sodium [Moles/volume] in Blood: 142.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.6 mmol/L
+- Chloride [Moles/volume] in Blood: 110.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 23.7 mmol/L
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care (Medical  Dental  Mental Health  Vision)
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 74369 /a
+- Primary insurance: Medicare
+- Employment status - current: Part-time or temporary work
+- Highest level of education: Less than high school degree
+- Address: 791 Hilll Fort Apt 65
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Fall risk total [Morse Fall Scale]: 104.0 {#}
+- Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+)
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: urgentcare, from 2015-03-19T13:30:00Z to 2015-03-19T13:45:00Z
+
+            Conditions: None
+            Medications: 
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.8 %
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: urgentcare, from 2015-03-26T13:30:00Z to 2015-03-26T14:02:10Z
+
+            Conditions: 
+- Medication review due (situation)
+- Not in labor force (finding)
+            Medications: 
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Body Height: 168.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 79.0 kg
+- Body mass index (BMI) [Ratio]: 27.7 kg/m2
+- Diastolic Blood Pressure: 65.0 mm[Hg]
+- Systolic Blood Pressure: 102.0 mm[Hg]
+- Heart rate: 73.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 82.3 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 11.6 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.7 mg/dL
+- Calcium [Mass/volume] in Blood: 9.8 mg/dL
+- Sodium [Moles/volume] in Blood: 143.0 mmol/L
+- Potassium [Moles/volume] in Blood: 4.5 mmol/L
+- Chloride [Moles/volume] in Blood: 101.5 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.8 mmol/L
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 74369 /a
+- Primary insurance: Medicare
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: Less than high school degree
+- Address: 791 Hilll Fort Apt 65
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: outpatient, from 2015-04-02T13:30:00Z to 2015-04-02T13:45:00Z
+
+            Conditions: None
+            Medications: 
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2015-04-09T13:30:00Z to 2015-04-09T16:30:32Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2015-04-16T13:30:00Z to 2015-04-16T13:45:00Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: 
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: wellness, from 2015-05-14T13:30:00Z to 2015-05-14T14:00:36Z
+
+            Conditions: 
+- Full-time employment (finding)
+            Medications: 
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.1 %
+- Body Height: 168.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 79.0 kg
+- Body mass index (BMI) [Ratio]: 27.7 kg/m2
+- Diastolic Blood Pressure: 67.0 mm[Hg]
+- Systolic Blood Pressure: 100.0 mm[Hg]
+- Heart rate: 99.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 70.5 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 14.0 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 9.4 mg/dL
+- Sodium [Moles/volume] in Blood: 136.8 mmol/L
+- Potassium [Moles/volume] in Blood: 4.6 mmol/L
+- Chloride [Moles/volume] in Blood: 103.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 28.6 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 205.6 mg/dL
+- Triglycerides: 117.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 126.8 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 55.3 mg/dL
+- Leukocytes [#/volume] in Blood by Automated count: 8.6 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.9 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 44.5 %
+- MCV [Entitic volume] by Automated count: 80.8 fL
+- MCH [Entitic mass] by Automated count: 31.6 pg
+- MCHC [Mass/volume] by Automated count: 33.1 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 44.2 fL
+- Platelets [#/volume] in Blood by Automated count: 244.1 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 403.9 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.0 fL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 74369 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 791 Hilll Fort Apt 65
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Fall risk total [Morse Fall Scale]: 8.0 {#}
+- Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24)
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: ambulatory, from 2015-09-07T17:30:00Z to 2015-09-07T17:45:00Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.4 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: hospice, from 2016-02-11T13:30:00Z to 2016-03-10T13:30:00Z
+
+            Conditions: 
+- Died in hospice (finding)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Certification procedure (procedure): code 310417005
+- Notifications (procedure): code 185087000
+- Initial patient assessment (procedure): code 315639002
+- Development of individualized plan of care (procedure): code 370789001
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Corrine68 Jacobson885, Gender: F, DOB: 1953-03-05, SSN: 999-11-2773
+
+            Encounter: wellness, from 2016-03-17T13:30:00Z to 2016-03-17T13:45:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Cause of Death [US Standard Certificate of Death]: Metastatic malignant neoplasm to colon (disorder)
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+            

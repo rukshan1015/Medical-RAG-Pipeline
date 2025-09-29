@@ -1,0 +1,1406 @@
+Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03
+            ------------------------------------------------------------
+                        Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: wellness, from 1965-12-27T02:58:04Z to 1965-12-27T03:32:41Z
+
+            Conditions: 
+- Received higher education (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: wellness, from 1970-01-05T02:58:04Z to 1970-01-05T03:50:03Z
+
+            Conditions: 
+- Body mass index 30+ - obesity (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: wellness, from 1987-11-09T02:58:04Z to 1987-11-09T03:30:24Z
+
+            Conditions: 
+- Refugee (person)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: wellness, from 2014-02-03T02:58:04Z to 2014-02-03T03:34:27Z
+
+            Conditions: 
+- Medication review due (situation)
+- Hyperlipidemia (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: outpatient, from 2014-02-05T02:58:04Z to 2014-02-05T03:13:04Z
+
+            Conditions: 
+- Chronic pain (finding)
+- Chronic neck pain (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2014-03-03T02:58:04Z to 2014-03-03T03:13:04Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: wellness, from 2015-02-09T02:58:04Z to 2015-02-09T03:38:23Z
+
+            Conditions: 
+- Full-time employment (finding)
+            Medications: 
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2015-03-03T02:58:04Z to 2015-03-03T03:13:04Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: wellness, from 2016-02-15T02:58:04Z to 2016-02-15T03:52:15Z
+
+            Conditions: 
+- Gingivitis (disorder)
+            Medications: 
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+            Observations: 
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 97.0 kg
+- Body mass index (BMI) [Ratio]: 27.9 kg/m2
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 111.0 mm[Hg]
+- Heart rate: 80.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: Yes
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 19005 /a
+- Primary insurance: I choose not to answer this question
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 150 Terry Bypass Suite 24
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Asian
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 14.0 {score}
+- Fall risk total [Morse Fall Scale]: 29.0 {#}
+- Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45)
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 6.0 {score}
+- Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 7.0 {score}
+- Total score [DAST-10]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2016-02-29T02:58:04Z to 2016-02-29T05:54:20Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2016-03-02T02:58:04Z to 2016-03-02T03:13:04Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 93.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 10.7 mg/dL
+- Creatinine [Mass/volume] in Blood: 3.4 mg/dL
+- Calcium [Mass/volume] in Blood: 9.2 mg/dL
+- Sodium [Moles/volume] in Blood: 138.2 mmol/L
+- Potassium [Moles/volume] in Blood: 3.8 mmol/L
+- Chloride [Moles/volume] in Blood: 101.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.7 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 67.3 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.4 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 3.7 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 3.3 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.9 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 67.4 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 54.0 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 29.9 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 197.3 mg/dL
+- Triglycerides: 155.1 mg/dL
+- Low Density Lipoprotein Cholesterol: 85.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.9 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: wellness, from 2017-02-20T02:58:04Z to 2017-02-20T03:47:11Z
+
+            Conditions: 
+- Limited social contact (finding)
+- Stress (finding)
+            Medications: 
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+            Observations: 
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 97.0 kg
+- Body mass index (BMI) [Ratio]: 27.9 kg/m2
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 106.0 mm[Hg]
+- Heart rate: 67.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: Yes
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: I choose not to answer this question
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 19005 /a
+- Primary insurance: I choose not to answer this question
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 150 Terry Bypass Suite 24
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Asian
+- Do you consider yourself Hispanic/Latino?: No
+- Fall risk total [Morse Fall Scale]: 20.0 {#}
+- Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24)
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2017-03-06T02:58:04Z to 2017-03-06T05:46:15Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2017-03-13T02:58:04Z to 2017-03-13T03:13:04Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 74.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 10.8 mg/dL
+- Creatinine [Mass/volume] in Blood: 3.4 mg/dL
+- Calcium [Mass/volume] in Blood: 9.5 mg/dL
+- Sodium [Moles/volume] in Blood: 142.8 mmol/L
+- Potassium [Moles/volume] in Blood: 5.2 mmol/L
+- Chloride [Moles/volume] in Blood: 110.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.2 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 84.6 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.0 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.3 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.5 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.0 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 113.4 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 53.2 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 20.3 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 201.3 mg/dL
+- Triglycerides: 191.4 mg/dL
+- Low Density Lipoprotein Cholesterol: 108.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 40.4 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: emergency, from 2017-09-20T20:58:25Z to 2017-09-20T21:58:25Z
+
+            Conditions: 
+- Sprain (morphologic abnormality)
+- Sprain of ankle (disorder)
+            Medications: 
+- Ibuprofen 200 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: wellness, from 2018-02-26T02:58:04Z to 2018-02-26T03:44:52Z
+
+            Conditions: 
+- Medication review due (situation)
+- Unemployed (finding)
+            Medications: 
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+            Observations: 
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 97.0 kg
+- Body mass index (BMI) [Ratio]: 27.9 kg/m2
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 107.0 mm[Hg]
+- Heart rate: 70.0 /min
+- Respiratory rate: 16.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 289.9 mg/dL
+- Triglycerides: 125.6 mg/dL
+- Low Density Lipoprotein Cholesterol: 216.9 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 47.9 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: Yes
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 19005 /a
+- Primary insurance: Medicare
+- Employment status - current: Unemployed
+- Highest level of education: More than high school
+- Address: 150 Terry Bypass Suite 24
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Asian
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 0.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2018-03-12T02:58:04Z to 2018-03-12T07:49:12Z
+
+            Conditions: 
+- Primary dental caries (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Restoration of tooth with coverage of all cusps using dental filling material (procedure): code 1256042007
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2018-03-13T02:58:04Z to 2018-03-13T03:13:04Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 72.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 7.4 mg/dL
+- Creatinine [Mass/volume] in Blood: 2.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.8 mg/dL
+- Sodium [Moles/volume] in Blood: 138.0 mmol/L
+- Potassium [Moles/volume] in Blood: 5.1 mmol/L
+- Chloride [Moles/volume] in Blood: 108.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 26.2 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 68.6 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.6 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.2 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.7 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.4 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 21.6 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 57.2 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 23.1 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 151.4 mg/dL
+- Triglycerides: 105.4 mg/dL
+- Low Density Lipoprotein Cholesterol: 144.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 72.7 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: wellness, from 2019-03-04T02:58:04Z to 2019-03-04T03:53:54Z
+
+            Conditions: 
+- Full-time employment (finding)
+- Gingivitis (disorder)
+            Medications: 
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+            Observations: 
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 97.0 kg
+- Body mass index (BMI) [Ratio]: 27.9 kg/m2
+- Diastolic Blood Pressure: 73.0 mm[Hg]
+- Systolic Blood Pressure: 107.0 mm[Hg]
+- Heart rate: 72.0 /min
+- Respiratory rate: 14.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 4.5 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.0 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.1 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 36.9 %
+- MCV [Entitic volume] by Automated count: 90.2 fL
+- MCH [Entitic mass] by Automated count: 30.3 pg
+- MCHC [Mass/volume] by Automated count: 35.3 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 39.2 fL
+- Platelets [#/volume] in Blood by Automated count: 159.4 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 372.9 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 12.2 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: Yes
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 19005 /a
+- Primary insurance: I choose not to answer this question
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 150 Terry Bypass Suite 24
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Asian
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Total score [AUDIT-C]: 0.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2019-03-18T02:58:04Z to 2019-03-18T06:22:28Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2019-03-25T02:58:04Z to 2019-03-25T03:13:04Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 69.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 10.3 mg/dL
+- Creatinine [Mass/volume] in Blood: 2.9 mg/dL
+- Calcium [Mass/volume] in Blood: 9.8 mg/dL
+- Sodium [Moles/volume] in Blood: 138.6 mmol/L
+- Potassium [Moles/volume] in Blood: 4.2 mmol/L
+- Chloride [Moles/volume] in Blood: 102.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 20.5 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 68.8 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.8 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 5.4 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.2 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.0 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 78.0 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 56.8 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 27.2 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 155.0 mg/dL
+- Triglycerides: 176.1 mg/dL
+- Low Density Lipoprotein Cholesterol: 137.4 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 34.6 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: wellness, from 2020-03-09T02:58:04Z to 2020-03-09T03:54:21Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+            Observations: 
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 97.0 kg
+- Body mass index (BMI) [Ratio]: 27.9 kg/m2
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 112.0 mm[Hg]
+- Heart rate: 67.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: Yes
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Phone
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 19005 /a
+- Primary insurance: I choose not to answer this question
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 150 Terry Bypass Suite 24
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Asian
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Fall risk total [Morse Fall Scale]: 81.0 {#}
+- Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+)
+- Total score [HARK]: 0.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Screening for domestic abuse (procedure): code 866148006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2020-03-23T02:58:04Z to 2020-03-23T08:45:11Z
+
+            Conditions: 
+- Gingival disease (disorder)
+- Primary dental caries (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Restoration of tooth with coverage of all cusps using dental filling material (procedure): code 1256042007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2020-03-24T02:58:04Z to 2020-03-24T03:13:04Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 93.1 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 13.8 mg/dL
+- Creatinine [Mass/volume] in Blood: 2.7 mg/dL
+- Calcium [Mass/volume] in Blood: 9.8 mg/dL
+- Sodium [Moles/volume] in Blood: 137.3 mmol/L
+- Potassium [Moles/volume] in Blood: 4.6 mmol/L
+- Chloride [Moles/volume] in Blood: 102.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.2 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 83.7 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.5 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 3.7 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.6 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 35.2 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 26.1 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 20.6 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 176.1 mg/dL
+- Triglycerides: 128.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 121.2 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 40.3 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: wellness, from 2021-03-15T02:58:04Z to 2021-03-15T03:54:41Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: 
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+            Observations: 
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 97.0 kg
+- Body mass index (BMI) [Ratio]: 27.9 kg/m2
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 105.0 mm[Hg]
+- Heart rate: 93.0 /min
+- Respiratory rate: 14.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 302.0 mg/dL
+- Triglycerides: 111.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 225.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.3 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: Yes
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 19005 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 150 Terry Bypass Suite 24
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Asian
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [AUDIT-C]: 3.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2021-03-29T02:58:04Z to 2021-03-29T05:43:16Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2021-04-05T02:58:04Z to 2021-04-05T03:13:04Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 73.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 9.3 mg/dL
+- Creatinine [Mass/volume] in Blood: 3.0 mg/dL
+- Calcium [Mass/volume] in Blood: 9.5 mg/dL
+- Sodium [Moles/volume] in Blood: 138.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.3 mmol/L
+- Chloride [Moles/volume] in Blood: 104.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.4 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 78.3 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.0 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 3.5 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.4 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.2 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 95.0 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 36.4 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 27.3 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 209.9 mg/dL
+- Triglycerides: 170.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 133.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 33.4 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: outpatient, from 2021-04-19T02:58:04Z to 2021-04-19T03:13:04Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: outpatient, from 2021-05-17T02:58:04Z to 2021-05-17T03:13:04Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: wellness, from 2022-03-21T02:58:04Z to 2022-03-21T03:41:48Z
+
+            Conditions: 
+- Medication review due (situation)
+- Stress (finding)
+            Medications: 
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+            Observations: 
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 97.0 kg
+- Body mass index (BMI) [Ratio]: 27.9 kg/m2
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 107.0 mm[Hg]
+- Heart rate: 90.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: Yes
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 19005 /a
+- Primary insurance: I choose not to answer this question
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 150 Terry Bypass Suite 24
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Asian
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2022-04-05T02:58:04Z to 2022-04-05T03:13:04Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 96.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 19.5 mg/dL
+- Creatinine [Mass/volume] in Blood: 3.2 mg/dL
+- Calcium [Mass/volume] in Blood: 10.2 mg/dL
+- Sodium [Moles/volume] in Blood: 137.1 mmol/L
+- Potassium [Moles/volume] in Blood: 3.7 mmol/L
+- Chloride [Moles/volume] in Blood: 106.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 23.0 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 89.0 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.9 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 5.4 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 3.4 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.2 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 111.2 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 57.2 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 19.4 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 201.0 mg/dL
+- Triglycerides: 127.4 mg/dL
+- Low Density Lipoprotein Cholesterol: 108.9 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 35.8 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: hospice, from 2022-11-07T02:58:04Z to 2022-11-15T03:13:04Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Certification procedure (procedure): code 310417005
+- Notifications (procedure): code 185087000
+- Initial patient assessment (procedure): code 315639002
+- Development of individualized plan of care (procedure): code 370789001
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Patient discharge (procedure): code 58000006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: wellness, from 2023-03-27T02:58:04Z to 2023-03-27T03:36:30Z
+
+            Conditions: 
+- Medication review due (situation)
+- Social isolation (finding)
+            Medications: 
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+            Observations: 
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 97.0 kg
+- Body mass index (BMI) [Ratio]: 27.9 kg/m2
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 108.0 mm[Hg]
+- Heart rate: 97.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: Yes
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Other
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 19005 /a
+- Primary insurance: I choose not to answer this question
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 150 Terry Bypass Suite 24
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Asian
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- Fall risk total [Morse Fall Scale]: 75.0 {#}
+- Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+)
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 0.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2023-04-04T21:58:04Z to 2023-04-04T22:13:04Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Measurement of respiratory function (procedure): code 23426006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2023-04-05T02:58:04Z to 2023-04-05T03:13:04Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 78.1 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 8.8 mg/dL
+- Creatinine [Mass/volume] in Blood: 3.2 mg/dL
+- Calcium [Mass/volume] in Blood: 9.3 mg/dL
+- Sodium [Moles/volume] in Blood: 142.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.7 mmol/L
+- Chloride [Moles/volume] in Blood: 103.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.1 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 76.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.8 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.9 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.8 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.7 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 139.1 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 21.9 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 13.0 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 195.9 mg/dL
+- Triglycerides: 165.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 145.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.2 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: emergency, from 2023-05-22T20:58:25Z to 2023-05-22T21:58:25Z
+
+            Conditions: 
+- Laceration - injury (disorder)
+- Facial laceration (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Suture open wound (procedure): code 288086009
+- Injection of tetanus antitoxin (procedure): code 384700001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: wellness, from 2024-04-01T02:58:04Z to 2024-04-01T03:33:53Z
+
+            Conditions: 
+- Medication review due (situation)
+- Ischemic heart disease (disorder)
+- Victim of intimate partner abuse (finding)
+            Medications: 
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+            Observations: 
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 97.0 kg
+- Body mass index (BMI) [Ratio]: 27.9 kg/m2
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 109.0 mm[Hg]
+- Heart rate: 86.0 /min
+- Respiratory rate: 15.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 270.0 mg/dL
+- Triglycerides: 139.1 mg/dL
+- Low Density Lipoprotein Cholesterol: 193.0 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 49.2 mg/dL
+- Leukocytes [#/volume] in Blood by Automated count: 9.9 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.4 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.4 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 41.9 %
+- MCV [Entitic volume] by Automated count: 93.5 fL
+- MCH [Entitic mass] by Automated count: 28.9 pg
+- MCHC [Mass/volume] by Automated count: 33.3 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 45.6 fL
+- Platelets [#/volume] in Blood by Automated count: 300.0 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 346.3 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.8 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: Yes
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: Yes
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 19005 /a
+- Primary insurance: I choose not to answer this question
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 150 Terry Bypass Suite 24
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Asian
+- Do you consider yourself Hispanic/Latino?: No
+- Fall risk total [Morse Fall Scale]: 60.0 {#}
+- Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+)
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2024-04-08T02:58:04Z to 2024-04-08T03:34:15Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Priority Level: 1 {score}
+- Operative Status Value: emergent_salvage {score}
+            Procedures: 
+- Referral to cardiology service (procedure): code 183519002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2024-04-08T21:12:15Z to 2024-04-09T02:35:09Z
+
+            Conditions: 
+- Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Consultation for treatment (procedure): code 698314001
+- Angiography of coronary artery (procedure): code 33367005
+- Post anesthesia care management (procedure): code 736169004
+- Referral to cardiology service (procedure): code 183519002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2024-04-14T08:35:09Z to 2024-04-14T09:36:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Percutaneous coronary intervention (procedure): code 415070008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2024-04-15T02:58:04Z to 2024-04-15T03:13:04Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 67.6 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 19.9 mg/dL
+- Creatinine [Mass/volume] in Blood: 2.8 mg/dL
+- Calcium [Mass/volume] in Blood: 8.6 mg/dL
+- Sodium [Moles/volume] in Blood: 143.0 mmol/L
+- Potassium [Moles/volume] in Blood: 4.0 mmol/L
+- Chloride [Moles/volume] in Blood: 107.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 28.9 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 80.0 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.4 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 5.0 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.5 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.4 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 47.6 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 29.7 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 33.3 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 184.4 mg/dL
+- Triglycerides: 159.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 108.9 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 77.7 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: wellness, from 2025-04-07T02:58:04Z to 2025-04-07T03:29:16Z
+
+            Conditions: 
+- Medication review due (situation)
+- Stress (finding)
+            Medications: 
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+            Observations: 
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 97.0 kg
+- Body mass index (BMI) [Ratio]: 27.9 kg/m2
+- Diastolic Blood Pressure: 62.0 mm[Hg]
+- Systolic Blood Pressure: 93.0 mm[Hg]
+- Heart rate: 74.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: Yes
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 19005 /a
+- Primary insurance: I choose not to answer this question
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 150 Terry Bypass Suite 24
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Asian
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Fall risk total [Morse Fall Scale]: 9.0 {#}
+- Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24)
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 3.0 {score}
+- Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 15.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2025-04-15T02:58:04Z to 2025-04-15T03:13:04Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 80.1 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 19.6 mg/dL
+- Creatinine [Mass/volume] in Blood: 3.1 mg/dL
+- Calcium [Mass/volume] in Blood: 10.1 mg/dL
+- Sodium [Moles/volume] in Blood: 138.7 mmol/L
+- Potassium [Moles/volume] in Blood: 5.1 mmol/L
+- Chloride [Moles/volume] in Blood: 104.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.3 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 70.3 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.0 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.4 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.5 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 102.8 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 31.8 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 9.2 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 161.1 mg/dL
+- Triglycerides: 137.4 mg/dL
+- Low Density Lipoprotein Cholesterol: 86.4 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 39.6 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: ambulatory, from 2025-06-26T05:58:04Z to 2025-06-26T06:13:04Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Sputum examination (procedure): code 269911007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: emergency, from 2025-07-07T02:58:04Z to 2025-07-07T03:58:04Z
+
+            Conditions: 
+- Part-time employment (finding)
+            Medications: 
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+            Observations: 
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 97.0 kg
+- Body mass index (BMI) [Ratio]: 27.9 kg/m2
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 95.0 mm[Hg]
+- Heart rate: 75.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: Yes
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 19005 /a
+- Primary insurance: I choose not to answer this question
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 150 Terry Bypass Suite 24
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Asian
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Fall risk total [Morse Fall Scale]: 10.0 {#}
+- Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24)
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Lino542 Thiel172, Gender: M, DOB: 1947-11-03, SSN: 999-28-9884
+
+            Encounter: urgentcare, from 2025-07-14T02:58:04Z to 2025-07-14T03:13:04Z
+
+            Conditions: None
+            Medications: 
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+            

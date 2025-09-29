@@ -1,0 +1,484 @@
+Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21
+            ------------------------------------------------------------
+                        Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: wellness, from 2021-08-21T09:53:40Z to 2021-08-21T10:08:40Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 48.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 2.5 kg
+- Weight-for-length Per age and sex: 1.2 %
+- Head Occipital-frontal circumference Percentile: 12.4 %
+- Head Occipital-frontal circumference: 32.9 cm
+- Diastolic Blood Pressure: 72.0 mm[Hg]
+- Systolic Blood Pressure: 122.0 mm[Hg]
+- Heart rate: 100.0 /min
+- Respiratory rate: 13.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 8.2 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.0 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.0 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 47.8 %
+- MCV [Entitic volume] by Automated count: 84.8 fL
+- MCH [Entitic mass] by Automated count: 30.6 pg
+- MCHC [Mass/volume] by Automated count: 35.3 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 43.5 fL
+- Platelets [#/volume] in Blood by Automated count: 338.5 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 334.3 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.2 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: wellness, from 2021-09-25T09:53:40Z to 2021-09-25T10:08:40Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 52.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 3.1 kg
+- Weight-for-length Per age and sex: 0.5 %
+- Head Occipital-frontal circumference Percentile: 12.4 %
+- Head Occipital-frontal circumference: 36.4 cm
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 121.0 mm[Hg]
+- Heart rate: 79.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: outpatient, from 2021-10-20T09:53:40Z to 2021-10-20T10:08:40Z
+
+            Conditions: 
+- Otitis media (disorder)
+            Medications: 
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: wellness, from 2021-11-27T09:53:40Z to 2021-11-27T10:08:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 57.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 4.2 kg
+- Weight-for-length Per age and sex: 0.4 %
+- Head Occipital-frontal circumference Percentile: 12.4 %
+- Head Occipital-frontal circumference: 39.0 cm
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 121.0 mm[Hg]
+- Heart rate: 78.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- rotavirus  monovalent
+- IPV
+- DTaP
+- Pneumococcal conjugate PCV 13
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: wellness, from 2022-01-29T09:53:40Z to 2022-01-29T10:08:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 61.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 5.2 kg
+- Weight-for-length Per age and sex: 1.3 %
+- Head Occipital-frontal circumference Percentile: 12.4 %
+- Head Occipital-frontal circumference: 40.6 cm
+- Diastolic Blood Pressure: 70.0 mm[Hg]
+- Systolic Blood Pressure: 118.0 mm[Hg]
+- Heart rate: 87.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- rotavirus  monovalent
+- IPV
+- DTaP
+- Pneumococcal conjugate PCV 13
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: wellness, from 2022-04-30T09:53:40Z to 2022-04-30T10:08:40Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 65.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 6.4 kg
+- Weight-for-length Per age and sex: 2.8 %
+- Head Occipital-frontal circumference Percentile: 12.4 %
+- Head Occipital-frontal circumference: 42.3 cm
+- Diastolic Blood Pressure: 72.0 mm[Hg]
+- Systolic Blood Pressure: 117.0 mm[Hg]
+- Heart rate: 95.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- IPV
+- Influenza  seasonal  injectable  preservative free
+- DTaP
+- Pneumococcal conjugate PCV 13
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: wellness, from 2022-07-30T09:53:40Z to 2022-07-30T10:08:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 69.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 7.3 kg
+- Weight-for-length Per age and sex: 8.2 %
+- Head Occipital-frontal circumference Percentile: 12.4 %
+- Head Occipital-frontal circumference: 43.4 cm
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 123.0 mm[Hg]
+- Heart rate: 88.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: wellness, from 2022-10-29T09:53:40Z to 2022-10-29T10:08:40Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 72.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 8.0 kg
+- Weight-for-length Per age and sex: 4.9 %
+- Head Occipital-frontal circumference Percentile: 12.4 %
+- Head Occipital-frontal circumference: 44.3 cm
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 128.0 mm[Hg]
+- Heart rate: 62.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- varicella
+- MMR
+- Pneumococcal conjugate PCV 13
+- Hep A  ped/adol  2 dose
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: ambulatory, from 2022-12-23T03:53:40Z to 2022-12-23T04:08:40Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: wellness, from 2023-01-28T09:53:40Z to 2023-01-28T10:08:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 75.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 8.6 kg
+- Weight-for-length Per age and sex: 4.6 %
+- Head Occipital-frontal circumference Percentile: 12.4 %
+- Head Occipital-frontal circumference: 44.9 cm
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 130.0 mm[Hg]
+- Heart rate: 96.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- DTaP
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: wellness, from 2023-07-29T09:53:40Z to 2023-07-29T10:08:40Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 80.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 9.5 kg
+- Weight-for-length Per age and sex: 3.3 %
+- Head Occipital-frontal circumference Percentile: 12.4 %
+- Head Occipital-frontal circumference: 45.8 cm
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 119.0 mm[Hg]
+- Heart rate: 79.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: wellness, from 2024-01-27T09:53:40Z to 2024-01-27T10:08:40Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 84.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 10.2 kg
+- Weight-for-length Per age and sex: 2.4 %
+- Head Occipital-frontal circumference Percentile: 12.4 %
+- Head Occipital-frontal circumference: 46.4 cm
+- Body mass index (BMI) [Ratio]: 14.2 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 4.7 %
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 120.0 mm[Hg]
+- Heart rate: 85.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Hep A  ped/adol  2 dose
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: outpatient, from 2024-04-15T09:53:40Z to 2024-04-15T10:08:40Z
+
+            Conditions: 
+- Otitis media (disorder)
+            Medications: 
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: wellness, from 2024-07-27T09:53:40Z to 2024-07-27T10:15:23Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 88.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 11.0 kg
+- Weight-for-length Per age and sex: 2.4 %
+- Head Occipital-frontal circumference Percentile: 12.4 %
+- Head Occipital-frontal circumference: 46.8 cm
+- Body mass index (BMI) [Ratio]: 14.0 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 5.1 %
+- Diastolic Blood Pressure: 72.0 mm[Hg]
+- Systolic Blood Pressure: 120.0 mm[Hg]
+- Heart rate: 62.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: ambulatory, from 2024-08-03T09:53:40Z to 2024-08-03T13:05:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: wellness, from 2025-01-25T09:53:40Z to 2025-01-25T10:08:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 91.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 11.9 kg
+- Weight-for-length Per age and sex: 4.3 %
+- Head Occipital-frontal circumference Percentile: 12.4 %
+- Head Occipital-frontal circumference: 46.8 cm
+- Body mass index (BMI) [Ratio]: 14.1 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 8.1 %
+- Diastolic Blood Pressure: 73.0 mm[Hg]
+- Systolic Blood Pressure: 117.0 mm[Hg]
+- Heart rate: 67.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: ambulatory, from 2025-06-12T00:53:40Z to 2025-06-12T01:08:40Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: emergency, from 2025-07-02T09:53:40Z to 2025-07-02T10:53:40Z
+
+            Conditions: 
+- Concussion injury of brain (disorder)
+- Concussion with no loss of consciousness (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: wellness, from 2025-07-26T09:53:40Z to 2025-07-26T10:08:40Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 95.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 13.0 kg
+- Weight-for-length Per age and sex: 4.3 %
+- Head Occipital-frontal circumference Percentile: 12.4 %
+- Head Occipital-frontal circumference: 46.8 cm
+- Body mass index (BMI) [Ratio]: 14.4 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 19.6 %
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 119.0 mm[Hg]
+- Heart rate: 89.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: ambulatory, from 2025-08-02T09:53:40Z to 2025-08-02T12:51:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sharika71 Gottlieb798, Gender: F, DOB: 2021-08-21, SSN: 999-44-4748
+
+            Encounter: virtual, from 2025-08-14T09:53:40Z to 2025-08-14T10:08:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+            

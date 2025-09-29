@@ -1,0 +1,647 @@
+Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21
+            ------------------------------------------------------------
+                        Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: ambulatory, from 2011-12-19T07:40:58Z to 2011-12-19T08:46:54Z
+
+            Conditions: None
+            Medications: 
+- ferrous sulfate 325 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: wellness, from 2014-05-18T07:40:58Z to 2014-05-18T07:55:58Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: wellness, from 2016-05-29T07:40:58Z to 2016-05-29T07:55:58Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 133.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 40.6 kg
+- Body mass index (BMI) [Ratio]: 22.8 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 96.0 %
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 124.0 mm[Hg]
+- Heart rate: 81.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: emergency, from 2016-09-28T11:27:42Z to 2016-09-28T12:27:42Z
+
+            Conditions: 
+- Fracture of bone (disorder)
+- Fracture subluxation of wrist (disorder)
+            Medications: 
+- Acetaminophen 160 MG Chewable Tablet
+            Observations: None
+            Procedures: 
+- Plain X-ray of wrist region (procedure): code 713024005
+- Bone immobilization (procedure): code 274474001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: ambulatory, from 2017-01-25T11:59:05Z to 2017-01-25T12:14:05Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: wellness, from 2017-06-04T07:40:58Z to 2017-06-04T07:57:23Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 138.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 46.4 kg
+- Body mass index (BMI) [Ratio]: 24.3 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 96.5 %
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 118.0 mm[Hg]
+- Heart rate: 63.0 /min
+- Respiratory rate: 14.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 4.1 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.1 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.2 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 47.5 %
+- MCV [Entitic volume] by Automated count: 83.9 fL
+- MCH [Entitic mass] by Automated count: 30.0 pg
+- MCHC [Mass/volume] by Automated count: 34.0 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 39.6 fL
+- Platelets [#/volume] in Blood by Automated count: 352.2 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 477.9 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.4 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Tdap
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+- meningococcal MCV4P
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: ambulatory, from 2017-06-11T07:40:58Z to 2017-06-11T14:34:07Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: wellness, from 2018-06-10T07:40:58Z to 2018-06-10T07:55:58Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 143.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 53.4 kg
+- Body mass index (BMI) [Ratio]: 26.0 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 96.9 %
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 120.0 mm[Hg]
+- Heart rate: 82.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: ambulatory, from 2019-01-19T12:40:58Z to 2019-01-19T12:55:58Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: wellness, from 2019-06-16T07:40:58Z to 2019-06-16T07:55:58Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 150.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 60.3 kg
+- Body mass index (BMI) [Ratio]: 26.8 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 96.8 %
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 129.0 mm[Hg]
+- Heart rate: 70.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: ambulatory, from 2019-06-30T07:40:58Z to 2019-06-30T11:25:34Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: wellness, from 2020-06-21T07:40:58Z to 2020-06-21T07:55:58Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 158.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 67.7 kg
+- Body mass index (BMI) [Ratio]: 27.1 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 96.2 %
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 121.0 mm[Hg]
+- Heart rate: 90.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: ambulatory, from 2020-07-05T07:40:58Z to 2020-07-05T15:05:34Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: wellness, from 2021-06-27T07:40:58Z to 2021-06-27T07:58:16Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 164.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 76.6 kg
+- Body mass index (BMI) [Ratio]: 28.5 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 96.8 %
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 125.0 mm[Hg]
+- Heart rate: 95.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+            Procedures: 
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: outpatient, from 2021-07-25T07:40:58Z to 2021-07-25T07:55:58Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: outpatient, from 2021-08-15T07:40:58Z to 2021-08-15T07:55:58Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: wellness, from 2022-07-03T07:40:58Z to 2022-07-03T08:06:20Z
+
+            Conditions: 
+- Risk activity involvement (finding)
+            Medications: None
+            Observations: 
+- Body Height: 167.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 83.4 kg
+- Body mass index (BMI) [Ratio]: 29.7 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 97.3 %
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 119.0 mm[Hg]
+- Heart rate: 64.0 /min
+- Respiratory rate: 12.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 4.9 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.0 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 17.4 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 49.2 %
+- MCV [Entitic volume] by Automated count: 83.3 fL
+- MCH [Entitic mass] by Automated count: 30.2 pg
+- MCHC [Mass/volume] by Automated count: 35.7 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 45.1 fL
+- Platelets [#/volume] in Blood by Automated count: 309.2 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 188.7 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.4 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 6.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 4.0 {score}
+            Procedures: 
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Health risks education (procedure): code 370995009
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- meningococcal MCV4P
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: ambulatory, from 2022-07-17T07:40:58Z to 2022-07-17T10:49:17Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: wellness, from 2023-07-09T07:40:58Z to 2023-07-09T08:10:57Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 169.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 88.0 kg
+- Body mass index (BMI) [Ratio]: 30.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 97.5 %
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 116.0 mm[Hg]
+- Heart rate: 73.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 4.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: ambulatory, from 2024-05-09T22:40:58Z to 2024-05-09T22:55:58Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: outpatient, from 2024-06-25T07:40:58Z to 2024-06-25T07:55:58Z
+
+            Conditions: 
+- Chronic pain (finding)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+            Medications: 
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+            Observations: 
+- What number best describes how pain has interfered with your general activity during the past week: 3.1 {score}
+- What number best describes how pain has interfered with your enjoyment of life during the past week: 3.1 {score}
+- Pain severity in the past week - 0-10 numeric rating [Reported]: 7.0 {score}
+- Drugs of abuse 5 panel - Urine by Screen method: Negative (qualifier value)
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: wellness, from 2024-07-14T07:40:58Z to 2024-07-14T08:11:06Z
+
+            Conditions: 
+- Medication review due (situation)
+- Educated to high school level (finding)
+- Part-time employment (finding)
+- Stress (finding)
+            Medications: 
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+            Observations: 
+- Body Height: 170.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 93.4 kg
+- Body mass index (BMI) [Ratio]: 32.1 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 98.0 %
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 124.0 mm[Hg]
+- Heart rate: 93.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 15724 /a
+- Primary insurance: Medicaid
+- Employment status - current: Part-time or temporary work
+- Highest level of education: High school diploma or GED
+- Address: 408 Bruen Forge Unit 68
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 3.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [DAST-10]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: ambulatory, from 2024-08-24T01:40:58Z to 2024-08-24T01:55:58Z
+
+            Conditions: None
+            Medications: 
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System
+            Observations: 
+- Drugs of abuse 5 panel - Urine by Screen method: Negative (qualifier value)
+- What number best describes how pain has interfered with your general activity during the past week: 9.2 {score}
+- What number best describes how pain has interfered with your enjoyment of life during the past week: 2.8 {score}
+- Pain severity in the past week - 0-10 numeric rating [Reported]: 9.2 {score}
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: ambulatory, from 2024-10-23T01:40:58Z to 2024-10-23T01:55:58Z
+
+            Conditions: None
+            Medications: 
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+            Observations: 
+- What number best describes how pain has interfered with your general activity during the past week: 8.8 {score}
+- What number best describes how pain has interfered with your enjoyment of life during the past week: 9.4 {score}
+- Pain severity in the past week - 0-10 numeric rating [Reported]: 5.9 {score}
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: wellness, from 2025-07-20T07:40:58Z to 2025-07-20T08:28:06Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+- Gingivitis (disorder)
+            Medications: 
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System
+            Observations: 
+- Body Height: 170.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 90.6 kg
+- Body mass index (BMI) [Ratio]: 31.0 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 96.6 %
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 116.0 mm[Hg]
+- Heart rate: 88.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 15724 /a
+- Primary insurance: Medicaid
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 408 Bruen Forge Unit 68
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 3.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Dominique369 Stehr398, Gender: M, DOB: 2006-05-21, SSN: 999-41-9559
+
+            Encounter: ambulatory, from 2025-08-03T07:40:58Z to 2025-08-03T10:20:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+            

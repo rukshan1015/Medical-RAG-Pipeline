@@ -1,0 +1,215 @@
+Patient: Danyelle408 Dare640, Gender: F, DOB: 2024-06-03
+            ------------------------------------------------------------
+                        Patient: Danyelle408 Dare640, Gender: F, DOB: 2024-06-03, SSN: 999-70-2675
+
+            Encounter: wellness, from 2024-06-03T01:41:58Z to 2024-06-03T01:56:58Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 51.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 3.3 kg
+- Weight-for-length Per age and sex: 11.4 %
+- Head Occipital-frontal circumference Percentile: 45.4 %
+- Head Occipital-frontal circumference: 34.5 cm
+- Diastolic Blood Pressure: 89.0 mm[Hg]
+- Systolic Blood Pressure: 101.0 mm[Hg]
+- Heart rate: 94.0 /min
+- Respiratory rate: 14.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 6.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.0 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 41.5 %
+- MCV [Entitic volume] by Automated count: 94.5 fL
+- MCH [Entitic mass] by Automated count: 27.1 pg
+- MCHC [Mass/volume] by Automated count: 34.8 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 43.0 fL
+- Platelets [#/volume] in Blood by Automated count: 164.7 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 276.8 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.7 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Danyelle408 Dare640, Gender: F, DOB: 2024-06-03, SSN: 999-70-2675
+
+            Encounter: wellness, from 2024-07-08T01:41:58Z to 2024-07-08T01:56:58Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 54.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 4.0 kg
+- Weight-for-length Per age and sex: 3.1 %
+- Head Occipital-frontal circumference Percentile: 45.4 %
+- Head Occipital-frontal circumference: 37.8 cm
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 109.0 mm[Hg]
+- Heart rate: 85.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Danyelle408 Dare640, Gender: F, DOB: 2024-06-03, SSN: 999-70-2675
+
+            Encounter: ambulatory, from 2024-08-10T13:41:58Z to 2024-08-10T13:56:58Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Danyelle408 Dare640, Gender: F, DOB: 2024-06-03, SSN: 999-70-2675
+
+            Encounter: wellness, from 2024-09-09T01:41:58Z to 2024-09-09T01:56:58Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 60.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 5.3 kg
+- Weight-for-length Per age and sex: 8.1 %
+- Head Occipital-frontal circumference Percentile: 45.4 %
+- Head Occipital-frontal circumference: 40.3 cm
+- Diastolic Blood Pressure: 87.0 mm[Hg]
+- Systolic Blood Pressure: 111.0 mm[Hg]
+- Heart rate: 86.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- rotavirus  monovalent
+- IPV
+- DTaP
+- Pneumococcal conjugate PCV 13
+            
+
+            Patient: Danyelle408 Dare640, Gender: F, DOB: 2024-06-03, SSN: 999-70-2675
+
+            Encounter: wellness, from 2024-11-11T01:41:58Z to 2024-11-11T01:56:58Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 64.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 6.3 kg
+- Weight-for-length Per age and sex: 11.8 %
+- Head Occipital-frontal circumference Percentile: 45.4 %
+- Head Occipital-frontal circumference: 41.9 cm
+- Diastolic Blood Pressure: 89.0 mm[Hg]
+- Systolic Blood Pressure: 106.0 mm[Hg]
+- Heart rate: 80.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- rotavirus  monovalent
+- IPV
+- DTaP
+- Pneumococcal conjugate PCV 13
+            
+
+            Patient: Danyelle408 Dare640, Gender: F, DOB: 2024-06-03, SSN: 999-70-2675
+
+            Encounter: wellness, from 2025-02-10T01:41:58Z to 2025-02-10T01:56:58Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 68.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 7.6 kg
+- Weight-for-length Per age and sex: 19.2 %
+- Head Occipital-frontal circumference Percentile: 45.4 %
+- Head Occipital-frontal circumference: 43.6 cm
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 109.0 mm[Hg]
+- Heart rate: 63.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- IPV
+- Influenza  seasonal  injectable  preservative free
+- DTaP
+- Pneumococcal conjugate PCV 13
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Danyelle408 Dare640, Gender: F, DOB: 2024-06-03, SSN: 999-70-2675
+
+            Encounter: wellness, from 2025-05-12T01:41:58Z to 2025-05-12T01:56:58Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 72.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 8.6 kg
+- Weight-for-length Per age and sex: 24.2 %
+- Head Occipital-frontal circumference Percentile: 45.4 %
+- Head Occipital-frontal circumference: 44.7 cm
+- Diastolic Blood Pressure: 86.0 mm[Hg]
+- Systolic Blood Pressure: 104.0 mm[Hg]
+- Heart rate: 88.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Danyelle408 Dare640, Gender: F, DOB: 2024-06-03, SSN: 999-70-2675
+
+            Encounter: wellness, from 2025-08-11T01:41:58Z to 2025-08-11T01:56:58Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 76.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 9.3 kg
+- Weight-for-length Per age and sex: 26.0 %
+- Head Occipital-frontal circumference Percentile: 45.4 %
+- Head Occipital-frontal circumference: 45.6 cm
+- Diastolic Blood Pressure: 87.0 mm[Hg]
+- Systolic Blood Pressure: 104.0 mm[Hg]
+- Heart rate: 94.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- varicella
+- MMR
+- Pneumococcal conjugate PCV 13
+- Hep A  ped/adol  2 dose
+            
+            

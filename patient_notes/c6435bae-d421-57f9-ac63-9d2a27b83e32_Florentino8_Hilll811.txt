@@ -1,0 +1,1632 @@
+Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11
+            ------------------------------------------------------------
+                        Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: wellness, from 1983-09-04T17:45:12Z to 1983-09-04T18:24:22Z
+
+            Conditions: 
+- Received higher education (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: wellness, from 1987-09-13T17:45:12Z to 1987-09-13T18:31:22Z
+
+            Conditions: 
+- Prediabetes (finding)
+- Anemia (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: wellness, from 2013-08-04T17:45:12Z to 2013-08-04T18:39:42Z
+
+            Conditions: 
+- Body mass index 30+ - obesity (finding)
+- Stress (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: wellness, from 2015-07-12T17:45:12Z to 2015-07-12T18:44:03Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: wellness, from 2016-07-17T17:45:12Z to 2016-07-17T18:27:31Z
+
+            Conditions: 
+- Essential hypertension (disorder)
+- Diabetes mellitus type 2 (disorder)
+- Gingivitis (disorder)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 7.5 %
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 104.6 kg
+- Body mass index (BMI) [Ratio]: 30.1 kg/m2
+- Diastolic Blood Pressure: 107.0 mm[Hg]
+- Systolic Blood Pressure: 154.0 mm[Hg]
+- Heart rate: 65.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 75.2 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 19.0 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.3 mg/dL
+- Calcium [Mass/volume] in Blood: 8.8 mg/dL
+- Sodium [Moles/volume] in Blood: 142.0 mmol/L
+- Potassium [Moles/volume] in Blood: 4.8 mmol/L
+- Chloride [Moles/volume] in Blood: 107.9 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.4 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 172.9 mg/dL
+- Triglycerides: 138.0 mg/dL
+- Low Density Lipoprotein Cholesterol: 89.8 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 55.5 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 3.9 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 123.3 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 34880 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 193 Johns Fort Suite 48
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- Total score [DAST-10]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- zoster vaccine  live
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2016-07-31T17:45:12Z to 2016-07-31T20:58:09Z
+
+            Conditions: 
+- Loose dental filling (finding)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure): code 1259293006
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2016-08-14T17:45:12Z to 2016-08-14T18:34:12Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 16.0 mm[Hg]
+- Right eye Intraocular pressure: 16.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- History taking (procedure): code 84100007
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2016-08-16T17:45:12Z to 2016-08-16T18:00:12Z
+
+            Conditions: None
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+            Observations: 
+- Diastolic Blood Pressure: 87.0 mm[Hg]
+- Systolic Blood Pressure: 144.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2017-06-28T17:45:12Z to 2017-06-28T18:37:32Z
+
+            Conditions: 
+- Sleep disorder (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Sleep apnea assessment (procedure): code 103750000
+- Referral to sleep apnea clinic (procedure): code 698560000
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2017-07-10T18:07:25Z to 2017-07-10T18:51:25Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 15.0 mm[Hg]
+- Right eye Intraocular pressure: 15.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2017-07-10T18:37:32Z to 2017-07-10T19:26:28Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Sleep apnea assessment (procedure): code 103750000
+- Referral to sleep apnea clinic (procedure): code 698560000
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: wellness, from 2017-07-23T17:45:12Z to 2017-07-23T18:22:01Z
+
+            Conditions: 
+- Medication review due (situation)
+- Hyperglycemia (disorder)
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Part-time employment (finding)
+- Unhealthy alcohol drinking behavior (finding)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 104.6 kg
+- Body mass index (BMI) [Ratio]: 30.1 kg/m2
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 123.0 mm[Hg]
+- Heart rate: 98.0 /min
+- Respiratory rate: 16.0 /min
+- Glucose [Mass/volume] in Blood: 186.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 16.5 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.3 mg/dL
+- Calcium [Mass/volume] in Blood: 9.5 mg/dL
+- Sodium [Moles/volume] in Blood: 136.0 mmol/L
+- Potassium [Moles/volume] in Blood: 4.9 mmol/L
+- Chloride [Moles/volume] in Blood: 103.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 26.1 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 258.7 mg/dL
+- Triglycerides: 417.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 152.4 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 22.8 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 8.5 mg/g
+- Leukocytes [#/volume] in Blood by Automated count: 9.5 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.0 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 38.3 %
+- MCV [Entitic volume] by Automated count: 93.6 fL
+- MCH [Entitic mass] by Automated count: 29.9 pg
+- MCHC [Mass/volume] by Automated count: 35.7 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 45.0 fL
+- Platelets [#/volume] in Blood by Automated count: 222.1 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 289.0 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.6 fL
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 157.7 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 34880 /a
+- Primary insurance: Private insurance
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 193 Johns Fort Suite 48
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [AUDIT-C]: 5.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: inpatient, from 2017-07-29T19:26:28Z to 2017-07-30T19:26:28Z
+
+            Conditions: 
+- Obstructive sleep apnea syndrome (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Sleep apnea assessment (procedure): code 103750000
+- Sleep apnea monitoring with alarm (regime/therapy): code 82808001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2017-09-22T17:01:19Z to 2017-09-22T17:16:23Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Measurement of respiratory function (procedure): code 23426006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: urgentcare, from 2017-10-01T17:45:12Z to 2017-10-01T18:31:27Z
+
+            Conditions: 
+- Stress (finding)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 104.6 kg
+- Body mass index (BMI) [Ratio]: 30.1 kg/m2
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 109.0 mm[Hg]
+- Heart rate: 74.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 89.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 18.9 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.4 mg/dL
+- Calcium [Mass/volume] in Blood: 9.2 mg/dL
+- Sodium [Moles/volume] in Blood: 137.6 mmol/L
+- Potassium [Moles/volume] in Blood: 3.9 mmol/L
+- Chloride [Moles/volume] in Blood: 103.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.4 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 246.1 mg/dL
+- Triglycerides: 101.1 mg/dL
+- Low Density Lipoprotein Cholesterol: 168.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 57.8 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 5.0 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 90.1 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 34880 /a
+- Primary insurance: Private insurance
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 193 Johns Fort Suite 48
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Sleep apnea assessment (procedure): code 103750000
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2017-10-15T17:45:12Z to 2017-10-15T21:27:06Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2017-11-17T10:45:12Z to 2017-11-17T11:00:12Z
+
+            Conditions: 
+- Sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2018-01-22T10:45:12Z to 2018-01-22T11:00:12Z
+
+            Conditions: 
+- Chronic sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2018-02-05T10:45:12Z to 2018-02-05T11:00:12Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: outpatient, from 2018-02-18T17:45:12Z to 2018-02-18T18:34:12Z
+
+            Conditions: 
+- Full-time employment (finding)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 104.6 kg
+- Body mass index (BMI) [Ratio]: 30.1 kg/m2
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 119.0 mm[Hg]
+- Heart rate: 63.0 /min
+- Respiratory rate: 12.0 /min
+- Glucose [Mass/volume] in Blood: 69.6 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 16.5 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.3 mg/dL
+- Calcium [Mass/volume] in Blood: 9.7 mg/dL
+- Sodium [Moles/volume] in Blood: 140.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.9 mmol/L
+- Chloride [Moles/volume] in Blood: 105.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 26.5 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 206.8 mg/dL
+- Triglycerides: 119.1 mg/dL
+- Low Density Lipoprotein Cholesterol: 125.2 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 57.8 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 3.7 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 141.2 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care (Medical  Dental  Mental Health  Vision)
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 34880 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 193 Johns Fort Suite 48
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 2.0 {score}
+            Procedures: 
+- Sleep apnea assessment (procedure): code 103750000
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2018-02-19T10:45:12Z to 2018-02-19T11:00:12Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2018-05-07T10:45:12Z to 2018-05-07T11:00:12Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2018-06-05T18:23:58Z to 2018-06-05T19:07:58Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 16.0 mm[Hg]
+- Right eye Intraocular pressure: 16.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2018-06-04T10:45:12Z to 2018-06-04T11:00:12Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2018-06-11T10:45:12Z to 2018-06-11T11:00:12Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: outpatient, from 2018-06-24T17:45:12Z to 2018-06-24T18:27:30Z
+
+            Conditions: 
+- Unemployed (finding)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 104.6 kg
+- Body mass index (BMI) [Ratio]: 30.1 kg/m2
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 127.0 mm[Hg]
+- Heart rate: 80.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 83.1 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 9.5 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.3 mg/dL
+- Calcium [Mass/volume] in Blood: 9.3 mg/dL
+- Sodium [Moles/volume] in Blood: 138.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.1 mmol/L
+- Chloride [Moles/volume] in Blood: 105.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 23.3 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 163.6 mg/dL
+- Triglycerides: 146.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 76.9 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 57.4 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 16.1 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 134.7 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 34880 /a
+- Primary insurance: Private insurance
+- Employment status - current: Unemployed
+- Highest level of education: More than high school
+- Address: 193 Johns Fort Suite 48
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Sleep apnea assessment (procedure): code 103750000
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: wellness, from 2018-07-29T17:45:12Z to 2018-07-29T18:43:44Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 104.6 kg
+- Body mass index (BMI) [Ratio]: 30.1 kg/m2
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 122.0 mm[Hg]
+- Heart rate: 69.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 66.8 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 13.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.3 mg/dL
+- Calcium [Mass/volume] in Blood: 9.6 mg/dL
+- Sodium [Moles/volume] in Blood: 139.0 mmol/L
+- Potassium [Moles/volume] in Blood: 4.4 mmol/L
+- Chloride [Moles/volume] in Blood: 107.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 25.3 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 168.7 mg/dL
+- Triglycerides: 135.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 91.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 50.4 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 2.1 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 105.2 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Very much
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 34880 /a
+- Primary insurance: Private insurance
+- Employment status - current: Unemployed
+- Highest level of education: More than high school
+- Address: 193 Johns Fort Suite 48
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Sleep apnea assessment (procedure): code 103750000
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2018-08-12T17:45:12Z to 2018-08-12T21:12:36Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2018-08-29T23:45:12Z to 2018-08-30T00:00:12Z
+
+            Conditions: 
+- Acute bacterial sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2019-05-31T18:41:53Z to 2019-05-31T19:25:53Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 15.0 mm[Hg]
+- Right eye Intraocular pressure: 15.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: wellness, from 2019-08-04T17:45:12Z to 2019-08-04T18:36:01Z
+
+            Conditions: 
+- Medication review due (situation)
+- Part-time employment (finding)
+- Gingivitis (disorder)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 96.5 kg
+- Body mass index (BMI) [Ratio]: 27.8 kg/m2
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 115.0 mm[Hg]
+- Heart rate: 67.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 81.2 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 9.4 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 9.9 mg/dL
+- Sodium [Moles/volume] in Blood: 139.4 mmol/L
+- Potassium [Moles/volume] in Blood: 5.0 mmol/L
+- Chloride [Moles/volume] in Blood: 102.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 23.6 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 166.2 mg/dL
+- Triglycerides: 102.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 90.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 55.0 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 7.9 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 147.7 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 34880 /a
+- Primary insurance: Medicare
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 193 Johns Fort Suite 48
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 3.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Sleep apnea assessment (procedure): code 103750000
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2019-08-18T17:45:12Z to 2019-08-18T20:21:48Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2020-05-25T18:59:18Z to 2020-05-25T19:43:18Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 15.0 mm[Hg]
+- Right eye Intraocular pressure: 15.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: wellness, from 2020-08-09T17:45:12Z to 2020-08-09T18:38:55Z
+
+            Conditions: 
+- Medication review due (situation)
+- Reports of violence in the environment (finding)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.4 %
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 95.5 kg
+- Body mass index (BMI) [Ratio]: 27.5 kg/m2
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 116.0 mm[Hg]
+- Heart rate: 63.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 87.2 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 10.4 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.4 mg/dL
+- Calcium [Mass/volume] in Blood: 9.8 mg/dL
+- Sodium [Moles/volume] in Blood: 143.6 mmol/L
+- Potassium [Moles/volume] in Blood: 5.0 mmol/L
+- Chloride [Moles/volume] in Blood: 108.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.4 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 179.9 mg/dL
+- Triglycerides: 134.9 mg/dL
+- Low Density Lipoprotein Cholesterol: 102.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 50.4 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 8.2 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 78.4 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: No
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care (Medical  Dental  Mental Health  Vision)
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 34880 /a
+- Primary insurance: Medicare
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 193 Johns Fort Suite 48
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Sleep apnea assessment (procedure): code 103750000
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: emergency, from 2020-09-12T19:52:51Z to 2020-09-12T20:52:51Z
+
+            Conditions: 
+- Laceration - injury (disorder)
+- Laceration of hand (disorder)
+            Medications: 
+- Ibuprofen 200 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Suture open wound (procedure): code 288086009
+- Injection of tetanus antitoxin (procedure): code 384700001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2021-04-20T19:16:30Z to 2021-04-20T20:00:30Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 16.0 mm[Hg]
+- Right eye Intraocular pressure: 16.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: outpatient, from 2021-05-09T17:45:12Z to 2021-05-09T18:00:12Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: outpatient, from 2021-05-30T17:45:12Z to 2021-05-30T18:00:12Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: wellness, from 2021-08-15T17:45:12Z to 2021-08-15T18:21:24Z
+
+            Conditions: 
+- Full-time employment (finding)
+- Limited social contact (finding)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.4 %
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 95.5 kg
+- Body mass index (BMI) [Ratio]: 27.5 kg/m2
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 127.0 mm[Hg]
+- Heart rate: 65.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 65.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 11.0 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 9.1 mg/dL
+- Sodium [Moles/volume] in Blood: 143.2 mmol/L
+- Potassium [Moles/volume] in Blood: 4.7 mmol/L
+- Chloride [Moles/volume] in Blood: 103.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 28.3 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 158.8 mg/dL
+- Triglycerides: 116.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 82.6 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 52.9 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 16.0 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 94.9 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 34880 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 193 Johns Fort Suite 48
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Sleep apnea assessment (procedure): code 103750000
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2022-04-15T19:35:29Z to 2022-04-15T20:19:29Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 15.0 mm[Hg]
+- Right eye Intraocular pressure: 15.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2022-04-20T14:45:12Z to 2022-04-20T15:00:12Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.0 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: wellness, from 2022-08-21T17:45:12Z to 2022-08-21T18:33:35Z
+
+            Conditions: 
+- Medication review due (situation)
+- Not in labor force (finding)
+- Gingivitis (disorder)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.4 %
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 95.5 kg
+- Body mass index (BMI) [Ratio]: 27.5 kg/m2
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 118.0 mm[Hg]
+- Heart rate: 79.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 82.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 14.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 9.1 mg/dL
+- Sodium [Moles/volume] in Blood: 137.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.3 mmol/L
+- Chloride [Moles/volume] in Blood: 102.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.0 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 185.9 mg/dL
+- Triglycerides: 135.5 mg/dL
+- Low Density Lipoprotein Cholesterol: 95.6 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 63.3 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 4.9 mg/g
+- Leukocytes [#/volume] in Blood by Automated count: 5.1 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.5 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.9 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 37.7 %
+- MCV [Entitic volume] by Automated count: 94.7 fL
+- MCH [Entitic mass] by Automated count: 32.0 pg
+- MCHC [Mass/volume] by Automated count: 33.2 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 43.0 fL
+- Platelets [#/volume] in Blood by Automated count: 424.5 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 412.8 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.4 fL
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 156.9 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: I choose not to answer this question
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 34880 /a
+- Primary insurance: Medicare
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: More than high school
+- Address: 193 Johns Fort Suite 48
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: I choose not to answer this question
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Sleep apnea assessment (procedure): code 103750000
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2022-09-04T17:45:12Z to 2022-09-04T22:09:05Z
+
+            Conditions: 
+- Primary dental caries (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Restoration of tooth with coverage of all cusps using dental filling material (procedure): code 1256042007
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2023-03-11T19:51:52Z to 2023-03-11T20:35:52Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 17.0 mm[Hg]
+- Right eye Intraocular pressure: 17.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: wellness, from 2023-08-27T17:45:12Z to 2023-08-27T18:39:01Z
+
+            Conditions: 
+- Full-time employment (finding)
+- Misuses drugs (finding)
+- Gingivitis (disorder)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.4 %
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 95.5 kg
+- Body mass index (BMI) [Ratio]: 27.5 kg/m2
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 124.0 mm[Hg]
+- Heart rate: 93.0 /min
+- Respiratory rate: 12.0 /min
+- Glucose [Mass/volume] in Blood: 66.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 8.2 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 9.4 mg/dL
+- Sodium [Moles/volume] in Blood: 138.8 mmol/L
+- Potassium [Moles/volume] in Blood: 4.4 mmol/L
+- Chloride [Moles/volume] in Blood: 107.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.5 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 146.7 mg/dL
+- Triglycerides: 109.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 68.4 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 56.4 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 4.2 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 97.9 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 34880 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 193 Johns Fort Suite 48
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Total score [DAST-10]: 8.0 {score}
+            Procedures: 
+- Sleep apnea assessment (procedure): code 103750000
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2023-09-10T17:45:12Z to 2023-09-10T21:36:12Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: emergency, from 2023-12-06T20:38:34Z to 2023-12-06T21:38:34Z
+
+            Conditions: 
+- Injury of knee (disorder)
+- Tear of meniscus of knee (disorder)
+            Medications: 
+- Naproxen sodium 220 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Plain X-ray of knee region (procedure): code 1290407002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2024-03-05T20:09:54Z to 2024-03-05T20:53:54Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 17.0 mm[Hg]
+- Right eye Intraocular pressure: 17.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: wellness, from 2024-09-01T17:45:12Z to 2024-09-01T18:22:47Z
+
+            Conditions: 
+- Social isolation (finding)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.4 %
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 95.5 kg
+- Body mass index (BMI) [Ratio]: 27.5 kg/m2
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 121.0 mm[Hg]
+- Heart rate: 79.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 85.0 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 19.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 10.0 mg/dL
+- Sodium [Moles/volume] in Blood: 136.2 mmol/L
+- Potassium [Moles/volume] in Blood: 5.0 mmol/L
+- Chloride [Moles/volume] in Blood: 102.9 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 20.7 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 206.8 mg/dL
+- Triglycerides: 133.6 mg/dL
+- Low Density Lipoprotein Cholesterol: 122.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 58.0 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 17.0 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 87.9 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care (Medical  Dental  Mental Health  Vision)
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 34880 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 193 Johns Fort Suite 48
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [AUDIT-C]: 3.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Sleep apnea assessment (procedure): code 103750000
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: ambulatory, from 2025-02-28T20:26:13Z to 2025-02-28T21:10:13Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 16.0 mm[Hg]
+- Right eye Intraocular pressure: 16.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Florentino8 Hilll811, Gender: M, DOB: 1965-07-11, SSN: 999-20-1801
+
+            Encounter: wellness, from 2025-09-07T17:45:12Z to 2025-09-07T18:21:54Z
+
+            Conditions: 
+- Medication review due (situation)
+- Part-time employment (finding)
+- Victim of intimate partner abuse (finding)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.4 %
+- Body Height: 186.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 95.5 kg
+- Body mass index (BMI) [Ratio]: 27.5 kg/m2
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 127.0 mm[Hg]
+- Heart rate: 64.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 87.0 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 12.9 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.3 mg/dL
+- Calcium [Mass/volume] in Blood: 9.1 mg/dL
+- Sodium [Moles/volume] in Blood: 139.5 mmol/L
+- Potassium [Moles/volume] in Blood: 4.6 mmol/L
+- Chloride [Moles/volume] in Blood: 101.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 23.4 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 232.0 mg/dL
+- Triglycerides: 144.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 135.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 67.6 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 0.3 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 80.1 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: Yes
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Phone
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 34880 /a
+- Primary insurance: Medicare
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 193 Johns Fort Suite 48
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 5.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Sleep apnea assessment (procedure): code 103750000
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+            

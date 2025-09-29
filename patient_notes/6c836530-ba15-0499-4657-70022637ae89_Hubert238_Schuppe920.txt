@@ -1,0 +1,474 @@
+Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02
+            ------------------------------------------------------------
+                        Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: wellness, from 2015-08-07T02:44:51Z to 2015-08-07T02:59:51Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: wellness, from 2016-08-12T02:44:51Z to 2016-08-12T02:59:51Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 108.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 18.2 kg
+- Body mass index (BMI) [Ratio]: 15.4 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 48.1 %
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 120.0 mm[Hg]
+- Heart rate: 98.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- varicella
+- IPV
+- Influenza  seasonal  injectable  preservative free
+- DTaP
+- MMR
+            
+
+            Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: wellness, from 2017-08-18T02:44:51Z to 2017-08-18T02:59:51Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 115.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 20.7 kg
+- Body mass index (BMI) [Ratio]: 15.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 56.0 %
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 118.0 mm[Hg]
+- Heart rate: 83.0 /min
+- Respiratory rate: 15.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 5.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.3 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.0 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 43.4 %
+- MCV [Entitic volume] by Automated count: 91.5 fL
+- MCH [Entitic mass] by Automated count: 28.6 pg
+- MCHC [Mass/volume] by Automated count: 35.2 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 39.3 fL
+- Platelets [#/volume] in Blood by Automated count: 227.0 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 193.0 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 12.2 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: ambulatory, from 2017-08-25T02:44:51Z to 2017-08-25T06:38:22Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: wellness, from 2018-08-24T02:44:51Z to 2018-08-24T02:59:51Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 121.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 23.0 kg
+- Body mass index (BMI) [Ratio]: 15.5 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 51.0 %
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 127.0 mm[Hg]
+- Heart rate: 75.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: wellness, from 2019-08-30T02:44:51Z to 2019-08-30T02:59:51Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 127.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 26.8 kg
+- Body mass index (BMI) [Ratio]: 16.4 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 64.3 %
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 138.0 mm[Hg]
+- Heart rate: 91.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: ambulatory, from 2019-09-06T02:44:51Z to 2019-09-06T08:27:37Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: outpatient, from 2019-11-29T02:44:51Z to 2019-11-29T02:59:51Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 129.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 27.5 kg
+- Body mass index (BMI) [Ratio]: 16.4 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 62.5 %
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 126.0 mm[Hg]
+- Heart rate: 72.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: ambulatory, from 2019-12-06T02:44:51Z to 2019-12-06T02:59:51Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: wellness, from 2020-09-04T02:44:51Z to 2020-09-04T02:59:51Z
+
+            Conditions: 
+- Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)
+            Medications: None
+            Observations: 
+- Body Height: 134.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 29.3 kg
+- Body mass index (BMI) [Ratio]: 16.3 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 52.9 %
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 121.0 mm[Hg]
+- Heart rate: 64.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: ambulatory, from 2021-01-24T02:44:51Z to 2021-01-24T03:37:24Z
+
+            Conditions: 
+- Nasal congestion (finding)
+- Cough (finding)
+- Fatigue (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 38.5 Cel
+- Respiratory rate: 33.1 /min
+- Heart rate: 51.2 /min
+- Oxygen saturation in Arterial blood: 75.3 %
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 119.0 mm[Hg]
+- Body Weight: 30.4 kg
+- Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value)
+- Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value)
+- Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value)
+- Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value)
+- Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value)
+- Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value)
+- Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value)
+- Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value)
+- Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value)
+- SARS-CoV-2 RNA Pnl Resp NAA+probe: Detected (qualifier value)
+            Procedures: 
+- Face mask (physical object): code 261352009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: wellness, from 2021-09-10T02:44:51Z to 2021-09-10T02:59:51Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 139.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 32.7 kg
+- Body mass index (BMI) [Ratio]: 16.9 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 55.0 %
+- Diastolic Blood Pressure: 88.0 mm[Hg]
+- Systolic Blood Pressure: 129.0 mm[Hg]
+- Heart rate: 77.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: ambulatory, from 2021-09-17T02:44:51Z to 2021-09-17T06:38:20Z
+
+            Conditions: 
+- Primary dental caries (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Restoration of tooth with coverage of all cusps using dental filling material (procedure): code 1256042007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: ambulatory, from 2022-05-24T07:44:51Z to 2022-05-24T07:59:51Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: wellness, from 2022-09-16T02:44:51Z to 2022-09-16T02:59:51Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 144.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 39.3 kg
+- Body mass index (BMI) [Ratio]: 18.9 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 74.8 %
+- Diastolic Blood Pressure: 86.0 mm[Hg]
+- Systolic Blood Pressure: 121.0 mm[Hg]
+- Heart rate: 68.0 /min
+- Respiratory rate: 12.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 5.1 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.7 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.3 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 47.5 %
+- MCV [Entitic volume] by Automated count: 93.9 fL
+- MCH [Entitic mass] by Automated count: 30.9 pg
+- MCHC [Mass/volume] by Automated count: 33.7 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 45.8 fL
+- Platelets [#/volume] in Blood by Automated count: 350.2 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 209.5 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.1 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Tdap
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+- meningococcal MCV4P
+            
+
+            Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: ambulatory, from 2022-09-23T02:44:51Z to 2022-09-23T06:13:28Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: wellness, from 2023-09-22T02:44:51Z to 2023-09-22T03:00:04Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 149.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 44.7 kg
+- Body mass index (BMI) [Ratio]: 19.9 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 77.3 %
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 120.0 mm[Hg]
+- Heart rate: 93.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 8.0 {score}
+            Procedures: 
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+            
+
+            Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: outpatient, from 2023-10-13T02:44:51Z to 2023-10-13T02:59:51Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: outpatient, from 2023-11-10T02:44:51Z to 2023-11-10T02:59:51Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Hubert238 Schuppe920, Gender: M, DOB: 2011-09-02, SSN: 999-69-9876
+
+            Encounter: wellness, from 2024-09-27T02:44:51Z to 2024-09-27T03:10:09Z
+
+            Conditions: 
+- Risk activity involvement (finding)
+            Medications: None
+            Observations: 
+- Body Height: 156.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 54.1 kg
+- Body mass index (BMI) [Ratio]: 22.0 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 85.8 %
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 120.0 mm[Hg]
+- Heart rate: 96.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Health risks education (procedure): code 370995009
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+            
+            

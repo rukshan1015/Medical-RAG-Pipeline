@@ -1,0 +1,399 @@
+Patient: Tiffani287 Gulgowski816, Gender: F, DOB: 2021-12-02
+            ------------------------------------------------------------
+                        Patient: Tiffani287 Gulgowski816, Gender: F, DOB: 2021-12-02, SSN: 999-17-6373
+
+            Encounter: wellness, from 2021-12-02T10:29:34Z to 2021-12-02T10:44:34Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 46.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 3.5 kg
+- Weight-for-length Per age and sex: 97.0 %
+- Head Occipital-frontal circumference Percentile: 3.5 %
+- Head Occipital-frontal circumference: 32.0 cm
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 110.0 mm[Hg]
+- Heart rate: 61.0 /min
+- Respiratory rate: 13.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 10.1 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.7 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 16.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 38.8 %
+- MCV [Entitic volume] by Automated count: 89.3 fL
+- MCH [Entitic mass] by Automated count: 31.6 pg
+- MCHC [Mass/volume] by Automated count: 35.4 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 42.4 fL
+- Platelets [#/volume] in Blood by Automated count: 257.7 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 374.1 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.8 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Tiffani287 Gulgowski816, Gender: F, DOB: 2021-12-02, SSN: 999-17-6373
+
+            Encounter: wellness, from 2022-01-06T10:29:34Z to 2022-01-06T10:44:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 50.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 4.2 kg
+- Weight-for-length Per age and sex: 96.8 %
+- Head Occipital-frontal circumference Percentile: 3.5 %
+- Head Occipital-frontal circumference: 35.6 cm
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 113.0 mm[Hg]
+- Heart rate: 67.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Tiffani287 Gulgowski816, Gender: F, DOB: 2021-12-02, SSN: 999-17-6373
+
+            Encounter: wellness, from 2022-03-10T10:29:34Z to 2022-03-10T10:44:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 54.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 5.5 kg
+- Weight-for-length Per age and sex: 94.6 %
+- Head Occipital-frontal circumference Percentile: 3.5 %
+- Head Occipital-frontal circumference: 38.2 cm
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 108.0 mm[Hg]
+- Heart rate: 87.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- rotavirus  monovalent
+- IPV
+- DTaP
+- Pneumococcal conjugate PCV 13
+            
+
+            Patient: Tiffani287 Gulgowski816, Gender: F, DOB: 2021-12-02, SSN: 999-17-6373
+
+            Encounter: wellness, from 2022-05-12T10:29:34Z to 2022-05-12T10:44:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 58.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 6.5 kg
+- Weight-for-length Per age and sex: 96.0 %
+- Head Occipital-frontal circumference Percentile: 3.5 %
+- Head Occipital-frontal circumference: 39.9 cm
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 116.0 mm[Hg]
+- Heart rate: 69.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- rotavirus  monovalent
+- IPV
+- DTaP
+- Pneumococcal conjugate PCV 13
+            
+
+            Patient: Tiffani287 Gulgowski816, Gender: F, DOB: 2021-12-02, SSN: 999-17-6373
+
+            Encounter: wellness, from 2022-08-11T10:29:34Z to 2022-08-11T10:44:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 62.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 7.8 kg
+- Weight-for-length Per age and sex: 93.5 %
+- Head Occipital-frontal circumference Percentile: 3.5 %
+- Head Occipital-frontal circumference: 41.5 cm
+- Diastolic Blood Pressure: 72.0 mm[Hg]
+- Systolic Blood Pressure: 110.0 mm[Hg]
+- Heart rate: 95.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- IPV
+- Influenza  seasonal  injectable  preservative free
+- DTaP
+- Pneumococcal conjugate PCV 13
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Tiffani287 Gulgowski816, Gender: F, DOB: 2021-12-02, SSN: 999-17-6373
+
+            Encounter: outpatient, from 2022-09-28T10:29:34Z to 2022-09-28T10:44:34Z
+
+            Conditions: 
+- Otitis media (disorder)
+            Medications: 
+- Cefuroxime 250 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Tiffani287 Gulgowski816, Gender: F, DOB: 2021-12-02, SSN: 999-17-6373
+
+            Encounter: wellness, from 2022-11-10T10:29:34Z to 2022-11-10T10:44:34Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 66.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 8.9 kg
+- Weight-for-length Per age and sex: 96.2 %
+- Head Occipital-frontal circumference Percentile: 3.5 %
+- Head Occipital-frontal circumference: 42.6 cm
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 117.0 mm[Hg]
+- Heart rate: 70.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Tiffani287 Gulgowski816, Gender: F, DOB: 2021-12-02, SSN: 999-17-6373
+
+            Encounter: wellness, from 2023-02-09T10:29:34Z to 2023-02-09T10:44:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 69.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 9.7 kg
+- Weight-for-length Per age and sex: 93.4 %
+- Head Occipital-frontal circumference Percentile: 3.5 %
+- Head Occipital-frontal circumference: 43.4 cm
+- Diastolic Blood Pressure: 72.0 mm[Hg]
+- Systolic Blood Pressure: 108.0 mm[Hg]
+- Heart rate: 89.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- varicella
+- MMR
+- Pneumococcal conjugate PCV 13
+- Hep A  ped/adol  2 dose
+            
+
+            Patient: Tiffani287 Gulgowski816, Gender: F, DOB: 2021-12-02, SSN: 999-17-6373
+
+            Encounter: wellness, from 2023-05-11T10:29:34Z to 2023-05-11T10:44:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 72.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 10.3 kg
+- Weight-for-length Per age and sex: 94.5 %
+- Head Occipital-frontal circumference Percentile: 3.5 %
+- Head Occipital-frontal circumference: 44.0 cm
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 106.0 mm[Hg]
+- Heart rate: 94.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- DTaP
+            
+
+            Patient: Tiffani287 Gulgowski816, Gender: F, DOB: 2021-12-02, SSN: 999-17-6373
+
+            Encounter: wellness, from 2023-11-09T10:29:34Z to 2023-11-09T10:44:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 77.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 11.3 kg
+- Weight-for-length Per age and sex: 91.7 %
+- Head Occipital-frontal circumference Percentile: 3.5 %
+- Head Occipital-frontal circumference: 44.8 cm
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 110.0 mm[Hg]
+- Heart rate: 72.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Tiffani287 Gulgowski816, Gender: F, DOB: 2021-12-02, SSN: 999-17-6373
+
+            Encounter: wellness, from 2024-05-09T10:29:34Z to 2024-05-09T10:46:33Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 81.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 12.2 kg
+- Weight-for-length Per age and sex: 91.0 %
+- Head Occipital-frontal circumference Percentile: 3.5 %
+- Head Occipital-frontal circumference: 45.4 cm
+- Body mass index (BMI) [Ratio]: 18.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 94.5 %
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 111.0 mm[Hg]
+- Heart rate: 77.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Hep A  ped/adol  2 dose
+            
+
+            Patient: Tiffani287 Gulgowski816, Gender: F, DOB: 2021-12-02, SSN: 999-17-6373
+
+            Encounter: ambulatory, from 2024-05-16T10:29:34Z to 2024-05-16T13:42:17Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Tiffani287 Gulgowski816, Gender: F, DOB: 2021-12-02, SSN: 999-17-6373
+
+            Encounter: wellness, from 2024-11-07T10:29:34Z to 2024-11-07T10:44:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 84.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 12.3 kg
+- Weight-for-length Per age and sex: 70.1 %
+- Head Occipital-frontal circumference Percentile: 3.5 %
+- Head Occipital-frontal circumference: 45.7 cm
+- Body mass index (BMI) [Ratio]: 17.2 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 84.7 %
+- Diastolic Blood Pressure: 72.0 mm[Hg]
+- Systolic Blood Pressure: 118.0 mm[Hg]
+- Heart rate: 79.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Tiffani287 Gulgowski816, Gender: F, DOB: 2021-12-02, SSN: 999-17-6373
+
+            Encounter: ambulatory, from 2024-11-14T10:29:34Z to 2024-11-14T13:39:52Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Tiffani287 Gulgowski816, Gender: F, DOB: 2021-12-02, SSN: 999-17-6373
+
+            Encounter: wellness, from 2025-05-08T10:29:34Z to 2025-05-08T10:44:34Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 87.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 12.4 kg
+- Weight-for-length Per age and sex: 70.1 %
+- Head Occipital-frontal circumference Percentile: 3.5 %
+- Head Occipital-frontal circumference: 45.7 cm
+- Body mass index (BMI) [Ratio]: 16.0 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 66.2 %
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 106.0 mm[Hg]
+- Heart rate: 75.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Tiffani287 Gulgowski816, Gender: F, DOB: 2021-12-02, SSN: 999-17-6373
+
+            Encounter: emergency, from 2025-08-12T10:29:34Z to 2025-08-12T11:29:34Z
+
+            Conditions: 
+- Sprain (morphologic abnormality)
+- Sprain of ankle (disorder)
+            Medications: 
+- Ibuprofen 100 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+            

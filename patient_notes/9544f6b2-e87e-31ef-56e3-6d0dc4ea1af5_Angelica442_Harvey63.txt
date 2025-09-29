@@ -1,0 +1,1728 @@
+Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09
+            ------------------------------------------------------------
+                        Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 1972-11-06T14:09:08Z to 1972-11-06T14:24:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 1972-11-20T02:09:08Z to 1972-11-20T02:24:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: 
+- Sneezing (finding): MILD
+- Cough (finding): MODERATE
+- Rhinoconjunctivitis (disorder): MODERATE
+- Finding of vomiting (finding): MODERATE
+- Diarrhea (finding): MILD
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 1975-05-22T17:09:08Z to 1975-05-22T17:24:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: urgentcare, from 1989-10-30T17:09:08Z to 1989-10-30T17:45:10Z
+
+            Conditions: 
+- Received higher education (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 1991-03-04T17:09:08Z to 1991-03-04T17:24:08Z
+
+            Conditions: 
+- Recurrent urinary tract infection (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: wellness, from 1994-10-31T17:09:08Z to 1994-10-31T17:56:12Z
+
+            Conditions: 
+- Body mass index 30+ - obesity (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 1998-10-19T17:09:08Z to 1998-10-19T18:21:09Z
+
+            Conditions: None
+            Medications: 
+- Vitamin B12 5 MG/ML Injectable Solution
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: wellness, from 2012-02-06T17:09:08Z to 2012-02-06T18:05:26Z
+
+            Conditions: 
+- Stress (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: wellness, from 2013-02-11T17:09:08Z to 2013-02-11T17:44:40Z
+
+            Conditions: 
+- Medication review due (situation)
+- Victim of intimate partner abuse (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: wellness, from 2015-02-23T17:09:08Z to 2015-02-23T17:45:28Z
+
+            Conditions: 
+- Part-time employment (finding)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: outpatient, from 2015-04-06T17:09:08Z to 2015-04-06T17:29:41Z
+
+            Conditions: None
+            Medications: 
+- Etonogestrel 68 MG Drug Implant
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: wellness, from 2016-02-29T17:09:08Z to 2016-02-29T17:56:33Z
+
+            Conditions: 
+- Social isolation (finding)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 152.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 65.4 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 120.0 mm[Hg]
+- Heart rate: 98.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 106092 /a
+- Primary insurance: Private insurance
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 639 Thompson Terrace
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 2016-03-14T17:09:08Z to 2016-03-14T20:35:03Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: outpatient, from 2016-03-31T17:29:41Z to 2016-03-31T17:44:41Z
+
+            Conditions: None
+            Medications: 
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: emergency, from 2016-09-09T21:46:08Z to 2016-09-09T22:46:08Z
+
+            Conditions: 
+- Sprain (morphologic abnormality)
+- Sprain of wrist (disorder)
+            Medications: 
+- Naproxen sodium 220 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: wellness, from 2017-03-06T17:09:08Z to 2017-03-06T17:58:12Z
+
+            Conditions: 
+- Full-time employment (finding)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 152.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 65.4 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 69.0 mm[Hg]
+- Systolic Blood Pressure: 118.0 mm[Hg]
+- Heart rate: 75.0 /min
+- Respiratory rate: 14.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 177.8 mg/dL
+- Triglycerides: 116.5 mg/dL
+- Low Density Lipoprotein Cholesterol: 122.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 32.4 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 106092 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 639 Thompson Terrace
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: outpatient, from 2017-03-26T17:29:41Z to 2017-03-26T18:01:09Z
+
+            Conditions: None
+            Medications: 
+- Etonogestrel 68 MG Drug Implant
+            Observations: None
+            Procedures: 
+- Insertion of subcutaneous contraceptive (procedure): code 169553002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: wellness, from 2018-03-12T17:09:08Z to 2018-03-12T17:43:07Z
+
+            Conditions: 
+- Medication review due (situation)
+- Part-time employment (finding)
+- Gingivitis (disorder)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 152.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 65.4 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 61.0 mm[Hg]
+- Systolic Blood Pressure: 123.0 mm[Hg]
+- Heart rate: 64.0 /min
+- Respiratory rate: 12.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 10.2 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.6 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.5 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 39.9 %
+- MCV [Entitic volume] by Automated count: 81.2 fL
+- MCH [Entitic mass] by Automated count: 32.1 pg
+- MCHC [Mass/volume] by Automated count: 34.9 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 44.9 fL
+- Platelets [#/volume] in Blood by Automated count: 192.5 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 496.0 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.0 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 106092 /a
+- Primary insurance: Private insurance
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 639 Thompson Terrace
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 5.0 {score}
+- Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 12.0 {score}
+- Total score [DAST-10]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: outpatient, from 2018-03-21T18:01:09Z to 2018-03-21T18:16:09Z
+
+            Conditions: None
+            Medications: 
+- Trinessa 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 2018-03-26T17:09:08Z to 2018-03-26T21:48:57Z
+
+            Conditions: 
+- Dental filling lost (finding)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure): code 1259293006
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: wellness, from 2019-03-18T17:09:08Z to 2019-03-18T17:39:17Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 152.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 65.4 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 64.0 mm[Hg]
+- Systolic Blood Pressure: 121.0 mm[Hg]
+- Heart rate: 61.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 106092 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 639 Thompson Terrace
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: outpatient, from 2019-03-25T17:09:08Z to 2019-03-25T17:29:40Z
+
+            Conditions: None
+            Medications: 
+- Etonogestrel 68 MG Drug Implant
+            Observations: None
+            Procedures: 
+- Insertion of subcutaneous contraceptive (procedure): code 169553002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: outpatient, from 2019-04-15T17:09:08Z to 2019-04-15T18:19:57Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Removal of subcutaneous contraceptive (procedure): code 301807007
+- Insertion of subcutaneous contraceptive (procedure): code 169553002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: urgentcare, from 2019-05-13T17:09:08Z to 2019-05-13T18:02:47Z
+
+            Conditions: 
+- Medication review due (situation)
+- Limited social contact (finding)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 152.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 65.4 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 65.0 mm[Hg]
+- Systolic Blood Pressure: 125.0 mm[Hg]
+- Heart rate: 94.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: Yes
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 106092 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 639 Thompson Terrace
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: urgentcare, from 2019-05-20T17:09:08Z to 2019-05-20T17:24:08Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: outpatient, from 2019-05-27T17:09:08Z to 2019-05-27T18:02:45Z
+
+            Conditions: 
+- Part-time employment (finding)
+- Stress (finding)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 152.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 65.4 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 62.0 mm[Hg]
+- Systolic Blood Pressure: 123.0 mm[Hg]
+- Heart rate: 96.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 106092 /a
+- Primary insurance: Private insurance
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 639 Thompson Terrace
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 2019-06-03T17:09:08Z to 2019-06-03T17:24:08Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Measurement of respiratory function (procedure): code 23426006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: emergency, from 2019-11-20T17:09:08Z to 2019-11-28T01:09:08Z
+
+            Conditions: 
+- Sepsis (disorder)
+            Medications: 
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+            Observations: 
+- Gram positive blood culture panel by Probe in Positive blood culture: Positive (qualifier value)
+- Capillary refill [Time] of Nail bed: Increased capillary filling time (finding)
+- Oxygen saturation in Arterial blood: 92.0 %
+- Lactate [Moles/volume] in Blood: 2.7 mmol/L
+- Mean blood pressure: 76.0 mm[Hg]
+            Procedures: 
+- Resuscitation using intravenous fluid (procedure): code 430701006
+- Transfer to stepdown unit (procedure): code 449214001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: wellness, from 2020-03-23T17:09:08Z to 2020-03-23T17:40:01Z
+
+            Conditions: 
+- Full-time employment (finding)
+- Social isolation (finding)
+- Reports of violence in the environment (finding)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 152.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 65.4 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 63.0 mm[Hg]
+- Systolic Blood Pressure: 123.0 mm[Hg]
+- Heart rate: 76.0 /min
+- Respiratory rate: 13.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 161.1 mg/dL
+- Triglycerides: 125.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 106.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 29.8 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: No
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 106092 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 639 Thompson Terrace
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: outpatient, from 2020-03-30T17:09:08Z to 2020-03-30T17:24:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: outpatient, from 2020-04-04T11:09:08Z to 2020-04-04T12:15:55Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Insertion of intrauterine contraceptive device (procedure): code 65200003
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 2020-04-06T17:09:08Z to 2020-04-06T20:26:30Z
+
+            Conditions: 
+- Fractured dental filling (finding)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure): code 1259293006
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: urgentcare, from 2020-08-24T17:09:08Z to 2020-08-24T17:41:11Z
+
+            Conditions: 
+- Medication review due (situation)
+- Not in labor force (finding)
+- Gingivitis (disorder)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 152.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 65.4 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 69.0 mm[Hg]
+- Systolic Blood Pressure: 124.0 mm[Hg]
+- Heart rate: 99.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 106092 /a
+- Primary insurance: Private insurance
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: More than high school
+- Address: 639 Thompson Terrace
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 2020-08-31T17:09:08Z to 2020-08-31T17:24:08Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 2020-09-07T17:09:08Z to 2020-09-08T01:16:06Z
+
+            Conditions: 
+- Gingival disease (disorder)
+- Fractured dental filling (finding)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Restoration of tooth with coverage of all cusps using dental filling material (procedure): code 1256042007
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: wellness, from 2021-03-29T17:09:08Z to 2021-03-29T17:39:47Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 152.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 65.4 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 68.0 mm[Hg]
+- Systolic Blood Pressure: 118.0 mm[Hg]
+- Heart rate: 81.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 106092 /a
+- Primary insurance: Private insurance
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: More than high school
+- Address: 639 Thompson Terrace
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 5.0 {score}
+- Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 3.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: outpatient, from 2021-03-30T12:15:55Z to 2021-03-30T12:30:55Z
+
+            Conditions: None
+            Medications: 
+- Natazia 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 2021-04-12T17:09:08Z to 2021-04-12T19:52:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 2021-05-02T18:09:08Z to 2021-05-02T18:24:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: outpatient, from 2021-06-28T17:09:08Z to 2021-06-28T17:24:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: outpatient, from 2021-07-26T17:09:08Z to 2021-07-26T17:24:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: emergency, from 2021-10-29T18:09:08Z to 2021-10-29T19:09:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 2021-10-31T08:09:08Z to 2021-10-31T08:24:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: wellness, from 2022-04-04T17:09:08Z to 2022-04-04T17:58:40Z
+
+            Conditions: 
+- Full-time employment (finding)
+- Gingivitis (disorder)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 152.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 65.4 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 70.0 mm[Hg]
+- Systolic Blood Pressure: 116.0 mm[Hg]
+- Heart rate: 95.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 106092 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 639 Thompson Terrace
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [DAST-10]: 0.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- zoster vaccine  live
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: outpatient, from 2022-04-11T17:09:08Z to 2022-04-11T17:34:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Removal of subcutaneous contraceptive (procedure): code 301807007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 2022-04-18T17:09:08Z to 2022-04-18T21:15:43Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: emergency, from 2022-10-26T08:09:08Z to 2022-10-26T09:09:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 2022-10-28T17:09:08Z to 2022-10-28T17:24:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: wellness, from 2023-04-10T17:09:08Z to 2023-04-10T17:49:11Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 152.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 65.4 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 70.0 mm[Hg]
+- Systolic Blood Pressure: 123.0 mm[Hg]
+- Heart rate: 75.0 /min
+- Respiratory rate: 14.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 145.3 mg/dL
+- Triglycerides: 107.6 mg/dL
+- Low Density Lipoprotein Cholesterol: 93.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 30.7 mg/dL
+- Leukocytes [#/volume] in Blood by Automated count: 6.0 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.6 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 46.7 %
+- MCV [Entitic volume] by Automated count: 90.0 fL
+- MCH [Entitic mass] by Automated count: 28.9 pg
+- MCHC [Mass/volume] by Automated count: 33.1 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 44.7 fL
+- Platelets [#/volume] in Blood by Automated count: 279.6 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 160.5 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.4 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 106092 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 639 Thompson Terrace
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 0.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- zoster vaccine  live
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: wellness, from 2024-04-15T17:09:08Z to 2024-04-15T17:53:46Z
+
+            Conditions: 
+- Essential hypertension (disorder)
+- Medication review due (situation)
+- Ischemic heart disease (disorder)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+- losartan potassium 25 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+            Observations: 
+- Body Height: 152.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 65.4 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 95.0 mm[Hg]
+- Systolic Blood Pressure: 139.0 mm[Hg]
+- Heart rate: 68.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Very much
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 106092 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 639 Thompson Terrace
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 2024-04-22T17:09:08Z to 2024-04-22T17:54:50Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Priority Level: 2 {score}
+- Operative Status Value: urgent {score}
+            Procedures: 
+- Referral to cardiology service (procedure): code 183519002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 2024-04-25T08:54:50Z to 2024-04-25T13:30:20Z
+
+            Conditions: 
+- Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Consultation for treatment (procedure): code 698314001
+- Angiography of coronary artery (procedure): code 33367005
+- Post anesthesia care management (procedure): code 736169004
+- Referral to cardiac surgery service (procedure): code 306185001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 2024-04-29T11:30:20Z to 2024-04-29T12:54:16Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Leukocytes [#/volume] in Blood by Automated count: 7.0 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.0 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 16.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 40.1 %
+- MCV [Entitic volume] by Automated count: 89.2 fL
+- MCH [Entitic mass] by Automated count: 28.2 pg
+- MCHC [Mass/volume] by Automated count: 31.5 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 12.7 %
+- Platelets [#/volume] in Blood by Automated count: 311.4 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 72.1 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 14.8 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 2.7 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.5 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 142.4 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.2 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 103.9 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 26.2 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 12.9 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 8.2 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.4 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 8.1 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 108.2 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 42.0 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 10.3 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.7 mg/dL
+- Phosphate [Mass/volume] in Serum or Plasma: 4.2 mg/dL
+- Prothrombin time (PT): 9.6 s
+- INR in Platelet poor plasma by Coagulation assay: 0.9 {INR}
+- aPTT in Blood by Coagulation assay: 33.3 s
+- pH of Arterial blood: 6.9 [pH]
+- Carbon dioxide [Partial pressure] in Arterial blood: 42.9 mm[Hg]
+- Oxygen [Partial pressure] in Arterial blood: 86.6 mm[Hg]
+- Bicarbonate [Moles/volume] in Arterial blood: 24.2 mmol/L
+- Oxygen saturation in Arterial blood: 95.0 %
+- Cholesterol [Mass/volume] in Serum or Plasma: 154.2 mg/dL
+- Triglycerides: 114.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 102.9 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 28.4 mg/dL
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Thyrotropin [Units/volume] in Serum or Plasma: 4.0 m[IU]/L
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.4 %
+- Glucose [Presence] in Urine by Test strip: 1.0 {presence}
+- Bilirubin.total [Presence] in Urine by Test strip: 1.0 {presence}
+- Ketones [Presence] in Urine by Test strip: 1.0 {presence}
+- Specific gravity of Urine by Test strip: 1.0 {SG}
+- pH of Urine by Test strip: 5.1 [pH]
+- Protein [Presence] in Urine by Test strip: 1.0 {presence}
+- Nitrite [Presence] in Urine by Test strip: 1.0 {presence}
+- Hemoglobin [Presence] in Urine by Test strip: 0.0 {presence}
+- Leukocyte esterase [Presence] in Urine by Test strip: 0.0 {presence}
+- Left ventricular Ejection fraction: 34.9 %
+            Procedures: 
+- Pre-surgery testing (procedure): code 110467000
+- Blood group typing (procedure): code 44608003
+- Electrocardiographic procedure (procedure): code 29303009
+- Plain X-ray of chest (procedure): code 399208008
+- Echocardiography (procedure): code 40701008
+- Notification of treatment plan (procedure): code 709138001
+- Scheduling (procedure): code 410538000
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 2024-05-04T06:24:16Z to 2024-05-04T11:26:04Z
+
+            Conditions: 
+- History of coronary artery bypass grafting (situation)
+            Medications: 
+- cefazolin 2000 MG Injection
+- 1 ML heparin sodium  porcine 5000 UNT/ML Injection
+- 25 ML protamine sulfate (USP) 10 MG/ML Injection
+- 2 ML Ondansetron 2 MG/ML Injection
+- Midazolam 1 MG/ML Injectable Solution
+- 100 ML Propofol 10 MG/ML Injection
+- Rocuronium bromide 10 MG/ML Injectable Solution
+- isoflurane 99.9 % Inhalation Solution
+- remifentanil 2 MG Injection
+            Observations: 
+- Activated clotting time (ACT) of Blood by Coagulation assay: 110.1 s
+- pH of Arterial blood: 6.8 [pH]
+- Carbon dioxide [Partial pressure] in Arterial blood: 38.7 mm[Hg]
+- Oxygen [Partial pressure] in Arterial blood: 92.3 mm[Hg]
+- Bicarbonate [Moles/volume] in Arterial blood: 26.5 mmol/L
+- Oxygen saturation in Arterial blood: 91.0 %
+- pH of Venous blood: 7.4 [pH]
+- Carbon dioxide [Partial pressure] in Venous blood: 44.3 mm[Hg]
+- Oxygen [Partial pressure] in Venous blood: 45.4 mm[Hg]
+- Bicarbonate [Moles/volume] in Venous blood: 27.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Venous blood: 1.4 mmol/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.9 mg/dL
+- Procedure Narrative: CABG Grafts: 3 {#}
+- Procedure Narrative: CABG Arterial Conduits: 1 {#}
+            Procedures: 
+- Insertion of catheter into artery (procedure): code 392247006
+- Administration of anesthesia for procedure (procedure): code 410770002
+- Intubation (procedure): code 52765003
+- Pulmonary catheterization with Swan-Ganz catheter (procedure): code 65677008
+- Preparation of patient for procedure (regime/therapy): code 223495004
+- Median sternotomy (procedure): code 359672006
+- Off-pump coronary artery bypass (procedure): code 418824004
+- Documentation procedure (procedure): code 23745001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: inpatient, from 2024-05-04T11:26:04Z to 2024-05-06T13:30:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Leukocytes [#/volume] in Blood by Automated count: 9.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.3 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.9 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 49.0 %
+- MCV [Entitic volume] by Automated count: 92.2 fL
+- MCH [Entitic mass] by Automated count: 32.2 pg
+- MCHC [Mass/volume] by Automated count: 33.5 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.4 %
+- Platelets [#/volume] in Blood by Automated count: 357.3 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 75.2 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 12.6 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 2.6 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.8 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 139.2 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.7 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 109.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 21.7 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 9.6 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.2 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.1 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 12.5 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 98.1 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 37.6 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 25.7 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.8 mg/dL
+- Phosphate [Mass/volume] in Serum or Plasma: 3.4 mg/dL
+- Prothrombin time (PT): 9.7 s
+- INR in Platelet poor plasma by Coagulation assay: 0.9 {INR}
+- aPTT in Blood by Coagulation assay: 26.5 s
+- pH of Arterial blood: 7.2 [pH]
+- Carbon dioxide [Partial pressure] in Arterial blood: 43.8 mm[Hg]
+- Oxygen [Partial pressure] in Arterial blood: 96.1 mm[Hg]
+- Bicarbonate [Moles/volume] in Arterial blood: 25.4 mmol/L
+- Oxygen saturation in Arterial blood: 91.0 %
+- Cholesterol [Mass/volume] in Serum or Plasma: 161.4 mg/dL
+- Triglycerides: 122.1 mg/dL
+- Low Density Lipoprotein Cholesterol: 110.0 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 27.0 mg/dL
+- Leukocytes [#/volume] in Blood by Automated count: 10.1 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.6 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.5 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 49.3 %
+- MCV [Entitic volume] by Automated count: 95.0 fL
+- MCH [Entitic mass] by Automated count: 30.8 pg
+- MCHC [Mass/volume] by Automated count: 34.2 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 14.6 %
+- Platelets [#/volume] in Blood by Automated count: 309.9 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 75.2 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 12.6 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 3.0 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.8 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 139.2 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.7 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 109.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 21.7 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 12.8 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 8.0 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 5.0 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 11.0 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 110.3 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 1.8 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 33.9 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.0 mg/dL
+- Phosphate [Mass/volume] in Serum or Plasma: 3.6 mg/dL
+- Prothrombin time (PT): 9.4 s
+- INR in Platelet poor plasma by Coagulation assay: 1.0 {INR}
+- aPTT in Blood by Coagulation assay: 37.2 s
+- pH of Arterial blood: 6.8 [pH]
+- Carbon dioxide [Partial pressure] in Arterial blood: 43.0 mm[Hg]
+- Oxygen [Partial pressure] in Arterial blood: 100.0 mm[Hg]
+- Bicarbonate [Moles/volume] in Arterial blood: 22.4 mmol/L
+- Oxygen saturation in Arterial blood: 91.0 %
+- Cholesterol [Mass/volume] in Serum or Plasma: 161.4 mg/dL
+- Triglycerides: 122.1 mg/dL
+- Low Density Lipoprotein Cholesterol: 110.0 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 27.0 mg/dL
+- Leukocytes [#/volume] in Blood by Automated count: 8.0 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 3.9 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 11.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 43.4 %
+- MCV [Entitic volume] by Automated count: 94.8 fL
+- MCH [Entitic mass] by Automated count: 31.1 pg
+- MCHC [Mass/volume] by Automated count: 34.1 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.3 %
+- Platelets [#/volume] in Blood by Automated count: 317.6 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 75.2 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 12.6 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 3.0 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.8 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 139.2 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.7 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 109.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 21.7 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 11.7 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.8 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.0 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 14.1 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 109.2 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 1.5 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 11.5 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.0 mg/dL
+- Phosphate [Mass/volume] in Serum or Plasma: 2.8 mg/dL
+- Prothrombin time (PT): 10.6 s
+- INR in Platelet poor plasma by Coagulation assay: 0.9 {INR}
+- aPTT in Blood by Coagulation assay: 28.7 s
+- pH of Arterial blood: 6.8 [pH]
+- Carbon dioxide [Partial pressure] in Arterial blood: 44.2 mm[Hg]
+- Oxygen [Partial pressure] in Arterial blood: 95.2 mm[Hg]
+- Bicarbonate [Moles/volume] in Arterial blood: 22.3 mmol/L
+- Oxygen saturation in Arterial blood: 91.0 %
+- Cholesterol [Mass/volume] in Serum or Plasma: 161.4 mg/dL
+- Triglycerides: 122.1 mg/dL
+- Low Density Lipoprotein Cholesterol: 110.0 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 27.0 mg/dL
+- Leukocytes [#/volume] in Blood by Automated count: 5.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.5 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 46.4 %
+- MCV [Entitic volume] by Automated count: 92.9 fL
+- MCH [Entitic mass] by Automated count: 30.5 pg
+- MCHC [Mass/volume] by Automated count: 31.6 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 12.9 %
+- Platelets [#/volume] in Blood by Automated count: 448.7 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 75.2 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 12.6 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 2.7 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.8 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 139.2 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.7 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 109.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 21.7 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 6.3 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.3 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.8 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 8.9 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 64.1 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 16.3 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 0.0 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.0 mg/dL
+- Phosphate [Mass/volume] in Serum or Plasma: 2.8 mg/dL
+- Prothrombin time (PT): 10.3 s
+- INR in Platelet poor plasma by Coagulation assay: 1.2 {INR}
+- aPTT in Blood by Coagulation assay: 31.1 s
+- pH of Arterial blood: 7.1 [pH]
+- Carbon dioxide [Partial pressure] in Arterial blood: 36.9 mm[Hg]
+- Oxygen [Partial pressure] in Arterial blood: 90.8 mm[Hg]
+- Bicarbonate [Moles/volume] in Arterial blood: 24.7 mmol/L
+- Oxygen saturation in Arterial blood: 91.0 %
+- Cholesterol [Mass/volume] in Serum or Plasma: 161.4 mg/dL
+- Triglycerides: 122.1 mg/dL
+- Low Density Lipoprotein Cholesterol: 110.0 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 27.0 mg/dL
+            Procedures: 
+- Removal of endotracheal tube (procedure): code 271280005
+- Electrocardiographic procedure (procedure): code 29303009
+- Plain X-ray of chest (procedure): code 399208008
+- Transfusion of packed red blood cells (procedure): code 71493000
+- Electrocardiographic procedure (procedure): code 29303009
+- Plain X-ray of chest (procedure): code 399208008
+- Transfusion of packed red blood cells (procedure): code 71493000
+- Discharge to ward (procedure): code 306706006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: inpatient, from 2024-05-06T13:15:13Z to 2024-05-07T13:15:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Postoperative procedure education (procedure): code 243063003
+- Walking exercise test (procedure): code 302761001
+- Stair-climbing test (procedure): code 252482003
+- Discharge from hospital (procedure): code 308283009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 2024-05-15T17:09:08Z to 2024-05-15T17:24:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 131.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: virtual, from 2024-07-14T17:09:08Z to 2024-07-14T17:24:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 88.0 mm[Hg]
+- Systolic Blood Pressure: 135.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 2024-09-12T17:09:08Z to 2024-09-12T17:24:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 88.0 mm[Hg]
+- Systolic Blood Pressure: 139.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: emergency, from 2024-10-17T17:09:08Z to 2024-10-17T18:09:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 2024-10-18T17:09:08Z to 2024-10-18T17:24:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: wellness, from 2025-04-21T17:09:08Z to 2025-04-21T17:42:41Z
+
+            Conditions: 
+- Medication review due (situation)
+- Limited social contact (finding)
+            Medications: 
+- losartan potassium 25 MG Oral Tablet
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 152.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 65.4 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 86.0 mm[Hg]
+- Systolic Blood Pressure: 127.0 mm[Hg]
+- Heart rate: 89.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 106092 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 639 Thompson Terrace
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Angelica442 Harvey63, Gender: F, DOB: 1971-08-09, SSN: 999-94-2483
+
+            Encounter: ambulatory, from 2025-05-05T17:09:08Z to 2025-05-05T20:29:24Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+            

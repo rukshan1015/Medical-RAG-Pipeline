@@ -1,0 +1,1516 @@
+Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17
+            ------------------------------------------------------------
+                        Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: inpatient, from 1989-03-13T21:44:13Z to 1989-03-15T10:44:57Z
+
+            Conditions: 
+- History of appendectomy (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: emergency, from 1994-03-20T21:44:13Z to 1994-03-20T22:44:13Z
+
+            Conditions: 
+- Chronic pain (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: emergency, from 1994-04-26T21:44:13Z to 1994-04-26T22:44:13Z
+
+            Conditions: 
+- Chronic intractable migraine without aura (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: emergency, from 1994-11-28T21:44:13Z to 1994-11-28T22:44:13Z
+
+            Conditions: 
+- Impacted molars (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: wellness, from 1998-02-09T21:44:13Z to 1998-02-09T22:20:14Z
+
+            Conditions: 
+- Educated to high school level (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: wellness, from 1999-02-15T21:44:13Z to 1999-02-15T22:29:49Z
+
+            Conditions: 
+- Has a criminal record (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2007-04-08T21:44:13Z to 2007-04-08T22:48:37Z
+
+            Conditions: 
+- Dependent drug abuse (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: emergency, from 2008-04-01T22:48:37Z to 2008-04-01T23:48:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2012-11-21T16:44:13Z to 2012-11-21T16:59:13Z
+
+            Conditions: 
+- Past pregnancy history of miscarriage (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2013-01-14T21:44:13Z to 2013-01-14T22:26:00Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: wellness, from 2014-03-03T21:44:13Z to 2014-03-03T22:32:21Z
+
+            Conditions: 
+- Full-time employment (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: inpatient, from 2015-02-20T22:55:51Z to 2015-02-21T22:55:51Z
+
+            Conditions: 
+- History of tubal ligation (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2015-11-16T21:44:13Z to 2015-11-16T22:02:36Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2016-02-15T21:44:13Z to 2016-02-15T21:59:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2016-05-16T21:44:13Z to 2016-05-16T21:59:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2016-08-15T21:44:13Z to 2016-08-15T22:02:12Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2016-11-14T21:44:13Z to 2016-11-14T22:03:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2017-02-13T21:44:13Z to 2017-02-13T22:02:35Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: wellness, from 2017-03-06T21:44:13Z to 2017-03-06T22:22:22Z
+
+            Conditions: 
+- Body mass index 30+ - obesity (finding)
+- Stress (finding)
+            Medications: None
+            Observations: 
+- Body Height: 170.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 88.1 kg
+- Body mass index (BMI) [Ratio]: 30.2 kg/m2
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 125.0 mm[Hg]
+- Heart rate: 84.0 /min
+- Respiratory rate: 14.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 158.3 mg/dL
+- Triglycerides: 110.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 79.0 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 57.3 mg/dL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 36123 /a
+- Primary insurance: None/uninsured
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 165 Nienow Pathway
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2017-03-13T21:44:13Z to 2017-03-13T22:55:05Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2017-04-12T22:55:05Z to 2017-04-13T00:08:03Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2017-05-15T21:44:13Z to 2017-05-15T21:59:55Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2017-08-14T21:44:13Z to 2017-08-14T22:01:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: emergency, from 2017-09-16T00:08:03Z to 2017-09-16T11:08:03Z
+
+            Conditions: 
+- Overdose (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2017-09-25T21:44:13Z to 2017-09-25T22:22:34Z
+
+            Conditions: 
+- Medication review due (situation)
+- Part-time employment (finding)
+- Social isolation (finding)
+            Medications: None
+            Observations: 
+- Body Height: 170.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 83.5 kg
+- Body mass index (BMI) [Ratio]: 28.6 kg/m2
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 121.0 mm[Hg]
+- Heart rate: 63.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 36123 /a
+- Primary insurance: None/uninsured
+- Employment status - current: Part-time or temporary work
+- Highest level of education: High school diploma or GED
+- Address: 165 Nienow Pathway
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2017-09-30T11:08:03Z to 2017-09-30T12:29:35Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2017-10-02T21:44:13Z to 2017-10-02T21:59:13Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2017-10-30T12:29:35Z to 2017-10-30T13:32:46Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2017-11-13T21:44:13Z to 2017-11-13T21:59:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2017-11-29T13:32:46Z to 2017-11-29T14:55:39Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2017-12-29T14:55:39Z to 2017-12-29T16:05:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2018-01-28T16:05:27Z to 2018-01-28T17:26:54Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2018-02-12T21:44:13Z to 2018-02-12T21:59:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: emergency, from 2018-04-03T17:26:54Z to 2018-04-03T19:26:54Z
+
+            Conditions: 
+- Overdose (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2018-04-24T19:26:54Z to 2018-04-24T20:53:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2018-05-14T21:44:13Z to 2018-05-14T22:01:42Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2018-05-24T20:53:00Z to 2018-05-24T22:13:01Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2018-06-23T22:13:01Z to 2018-06-23T23:35:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2018-07-23T23:35:26Z to 2018-07-24T00:50:57Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2018-08-13T21:44:13Z to 2018-08-13T22:02:25Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2018-11-12T21:44:13Z to 2018-11-12T21:59:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2019-02-11T21:44:13Z to 2019-02-11T21:59:58Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2019-04-04T00:50:57Z to 2019-04-04T02:03:49Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2019-05-04T02:03:49Z to 2019-05-04T03:29:17Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2019-05-13T21:44:13Z to 2019-05-13T22:03:39Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2019-06-03T03:29:17Z to 2019-06-03T04:48:49Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2019-08-12T21:44:13Z to 2019-08-12T22:00:24Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: inpatient, from 2019-10-09T04:48:49Z to 2019-10-10T04:48:49Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 6.0 {score}
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2019-11-11T21:44:13Z to 2019-11-11T21:59:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: wellness, from 2019-12-23T21:44:13Z to 2019-12-23T22:26:18Z
+
+            Conditions: 
+- Full-time employment (finding)
+- Stress (finding)
+            Medications: None
+            Observations: 
+- Body Height: 170.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 84.5 kg
+- Body mass index (BMI) [Ratio]: 29.0 kg/m2
+- Diastolic Blood Pressure: 73.0 mm[Hg]
+- Systolic Blood Pressure: 124.0 mm[Hg]
+- Heart rate: 60.0 /min
+- Respiratory rate: 14.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 6.4 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.7 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 38.1 %
+- MCV [Entitic volume] by Automated count: 87.0 fL
+- MCH [Entitic mass] by Automated count: 31.4 pg
+- MCHC [Mass/volume] by Automated count: 35.3 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 44.4 fL
+- Platelets [#/volume] in Blood by Automated count: 245.6 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 256.7 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.6 fL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 36123 /a
+- Primary insurance: None/uninsured
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 165 Nienow Pathway
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Hep A  adult
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2020-01-06T21:44:13Z to 2020-01-07T00:02:35Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2020-02-10T21:44:13Z to 2020-02-10T21:59:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2020-04-05T21:01:48Z to 2020-04-05T21:19:07Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Measurement of respiratory function (procedure): code 23426006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: urgentcare, from 2020-04-13T21:44:13Z to 2020-04-13T22:23:26Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 170.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 85.2 kg
+- Body mass index (BMI) [Ratio]: 29.2 kg/m2
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 120.0 mm[Hg]
+- Heart rate: 83.0 /min
+- Respiratory rate: 13.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 156.2 mg/dL
+- Triglycerides: 150.0 mg/dL
+- Low Density Lipoprotein Cholesterol: 73.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 52.5 mg/dL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Child care
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 36123 /a
+- Primary insurance: None/uninsured
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 165 Nienow Pathway
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: I choose not to answer this question
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 6.0 {score}
+- Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 15.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2020-04-20T21:44:13Z to 2020-04-20T21:59:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2020-05-11T21:44:13Z to 2020-05-11T22:02:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2020-05-28T04:48:49Z to 2020-05-28T06:12:47Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2020-08-10T21:44:13Z to 2020-08-10T21:59:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2020-11-09T21:44:13Z to 2020-11-09T22:02:01Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2021-02-08T21:44:13Z to 2021-02-08T22:03:20Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: emergency, from 2021-02-13T06:12:47Z to 2021-02-13T08:12:47Z
+
+            Conditions: 
+- Overdose (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2021-05-10T21:44:13Z to 2021-05-10T22:03:04Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2021-08-09T21:44:13Z to 2021-08-09T22:03:20Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2021-11-08T21:44:13Z to 2021-11-08T21:59:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: inpatient, from 2021-11-15T21:44:13Z to 2021-11-21T21:44:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 5.0 {score}
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: wellness, from 2021-12-27T21:44:13Z to 2021-12-27T22:20:46Z
+
+            Conditions: 
+- Medication review due (situation)
+- Part-time employment (finding)
+            Medications: None
+            Observations: 
+- Body Height: 170.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 88.7 kg
+- Body mass index (BMI) [Ratio]: 30.4 kg/m2
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 105.0 mm[Hg]
+- Heart rate: 61.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 36123 /a
+- Primary insurance: None/uninsured
+- Employment status - current: Part-time or temporary work
+- Highest level of education: High school diploma or GED
+- Address: 165 Nienow Pathway
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+- Hep A  adult
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2022-01-10T21:44:13Z to 2022-01-11T00:34:42Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2022-02-07T21:44:13Z to 2022-02-07T21:59:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2022-02-20T21:44:13Z to 2022-02-20T23:12:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2022-03-22T23:12:13Z to 2022-03-23T00:35:03Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2022-04-22T00:35:03Z to 2022-04-22T01:41:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2022-05-09T21:44:13Z to 2022-05-09T21:59:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2022-08-08T21:44:13Z to 2022-08-08T21:59:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2022-11-07T21:44:13Z to 2022-11-07T21:59:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2022-12-25T01:41:56Z to 2022-12-25T02:58:18Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2023-02-06T21:44:13Z to 2023-02-06T21:59:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2023-05-08T21:44:13Z to 2023-05-08T21:59:23Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2023-08-07T21:44:13Z to 2023-08-07T22:03:17Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: emergency, from 2023-09-26T02:58:18Z to 2023-09-26T06:58:18Z
+
+            Conditions: 
+- Overdose (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2023-10-03T06:58:18Z to 2023-10-03T08:01:49Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2023-11-06T21:44:13Z to 2023-11-06T21:59:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2023-11-13T21:44:13Z to 2023-11-13T23:05:48Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2023-12-13T23:05:48Z to 2023-12-14T00:32:24Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: wellness, from 2024-01-01T21:44:13Z to 2024-01-01T22:33:17Z
+
+            Conditions: 
+- Full-time employment (finding)
+            Medications: None
+            Observations: 
+- Body Height: 170.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 88.9 kg
+- Body mass index (BMI) [Ratio]: 30.4 kg/m2
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 119.0 mm[Hg]
+- Heart rate: 61.0 /min
+- Respiratory rate: 13.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 216.8 mg/dL
+- Triglycerides: 124.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 132.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 59.7 mg/dL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Child care
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 36123 /a
+- Primary insurance: None/uninsured
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 165 Nienow Pathway
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2024-01-15T21:44:13Z to 2024-01-16T04:29:48Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2024-01-22T21:44:13Z to 2024-01-22T22:59:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2024-02-05T21:44:13Z to 2024-02-05T22:00:25Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: ambulatory, from 2024-02-21T22:59:06Z to 2024-02-22T00:10:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2024-05-06T21:44:13Z to 2024-05-06T22:03:33Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2024-08-05T21:44:13Z to 2024-08-05T21:59:44Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: inpatient, from 2024-10-12T00:10:10Z to 2024-10-15T00:10:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2024-11-04T21:44:13Z to 2024-11-04T22:02:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2025-02-03T21:44:13Z to 2025-02-03T21:59:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2025-05-05T21:44:13Z to 2025-05-05T21:59:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Francisca486 Barrows492, Gender: F, DOB: 1979-12-17, SSN: 999-83-5514
+
+            Encounter: outpatient, from 2025-08-04T21:44:13Z to 2025-08-04T22:02:42Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+            

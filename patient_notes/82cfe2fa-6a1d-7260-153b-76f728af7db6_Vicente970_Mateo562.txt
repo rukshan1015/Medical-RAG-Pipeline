@@ -1,0 +1,895 @@
+Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27
+            ------------------------------------------------------------
+                        Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: wellness, from 1988-05-20T22:12:33Z to 1988-05-20T22:45:39Z
+
+            Conditions: 
+- Received higher education (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: wellness, from 1992-05-29T22:12:33Z to 1992-05-29T22:44:07Z
+
+            Conditions: 
+- Body mass index 30+ - obesity (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: wellness, from 2001-06-08T22:12:33Z to 2001-06-08T23:11:39Z
+
+            Conditions: 
+- Prediabetes (finding)
+- Anemia (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: wellness, from 2012-04-06T22:12:33Z to 2012-04-06T22:45:32Z
+
+            Conditions: 
+- Full-time employment (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: wellness, from 2016-04-15T22:12:33Z to 2016-04-15T23:04:56Z
+
+            Conditions: 
+- Medication review due (situation)
+- Stress (finding)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.1 %
+- Body Height: 170.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 86.2 kg
+- Body mass index (BMI) [Ratio]: 29.6 kg/m2
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 122.0 mm[Hg]
+- Heart rate: 79.0 /min
+- Respiratory rate: 16.0 /min
+- Glucose [Mass/volume] in Blood: 72.3 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 7.9 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 9.4 mg/dL
+- Sodium [Moles/volume] in Blood: 140.5 mmol/L
+- Potassium [Moles/volume] in Blood: 4.7 mmol/L
+- Chloride [Moles/volume] in Blood: 105.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 26.8 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 161.9 mg/dL
+- Triglycerides: 136.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 74.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 60.4 mg/dL
+- Leukocytes [#/volume] in Blood by Automated count: 3.6 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.3 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.4 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 49.9 %
+- MCV [Entitic volume] by Automated count: 90.7 fL
+- MCH [Entitic mass] by Automated count: 27.1 pg
+- MCHC [Mass/volume] by Automated count: 33.2 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 44.4 fL
+- Platelets [#/volume] in Blood by Automated count: 304.6 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 194.5 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.5 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Phone
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 8343 /a
+- Primary insurance: Medicaid
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 148 Herzog Heights Unit 89
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: Yes
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: ambulatory, from 2016-04-29T22:12:33Z to 2016-04-30T00:44:16Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: ambulatory, from 2018-02-21T12:12:33Z to 2018-02-21T12:27:33Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: wellness, from 2018-04-20T22:12:33Z to 2018-04-20T22:52:20Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Body Height: 170.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 89.6 kg
+- Body mass index (BMI) [Ratio]: 30.8 kg/m2
+- Diastolic Blood Pressure: 72.0 mm[Hg]
+- Systolic Blood Pressure: 122.0 mm[Hg]
+- Heart rate: 98.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 86.1 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 7.6 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 9.2 mg/dL
+- Sodium [Moles/volume] in Blood: 143.2 mmol/L
+- Potassium [Moles/volume] in Blood: 5.0 mmol/L
+- Chloride [Moles/volume] in Blood: 107.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 25.8 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care (Medical  Dental  Mental Health  Vision)
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 8343 /a
+- Primary insurance: Medicaid
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 148 Herzog Heights Unit 89
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Total score [AUDIT-C]: 0.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: emergency, from 2019-02-12T22:12:33Z to 2019-02-12T23:12:33Z
+
+            Conditions: 
+- Injury of neck (disorder)
+- Whiplash injury to neck (disorder)
+            Medications: 
+- Naproxen sodium 220 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: snf, from 2019-02-12T22:12:33Z to 2019-02-25T22:27:33Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- History AND physical examination (procedure): code 63332003
+- Initial patient assessment (procedure): code 315639002
+- Development of individualized plan of care (procedure): code 370789001
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Care regimes assessment (procedure): code 392091000
+- Pre-discharge assessment (procedure): code 225386006
+- Discharge from hospital (procedure): code 308283009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: wellness, from 2020-03-27T22:12:33Z to 2020-03-27T23:01:22Z
+
+            Conditions: 
+- Social isolation (finding)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Body Height: 170.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 82.5 kg
+- Body mass index (BMI) [Ratio]: 28.3 kg/m2
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 128.0 mm[Hg]
+- Heart rate: 85.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 65.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 13.9 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.0 mg/dL
+- Calcium [Mass/volume] in Blood: 9.9 mg/dL
+- Sodium [Moles/volume] in Blood: 139.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.0 mmol/L
+- Chloride [Moles/volume] in Blood: 102.5 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.0 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 248.8 mg/dL
+- Triglycerides: 114.1 mg/dL
+- Low Density Lipoprotein Cholesterol: 168.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 57.8 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 8343 /a
+- Primary insurance: Medicaid
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 148 Herzog Heights Unit 89
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: I choose not to answer this question
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- zoster vaccine  live
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: ambulatory, from 2020-04-03T22:12:33Z to 2020-04-03T22:47:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Colonoscopy (procedure): code 73761001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: ambulatory, from 2020-04-10T22:12:33Z to 2020-04-11T01:47:33Z
+
+            Conditions: 
+- Primary dental caries (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure): code 1259293006
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: ambulatory, from 2020-08-02T09:12:33Z to 2020-08-02T09:27:33Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: outpatient, from 2021-03-19T22:12:33Z to 2021-03-19T22:27:33Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: wellness, from 2021-04-02T22:12:33Z to 2021-04-02T22:53:38Z
+
+            Conditions: 
+- Medication review due (situation)
+- Part-time employment (finding)
+- Refugee (person)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 170.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 84.7 kg
+- Body mass index (BMI) [Ratio]: 29.1 kg/m2
+- Diastolic Blood Pressure: 72.0 mm[Hg]
+- Systolic Blood Pressure: 124.0 mm[Hg]
+- Heart rate: 67.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 91.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 9.4 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 10.1 mg/dL
+- Sodium [Moles/volume] in Blood: 138.5 mmol/L
+- Potassium [Moles/volume] in Blood: 4.9 mmol/L
+- Chloride [Moles/volume] in Blood: 102.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.2 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: Yes
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Very much
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care (Medical  Dental  Mental Health  Vision)
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 8343 /a
+- Primary insurance: Medicaid
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 148 Herzog Heights Unit 89
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- zoster vaccine  live
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: outpatient, from 2021-04-09T22:12:33Z to 2021-04-09T22:27:33Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: ambulatory, from 2021-04-16T22:12:33Z to 2021-04-17T02:02:17Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: wellness, from 2022-04-08T22:12:33Z to 2022-04-08T22:55:06Z
+
+            Conditions: 
+- Full-time employment (finding)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.8 %
+- Body Height: 170.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 86.9 kg
+- Body mass index (BMI) [Ratio]: 29.9 kg/m2
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 125.0 mm[Hg]
+- Heart rate: 64.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 78.0 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 14.2 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 9.7 mg/dL
+- Sodium [Moles/volume] in Blood: 139.0 mmol/L
+- Potassium [Moles/volume] in Blood: 4.0 mmol/L
+- Chloride [Moles/volume] in Blood: 109.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.6 mmol/L
+- Leukocytes [#/volume] in Blood by Automated count: 6.3 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.4 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.5 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 45.5 %
+- MCV [Entitic volume] by Automated count: 89.1 fL
+- MCH [Entitic mass] by Automated count: 31.3 pg
+- MCHC [Mass/volume] by Automated count: 34.0 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 45.8 fL
+- Platelets [#/volume] in Blood by Automated count: 163.7 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 155.4 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.7 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: Yes
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 8343 /a
+- Primary insurance: Medicaid
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 148 Herzog Heights Unit 89
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 8.0 {score}
+- Total score [DAST-10]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: ambulatory, from 2022-04-22T22:12:33Z to 2022-04-23T02:10:10Z
+
+            Conditions: 
+- Fractured dental filling (finding)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure): code 1259293006
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: ambulatory, from 2022-06-25T05:12:33Z to 2022-06-25T05:27:33Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: wellness, from 2023-04-14T22:12:33Z to 2023-04-14T22:52:09Z
+
+            Conditions: 
+- Medication review due (situation)
+- Not in labor force (finding)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Body Height: 170.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 89.1 kg
+- Body mass index (BMI) [Ratio]: 30.6 kg/m2
+- Diastolic Blood Pressure: 72.0 mm[Hg]
+- Systolic Blood Pressure: 124.0 mm[Hg]
+- Heart rate: 69.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 89.2 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 7.0 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 9.7 mg/dL
+- Sodium [Moles/volume] in Blood: 143.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.7 mmol/L
+- Chloride [Moles/volume] in Blood: 105.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.5 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 150.2 mg/dL
+- Triglycerides: 138.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 68.8 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.8 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: Yes
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 8343 /a
+- Primary insurance: Medicaid
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: More than high school
+- Address: 148 Herzog Heights Unit 89
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: ambulatory, from 2023-04-28T22:12:33Z to 2023-04-29T01:08:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: wellness, from 2024-04-19T22:12:33Z to 2024-04-19T22:44:34Z
+
+            Conditions: 
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Body Height: 170.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 91.0 kg
+- Body mass index (BMI) [Ratio]: 31.3 kg/m2
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 128.0 mm[Hg]
+- Heart rate: 79.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 77.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 19.7 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 8.7 mg/dL
+- Sodium [Moles/volume] in Blood: 143.4 mmol/L
+- Potassium [Moles/volume] in Blood: 4.6 mmol/L
+- Chloride [Moles/volume] in Blood: 104.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 26.7 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: Yes
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 8343 /a
+- Primary insurance: Medicaid
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: More than high school
+- Address: 148 Herzog Heights Unit 89
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: ambulatory, from 2024-05-03T22:12:33Z to 2024-05-04T01:59:05Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: ambulatory, from 2025-04-03T22:47:45Z to 2025-04-03T23:14:31Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Colonoscopy (procedure): code 73761001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: wellness, from 2025-04-25T22:12:33Z to 2025-04-25T23:01:58Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+- Stress (finding)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.1 %
+- Body Height: 170.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 91.0 kg
+- Body mass index (BMI) [Ratio]: 31.3 kg/m2
+- Diastolic Blood Pressure: 72.0 mm[Hg]
+- Systolic Blood Pressure: 126.0 mm[Hg]
+- Heart rate: 77.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 98.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 18.9 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 8.7 mg/dL
+- Sodium [Moles/volume] in Blood: 141.4 mmol/L
+- Potassium [Moles/volume] in Blood: 5.1 mmol/L
+- Chloride [Moles/volume] in Blood: 108.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 23.2 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: Yes
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 8343 /a
+- Primary insurance: Medicaid
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 148 Herzog Heights Unit 89
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 4.0 {score}
+- Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 4.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: ambulatory, from 2025-05-09T22:12:33Z to 2025-05-10T02:24:51Z
+
+            Conditions: 
+- Leaking dental filling (finding)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure): code 1259293006
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Vicente970 Mateo562, Gender: M, DOB: 1970-03-27, SSN: 999-83-1979
+
+            Encounter: emergency, from 2025-08-31T22:12:33Z to 2025-08-31T23:12:33Z
+
+            Conditions: 
+- Sprain (morphologic abnormality)
+- Sprain of wrist (disorder)
+            Medications: 
+- Naproxen sodium 220 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+            

@@ -1,0 +1,243 @@
+Patient: Sade71 Heller342, Gender: F, DOB: 2024-04-15
+            ------------------------------------------------------------
+                        Patient: Sade71 Heller342, Gender: F, DOB: 2024-04-15, SSN: 999-15-8655
+
+            Encounter: wellness, from 2024-04-15T05:36:44Z to 2024-04-15T05:51:44Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 51.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 3.2 kg
+- Weight-for-length Per age and sex: 1.3 %
+- Head Occipital-frontal circumference Percentile: 52.4 %
+- Head Occipital-frontal circumference: 34.8 cm
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 127.0 mm[Hg]
+- Heart rate: 68.0 /min
+- Respiratory rate: 13.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 10.3 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.5 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.1 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 49.4 %
+- MCV [Entitic volume] by Automated count: 86.7 fL
+- MCH [Entitic mass] by Automated count: 28.4 pg
+- MCHC [Mass/volume] by Automated count: 35.0 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 44.6 fL
+- Platelets [#/volume] in Blood by Automated count: 165.4 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 498.4 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.8 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Sade71 Heller342, Gender: F, DOB: 2024-04-15, SSN: 999-15-8655
+
+            Encounter: wellness, from 2024-05-20T05:36:44Z to 2024-05-20T05:51:44Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 55.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 3.8 kg
+- Weight-for-length Per age and sex: 0.6 %
+- Head Occipital-frontal circumference Percentile: 52.4 %
+- Head Occipital-frontal circumference: 38.1 cm
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 107.0 mm[Hg]
+- Heart rate: 64.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Sade71 Heller342, Gender: F, DOB: 2024-04-15, SSN: 999-15-8655
+
+            Encounter: wellness, from 2024-07-22T05:36:44Z to 2024-07-22T05:51:44Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 60.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 5.0 kg
+- Weight-for-length Per age and sex: 0.2 %
+- Head Occipital-frontal circumference Percentile: 52.4 %
+- Head Occipital-frontal circumference: 40.6 cm
+- Diastolic Blood Pressure: 89.0 mm[Hg]
+- Systolic Blood Pressure: 116.0 mm[Hg]
+- Heart rate: 66.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- rotavirus  monovalent
+- IPV
+- DTaP
+- Pneumococcal conjugate PCV 13
+            
+
+            Patient: Sade71 Heller342, Gender: F, DOB: 2024-04-15, SSN: 999-15-8655
+
+            Encounter: wellness, from 2024-09-23T05:36:44Z to 2024-09-23T05:51:44Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 64.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 6.0 kg
+- Weight-for-length Per age and sex: 3.2 %
+- Head Occipital-frontal circumference Percentile: 52.4 %
+- Head Occipital-frontal circumference: 42.2 cm
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 108.0 mm[Hg]
+- Heart rate: 98.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- rotavirus  monovalent
+- IPV
+- DTaP
+- Pneumococcal conjugate PCV 13
+            
+
+            Patient: Sade71 Heller342, Gender: F, DOB: 2024-04-15, SSN: 999-15-8655
+
+            Encounter: wellness, from 2024-12-23T05:36:44Z to 2024-12-23T05:51:44Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 69.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 7.3 kg
+- Weight-for-length Per age and sex: 8.2 %
+- Head Occipital-frontal circumference Percentile: 52.4 %
+- Head Occipital-frontal circumference: 43.8 cm
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 122.0 mm[Hg]
+- Heart rate: 70.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- IPV
+- Influenza  seasonal  injectable  preservative free
+- DTaP
+- Pneumococcal conjugate PCV 13
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Sade71 Heller342, Gender: F, DOB: 2024-04-15, SSN: 999-15-8655
+
+            Encounter: outpatient, from 2025-01-10T05:36:44Z to 2025-01-10T05:51:44Z
+
+            Conditions: 
+- Otitis media (disorder)
+            Medications: 
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sade71 Heller342, Gender: F, DOB: 2024-04-15, SSN: 999-15-8655
+
+            Encounter: wellness, from 2025-03-24T05:36:44Z to 2025-03-24T05:51:44Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 73.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 8.3 kg
+- Weight-for-length Per age and sex: 12.3 %
+- Head Occipital-frontal circumference Percentile: 52.4 %
+- Head Occipital-frontal circumference: 45.0 cm
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 114.0 mm[Hg]
+- Heart rate: 80.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sade71 Heller342, Gender: F, DOB: 2024-04-15, SSN: 999-15-8655
+
+            Encounter: wellness, from 2025-06-23T05:36:44Z to 2025-06-23T05:51:44Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 76.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 9.0 kg
+- Weight-for-length Per age and sex: 8.4 %
+- Head Occipital-frontal circumference Percentile: 52.4 %
+- Head Occipital-frontal circumference: 45.8 cm
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 110.0 mm[Hg]
+- Heart rate: 99.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- varicella
+- MMR
+- Pneumococcal conjugate PCV 13
+- Hep A  ped/adol  2 dose
+            
+
+            Patient: Sade71 Heller342, Gender: F, DOB: 2024-04-15, SSN: 999-15-8655
+
+            Encounter: wellness, from 2025-09-22T05:36:44Z to 2025-09-22T05:51:44Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 79.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 9.7 kg
+- Weight-for-length Per age and sex: 10.3 %
+- Head Occipital-frontal circumference Percentile: 52.4 %
+- Head Occipital-frontal circumference: 46.5 cm
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 113.0 mm[Hg]
+- Heart rate: 79.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- DTaP
+            
+            

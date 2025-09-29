@@ -1,0 +1,2544 @@
+Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04
+            ------------------------------------------------------------
+                        Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: wellness, from 1967-12-29T15:56:52Z to 1967-12-29T16:47:25Z
+
+            Conditions: 
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: wellness, from 1989-11-10T15:56:52Z to 1989-11-10T16:33:39Z
+
+            Conditions: 
+- Prediabetes (finding)
+- Anemia (disorder)
+- Body mass index 30+ - obesity (finding)
+- Full-time employment (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 1989-11-17T15:56:52Z to 1989-11-17T17:11:28Z
+
+            Conditions: None
+            Medications: 
+- Vitamin B12 5 MG/ML Injectable Solution
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: wellness, from 1993-11-19T15:56:52Z to 1993-11-19T16:45:10Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 1997-06-19T18:56:52Z to 1997-06-19T19:11:52Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: wellness, from 1997-11-28T15:56:52Z to 1997-11-28T16:34:46Z
+
+            Conditions: 
+- Social isolation (finding)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %
+- Body Height: 172.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 87.4 kg
+- Body mass index (BMI) [Ratio]: 29.3 kg/m2
+- Diastolic Blood Pressure: 68.0 mm[Hg]
+- Systolic Blood Pressure: 94.0 mm[Hg]
+- Heart rate: 76.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 68.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 15.4 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 8.7 mg/dL
+- Sodium [Moles/volume] in Blood: 138.3 mmol/L
+- Potassium [Moles/volume] in Blood: 5.2 mmol/L
+- Chloride [Moles/volume] in Blood: 108.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.1 mmol/L
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 144162 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 955 Cronin Gateway Apt 27
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [AUDIT-C]: 3.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: wellness, from 1999-11-05T15:56:52Z to 1999-11-05T16:44:31Z
+
+            Conditions: 
+- Medication review due (situation)
+- Part-time employment (finding)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Body Height: 172.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 91.0 kg
+- Body mass index (BMI) [Ratio]: 30.5 kg/m2
+- Diastolic Blood Pressure: 73.0 mm[Hg]
+- Systolic Blood Pressure: 101.0 mm[Hg]
+- Heart rate: 99.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 84.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 19.6 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 9.4 mg/dL
+- Sodium [Moles/volume] in Blood: 140.6 mmol/L
+- Potassium [Moles/volume] in Blood: 3.9 mmol/L
+- Chloride [Moles/volume] in Blood: 108.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 20.3 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 185.4 mg/dL
+- Triglycerides: 111.4 mg/dL
+- Low Density Lipoprotein Cholesterol: 106.2 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 57.0 mg/dL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: No
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 144162 /a
+- Primary insurance: Private insurance
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 955 Cronin Gateway Apt 27
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 1999-11-12T15:56:52Z to 1999-11-12T16:41:35Z
+
+            Conditions: 
+- Polyp of colon (disorder)
+            Medications: None
+            Observations: 
+- Polyp size greatest dimension: 5.3 mm
+- Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay --1st specimen: 24.6 ng/mL
+            Procedures: 
+- Colonoscopy (procedure): code 73761001
+- Screening for occult blood in feces (procedure): code 104435004
+- Rectal polypectomy (procedure): code 274031008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 1999-11-19T15:56:52Z to 1999-11-19T19:12:30Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2000-08-27T19:56:52Z to 2000-08-27T20:13:54Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Plain X-ray of chest (procedure): code 399208008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: urgentcare, from 2000-09-08T15:56:52Z to 2000-09-08T16:27:07Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Body Height: 172.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 84.8 kg
+- Body mass index (BMI) [Ratio]: 28.5 kg/m2
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 90.0 mm[Hg]
+- Heart rate: 73.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 97.0 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 10.3 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 10.1 mg/dL
+- Sodium [Moles/volume] in Blood: 140.8 mmol/L
+- Potassium [Moles/volume] in Blood: 4.9 mmol/L
+- Chloride [Moles/volume] in Blood: 107.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 20.3 mmol/L
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: Yes
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: I choose not to answer this question
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 144162 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 955 Cronin Gateway Apt 27
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: wellness, from 2000-11-10T15:56:52Z to 2000-11-10T16:37:54Z
+
+            Conditions: 
+- Medication review due (situation)
+- Limited social contact (finding)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Body Height: 172.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 83.3 kg
+- Body mass index (BMI) [Ratio]: 27.9 kg/m2
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 82.0 mm[Hg]
+- Heart rate: 66.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 86.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 15.0 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.3 mg/dL
+- Calcium [Mass/volume] in Blood: 9.7 mg/dL
+- Sodium [Moles/volume] in Blood: 137.3 mmol/L
+- Potassium [Moles/volume] in Blood: 4.4 mmol/L
+- Chloride [Moles/volume] in Blood: 108.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 25.5 mmol/L
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 144162 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 955 Cronin Gateway Apt 27
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2001-02-14T16:26:35Z to 2001-02-14T17:04:19Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Colonoscopy (procedure): code 73761001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2001-03-29T16:56:52Z to 2001-03-29T17:11:52Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: wellness, from 2001-11-16T15:56:52Z to 2001-11-16T16:54:17Z
+
+            Conditions: 
+- Medication review due (situation)
+- Victim of intimate partner abuse (finding)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.1 %
+- Body Height: 172.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 84.3 kg
+- Body mass index (BMI) [Ratio]: 28.3 kg/m2
+- Diastolic Blood Pressure: 69.0 mm[Hg]
+- Systolic Blood Pressure: 90.0 mm[Hg]
+- Heart rate: 66.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 89.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 10.3 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.0 mg/dL
+- Calcium [Mass/volume] in Blood: 9.1 mg/dL
+- Sodium [Moles/volume] in Blood: 138.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.3 mmol/L
+- Chloride [Moles/volume] in Blood: 107.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 22.9 mmol/L
+- Leukocytes [#/volume] in Blood by Automated count: 6.7 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.3 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.9 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 48.0 %
+- MCV [Entitic volume] by Automated count: 86.0 fL
+- MCH [Entitic mass] by Automated count: 31.5 pg
+- MCHC [Mass/volume] by Automated count: 33.6 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 40.2 fL
+- Platelets [#/volume] in Blood by Automated count: 412.5 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 209.2 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.3 fL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: Yes
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: I choose not to answer this question
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 144162 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: I choose not to answer this question
+- Address: 955 Cronin Gateway Apt 27
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 5.0 {score}
+- Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 25.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2001-11-30T15:56:52Z to 2001-11-30T23:08:56Z
+
+            Conditions: 
+- Gingival disease (disorder)
+- Primary dental caries (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure): code 1259293006
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: wellness, from 2002-11-22T15:56:52Z to 2002-11-22T16:45:22Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 172.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 86.5 kg
+- Body mass index (BMI) [Ratio]: 29.0 kg/m2
+- Diastolic Blood Pressure: 68.0 mm[Hg]
+- Systolic Blood Pressure: 95.0 mm[Hg]
+- Heart rate: 78.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 91.5 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 14.3 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 8.7 mg/dL
+- Sodium [Moles/volume] in Blood: 137.6 mmol/L
+- Potassium [Moles/volume] in Blood: 4.4 mmol/L
+- Chloride [Moles/volume] in Blood: 106.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.9 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 133.8 mg/dL
+- Triglycerides: 142.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 45.4 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 59.9 mg/dL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: I choose not to answer this question
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 144162 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 955 Cronin Gateway Apt 27
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2003-05-14T20:56:52Z to 2003-05-14T21:11:52Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: 
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: wellness, from 2003-11-28T15:56:52Z to 2003-11-28T16:33:44Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Body Height: 172.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 88.8 kg
+- Body mass index (BMI) [Ratio]: 29.8 kg/m2
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 100.0 mm[Hg]
+- Heart rate: 65.0 /min
+- Respiratory rate: 12.0 /min
+- Glucose [Mass/volume] in Blood: 89.2 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 9.7 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 8.7 mg/dL
+- Sodium [Moles/volume] in Blood: 141.2 mmol/L
+- Potassium [Moles/volume] in Blood: 3.8 mmol/L
+- Chloride [Moles/volume] in Blood: 106.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.4 mmol/L
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 144162 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 955 Cronin Gateway Apt 27
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2004-10-26T15:56:52Z to 2004-10-26T17:06:31Z
+
+            Conditions: 
+- Chronic congestive heart failure (disorder)
+            Medications: None
+            Observations: 
+- Symptom: Dyspnea on exertion (finding)
+- Symptom: Dyspnea (finding)
+- Symptom: Paroxysmal dyspnea (finding)
+- Symptom: Orthopnea (finding)
+- Symptom: Edema (finding)
+- Symptom: Respiratory crackles (finding)
+- Body Weight: 90.9 kg
+- NT-proBNP: 1654.9 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 8.7 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 17.4 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 50.7 %
+- MCV [Entitic volume] by Automated count: 86.4 fL
+- MCH [Entitic mass] by Automated count: 31.4 pg
+- MCHC [Mass/volume] by Automated count: 33.1 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.9 %
+- Platelets [#/volume] in Blood by Automated count: 219.6 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 93.3 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 18.9 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.9 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 141.1 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 3.9 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 107.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 27.2 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 117.9 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.9 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.4 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.6 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 58.1 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 5.2 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 5.4 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.2 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 119.4 mg/dL
+- Triglycerides: 134.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 36.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 55.9 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 108.9 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 120.2 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 419.1 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 30.2 %
+- Functional capacity NYHA: Class I
+- Objective assessment of cardiovascular disease NYHA: Objective evidence of minimal cardiovascular disease
+            Procedures: 
+- Electrocardiographic procedure (procedure): code 29303009
+- Cardiovascular stress testing (procedure): code 76746007
+- Plain X-ray of chest (procedure): code 399208008
+- Assessment using New York Heart Association Classification (procedure): code 762998009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2004-11-15T17:02:41Z to 2004-11-15T17:32:41Z
+
+            Conditions: None
+            Medications: 
+- Furosemide 40 MG Oral Tablet
+            Observations: 
+- Left ventricular Ejection fraction: 64.0 %
+- Glucose [Mass/volume] in Blood: 88.3 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 13.3 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 8.6 mg/dL
+- Sodium [Moles/volume] in Blood: 141.5 mmol/L
+- Potassium [Moles/volume] in Blood: 5.2 mmol/L
+- Chloride [Moles/volume] in Blood: 108.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 26.3 mmol/L
+            Procedures: 
+- Echocardiography (procedure): code 40701008
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: wellness, from 2004-12-03T15:56:52Z to 2004-12-03T16:35:42Z
+
+            Conditions: 
+- Hyperlipidemia (disorder)
+- Part-time employment (finding)
+            Medications: 
+- Furosemide 40 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Cholesterol [Mass/volume] in Serum or Plasma: 265.3 mg/dL
+- Triglycerides: 233.0 mg/dL
+- Low Density Lipoprotein Cholesterol: 171.4 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 45.8 mg/dL
+- Glucose [Mass/volume] in Blood: 76.6 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 19.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 2.7 mg/dL
+- Calcium [Mass/volume] in Blood: 8.5 mg/dL
+- Sodium [Moles/volume] in Blood: 140.4 mmol/L
+- Potassium [Moles/volume] in Blood: 4.4 mmol/L
+- Chloride [Moles/volume] in Blood: 105.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 20.8 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 81.3 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.1 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.7 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.9 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.4 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 40.5 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 42.7 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 39.0 U/L
+- Body Height: 172.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 91.1 kg
+- Body mass index (BMI) [Ratio]: 30.5 kg/m2
+- Diastolic Blood Pressure: 65.0 mm[Hg]
+- Systolic Blood Pressure: 88.0 mm[Hg]
+- Heart rate: 65.0 /min
+- Respiratory rate: 16.0 /min
+- Glucose [Mass/volume] in Blood: 76.6 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 19.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 8.5 mg/dL
+- Sodium [Moles/volume] in Blood: 140.4 mmol/L
+- Potassium [Moles/volume] in Blood: 4.4 mmol/L
+- Chloride [Moles/volume] in Blood: 105.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 20.8 mmol/L
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 144162 /a
+- Primary insurance: Medicare
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 955 Cronin Gateway Apt 27
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2004-12-17T15:56:52Z to 2004-12-17T18:27:47Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2004-12-24T15:56:52Z to 2004-12-24T16:11:52Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2005-05-14T17:02:41Z to 2005-05-14T17:32:41Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Left ventricular Ejection fraction: 75.7 %
+- Glucose [Mass/volume] in Blood: 78.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 12.5 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 9.8 mg/dL
+- Sodium [Moles/volume] in Blood: 139.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.7 mmol/L
+- Chloride [Moles/volume] in Blood: 103.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 22.5 mmol/L
+            Procedures: 
+- Echocardiography (procedure): code 40701008
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2005-11-10T17:02:41Z to 2005-11-10T17:32:41Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Left ventricular Ejection fraction: 71.4 %
+- Glucose [Mass/volume] in Blood: 80.8 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 18.0 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 9.8 mg/dL
+- Sodium [Moles/volume] in Blood: 140.2 mmol/L
+- Potassium [Moles/volume] in Blood: 4.9 mmol/L
+- Chloride [Moles/volume] in Blood: 103.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 23.6 mmol/L
+            Procedures: 
+- Echocardiography (procedure): code 40701008
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: wellness, from 2005-12-09T15:56:52Z to 2005-12-09T16:29:34Z
+
+            Conditions: 
+- Full-time employment (finding)
+            Medications: 
+- Furosemide 40 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %
+- Body Height: 172.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 91.2 kg
+- Body mass index (BMI) [Ratio]: 30.6 kg/m2
+- Diastolic Blood Pressure: 64.0 mm[Hg]
+- Systolic Blood Pressure: 71.0 mm[Hg]
+- Heart rate: 68.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 97.1 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 16.2 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 9.1 mg/dL
+- Sodium [Moles/volume] in Blood: 136.4 mmol/L
+- Potassium [Moles/volume] in Blood: 4.2 mmol/L
+- Chloride [Moles/volume] in Blood: 102.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 23.4 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 173.9 mg/dL
+- Triglycerides: 107.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 96.9 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 55.5 mg/dL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: I choose not to answer this question
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 144162 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 955 Cronin Gateway Apt 27
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: Language other than English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2005-12-24T15:56:52Z to 2005-12-24T16:11:52Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 75.6 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 12.2 mg/dL
+- Creatinine [Mass/volume] in Blood: 3.1 mg/dL
+- Calcium [Mass/volume] in Blood: 9.0 mg/dL
+- Sodium [Moles/volume] in Blood: 142.7 mmol/L
+- Potassium [Moles/volume] in Blood: 4.3 mmol/L
+- Chloride [Moles/volume] in Blood: 101.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 26.4 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 85.4 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.9 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.1 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.7 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.6 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 117.3 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 24.0 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 28.0 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 161.1 mg/dL
+- Triglycerides: 168.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 123.9 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 44.9 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-02-14T17:04:19Z to 2006-02-14T17:42:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Colonoscopy (procedure): code 73761001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: emergency, from 2006-05-09T17:02:41Z to 2006-05-09T18:02:41Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Oxygen saturation in Arterial blood: 80.0 %
+- Body Weight: 91.2 kg
+- NT-proBNP: 1475.0 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 8.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.3 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.0 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 40.1 %
+- MCV [Entitic volume] by Automated count: 92.6 fL
+- MCH [Entitic mass] by Automated count: 30.9 pg
+- MCHC [Mass/volume] by Automated count: 33.4 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 15.1 %
+- Platelets [#/volume] in Blood by Automated count: 405.2 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 90.6 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 17.1 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.7 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 138.9 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.6 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 105.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 25.8 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 146.9 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.5 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 5.0 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 61.1 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 38.0 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 34.9 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.8 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 145.3 mg/dL
+- Triglycerides: 138.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 66.6 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 50.9 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 144.2 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 54.7 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 289.1 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 39.2 %
+            Procedures: 
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Plain X-ray of chest (procedure): code 399208008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: inpatient, from 2006-05-09T17:02:41Z to 2006-05-15T17:48:45Z
+
+            Conditions: None
+            Medications: 
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+            Observations: 
+- Left ventricular Ejection fraction: 85.0 %
+- Oxygen saturation in Arterial blood: 80.0 %
+- Body Weight: 91.2 kg
+- NT-proBNP: 1206.8 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 4.1 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.4 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.9 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 39.6 %
+- MCV [Entitic volume] by Automated count: 86.4 fL
+- MCH [Entitic mass] by Automated count: 31.4 pg
+- MCHC [Mass/volume] by Automated count: 34.6 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 15.3 %
+- Platelets [#/volume] in Blood by Automated count: 287.4 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 90.6 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 17.1 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.7 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 138.9 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.6 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 105.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 25.8 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 146.9 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 8.4 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.9 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.9 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 114.8 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 36.5 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 27.1 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.1 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 145.3 mg/dL
+- Triglycerides: 138.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 66.6 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 50.9 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 116.2 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 99.4 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 392.8 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 17.5 %
+- Oxygen saturation in Arterial blood: 80.0 %
+- Body Weight: 91.2 kg
+- NT-proBNP: 213.2 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 5.9 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.8 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 17.3 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 43.5 %
+- MCV [Entitic volume] by Automated count: 90.7 fL
+- MCH [Entitic mass] by Automated count: 31.3 pg
+- MCHC [Mass/volume] by Automated count: 31.5 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 15.4 %
+- Platelets [#/volume] in Blood by Automated count: 315.7 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 90.6 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 17.1 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.7 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 138.9 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.6 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 105.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 25.8 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 146.9 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.0 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.7 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.0 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 46.6 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 33.4 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 7.3 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.1 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 145.3 mg/dL
+- Triglycerides: 138.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 66.6 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 50.9 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 44.4 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 155.6 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 326.0 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 26.9 %
+- Oxygen saturation in Arterial blood: 80.0 %
+- Body Weight: 91.2 kg
+- NT-proBNP: 553.6 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 5.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.4 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.3 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 44.2 %
+- MCV [Entitic volume] by Automated count: 81.9 fL
+- MCH [Entitic mass] by Automated count: 28.6 pg
+- MCHC [Mass/volume] by Automated count: 34.6 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 12.9 %
+- Platelets [#/volume] in Blood by Automated count: 249.3 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 90.6 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 17.1 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.7 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 138.9 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.6 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 105.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 25.8 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 146.9 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.4 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.3 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.3 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 99.6 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 5.1 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 33.8 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.8 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 145.3 mg/dL
+- Triglycerides: 138.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 66.6 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 50.9 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 81.5 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 66.8 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 431.6 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 21.3 %
+- Oxygen saturation in Arterial blood: 85.0 %
+- Body Weight: 91.2 kg
+- NT-proBNP: 1086.1 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 10.1 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.6 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.8 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 42.8 %
+- MCV [Entitic volume] by Automated count: 91.0 fL
+- MCH [Entitic mass] by Automated count: 32.8 pg
+- MCHC [Mass/volume] by Automated count: 34.6 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.9 %
+- Platelets [#/volume] in Blood by Automated count: 257.8 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 68.6 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 7.2 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.2 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 9.2 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 140.2 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.0 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 107.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 28.6 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 87.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 8.0 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.0 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.5 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 91.4 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 39.8 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 11.3 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.7 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 137.5 mg/dL
+- Triglycerides: 134.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 49.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 61.2 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 39.9 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 103.1 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 368.8 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 38.1 %
+- Oxygen saturation in Arterial blood: 85.0 %
+- Body Weight: 91.2 kg
+- NT-proBNP: 1885.7 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 5.2 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.0 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 40.4 %
+- MCV [Entitic volume] by Automated count: 90.1 fL
+- MCH [Entitic mass] by Automated count: 26.8 pg
+- MCHC [Mass/volume] by Automated count: 33.1 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.0 %
+- Platelets [#/volume] in Blood by Automated count: 265.7 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 68.6 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 7.2 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.2 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 9.2 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 140.2 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.0 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 107.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 28.6 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 87.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.5 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.5 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.4 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 41.0 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 1.5 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 39.3 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.7 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 137.5 mg/dL
+- Triglycerides: 134.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 49.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 61.2 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 55.4 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 127.3 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 338.0 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 40.3 %
+- Oxygen saturation in Arterial blood: 85.0 %
+- Body Weight: 91.2 kg
+- NT-proBNP: 460.6 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 5.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 3.8 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 40.2 %
+- MCV [Entitic volume] by Automated count: 91.6 fL
+- MCH [Entitic mass] by Automated count: 31.6 pg
+- MCHC [Mass/volume] by Automated count: 31.7 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.7 %
+- Platelets [#/volume] in Blood by Automated count: 271.6 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 68.6 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 7.2 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.2 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 9.2 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 140.2 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.0 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 107.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 28.6 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 87.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 8.2 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.4 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.9 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 66.9 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 3.6 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 30.3 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.2 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 137.5 mg/dL
+- Triglycerides: 134.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 49.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 61.2 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 139.5 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 126.5 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 274.2 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 38.2 %
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Electrocardiographic procedure (procedure): code 29303009
+- Echocardiography (procedure): code 40701008
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Heart failure education (procedure): code 423475008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-05-16T17:48:45Z to 2006-05-16T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 64.0 mm[Hg]
+- Systolic Blood Pressure: 73.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-05-19T17:48:45Z to 2006-05-19T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 65.0 mm[Hg]
+- Systolic Blood Pressure: 86.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-05-20T17:48:45Z to 2006-05-20T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 65.0 mm[Hg]
+- Systolic Blood Pressure: 85.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-05-21T17:48:45Z to 2006-05-21T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 60.0 mm[Hg]
+- Systolic Blood Pressure: 86.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-05-22T17:48:45Z to 2006-05-22T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 57.0 mm[Hg]
+- Systolic Blood Pressure: 73.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-05-25T17:48:45Z to 2006-05-25T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 61.0 mm[Hg]
+- Systolic Blood Pressure: 83.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-05-26T17:48:45Z to 2006-05-26T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 66.0 mm[Hg]
+- Systolic Blood Pressure: 80.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-05-28T17:48:45Z to 2006-05-28T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 62.0 mm[Hg]
+- Systolic Blood Pressure: 84.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-05-29T17:48:45Z to 2006-05-29T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 65.0 mm[Hg]
+- Systolic Blood Pressure: 81.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-05-30T17:48:45Z to 2006-05-30T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 66.0 mm[Hg]
+- Systolic Blood Pressure: 76.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-05-31T17:48:45Z to 2006-05-31T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 57.0 mm[Hg]
+- Systolic Blood Pressure: 85.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-06-02T17:48:45Z to 2006-06-02T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 62.0 mm[Hg]
+- Systolic Blood Pressure: 83.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-06-03T17:48:45Z to 2006-06-03T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 66.0 mm[Hg]
+- Systolic Blood Pressure: 82.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-06-04T17:48:45Z to 2006-06-04T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 63.0 mm[Hg]
+- Systolic Blood Pressure: 87.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-06-06T17:48:45Z to 2006-06-06T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 63.0 mm[Hg]
+- Systolic Blood Pressure: 87.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-06-09T17:48:45Z to 2006-06-09T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 65.0 mm[Hg]
+- Systolic Blood Pressure: 83.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-06-10T17:48:45Z to 2006-06-10T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 65.0 mm[Hg]
+- Systolic Blood Pressure: 81.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-06-12T17:48:45Z to 2006-06-12T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 57.0 mm[Hg]
+- Systolic Blood Pressure: 83.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-06-13T17:48:45Z to 2006-06-13T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 62.0 mm[Hg]
+- Systolic Blood Pressure: 87.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-06-14T17:48:45Z to 2006-06-14T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 58.0 mm[Hg]
+- Systolic Blood Pressure: 87.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-06-15T17:48:45Z to 2006-06-15T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 61.0 mm[Hg]
+- Systolic Blood Pressure: 82.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-06-16T17:48:45Z to 2006-06-16T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 64.0 mm[Hg]
+- Systolic Blood Pressure: 62.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-06-17T17:48:45Z to 2006-06-17T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 65.0 mm[Hg]
+- Systolic Blood Pressure: 81.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-06-22T17:48:45Z to 2006-06-22T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 64.0 mm[Hg]
+- Systolic Blood Pressure: 69.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-06-24T17:48:45Z to 2006-06-24T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 64.0 mm[Hg]
+- Systolic Blood Pressure: 83.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-06-25T17:48:45Z to 2006-06-25T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 63.0 mm[Hg]
+- Systolic Blood Pressure: 77.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-06-27T17:48:45Z to 2006-06-27T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 58.0 mm[Hg]
+- Systolic Blood Pressure: 88.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-06-28T17:48:45Z to 2006-06-28T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 58.0 mm[Hg]
+- Systolic Blood Pressure: 86.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-06-29T17:48:45Z to 2006-06-29T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 64.0 mm[Hg]
+- Systolic Blood Pressure: 81.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-07-01T17:48:45Z to 2006-07-01T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 66.0 mm[Hg]
+- Systolic Blood Pressure: 84.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-07-02T17:48:45Z to 2006-07-02T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 59.0 mm[Hg]
+- Systolic Blood Pressure: 88.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-07-06T17:48:45Z to 2006-07-06T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 65.0 mm[Hg]
+- Systolic Blood Pressure: 80.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-07-08T17:48:45Z to 2006-07-08T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 65.0 mm[Hg]
+- Systolic Blood Pressure: 84.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-07-14T17:48:45Z to 2006-07-14T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 60.0 mm[Hg]
+- Systolic Blood Pressure: 71.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-07-15T17:48:45Z to 2006-07-15T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 63.0 mm[Hg]
+- Systolic Blood Pressure: 78.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-07-16T17:48:45Z to 2006-07-16T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 53.0 mm[Hg]
+- Systolic Blood Pressure: 76.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-07-18T17:48:45Z to 2006-07-18T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 61.0 mm[Hg]
+- Systolic Blood Pressure: 69.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-07-19T17:48:45Z to 2006-07-19T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 58.0 mm[Hg]
+- Systolic Blood Pressure: 77.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-07-22T17:48:45Z to 2006-07-22T18:03:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 59.0 mm[Hg]
+- Systolic Blood Pressure: 81.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: emergency, from 2006-07-27T17:48:45Z to 2006-07-27T18:48:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Oxygen saturation in Arterial blood: 78.0 %
+- Body Weight: 91.2 kg
+- NT-proBNP: 525.2 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 9.2 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.8 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 16.3 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 43.7 %
+- MCV [Entitic volume] by Automated count: 89.9 fL
+- MCH [Entitic mass] by Automated count: 30.5 pg
+- MCHC [Mass/volume] by Automated count: 32.9 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 12.4 %
+- Platelets [#/volume] in Blood by Automated count: 245.1 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 75.0 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 14.9 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.9 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 143.9 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.8 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 101.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 21.5 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 109.9 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.9 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.2 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.5 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 54.9 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 25.0 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 17.7 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.8 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 133.5 mg/dL
+- Triglycerides: 148.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 54.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 49.2 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 123.0 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 138.9 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 290.8 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 37.0 %
+            Procedures: 
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Plain X-ray of chest (procedure): code 399208008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: inpatient, from 2006-07-27T17:48:45Z to 2006-08-02T18:35:40Z
+
+            Conditions: None
+            Medications: 
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+            Observations: 
+- Oxygen saturation in Arterial blood: 78.0 %
+- Body Weight: 91.2 kg
+- NT-proBNP: 1421.1 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 9.7 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.8 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 38.8 %
+- MCV [Entitic volume] by Automated count: 94.2 fL
+- MCH [Entitic mass] by Automated count: 28.9 pg
+- MCHC [Mass/volume] by Automated count: 35.2 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.1 %
+- Platelets [#/volume] in Blood by Automated count: 292.8 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 75.0 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 14.9 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.9 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 143.9 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.8 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 101.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 21.5 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 109.9 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 8.0 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.2 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.0 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 72.2 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 12.8 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 18.3 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.0 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 133.5 mg/dL
+- Triglycerides: 148.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 54.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 49.2 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 82.1 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 106.5 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 434.0 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 47.0 %
+- Oxygen saturation in Arterial blood: 80.0 %
+- Body Weight: 91.2 kg
+- NT-proBNP: 1175.0 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 6.9 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.7 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 17.4 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 48.3 %
+- MCV [Entitic volume] by Automated count: 89.9 fL
+- MCH [Entitic mass] by Automated count: 32.5 pg
+- MCHC [Mass/volume] by Automated count: 33.9 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 14.2 %
+- Platelets [#/volume] in Blood by Automated count: 188.1 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 79.7 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 19.6 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.5 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 138.9 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 5.0 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 110.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 26.4 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 141.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 8.1 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.7 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.3 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 114.8 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 31.7 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 31.7 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.2 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 187.9 mg/dL
+- Triglycerides: 127.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 107.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.6 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 113.7 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 134.0 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 388.1 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 45.1 %
+- Oxygen saturation in Arterial blood: 80.0 %
+- Body Weight: 91.2 kg
+- NT-proBNP: 1161.4 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 8.9 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.3 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 17.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 41.6 %
+- MCV [Entitic volume] by Automated count: 79.7 fL
+- MCH [Entitic mass] by Automated count: 31.4 pg
+- MCHC [Mass/volume] by Automated count: 32.6 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 14.3 %
+- Platelets [#/volume] in Blood by Automated count: 309.1 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 79.7 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 19.6 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.5 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 138.9 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 5.0 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 110.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 26.4 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 141.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 8.0 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.2 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.5 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 68.9 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 43.4 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 30.6 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.0 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 187.9 mg/dL
+- Triglycerides: 127.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 107.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.6 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 137.6 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 131.9 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 342.7 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 34.1 %
+- Oxygen saturation in Arterial blood: 80.0 %
+- Body Weight: 91.2 kg
+- NT-proBNP: 517.9 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 6.3 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 49.1 %
+- MCV [Entitic volume] by Automated count: 92.9 fL
+- MCH [Entitic mass] by Automated count: 30.6 pg
+- MCHC [Mass/volume] by Automated count: 31.7 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 14.4 %
+- Platelets [#/volume] in Blood by Automated count: 421.4 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 79.7 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 19.6 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.5 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 138.9 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 5.0 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 110.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 26.4 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 141.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 8.4 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.1 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.9 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 82.8 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 23.0 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 21.4 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.3 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 187.9 mg/dL
+- Triglycerides: 127.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 107.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.6 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 134.7 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 156.1 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 271.1 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 44.0 %
+- Oxygen saturation in Arterial blood: 80.0 %
+- Body Weight: 91.2 kg
+- NT-proBNP: 481.3 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 6.9 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.7 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 11.3 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 34.8 %
+- MCV [Entitic volume] by Automated count: 87.2 fL
+- MCH [Entitic mass] by Automated count: 27.2 pg
+- MCHC [Mass/volume] by Automated count: 32.5 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 12.4 %
+- Platelets [#/volume] in Blood by Automated count: 305.3 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 79.7 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 19.6 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.5 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 138.9 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 5.0 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 110.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 26.4 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 141.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.8 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 5.0 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.9 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 109.4 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 31.5 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 23.8 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.9 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 187.9 mg/dL
+- Triglycerides: 127.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 107.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.6 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 46.5 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 76.2 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 358.2 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 39.4 %
+- Oxygen saturation in Arterial blood: 80.0 %
+- Body Weight: 91.2 kg
+- NT-proBNP: 1801.3 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 5.0 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.5 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 17.2 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 48.3 %
+- MCV [Entitic volume] by Automated count: 82.1 fL
+- MCH [Entitic mass] by Automated count: 29.7 pg
+- MCHC [Mass/volume] by Automated count: 32.3 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.3 %
+- Platelets [#/volume] in Blood by Automated count: 351.4 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 79.7 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 19.6 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.5 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 138.9 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 5.0 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 110.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 26.4 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 141.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 8.1 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.2 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.9 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 115.9 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 0.0 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 22.8 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.0 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 187.9 mg/dL
+- Triglycerides: 127.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 107.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.6 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 30.2 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 36.1 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 425.8 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 16.6 %
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Electrocardiographic procedure (procedure): code 29303009
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Heart failure education (procedure): code 423475008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-08-04T18:35:40Z to 2006-08-04T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 65.0 mm[Hg]
+- Systolic Blood Pressure: 70.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-08-06T18:35:40Z to 2006-08-06T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 60.0 mm[Hg]
+- Systolic Blood Pressure: 87.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-08-11T18:35:40Z to 2006-08-11T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 64.0 mm[Hg]
+- Systolic Blood Pressure: 78.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-08-13T18:35:40Z to 2006-08-13T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 60.0 mm[Hg]
+- Systolic Blood Pressure: 84.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-08-15T18:35:40Z to 2006-08-15T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 58.0 mm[Hg]
+- Systolic Blood Pressure: 73.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-08-16T18:35:40Z to 2006-08-16T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 59.0 mm[Hg]
+- Systolic Blood Pressure: 73.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-08-19T18:35:40Z to 2006-08-19T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 63.0 mm[Hg]
+- Systolic Blood Pressure: 74.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-08-20T18:35:40Z to 2006-08-20T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 54.0 mm[Hg]
+- Systolic Blood Pressure: 79.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-08-21T18:35:40Z to 2006-08-21T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 62.0 mm[Hg]
+- Systolic Blood Pressure: 82.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-08-22T18:35:40Z to 2006-08-22T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 63.0 mm[Hg]
+- Systolic Blood Pressure: 78.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-08-24T18:35:40Z to 2006-08-24T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 65.0 mm[Hg]
+- Systolic Blood Pressure: 80.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-08-25T18:35:40Z to 2006-08-25T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 65.0 mm[Hg]
+- Systolic Blood Pressure: 83.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-08-26T18:35:40Z to 2006-08-26T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 64.0 mm[Hg]
+- Systolic Blood Pressure: 86.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-08-27T18:35:40Z to 2006-08-27T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 64.0 mm[Hg]
+- Systolic Blood Pressure: 74.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-08-30T18:35:40Z to 2006-08-30T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 60.0 mm[Hg]
+- Systolic Blood Pressure: 74.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-08-31T18:35:40Z to 2006-08-31T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 55.0 mm[Hg]
+- Systolic Blood Pressure: 88.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-09-01T18:35:40Z to 2006-09-01T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 57.0 mm[Hg]
+- Systolic Blood Pressure: 77.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-09-02T18:35:40Z to 2006-09-02T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 60.0 mm[Hg]
+- Systolic Blood Pressure: 78.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-09-03T18:35:40Z to 2006-09-03T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 64.0 mm[Hg]
+- Systolic Blood Pressure: 83.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-09-04T18:35:40Z to 2006-09-04T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 63.0 mm[Hg]
+- Systolic Blood Pressure: 81.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: ambulatory, from 2006-09-05T18:35:40Z to 2006-09-05T18:50:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 66.0 mm[Hg]
+- Systolic Blood Pressure: 86.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: hospice, from 2006-09-08T15:56:52Z to 2006-10-08T04:48:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Certification procedure (procedure): code 310417005
+- Notifications (procedure): code 185087000
+- Initial patient assessment (procedure): code 315639002
+- Development of individualized plan of care (procedure): code 370789001
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eddy900 DuBuque211, Gender: M, DOB: 1949-11-04, SSN: 999-33-5380
+
+            Encounter: wellness, from 2006-10-13T15:56:52Z to 2006-10-13T16:11:52Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Cause of Death [US Standard Certificate of Death]: Chronic congestive heart failure (disorder)
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+            

@@ -1,0 +1,3160 @@
+Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07
+            ------------------------------------------------------------
+                        Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: wellness, from 1979-07-30T16:59:10Z to 1979-07-30T17:14:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: wellness, from 1990-10-01T16:59:10Z to 1990-10-01T17:53:16Z
+
+            Conditions: 
+- Received higher education (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: wellness, from 2000-10-16T16:59:10Z to 2000-10-16T17:47:53Z
+
+            Conditions: 
+- Has a criminal record (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: wellness, from 2003-10-20T16:59:10Z to 2003-10-20T17:39:06Z
+
+            Conditions: 
+- Prediabetes (finding)
+- Anemia (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: wellness, from 2006-10-23T16:59:10Z to 2006-10-23T17:36:50Z
+
+            Conditions: 
+- Victim of intimate partner abuse (finding)
+- Unhealthy alcohol drinking behavior (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2007-12-14T16:59:10Z to 2007-12-14T17:14:10Z
+
+            Conditions: 
+- Localized  primary osteoarthritis of the hand (disorder)
+            Medications: 
+- Naproxen sodium 220 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: wellness, from 2009-10-26T16:59:10Z to 2009-10-26T17:53:17Z
+
+            Conditions: 
+- Body mass index 30+ - obesity (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: wellness, from 2012-08-13T16:59:10Z to 2012-08-13T17:39:57Z
+
+            Conditions: 
+- Essential hypertension (disorder)
+- Diabetes mellitus type 2 (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: wellness, from 2013-08-19T16:59:10Z to 2013-08-19T17:48:29Z
+
+            Conditions: 
+- Hyperglycemia (disorder)
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: wellness, from 2014-08-25T16:59:10Z to 2014-08-25T17:44:14Z
+
+            Conditions: 
+- Full-time employment (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: wellness, from 2015-08-31T16:59:10Z to 2015-08-31T17:41:57Z
+
+            Conditions: None
+            Medications: 
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2016-06-03T12:59:10Z to 2016-06-03T13:14:10Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.5 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2016-07-14T18:14:11Z to 2016-07-14T18:58:11Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 17.0 mm[Hg]
+- Right eye Intraocular pressure: 17.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: wellness, from 2016-09-05T16:59:10Z to 2016-09-05T17:39:31Z
+
+            Conditions: 
+- Medication review due (situation)
+- Stress (finding)
+            Medications: 
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.7 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 78.7 kg
+- Body mass index (BMI) [Ratio]: 28.7 kg/m2
+- Diastolic Blood Pressure: 98.0 mm[Hg]
+- Systolic Blood Pressure: 123.0 mm[Hg]
+- Heart rate: 96.0 /min
+- Respiratory rate: 16.0 /min
+- Glucose [Mass/volume] in Blood: 90.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 12.3 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.9 mg/dL
+- Calcium [Mass/volume] in Blood: 9.6 mg/dL
+- Sodium [Moles/volume] in Blood: 139.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.2 mmol/L
+- Chloride [Moles/volume] in Blood: 104.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 26.8 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 128.3 mg/dL
+- Triglycerides: 108.5 mg/dL
+- Low Density Lipoprotein Cholesterol: 57.4 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 49.2 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 10.2 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 138.3 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 98719 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 812 Streich Well
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Black/African American
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: outpatient, from 2017-01-24T16:59:10Z to 2017-01-24T17:14:10Z
+
+            Conditions: None
+            Medications: 
+- Seasonique 91 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2017-07-09T18:31:14Z to 2017-07-09T19:15:14Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 17.0 mm[Hg]
+- Right eye Intraocular pressure: 17.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: wellness, from 2017-09-11T16:59:10Z to 2017-09-11T17:47:04Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.8 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 80.3 kg
+- Body mass index (BMI) [Ratio]: 29.3 kg/m2
+- Diastolic Blood Pressure: 103.0 mm[Hg]
+- Systolic Blood Pressure: 122.0 mm[Hg]
+- Heart rate: 73.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 69.0 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 14.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.9 mg/dL
+- Calcium [Mass/volume] in Blood: 8.6 mg/dL
+- Sodium [Moles/volume] in Blood: 142.6 mmol/L
+- Potassium [Moles/volume] in Blood: 4.1 mmol/L
+- Chloride [Moles/volume] in Blood: 107.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 23.3 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 156.2 mg/dL
+- Triglycerides: 124.6 mg/dL
+- Low Density Lipoprotein Cholesterol: 79.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 51.6 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 11.5 mg/g
+- Leukocytes [#/volume] in Blood by Automated count: 7.4 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.4 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 16.5 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 43.3 %
+- MCV [Entitic volume] by Automated count: 93.8 fL
+- MCH [Entitic mass] by Automated count: 31.5 pg
+- MCHC [Mass/volume] by Automated count: 35.1 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 39.9 fL
+- Platelets [#/volume] in Blood by Automated count: 300.5 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 232.0 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.9 fL
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 121.9 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 98719 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 812 Streich Well
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Black/African American
+- Do you consider yourself Hispanic/Latino?: No
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: outpatient, from 2018-01-19T16:59:10Z to 2018-01-19T17:14:10Z
+
+            Conditions: None
+            Medications: 
+- Yaz 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2018-06-04T18:49:51Z to 2018-06-04T19:33:51Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 15.0 mm[Hg]
+- Right eye Intraocular pressure: 15.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: wellness, from 2018-09-17T16:59:10Z to 2018-09-17T17:31:13Z
+
+            Conditions: 
+- Ischemic heart disease (disorder)
+- Reports of violence in the environment (finding)
+            Medications: 
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 81.9 kg
+- Body mass index (BMI) [Ratio]: 29.8 kg/m2
+- Diastolic Blood Pressure: 101.0 mm[Hg]
+- Systolic Blood Pressure: 129.0 mm[Hg]
+- Heart rate: 85.0 /min
+- Respiratory rate: 12.0 /min
+- Glucose [Mass/volume] in Blood: 88.1 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 19.7 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.6 mg/dL
+- Calcium [Mass/volume] in Blood: 8.8 mg/dL
+- Sodium [Moles/volume] in Blood: 138.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.3 mmol/L
+- Chloride [Moles/volume] in Blood: 103.9 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 25.7 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 175.3 mg/dL
+- Triglycerides: 128.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 93.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 56.5 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 0.9 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 56.2 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: Yes
+- Do you feel physically and emotionally safe where you currently live?: No
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: I choose not to answer this question
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 98719 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 812 Streich Well
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Black/African American
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2018-09-24T16:59:10Z to 2018-09-24T17:45:46Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Priority Level: 2 {score}
+- Operative Status Value: urgent {score}
+            Procedures: 
+- Referral to cardiology service (procedure): code 183519002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2018-09-26T08:45:46Z to 2018-09-26T13:33:42Z
+
+            Conditions: 
+- Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Consultation for treatment (procedure): code 698314001
+- Angiography of coronary artery (procedure): code 33367005
+- Post anesthesia care management (procedure): code 736169004
+- Referral to cardiology service (procedure): code 183519002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2018-10-01T09:33:42Z to 2018-10-01T10:57:04Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Percutaneous coronary intervention (procedure): code 415070008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2018-10-08T16:59:10Z to 2018-10-08T22:34:51Z
+
+            Conditions: 
+- Gingival disease (disorder)
+- Primary dental caries (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Restoration of tooth with coverage of all cusps using dental filling material (procedure): code 1256042007
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: outpatient, from 2019-01-14T16:59:10Z to 2019-01-14T17:14:10Z
+
+            Conditions: None
+            Medications: 
+- Camila 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2019-04-30T19:08:45Z to 2019-04-30T19:52:45Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 18.0 mm[Hg]
+- Right eye Intraocular pressure: 18.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: wellness, from 2019-09-23T16:59:10Z to 2019-09-23T17:31:00Z
+
+            Conditions: 
+- Part-time employment (finding)
+- Social isolation (finding)
+            Medications: 
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.1 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 82.8 kg
+- Body mass index (BMI) [Ratio]: 30.2 kg/m2
+- Diastolic Blood Pressure: 90.0 mm[Hg]
+- Systolic Blood Pressure: 114.0 mm[Hg]
+- Heart rate: 68.0 /min
+- Respiratory rate: 12.0 /min
+- Glucose [Mass/volume] in Blood: 92.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 10.7 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.9 mg/dL
+- Calcium [Mass/volume] in Blood: 8.8 mg/dL
+- Sodium [Moles/volume] in Blood: 137.0 mmol/L
+- Potassium [Moles/volume] in Blood: 3.8 mmol/L
+- Chloride [Moles/volume] in Blood: 105.9 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.6 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 186.0 mg/dL
+- Triglycerides: 139.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 97.0 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 61.2 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 7.2 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 160.2 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: No
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 98719 /a
+- Primary insurance: Private insurance
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 812 Streich Well
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Black/African American
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2019-10-07T16:59:10Z to 2019-10-07T19:32:18Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: outpatient, from 2020-01-09T16:59:10Z to 2020-01-09T17:14:10Z
+
+            Conditions: None
+            Medications: 
+- Natazia 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2020-03-25T19:26:50Z to 2020-03-25T20:10:50Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 17.0 mm[Hg]
+- Right eye Intraocular pressure: 17.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: wellness, from 2020-09-28T16:59:10Z to 2020-09-28T17:58:26Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+- Limited social contact (finding)
+            Medications: 
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 76.8 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 91.0 mm[Hg]
+- Systolic Blood Pressure: 109.0 mm[Hg]
+- Heart rate: 67.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 64.3 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 18.2 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 9.1 mg/dL
+- Sodium [Moles/volume] in Blood: 138.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.3 mmol/L
+- Chloride [Moles/volume] in Blood: 108.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 23.8 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 187.6 mg/dL
+- Triglycerides: 145.0 mg/dL
+- Low Density Lipoprotein Cholesterol: 103.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 55.5 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 12.8 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 70.5 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 98719 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 812 Streich Well
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Black/African American
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [DAST-10]: 0.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2021-03-20T19:44:14Z to 2021-03-20T20:28:14Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 14.0 mm[Hg]
+- Right eye Intraocular pressure: 14.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: wellness, from 2021-10-04T16:59:10Z to 2021-10-04T17:58:57Z
+
+            Conditions: 
+- Gingivitis (disorder)
+            Medications: 
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 76.8 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 86.0 mm[Hg]
+- Systolic Blood Pressure: 114.0 mm[Hg]
+- Heart rate: 96.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 94.0 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 12.0 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.4 mg/dL
+- Sodium [Moles/volume] in Blood: 137.5 mmol/L
+- Potassium [Moles/volume] in Blood: 3.8 mmol/L
+- Chloride [Moles/volume] in Blood: 108.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.9 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 174.9 mg/dL
+- Triglycerides: 133.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 89.4 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 58.9 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 11.2 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 150.4 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 98719 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 812 Streich Well
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Black/African American
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: outpatient, from 2021-10-18T16:59:10Z to 2021-10-18T17:14:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2021-10-18T16:59:10Z to 2021-10-18T20:34:08Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: outpatient, from 2021-11-15T16:59:10Z to 2021-11-15T17:14:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: outpatient, from 2021-12-29T16:59:10Z to 2021-12-29T17:14:10Z
+
+            Conditions: None
+            Medications: 
+- Seasonique 91 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2022-02-13T20:00:45Z to 2022-02-13T20:44:45Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 16.0 mm[Hg]
+- Right eye Intraocular pressure: 16.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: wellness, from 2022-10-10T16:59:10Z to 2022-10-10T17:42:22Z
+
+            Conditions: None
+            Medications: 
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 76.8 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 94.0 mm[Hg]
+- Systolic Blood Pressure: 110.0 mm[Hg]
+- Heart rate: 91.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 74.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 13.7 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 10.2 mg/dL
+- Sodium [Moles/volume] in Blood: 143.6 mmol/L
+- Potassium [Moles/volume] in Blood: 5.1 mmol/L
+- Chloride [Moles/volume] in Blood: 106.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.4 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 229.5 mg/dL
+- Triglycerides: 102.5 mg/dL
+- Low Density Lipoprotein Cholesterol: 156.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.0 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 12.2 mg/g
+- Leukocytes [#/volume] in Blood by Automated count: 3.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.5 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.8 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 44.4 %
+- MCV [Entitic volume] by Automated count: 93.0 fL
+- MCH [Entitic mass] by Automated count: 28.1 pg
+- MCHC [Mass/volume] by Automated count: 34.1 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 43.2 fL
+- Platelets [#/volume] in Blood by Automated count: 333.7 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 489.5 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.5 fL
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 150.5 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 98719 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 812 Streich Well
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Black/African American
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- zoster vaccine  live
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2022-12-26T16:59:10Z to 2022-12-26T17:14:10Z
+
+            Conditions: 
+- Normal pregnancy (finding)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Standard pregnancy test (procedure): code 252160004
+- Ultrasound scan for fetal viability (procedure): code 169230002
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+- Blood group typing (procedure): code 44608003
+- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure): code 104091002
+- Hepatitis B surface antigen measurement (procedure): code 47758006
+- Human immunodeficiency virus antigen test (procedure): code 31676001
+- Chlamydia antigen test (procedure): code 310861008
+- Gonorrhea infection titer test (procedure): code 165829005
+- Syphilis infectious titer test (procedure): code 269828009
+- Urine culture (procedure): code 117010004
+- Cytopathology procedure  preparation of smear  genital source (procedure): code 90226004
+- Urine screening test for diabetes (procedure): code 395123002
+- Hepatitis C antibody  confirmatory test (procedure): code 104375008
+- Rubella screening test (procedure): code 314098000
+- Measurement of Varicella-zoster virus antibody (procedure): code 104326007
+- Skin test for tuberculosis  Tine test (procedure): code 28163009
+- Urinalysis  protein  qualitative (procedure): code 60218003
+- Physical examination procedure (procedure): code 5880005
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2023-01-09T20:18:33Z to 2023-01-09T21:02:33Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 15.0 mm[Hg]
+- Right eye Intraocular pressure: 15.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2023-01-23T16:59:10Z to 2023-01-23T17:14:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+- Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure): code 443529005
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2023-02-20T16:59:10Z to 2023-02-20T17:14:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Fetal anatomy study (procedure): code 271442007
+- Alpha-fetoprotein test - antenatal (procedure): code 275833003
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2023-03-20T16:59:10Z to 2023-03-20T17:14:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2023-04-17T16:59:10Z to 2023-04-17T17:14:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2023-05-15T16:59:10Z to 2023-05-15T17:14:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure): code 104091002
+- Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure): code 399014008
+- Urine screening for glucose (procedure): code 268556000
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2023-06-12T16:59:10Z to 2023-06-12T17:14:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2023-07-10T16:59:10Z to 2023-07-10T17:14:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Streptococcus pneumoniae group B antigen assay (procedure): code 118001005
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2023-07-24T16:59:10Z to 2023-07-24T17:14:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2023-07-31T16:59:10Z to 2023-07-31T17:14:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: emergency, from 2023-08-07T16:59:10Z to 2023-08-07T17:59:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Medical induction of labor (procedure): code 31208007
+- Human parturition  function (observable entity): code 386216000
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2023-09-18T16:59:10Z to 2023-09-18T17:14:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Physical examination procedure (procedure): code 5880005
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: wellness, from 2023-10-16T16:59:10Z to 2023-10-16T17:49:51Z
+
+            Conditions: None
+            Medications: 
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 76.8 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 96.0 mm[Hg]
+- Systolic Blood Pressure: 107.0 mm[Hg]
+- Heart rate: 81.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 83.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 11.3 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.0 mg/dL
+- Calcium [Mass/volume] in Blood: 8.7 mg/dL
+- Sodium [Moles/volume] in Blood: 137.9 mmol/L
+- Potassium [Moles/volume] in Blood: 4.8 mmol/L
+- Chloride [Moles/volume] in Blood: 106.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.9 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 202.0 mg/dL
+- Triglycerides: 108.4 mg/dL
+- Low Density Lipoprotein Cholesterol: 124.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 56.0 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 11.6 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 77.6 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 98719 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 812 Streich Well
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Black/African American
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- zoster vaccine  live
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2024-01-04T20:35:28Z to 2024-01-04T21:19:28Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 15.0 mm[Hg]
+- Right eye Intraocular pressure: 15.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2024-07-25T16:59:10Z to 2024-07-25T17:36:26Z
+
+            Conditions: 
+- Chronic congestive heart failure (disorder)
+            Medications: None
+            Observations: 
+- Symptom: Dyspnea on exertion (finding)
+- Symptom: Dyspnea (finding)
+- Symptom: Paroxysmal dyspnea (finding)
+- Symptom: Orthopnea (finding)
+- Symptom: Edema (finding)
+- Symptom: Respiratory crackles (finding)
+- Body Weight: 76.8 kg
+- NT-proBNP: 1147.9 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 10.7 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.3 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 44.2 %
+- MCV [Entitic volume] by Automated count: 96.6 fL
+- MCH [Entitic mass] by Automated count: 27.5 pg
+- MCHC [Mass/volume] by Automated count: 32.1 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 14.1 %
+- Platelets [#/volume] in Blood by Automated count: 284.1 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 64.4 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 9.3 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 9.9 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 139.5 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.3 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 105.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 25.5 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 152.4 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.2 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.0 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 82.9 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 35.1 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 20.3 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.8 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 222.5 mg/dL
+- Triglycerides: 142.0 mg/dL
+- Low Density Lipoprotein Cholesterol: 139.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.4 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 132.0 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 158.0 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 288.3 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 15.5 %
+- Functional capacity NYHA: Class III
+- Objective assessment of cardiovascular disease NYHA: Objective evidence of moderately severe cardiovascular disease
+            Procedures: 
+- Electrocardiographic procedure (procedure): code 29303009
+- Plain X-ray of chest (procedure): code 399208008
+- Assessment using New York Heart Association Classification (procedure): code 762998009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2024-08-08T17:32:53Z to 2024-08-08T18:02:53Z
+
+            Conditions: None
+            Medications: 
+- Furosemide 40 MG Oral Tablet
+- carvedilol 25 MG Oral Tablet
+- lisinopril 20 MG Oral Tablet
+            Observations: 
+- Left ventricular Ejection fraction: 47.6 %
+- Glucose [Mass/volume] in Blood: 88.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 16.2 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 8.7 mg/dL
+- Sodium [Moles/volume] in Blood: 137.9 mmol/L
+- Potassium [Moles/volume] in Blood: 4.4 mmol/L
+- Chloride [Moles/volume] in Blood: 110.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 22.7 mmol/L
+            Procedures: 
+- Echocardiography (procedure): code 40701008
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: wellness, from 2024-10-21T16:59:10Z to 2024-10-21T17:35:42Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- carvedilol 25 MG Oral Tablet
+- Furosemide 40 MG Oral Tablet
+- lisinopril 20 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 76.8 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 97.0 mm[Hg]
+- Heart rate: 82.0 /min
+- Respiratory rate: 16.0 /min
+- Glucose [Mass/volume] in Blood: 98.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 17.0 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.3 mg/dL
+- Calcium [Mass/volume] in Blood: 8.9 mg/dL
+- Sodium [Moles/volume] in Blood: 136.5 mmol/L
+- Potassium [Moles/volume] in Blood: 4.7 mmol/L
+- Chloride [Moles/volume] in Blood: 105.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 23.3 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 214.7 mg/dL
+- Triglycerides: 100.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 138.6 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 56.1 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 6.8 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 60.1 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 98719 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 812 Streich Well
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Black/African American
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2024-11-04T16:59:10Z to 2024-11-04T19:36:32Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2024-12-29T20:52:43Z to 2024-12-29T21:36:43Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 15.0 mm[Hg]
+- Right eye Intraocular pressure: 15.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: emergency, from 2025-02-04T17:32:53Z to 2025-02-04T18:32:53Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Oxygen saturation in Arterial blood: 78.0 %
+- Body Weight: 76.8 kg
+- NT-proBNP: 635.0 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 5.4 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.4 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 40.4 %
+- MCV [Entitic volume] by Automated count: 83.1 fL
+- MCH [Entitic mass] by Automated count: 30.9 pg
+- MCHC [Mass/volume] by Automated count: 34.4 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 15.1 %
+- Platelets [#/volume] in Blood by Automated count: 413.3 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 64.6 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 12.4 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.7 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 141.9 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.8 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 110.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 26.4 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 69.8 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.3 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.6 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.6 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 80.1 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 10.2 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 1.1 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.7 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 208.3 mg/dL
+- Triglycerides: 114.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 134.8 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 50.6 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 66.4 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 69.1 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 356.3 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 40.8 %
+            Procedures: 
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Plain X-ray of chest (procedure): code 399208008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: inpatient, from 2025-02-04T17:32:53Z to 2025-02-15T18:37:37Z
+
+            Conditions: None
+            Medications: 
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+            Observations: 
+- Left ventricular Ejection fraction: 47.6 %
+- Oxygen saturation in Arterial blood: 78.0 %
+- Body Weight: 76.8 kg
+- NT-proBNP: 1819.4 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 5.5 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.3 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.8 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 36.2 %
+- MCV [Entitic volume] by Automated count: 82.3 fL
+- MCH [Entitic mass] by Automated count: 29.9 pg
+- MCHC [Mass/volume] by Automated count: 35.4 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.7 %
+- Platelets [#/volume] in Blood by Automated count: 298.2 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 64.6 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 12.4 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.7 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 141.9 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.8 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 110.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 26.4 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 69.8 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.2 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.8 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.9 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 91.5 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 31.8 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 10.8 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.7 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 208.3 mg/dL
+- Triglycerides: 114.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 134.8 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 50.6 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 136.9 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 131.4 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 252.1 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 29.7 %
+- Oxygen saturation in Arterial blood: 78.0 %
+- Body Weight: 76.8 kg
+- NT-proBNP: 764.2 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 6.7 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.7 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.1 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 49.8 %
+- MCV [Entitic volume] by Automated count: 92.1 fL
+- MCH [Entitic mass] by Automated count: 27.9 pg
+- MCHC [Mass/volume] by Automated count: 34.5 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.6 %
+- Platelets [#/volume] in Blood by Automated count: 240.2 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 64.6 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 12.4 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.7 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 141.9 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.8 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 110.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 26.4 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 69.8 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.3 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.2 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 75.6 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 35.0 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 16.5 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.0 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 208.3 mg/dL
+- Triglycerides: 114.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 134.8 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 50.6 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 123.1 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 85.6 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 324.1 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 17.7 %
+- Oxygen saturation in Arterial blood: 78.0 %
+- Body Weight: 76.8 kg
+- NT-proBNP: 1419.6 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 9.1 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.6 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.8 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 36.9 %
+- MCV [Entitic volume] by Automated count: 90.3 fL
+- MCH [Entitic mass] by Automated count: 30.6 pg
+- MCHC [Mass/volume] by Automated count: 34.2 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 14.9 %
+- Platelets [#/volume] in Blood by Automated count: 273.2 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 64.6 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 12.4 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.7 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 141.9 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.8 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 110.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 26.4 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 69.8 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.8 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 5.0 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.0 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 55.5 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 36.5 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 17.0 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.0 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 208.3 mg/dL
+- Triglycerides: 114.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 134.8 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 50.6 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 50.5 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 110.1 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 418.5 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 20.7 %
+- Oxygen saturation in Arterial blood: 78.0 %
+- Body Weight: 76.8 kg
+- NT-proBNP: 1070.2 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 6.6 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.4 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 16.5 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 48.4 %
+- MCV [Entitic volume] by Automated count: 79.3 fL
+- MCH [Entitic mass] by Automated count: 32.0 pg
+- MCHC [Mass/volume] by Automated count: 32.9 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.4 %
+- Platelets [#/volume] in Blood by Automated count: 247.7 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 64.6 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 12.4 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.7 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 141.9 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.8 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 110.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 26.4 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 69.8 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.5 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.9 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.5 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 46.3 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 43.2 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 5.0 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.3 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 208.3 mg/dL
+- Triglycerides: 114.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 134.8 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 50.6 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 68.3 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 91.8 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 309.3 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 22.7 %
+- Oxygen saturation in Arterial blood: 78.0 %
+- Body Weight: 76.8 kg
+- NT-proBNP: 1530.6 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 8.1 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.3 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 39.6 %
+- MCV [Entitic volume] by Automated count: 86.1 fL
+- MCH [Entitic mass] by Automated count: 30.8 pg
+- MCHC [Mass/volume] by Automated count: 32.0 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 12.4 %
+- Platelets [#/volume] in Blood by Automated count: 340.7 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 64.6 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 12.4 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.7 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 141.9 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.8 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 110.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 26.4 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 69.8 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.3 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.7 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.5 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 76.1 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 23.9 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 4.7 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.0 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 208.3 mg/dL
+- Triglycerides: 114.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 134.8 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 50.6 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 119.0 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 160.7 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 306.9 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 26.6 %
+- Oxygen saturation in Arterial blood: 78.0 %
+- Body Weight: 76.8 kg
+- NT-proBNP: 548.1 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 7.7 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 11.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 48.9 %
+- MCV [Entitic volume] by Automated count: 81.3 fL
+- MCH [Entitic mass] by Automated count: 26.9 pg
+- MCHC [Mass/volume] by Automated count: 34.4 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 12.4 %
+- Platelets [#/volume] in Blood by Automated count: 314.2 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 64.6 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 12.4 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.7 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 141.9 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.8 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 110.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 26.4 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 69.8 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.7 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.9 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.6 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 110.3 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 25.9 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 20.6 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.2 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 208.3 mg/dL
+- Triglycerides: 114.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 134.8 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 50.6 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 119.1 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 38.5 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 310.2 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 46.3 %
+- Oxygen saturation in Arterial blood: 77.0 %
+- Body Weight: 76.8 kg
+- NT-proBNP: 1897.3 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 9.2 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.8 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 42.3 %
+- MCV [Entitic volume] by Automated count: 86.4 fL
+- MCH [Entitic mass] by Automated count: 28.9 pg
+- MCHC [Mass/volume] by Automated count: 34.5 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.5 %
+- Platelets [#/volume] in Blood by Automated count: 296.2 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 67.2 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 13.3 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.3 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 10.0 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 139.0 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.0 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 103.5 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 24.2 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 63.6 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.8 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.8 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.5 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 44.4 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 42.4 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 0.1 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.8 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 176.6 mg/dL
+- Triglycerides: 125.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 92.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 59.1 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 142.0 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 146.9 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 449.0 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 16.3 %
+- Oxygen saturation in Arterial blood: 77.0 %
+- Body Weight: 76.8 kg
+- NT-proBNP: 623.0 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 5.3 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.4 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 47.3 %
+- MCV [Entitic volume] by Automated count: 83.9 fL
+- MCH [Entitic mass] by Automated count: 31.8 pg
+- MCHC [Mass/volume] by Automated count: 32.7 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.3 %
+- Platelets [#/volume] in Blood by Automated count: 156.0 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 67.2 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 13.3 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.3 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 10.0 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 139.0 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.0 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 103.5 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 24.2 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 63.6 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.7 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.6 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.2 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 59.5 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 13.0 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 35.5 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.7 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 176.6 mg/dL
+- Triglycerides: 125.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 92.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 59.1 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 31.5 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 75.3 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 389.9 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 31.4 %
+- Oxygen saturation in Arterial blood: 77.0 %
+- Body Weight: 76.8 kg
+- NT-proBNP: 463.5 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 9.3 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.1 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.8 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 36.8 %
+- MCV [Entitic volume] by Automated count: 88.0 fL
+- MCH [Entitic mass] by Automated count: 26.6 pg
+- MCHC [Mass/volume] by Automated count: 32.6 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 14.3 %
+- Platelets [#/volume] in Blood by Automated count: 168.8 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 67.2 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 13.3 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.3 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 10.0 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 139.0 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.0 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 103.5 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 24.2 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 63.6 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.6 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.7 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 62.3 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 23.5 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 15.3 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.3 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 176.6 mg/dL
+- Triglycerides: 125.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 92.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 59.1 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 136.9 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 77.6 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 412.0 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 36.8 %
+- Oxygen saturation in Arterial blood: 77.0 %
+- Body Weight: 76.8 kg
+- NT-proBNP: 718.0 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 6.4 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.1 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 16.1 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 41.6 %
+- MCV [Entitic volume] by Automated count: 86.9 fL
+- MCH [Entitic mass] by Automated count: 27.0 pg
+- MCHC [Mass/volume] by Automated count: 34.2 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 14.4 %
+- Platelets [#/volume] in Blood by Automated count: 333.5 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 67.2 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 13.3 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.3 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 10.0 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 139.0 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.0 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 103.5 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 24.2 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 63.6 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.4 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.9 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.4 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 39.2 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 5.6 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 11.0 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.0 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 176.6 mg/dL
+- Triglycerides: 125.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 92.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 59.1 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 40.2 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 49.3 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 264.9 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 33.4 %
+- Oxygen saturation in Arterial blood: 77.0 %
+- Body Weight: 76.8 kg
+- NT-proBNP: 1092.0 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 10.4 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.6 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 16.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 38.4 %
+- MCV [Entitic volume] by Automated count: 93.7 fL
+- MCH [Entitic mass] by Automated count: 32.9 pg
+- MCHC [Mass/volume] by Automated count: 34.2 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.9 %
+- Platelets [#/volume] in Blood by Automated count: 317.1 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 67.2 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 13.3 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.3 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 10.0 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 139.0 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.0 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 103.5 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 24.2 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 63.6 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.1 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.9 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.7 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 75.4 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 6.4 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 37.8 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.2 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 176.6 mg/dL
+- Triglycerides: 125.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 92.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 59.1 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 113.6 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 88.1 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 333.4 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 45.5 %
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Electrocardiographic procedure (procedure): code 29303009
+- Echocardiography (procedure): code 40701008
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Heart failure education (procedure): code 423475008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-02-17T18:37:37Z to 2025-02-17T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 99.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-02-18T18:37:37Z to 2025-02-18T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 98.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-02-20T18:37:37Z to 2025-02-20T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 99.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-02-22T18:37:37Z to 2025-02-22T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 97.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-02-23T18:37:37Z to 2025-02-23T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 100.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-02-24T18:37:37Z to 2025-02-24T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 99.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-01T18:37:37Z to 2025-03-01T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 94.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-03T18:37:37Z to 2025-03-03T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 99.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-04T18:37:37Z to 2025-03-04T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 86.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-05T18:37:37Z to 2025-03-05T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 102.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-08T18:37:37Z to 2025-03-08T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 93.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-09T18:37:37Z to 2025-03-09T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 99.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-10T18:37:37Z to 2025-03-10T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 95.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-11T18:37:37Z to 2025-03-11T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 94.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-12T18:37:37Z to 2025-03-12T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 94.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-13T18:37:37Z to 2025-03-13T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 95.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-14T18:37:37Z to 2025-03-14T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 98.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-17T18:37:37Z to 2025-03-17T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 91.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: virtual, from 2025-03-18T18:37:37Z to 2025-03-18T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 99.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-19T18:37:37Z to 2025-03-19T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 98.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-20T18:37:37Z to 2025-03-20T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 89.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-21T18:37:37Z to 2025-03-21T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 93.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-22T18:37:37Z to 2025-03-22T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 98.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-27T18:37:37Z to 2025-03-27T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 95.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-28T18:37:37Z to 2025-03-28T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 86.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-29T18:37:37Z to 2025-03-29T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 97.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-30T18:37:37Z to 2025-03-30T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 87.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-03-31T18:37:37Z to 2025-03-31T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 96.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-04-02T18:37:37Z to 2025-04-02T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 97.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-04-04T18:37:37Z to 2025-04-04T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 95.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: virtual, from 2025-04-05T18:37:37Z to 2025-04-05T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 96.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-04-06T18:37:37Z to 2025-04-06T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 100.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-04-07T18:37:37Z to 2025-04-07T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 102.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-04-08T18:37:37Z to 2025-04-08T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 101.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-04-09T18:37:37Z to 2025-04-09T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 101.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-04-10T18:37:37Z to 2025-04-10T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 93.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-04-11T18:37:37Z to 2025-04-11T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 95.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-04-13T18:37:37Z to 2025-04-13T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 90.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-04-14T18:37:37Z to 2025-04-14T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 97.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-04-15T18:37:37Z to 2025-04-15T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 89.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-04-16T18:37:37Z to 2025-04-16T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 99.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-04-18T18:37:37Z to 2025-04-18T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 99.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: virtual, from 2025-04-19T18:37:37Z to 2025-04-19T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 93.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-04-20T18:37:37Z to 2025-04-20T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 97.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-04-22T18:37:37Z to 2025-04-22T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 102.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: virtual, from 2025-04-24T18:37:37Z to 2025-04-24T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 84.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-04-25T18:37:37Z to 2025-04-25T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 99.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-04-29T18:37:37Z to 2025-04-29T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 88.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: virtual, from 2025-05-01T18:37:37Z to 2025-05-01T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 94.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: virtual, from 2025-05-03T18:37:37Z to 2025-05-03T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 101.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-05-04T18:37:37Z to 2025-05-04T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 95.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-05-05T18:37:37Z to 2025-05-05T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 90.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-05-06T18:37:37Z to 2025-05-06T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 94.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-05-07T18:37:37Z to 2025-05-07T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 95.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-05-09T18:37:37Z to 2025-05-09T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 94.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-05-10T18:37:37Z to 2025-05-10T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 97.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-05-12T18:37:37Z to 2025-05-12T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 96.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-05-19T18:37:37Z to 2025-05-19T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 101.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-05-24T18:37:37Z to 2025-05-24T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 100.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-05-26T18:37:37Z to 2025-05-26T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 96.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-05-27T18:37:37Z to 2025-05-27T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 90.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-05-28T18:37:37Z to 2025-05-28T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 93.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: virtual, from 2025-05-29T18:37:37Z to 2025-05-29T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 102.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-06-01T18:37:37Z to 2025-06-01T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 97.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-06-03T18:37:37Z to 2025-06-03T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 102.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-06-04T18:37:37Z to 2025-06-04T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 88.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: virtual, from 2025-06-07T18:37:37Z to 2025-06-07T18:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 92.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-06-08T18:37:37Z to 2025-06-08T19:07:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Left ventricular Ejection fraction: 46.5 %
+- Glucose [Mass/volume] in Blood: 78.2 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 9.6 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.9 mg/dL
+- Sodium [Moles/volume] in Blood: 138.5 mmol/L
+- Potassium [Moles/volume] in Blood: 4.8 mmol/L
+- Chloride [Moles/volume] in Blood: 101.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 26.5 mmol/L
+            Procedures: 
+- Echocardiography (procedure): code 40701008
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: outpatient, from 2025-08-04T16:59:10Z to 2025-08-04T17:49:37Z
+
+            Conditions: 
+- Medication review due (situation)
+- Part-time employment (finding)
+- Gingivitis (disorder)
+            Medications: 
+- carvedilol 25 MG Oral Tablet
+- Furosemide 40 MG Oral Tablet
+- lisinopril 20 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 76.8 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 98.0 mm[Hg]
+- Heart rate: 98.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 89.8 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 17.7 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.0 mg/dL
+- Calcium [Mass/volume] in Blood: 9.6 mg/dL
+- Sodium [Moles/volume] in Blood: 139.4 mmol/L
+- Potassium [Moles/volume] in Blood: 4.9 mmol/L
+- Chloride [Moles/volume] in Blood: 106.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 25.5 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 181.2 mg/dL
+- Triglycerides: 148.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 93.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 58.3 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 9.3 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 79.6 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 98719 /a
+- Primary insurance: Medicare
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 812 Streich Well
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Black/African American
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-08-11T16:59:10Z to 2025-08-11T17:14:10Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.1 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Alvera113 Weissnat378, Gender: F, DOB: 1972-08-07, SSN: 999-54-9909
+
+            Encounter: ambulatory, from 2025-08-18T16:59:10Z to 2025-08-18T20:25:23Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+            

@@ -1,0 +1,1063 @@
+Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29
+            ------------------------------------------------------------
+                        Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: wellness, from 1987-02-22T12:48:56Z to 1987-02-22T13:19:51Z
+
+            Conditions: 
+- Received higher education (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: wellness, from 1994-03-06T12:48:56Z to 1994-03-06T13:37:44Z
+
+            Conditions: 
+- Prediabetes (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: wellness, from 1997-03-09T12:48:56Z to 1997-03-09T13:23:20Z
+
+            Conditions: 
+- Anemia (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: wellness, from 2009-01-04T12:48:56Z to 2009-01-04T13:32:19Z
+
+            Conditions: 
+- Body mass index 30+ - obesity (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: wellness, from 2013-01-13T12:48:56Z to 2013-01-13T13:35:32Z
+
+            Conditions: 
+- Essential hypertension (disorder)
+- Metabolic syndrome X (disorder)
+- Social isolation (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: wellness, from 2014-01-19T12:48:56Z to 2014-01-19T13:32:44Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: wellness, from 2015-01-25T12:48:56Z to 2015-01-25T13:40:29Z
+
+            Conditions: 
+- Unemployed (finding)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: wellness, from 2016-01-31T12:48:56Z to 2016-01-31T13:47:21Z
+
+            Conditions: 
+- Full-time employment (finding)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Body Height: 184.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 95.1 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 134.0 mm[Hg]
+- Heart rate: 73.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 80.5 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 16.4 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.3 mg/dL
+- Calcium [Mass/volume] in Blood: 9.2 mg/dL
+- Sodium [Moles/volume] in Blood: 139.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.9 mmol/L
+- Chloride [Moles/volume] in Blood: 103.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.1 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care (Medical  Dental  Mental Health  Vision)
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 44717 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 806 Feest Manor Suite 4
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: wellness, from 2017-02-05T12:48:56Z to 2017-02-05T13:47:20Z
+
+            Conditions: 
+- Acute infective cystitis (disorder)
+- Not in labor force (finding)
+- Stress (finding)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Body Height: 184.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 95.1 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 113.0 mm[Hg]
+- Heart rate: 73.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 78.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 10.4 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.4 mg/dL
+- Calcium [Mass/volume] in Blood: 10.0 mg/dL
+- Sodium [Moles/volume] in Blood: 143.4 mmol/L
+- Potassium [Moles/volume] in Blood: 4.5 mmol/L
+- Chloride [Moles/volume] in Blood: 105.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.2 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 193.2 mg/dL
+- Triglycerides: 104.6 mg/dL
+- Low Density Lipoprotein Cholesterol: 144.4 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 27.8 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care (Medical  Dental  Mental Health  Vision)
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 44717 /a
+- Primary insurance: Private insurance
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: More than high school
+- Address: 806 Feest Manor Suite 4
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: ambulatory, from 2017-02-06T12:48:56Z to 2017-02-06T14:19:10Z
+
+            Conditions: None
+            Medications: 
+- ciprofloxacin 500 MG Oral Tablet
+            Observations: 
+- Choriogonadotropin (pregnancy test) [Presence] in Urine: Negative (qualifier value)
+- Glucose [Mass/volume] in Urine by Test strip: 2.0 mg/dL
+- Ketones [Presence] in Urine by Test strip: Urine ketones not detected (finding) {nominal}
+- Specific gravity of Urine by Test strip: 1.0 {nominal}
+- pH of Urine by Test strip: 5.1 pH
+- Protein [Mass/volume] in Urine by Test strip: 4.1 mg/dL
+- Nitrite [Presence] in Urine by Test strip: Nitrite detected in urine (finding) {nominal}
+- Hemoglobin [Presence] in Urine by Test strip: Urine blood test = + (finding) {nominal}
+- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocyte test one plus (finding) {nominal}
+- WBCs: 42.3 /[HPF]
+- RBCs: 2.0 /[HPF]
+- Epithelial Cells: 2.1 /[HPF]
+- Casts: Urine microscopy: no casts (finding) {nominal}
+- Mucus Threads: Mucus in urine (finding) {nominal}
+- Bacteria: Finding of presence of bacteria (finding) {nominal}
+- Bacteria identified in Urine by Culture: Greater than 100 000 colony forming units per mL Escherichia coli
+            Procedures: 
+- History taking (procedure): code 84100007
+- Discussion about signs and symptoms (procedure): code 223470000
+- History and physical examination  limited (procedure): code 67879005
+- Evaluation procedure (procedure): code 386053000
+- Standard pregnancy test (procedure): code 252160004
+- Urine specimen collection (procedure): code 57617002
+- Urinalysis with reflex to microscopy and culture (procedure): code 441550005
+- Antibiotic therapy (procedure): code 281789004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: ambulatory, from 2017-02-19T12:48:56Z to 2017-02-19T18:48:31Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: ambulatory, from 2017-03-29T23:07:05Z to 2017-03-29T23:22:05Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+            Observations: None
+            Procedures: 
+- Measurement of respiratory function (procedure): code 23426006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: outpatient, from 2017-04-09T12:48:56Z to 2017-04-09T13:23:36Z
+
+            Conditions: 
+- Full-time employment (finding)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Body Height: 184.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 95.1 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 118.0 mm[Hg]
+- Heart rate: 83.0 /min
+- Respiratory rate: 16.0 /min
+- Glucose [Mass/volume] in Blood: 93.2 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 10.7 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 9.6 mg/dL
+- Sodium [Moles/volume] in Blood: 140.7 mmol/L
+- Potassium [Moles/volume] in Blood: 4.2 mmol/L
+- Chloride [Moles/volume] in Blood: 104.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.0 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 44717 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 806 Feest Manor Suite 4
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: wellness, from 2018-02-11T12:48:56Z to 2018-02-11T13:43:34Z
+
+            Conditions: None
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 184.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 95.1 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 125.0 mm[Hg]
+- Heart rate: 79.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 69.6 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 19.0 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 9.2 mg/dL
+- Sodium [Moles/volume] in Blood: 141.0 mmol/L
+- Potassium [Moles/volume] in Blood: 5.2 mmol/L
+- Chloride [Moles/volume] in Blood: 107.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 23.7 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Other
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 44717 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 806 Feest Manor Suite 4
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: ambulatory, from 2018-02-25T12:48:56Z to 2018-02-25T15:59:26Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: ambulatory, from 2018-12-30T12:48:56Z to 2018-12-30T13:16:19Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Colonoscopy (procedure): code 73761001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: wellness, from 2019-02-17T12:48:56Z to 2019-02-17T13:40:29Z
+
+            Conditions: 
+- Part-time employment (finding)
+- Limited social contact (finding)
+- Stress (finding)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.8 %
+- Body Height: 184.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 95.1 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 127.0 mm[Hg]
+- Heart rate: 94.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 80.0 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 14.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 10.1 mg/dL
+- Sodium [Moles/volume] in Blood: 142.2 mmol/L
+- Potassium [Moles/volume] in Blood: 4.2 mmol/L
+- Chloride [Moles/volume] in Blood: 105.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.6 mmol/L
+- Leukocytes [#/volume] in Blood by Automated count: 10.0 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.0 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 37.1 %
+- MCV [Entitic volume] by Automated count: 94.1 fL
+- MCH [Entitic mass] by Automated count: 29.3 pg
+- MCHC [Mass/volume] by Automated count: 33.8 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 45.4 fL
+- Platelets [#/volume] in Blood by Automated count: 422.1 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 406.7 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.9 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: I choose not to answer this question
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 44717 /a
+- Primary insurance: Private insurance
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 806 Feest Manor Suite 4
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- zoster vaccine  live
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: wellness, from 2020-02-23T12:48:56Z to 2020-02-23T13:41:26Z
+
+            Conditions: 
+- Not in labor force (finding)
+- Victim of intimate partner abuse (finding)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.1 %
+- Body Height: 184.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 95.1 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 129.0 mm[Hg]
+- Heart rate: 84.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 68.2 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 14.4 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 9.5 mg/dL
+- Sodium [Moles/volume] in Blood: 137.9 mmol/L
+- Potassium [Moles/volume] in Blood: 4.5 mmol/L
+- Chloride [Moles/volume] in Blood: 105.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 25.8 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 214.6 mg/dL
+- Triglycerides: 147.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 152.6 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 32.6 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: Yes
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 44717 /a
+- Primary insurance: Private insurance
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: More than high school
+- Address: 806 Feest Manor Suite 4
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- zoster vaccine  live
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: ambulatory, from 2020-09-12T10:48:56Z to 2020-09-12T11:03:56Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.2 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: wellness, from 2021-02-28T12:48:56Z to 2021-02-28T13:40:32Z
+
+            Conditions: 
+- Unemployed (finding)
+- Gingivitis (disorder)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.1 %
+- Body Height: 184.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 95.1 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 121.0 mm[Hg]
+- Heart rate: 86.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 91.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 8.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 9.1 mg/dL
+- Sodium [Moles/volume] in Blood: 139.7 mmol/L
+- Potassium [Moles/volume] in Blood: 5.0 mmol/L
+- Chloride [Moles/volume] in Blood: 109.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 26.3 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 44717 /a
+- Primary insurance: Private insurance
+- Employment status - current: Unemployed
+- Highest level of education: More than high school
+- Address: 806 Feest Manor Suite 4
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: ambulatory, from 2021-03-14T12:48:56Z to 2021-03-14T16:17:00Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: wellness, from 2022-03-06T12:48:56Z to 2022-03-06T13:48:12Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+- Stress (finding)
+- Has a criminal record (finding)
+- Severe anxiety (panic) (finding)
+- Gingivitis (disorder)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Body Height: 184.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 95.1 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 122.0 mm[Hg]
+- Heart rate: 62.0 /min
+- Respiratory rate: 12.0 /min
+- Glucose [Mass/volume] in Blood: 98.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 17.8 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.4 mg/dL
+- Calcium [Mass/volume] in Blood: 9.9 mg/dL
+- Sodium [Moles/volume] in Blood: 141.5 mmol/L
+- Potassium [Moles/volume] in Blood: 4.3 mmol/L
+- Chloride [Moles/volume] in Blood: 106.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.4 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 44717 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 806 Feest Manor Suite 4
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 16.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 3.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: ambulatory, from 2022-03-20T12:48:56Z to 2022-03-20T15:56:09Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: wellness, from 2023-03-12T12:48:56Z to 2023-03-12T13:38:29Z
+
+            Conditions: None
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Body Height: 184.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 95.1 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 122.0 mm[Hg]
+- Heart rate: 80.0 /min
+- Respiratory rate: 16.0 /min
+- Glucose [Mass/volume] in Blood: 71.5 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 16.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 9.8 mg/dL
+- Sodium [Moles/volume] in Blood: 140.5 mmol/L
+- Potassium [Moles/volume] in Blood: 4.0 mmol/L
+- Chloride [Moles/volume] in Blood: 103.5 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.5 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 134.7 mg/dL
+- Triglycerides: 105.5 mg/dL
+- Low Density Lipoprotein Cholesterol: 82.9 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 30.7 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 44717 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 806 Feest Manor Suite 4
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 5.0 {score}
+- Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 12.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: ambulatory, from 2023-03-26T12:48:56Z to 2023-03-26T15:52:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: ambulatory, from 2023-12-30T13:16:19Z to 2023-12-30T13:56:39Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Colonoscopy (procedure): code 73761001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: wellness, from 2024-03-17T12:48:56Z to 2024-03-17T13:28:06Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Body Height: 184.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 95.1 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 87.0 mm[Hg]
+- Systolic Blood Pressure: 134.0 mm[Hg]
+- Heart rate: 73.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 85.1 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 17.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 9.4 mg/dL
+- Sodium [Moles/volume] in Blood: 142.8 mmol/L
+- Potassium [Moles/volume] in Blood: 5.0 mmol/L
+- Chloride [Moles/volume] in Blood: 106.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.6 mmol/L
+- Leukocytes [#/volume] in Blood by Automated count: 8.2 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.8 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 42.3 %
+- MCV [Entitic volume] by Automated count: 91.4 fL
+- MCH [Entitic mass] by Automated count: 28.5 pg
+- MCHC [Mass/volume] by Automated count: 33.8 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 43.6 fL
+- Platelets [#/volume] in Blood by Automated count: 230.0 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 185.9 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.2 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 44717 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 806 Feest Manor Suite 4
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: ambulatory, from 2024-03-31T12:48:56Z to 2024-03-31T16:07:47Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: wellness, from 2025-03-23T12:48:56Z to 2025-03-23T13:37:08Z
+
+            Conditions: 
+- Not in labor force (finding)
+- Stress (finding)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.1 %
+- Body Height: 184.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 95.1 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 133.0 mm[Hg]
+- Heart rate: 96.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 83.5 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 16.8 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 9.5 mg/dL
+- Sodium [Moles/volume] in Blood: 138.3 mmol/L
+- Potassium [Moles/volume] in Blood: 4.2 mmol/L
+- Chloride [Moles/volume] in Blood: 103.9 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.3 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 44717 /a
+- Primary insurance: Private insurance
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: More than high school
+- Address: 806 Feest Manor Suite 4
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: ambulatory, from 2025-04-06T12:48:56Z to 2025-04-06T16:29:16Z
+
+            Conditions: 
+- Primary dental caries (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Restoration of tooth with coverage of all cusps using dental filling material (procedure): code 1256042007
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Sydney660 Wuckert783, Gender: M, DOB: 1968-12-29, SSN: 999-93-4535
+
+            Encounter: ambulatory, from 2025-07-03T14:48:56Z to 2025-07-03T15:03:56Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.0 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+            

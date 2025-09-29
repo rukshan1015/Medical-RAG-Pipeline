@@ -1,0 +1,657 @@
+Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28
+            ------------------------------------------------------------
+                        Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: wellness, from 2015-11-28T08:56:26Z to 2015-11-28T09:11:26Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 53.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 4.4 kg
+- Weight-for-length Per age and sex: 43.8 %
+- Head Occipital-frontal circumference Percentile: 68.0 %
+- Head Occipital-frontal circumference: 36.7 cm
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 111.0 mm[Hg]
+- Heart rate: 80.0 /min
+- Respiratory rate: 15.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 4.6 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 46.9 %
+- MCV [Entitic volume] by Automated count: 90.5 fL
+- MCH [Entitic mass] by Automated count: 32.7 pg
+- MCHC [Mass/volume] by Automated count: 35.4 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 41.7 fL
+- Platelets [#/volume] in Blood by Automated count: 176.3 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 496.3 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.9 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: wellness, from 2016-01-02T08:56:26Z to 2016-01-02T09:11:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 57.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 5.4 kg
+- Weight-for-length Per age and sex: 42.0 %
+- Head Occipital-frontal circumference Percentile: 68.0 %
+- Head Occipital-frontal circumference: 39.9 cm
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 107.0 mm[Hg]
+- Heart rate: 84.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: wellness, from 2016-03-05T08:56:26Z to 2016-03-05T09:11:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 63.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 7.0 kg
+- Weight-for-length Per age and sex: 63.7 %
+- Head Occipital-frontal circumference Percentile: 68.0 %
+- Head Occipital-frontal circumference: 42.4 cm
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 129.0 mm[Hg]
+- Heart rate: 63.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- rotavirus  monovalent
+- IPV
+- DTaP
+- Pneumococcal conjugate PCV 13
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: wellness, from 2016-05-07T08:56:26Z to 2016-05-07T09:11:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 67.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 8.3 kg
+- Weight-for-length Per age and sex: 76.5 %
+- Head Occipital-frontal circumference Percentile: 68.0 %
+- Head Occipital-frontal circumference: 44.0 cm
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 110.0 mm[Hg]
+- Heart rate: 63.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- rotavirus  monovalent
+- IPV
+- DTaP
+- Pneumococcal conjugate PCV 13
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: wellness, from 2016-08-06T08:56:26Z to 2016-08-06T09:11:26Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 72.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 9.9 kg
+- Weight-for-length Per age and sex: 86.5 %
+- Head Occipital-frontal circumference Percentile: 68.0 %
+- Head Occipital-frontal circumference: 45.7 cm
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 114.0 mm[Hg]
+- Heart rate: 99.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- IPV
+- Influenza  seasonal  injectable  preservative free
+- DTaP
+- Pneumococcal conjugate PCV 13
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: wellness, from 2016-11-05T08:56:26Z to 2016-11-05T09:11:26Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 76.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 11.0 kg
+- Weight-for-length Per age and sex: 88.5 %
+- Head Occipital-frontal circumference Percentile: 68.0 %
+- Head Occipital-frontal circumference: 46.8 cm
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 111.0 mm[Hg]
+- Heart rate: 83.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: wellness, from 2017-02-04T08:56:26Z to 2017-02-04T09:11:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 79.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 11.9 kg
+- Weight-for-length Per age and sex: 86.7 %
+- Head Occipital-frontal circumference Percentile: 68.0 %
+- Head Occipital-frontal circumference: 47.6 cm
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 120.0 mm[Hg]
+- Heart rate: 63.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- varicella
+- MMR
+- Pneumococcal conjugate PCV 13
+- Hep A  ped/adol  2 dose
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: wellness, from 2017-05-06T08:56:26Z to 2017-05-06T09:11:26Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 82.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 12.6 kg
+- Weight-for-length Per age and sex: 86.1 %
+- Head Occipital-frontal circumference Percentile: 68.0 %
+- Head Occipital-frontal circumference: 48.3 cm
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 116.0 mm[Hg]
+- Heart rate: 93.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- DTaP
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: wellness, from 2017-11-04T08:56:26Z to 2017-11-04T09:11:26Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 88.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 13.7 kg
+- Weight-for-length Per age and sex: 83.5 %
+- Head Occipital-frontal circumference Percentile: 68.0 %
+- Head Occipital-frontal circumference: 49.3 cm
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 109.0 mm[Hg]
+- Heart rate: 63.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: ambulatory, from 2018-04-20T10:56:26Z to 2018-04-20T11:11:26Z
+
+            Conditions: 
+- Streptococcal sore throat (disorder)
+            Medications: 
+- Penicillin V Potassium 250 MG Oral Tablet
+            Observations: 
+- Body temperature: 37.7 Cel
+            Procedures: 
+- Throat culture (procedure): code 117015009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: wellness, from 2018-05-05T08:56:26Z to 2018-05-05T09:11:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 92.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 14.6 kg
+- Weight-for-length Per age and sex: 81.1 %
+- Head Occipital-frontal circumference Percentile: 68.0 %
+- Head Occipital-frontal circumference: 49.9 cm
+- Body mass index (BMI) [Ratio]: 17.2 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 74.8 %
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 108.0 mm[Hg]
+- Heart rate: 68.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hep A  ped/adol  2 dose
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: ambulatory, from 2018-06-24T21:56:26Z to 2018-06-24T22:11:26Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: ambulatory, from 2018-10-13T08:56:26Z to 2018-10-13T09:11:26Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: wellness, from 2018-11-03T08:56:26Z to 2018-11-03T09:11:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 96.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 15.9 kg
+- Weight-for-length Per age and sex: 85.6 %
+- Head Occipital-frontal circumference Percentile: 68.0 %
+- Head Occipital-frontal circumference: 50.4 cm
+- Body mass index (BMI) [Ratio]: 17.2 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 82.6 %
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 110.0 mm[Hg]
+- Heart rate: 92.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: wellness, from 2019-05-04T08:56:26Z to 2019-05-04T09:11:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 100.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 18.7 kg
+- Weight-for-length Per age and sex: 88.8 %
+- Head Occipital-frontal circumference Percentile: 68.0 %
+- Head Occipital-frontal circumference: 50.4 cm
+- Body mass index (BMI) [Ratio]: 18.7 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 98.1 %
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 112.0 mm[Hg]
+- Heart rate: 66.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: wellness, from 2019-11-02T08:56:26Z to 2019-11-02T09:11:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 103.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 20.9 kg
+- Weight-for-length Per age and sex: 88.8 %
+- Head Occipital-frontal circumference Percentile: 68.0 %
+- Head Occipital-frontal circumference: 50.4 cm
+- Body mass index (BMI) [Ratio]: 19.5 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 99.5 %
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 117.0 mm[Hg]
+- Heart rate: 70.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: wellness, from 2020-11-07T08:56:26Z to 2020-11-07T09:11:26Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 110.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 21.4 kg
+- Body mass index (BMI) [Ratio]: 17.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 92.7 %
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 125.0 mm[Hg]
+- Heart rate: 95.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- varicella
+- IPV
+- Influenza  seasonal  injectable  preservative free
+- DTaP
+- MMR
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: outpatient, from 2021-01-02T08:56:26Z to 2021-01-02T09:11:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 111.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 22.0 kg
+- Body mass index (BMI) [Ratio]: 17.7 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 93.2 %
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 108.0 mm[Hg]
+- Heart rate: 77.0 /min
+- Respiratory rate: 15.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 8.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.8 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 49.4 %
+- MCV [Entitic volume] by Automated count: 93.3 fL
+- MCH [Entitic mass] by Automated count: 28.2 pg
+- MCHC [Mass/volume] by Automated count: 35.0 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 44.8 fL
+- Platelets [#/volume] in Blood by Automated count: 441.4 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 177.2 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.3 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: ambulatory, from 2021-01-09T08:56:26Z to 2021-01-09T12:47:13Z
+
+            Conditions: 
+- Primary dental caries (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure): code 1259293006
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: ambulatory, from 2021-01-16T08:56:26Z to 2021-01-16T09:11:26Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: ambulatory, from 2021-06-13T09:56:26Z to 2021-06-13T10:11:26Z
+
+            Conditions: 
+- Streptococcal sore throat (disorder)
+            Medications: 
+- Penicillin V Potassium 250 MG Oral Tablet
+            Observations: 
+- Body temperature: 38.5 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: wellness, from 2021-11-13T08:56:26Z to 2021-11-13T09:11:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 117.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 24.9 kg
+- Body mass index (BMI) [Ratio]: 18.2 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 94.3 %
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 112.0 mm[Hg]
+- Heart rate: 95.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: wellness, from 2022-11-19T08:56:26Z to 2022-11-19T09:11:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 123.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 29.1 kg
+- Body mass index (BMI) [Ratio]: 19.1 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 95.0 %
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 114.0 mm[Hg]
+- Heart rate: 66.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: ambulatory, from 2023-07-22T08:56:26Z to 2023-07-22T09:11:26Z
+
+            Conditions: 
+- Child attention deficit disorder (disorder)
+            Medications: 
+- Methylphenidate Hydrochloride 20 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: wellness, from 2023-11-25T08:56:26Z to 2023-11-25T09:11:26Z
+
+            Conditions: 
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 129.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 31.0 kg
+- Body mass index (BMI) [Ratio]: 18.4 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 88.6 %
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 121.0 mm[Hg]
+- Heart rate: 67.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: ambulatory, from 2023-12-02T08:56:26Z to 2023-12-02T14:06:25Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: wellness, from 2024-11-30T08:56:26Z to 2024-11-30T09:11:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 136.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 35.6 kg
+- Body mass index (BMI) [Ratio]: 19.2 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 88.7 %
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 118.0 mm[Hg]
+- Heart rate: 70.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Mason910 Sanford861, Gender: M, DOB: 2015-11-28, SSN: 999-23-8881
+
+            Encounter: emergency, from 2025-01-10T08:56:26Z to 2025-01-10T09:56:26Z
+
+            Conditions: 
+- Sprain (morphologic abnormality)
+- Sprain of wrist (disorder)
+            Medications: 
+- Acetaminophen 160 MG Chewable Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+            

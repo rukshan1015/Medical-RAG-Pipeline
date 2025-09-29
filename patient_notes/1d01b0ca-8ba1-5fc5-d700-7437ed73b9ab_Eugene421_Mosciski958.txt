@@ -1,0 +1,668 @@
+Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04
+            ------------------------------------------------------------
+                        Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: ambulatory, from 1982-08-20T08:34:37Z to 1982-08-20T08:49:37Z
+
+            Conditions: None
+            Medications: 
+- Astemizole 10 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: ambulatory, from 1982-08-31T03:34:37Z to 1982-08-31T04:10:33Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: wellness, from 1997-01-21T08:34:37Z to 1997-01-21T08:50:59Z
+
+            Conditions: 
+- Risk activity involvement (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: wellness, from 1998-01-27T08:34:37Z to 1998-01-27T09:26:50Z
+
+            Conditions: 
+- Received higher education (finding)
+- Full-time employment (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: wellness, from 2008-02-12T08:34:37Z to 2008-02-12T09:26:41Z
+
+            Conditions: 
+- Prediabetes (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: wellness, from 2011-02-15T08:34:37Z to 2011-02-15T09:32:23Z
+
+            Conditions: 
+- Anemia (disorder)
+- Misuses drugs (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: ambulatory, from 2011-02-22T08:34:37Z to 2011-02-22T09:53:28Z
+
+            Conditions: None
+            Medications: 
+- ferrous sulfate 325 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: outpatient, from 2014-02-06T08:34:37Z to 2014-02-06T08:49:37Z
+
+            Conditions: 
+- Chronic pain (finding)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: wellness, from 2014-02-18T08:34:37Z to 2014-02-18T09:20:32Z
+
+            Conditions: 
+- Victim of intimate partner abuse (finding)
+- Unhealthy alcohol drinking behavior (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: ambulatory, from 2014-03-22T06:34:37Z to 2014-03-22T06:49:37Z
+
+            Conditions: None
+            Medications: 
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: wellness, from 2017-02-21T08:34:37Z to 2017-02-21T09:22:35Z
+
+            Conditions: 
+- Medication review due (situation)
+- Unemployed (finding)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %
+- Body Height: 175.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 86.9 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 127.0 mm[Hg]
+- Heart rate: 65.0 /min
+- Respiratory rate: 12.0 /min
+- Glucose [Mass/volume] in Blood: 86.5 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 17.9 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 9.1 mg/dL
+- Sodium [Moles/volume] in Blood: 138.7 mmol/L
+- Potassium [Moles/volume] in Blood: 4.5 mmol/L
+- Chloride [Moles/volume] in Blood: 105.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.3 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 250.1 mg/dL
+- Triglycerides: 147.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 191.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 28.9 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care (Medical  Dental  Mental Health  Vision)
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 4947 /a
+- Primary insurance: Medicaid
+- Employment status - current: Unemployed
+- Highest level of education: More than high school
+- Address: 491 Frami Dale
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: ambulatory, from 2017-03-07T08:34:37Z to 2017-03-07T11:10:02Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: wellness, from 2019-12-10T08:34:37Z to 2019-12-10T09:07:23Z
+
+            Conditions: 
+- Medication review due (situation)
+- Not in labor force (finding)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.8 %
+- Body Height: 175.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 86.9 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 126.0 mm[Hg]
+- Heart rate: 70.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 79.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 9.7 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 9.2 mg/dL
+- Sodium [Moles/volume] in Blood: 142.4 mmol/L
+- Potassium [Moles/volume] in Blood: 4.7 mmol/L
+- Chloride [Moles/volume] in Blood: 109.9 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 22.0 mmol/L
+- Leukocytes [#/volume] in Blood by Automated count: 7.9 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.5 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.0 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 38.5 %
+- MCV [Entitic volume] by Automated count: 89.8 fL
+- MCH [Entitic mass] by Automated count: 28.7 pg
+- MCHC [Mass/volume] by Automated count: 34.1 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 45.2 fL
+- Platelets [#/volume] in Blood by Automated count: 408.2 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 334.1 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 9.6 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 4947 /a
+- Primary insurance: Medicaid
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: More than high school
+- Address: 491 Frami Dale
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 3.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Hep A  adult
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: outpatient, from 2020-02-25T08:34:37Z to 2020-02-25T09:23:29Z
+
+            Conditions: 
+- Full-time employment (finding)
+- Stress (finding)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 175.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 86.9 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 135.0 mm[Hg]
+- Heart rate: 69.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 90.6 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 13.2 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 10.0 mg/dL
+- Sodium [Moles/volume] in Blood: 143.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.3 mmol/L
+- Chloride [Moles/volume] in Blood: 101.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.6 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 165.6 mg/dL
+- Triglycerides: 110.4 mg/dL
+- Low Density Lipoprotein Cholesterol: 116.6 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 27.0 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Phone
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 4947 /a
+- Primary insurance: Medicaid
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 491 Frami Dale
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: ambulatory, from 2020-03-03T08:34:37Z to 2020-03-03T08:49:37Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: ambulatory, from 2020-03-10T08:34:37Z to 2020-03-10T12:21:12Z
+
+            Conditions: 
+- Primary dental caries (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Restoration of tooth with coverage of all cusps using dental filling material (procedure): code 1256042007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: outpatient, from 2021-04-06T08:34:37Z to 2021-04-06T08:49:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: outpatient, from 2021-05-04T08:34:37Z to 2021-05-04T08:49:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: wellness, from 2021-12-14T08:34:37Z to 2021-12-14T09:10:51Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Body Height: 175.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 86.9 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 87.0 mm[Hg]
+- Systolic Blood Pressure: 123.0 mm[Hg]
+- Heart rate: 83.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 94.1 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 12.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 8.6 mg/dL
+- Sodium [Moles/volume] in Blood: 138.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.4 mmol/L
+- Chloride [Moles/volume] in Blood: 108.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 25.9 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care (Medical  Dental  Mental Health  Vision)
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 4947 /a
+- Primary insurance: Medicaid
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 491 Frami Dale
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: Yes
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [DAST-10]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+- Hep A  adult
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: ambulatory, from 2021-12-28T08:34:37Z to 2021-12-28T11:21:05Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: wellness, from 2023-12-19T08:34:37Z to 2023-12-19T09:17:12Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 175.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 86.9 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 87.0 mm[Hg]
+- Systolic Blood Pressure: 134.0 mm[Hg]
+- Heart rate: 94.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 79.5 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 8.3 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 8.6 mg/dL
+- Sodium [Moles/volume] in Blood: 141.3 mmol/L
+- Potassium [Moles/volume] in Blood: 4.1 mmol/L
+- Chloride [Moles/volume] in Blood: 105.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.3 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 220.9 mg/dL
+- Triglycerides: 132.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 164.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 30.1 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 4947 /a
+- Primary insurance: Medicaid
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 491 Frami Dale
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: ambulatory, from 2024-03-04T21:34:37Z to 2024-03-04T21:49:37Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: outpatient, from 2024-03-12T08:34:37Z to 2024-03-12T09:31:59Z
+
+            Conditions: 
+- Medication review due (situation)
+- Part-time employment (finding)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.1 %
+- Body Height: 175.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 86.9 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 127.0 mm[Hg]
+- Heart rate: 97.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 80.3 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 10.4 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 10.0 mg/dL
+- Sodium [Moles/volume] in Blood: 136.6 mmol/L
+- Potassium [Moles/volume] in Blood: 4.7 mmol/L
+- Chloride [Moles/volume] in Blood: 106.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 26.5 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 4947 /a
+- Primary insurance: Medicaid
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 491 Frami Dale
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Eugene421 Mosciski958, Gender: M, DOB: 1979-12-04, SSN: 999-65-3742
+
+            Encounter: ambulatory, from 2024-03-26T08:34:37Z to 2024-03-26T11:33:56Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+            

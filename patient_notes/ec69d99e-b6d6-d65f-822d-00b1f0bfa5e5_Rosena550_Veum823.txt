@@ -1,0 +1,1914 @@
+Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31
+            ------------------------------------------------------------
+                        Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: inpatient, from 2003-02-17T08:31:06Z to 2003-03-06T08:31:06Z
+
+            Conditions: 
+- Dependent drug abuse (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: wellness, from 2003-12-25T08:31:06Z to 2003-12-25T09:23:57Z
+
+            Conditions: 
+- Only received primary school education (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: emergency, from 2004-07-05T11:17:38Z to 2004-07-06T07:17:38Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: emergency, from 2005-11-17T08:31:06Z to 2005-11-17T09:31:06Z
+
+            Conditions: 
+- Pulmonary emphysema (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: outpatient, from 2014-02-01T08:31:06Z to 2014-02-01T08:46:06Z
+
+            Conditions: 
+- Chronic pain (finding)
+- Chronic low back pain (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: wellness, from 2014-12-11T08:31:06Z to 2014-12-11T09:03:22Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+- Limited social contact (finding)
+            Medications: 
+- albuterol 5 MG/ML Inhalation Solution
+- tramadol hydrochloride 50 MG Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2015-06-18T08:31:06Z to 2015-06-18T08:46:06Z
+
+            Conditions: 
+- Normal pregnancy (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2015-10-08T08:31:06Z to 2015-10-08T08:46:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2015-11-05T08:31:06Z to 2015-11-05T08:46:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure): code 104091002
+- Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure): code 399014008
+- Urine screening for glucose (procedure): code 268556000
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2015-12-03T08:31:06Z to 2015-12-03T08:46:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: wellness, from 2015-12-17T08:31:06Z to 2015-12-17T09:15:30Z
+
+            Conditions: 
+- Stress (finding)
+- Reports of violence in the environment (finding)
+            Medications: 
+- albuterol 5 MG/ML Inhalation Solution
+- tramadol hydrochloride 50 MG Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+            Observations: 
+- FEV1/FVC: 37.6 %
+- Body Height: 163.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 61.4 kg
+- Body mass index (BMI) [Ratio]: 22.9 kg/m2
+- Diastolic Blood Pressure: 73.0 mm[Hg]
+- Systolic Blood Pressure: 135.0 mm[Hg]
+- Heart rate: 87.0 /min
+- Respiratory rate: 13.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 242.5 mg/dL
+- Triglycerides: 143.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 184.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 29.1 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: No
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 274008 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 986 MacGyver Route Unit 82
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+            Procedures: 
+- Spirometry (procedure): code 127783003
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2015-12-31T08:31:06Z to 2015-12-31T08:46:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Streptococcus pneumoniae group B antigen assay (procedure): code 118001005
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2016-01-14T08:31:06Z to 2016-01-14T08:46:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: emergency, from 2016-01-21T08:31:06Z to 2016-01-21T09:31:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Medical induction of labor (procedure): code 31208007
+- Human parturition  function (observable entity): code 386216000
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2016-03-03T08:31:06Z to 2016-03-03T08:46:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Physical examination procedure (procedure): code 5880005
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2016-04-10T19:10:16Z to 2016-04-10T20:16:30Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2016-05-10T20:16:30Z to 2016-05-10T21:18:09Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2016-06-09T21:18:09Z to 2016-06-09T22:21:44Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2016-07-09T22:21:44Z to 2016-07-09T23:44:31Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2016-08-08T23:44:31Z to 2016-08-09T01:02:28Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2016-09-08T01:02:28Z to 2016-09-08T02:19:43Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2016-10-08T02:19:43Z to 2016-10-08T03:34:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: wellness, from 2016-12-22T08:31:06Z to 2016-12-22T09:01:51Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- albuterol 5 MG/ML Inhalation Solution
+- tramadol hydrochloride 50 MG Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+            Observations: 
+- FEV1/FVC: 33.7 %
+- Body Height: 163.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 63.0 kg
+- Body mass index (BMI) [Ratio]: 23.5 kg/m2
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 141.0 mm[Hg]
+- Heart rate: 80.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Very much
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 274008 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 986 MacGyver Route Unit 82
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+            Procedures: 
+- Spirometry (procedure): code 127783003
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2017-01-05T08:31:06Z to 2017-01-05T11:37:24Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: inpatient, from 2017-01-16T03:34:40Z to 2017-01-29T03:34:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 5.0 {score}
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: outpatient, from 2017-03-05T08:31:06Z to 2017-03-05T08:46:06Z
+
+            Conditions: None
+            Medications: 
+- Errin 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2017-06-11T03:34:40Z to 2017-06-11T04:43:47Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: wellness, from 2017-12-28T08:31:06Z to 2017-12-28T09:12:46Z
+
+            Conditions: 
+- Part-time employment (finding)
+- Social isolation (finding)
+            Medications: 
+- albuterol 5 MG/ML Inhalation Solution
+- tramadol hydrochloride 50 MG Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+            Observations: 
+- FEV1/FVC: 34.6 %
+- Body Height: 163.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 64.2 kg
+- Body mass index (BMI) [Ratio]: 23.9 kg/m2
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 132.0 mm[Hg]
+- Heart rate: 86.0 /min
+- Respiratory rate: 15.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 4.5 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.5 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 45.8 %
+- MCV [Entitic volume] by Automated count: 89.5 fL
+- MCH [Entitic mass] by Automated count: 29.1 pg
+- MCHC [Mass/volume] by Automated count: 34.8 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 45.7 fL
+- Platelets [#/volume] in Blood by Automated count: 406.5 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 469.4 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 9.5 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: I choose not to answer this question
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 274008 /a
+- Primary insurance: Medicare
+- Employment status - current: Part-time or temporary work
+- Highest level of education: Less than high school degree
+- Address: 986 MacGyver Route Unit 82
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+            Procedures: 
+- Spirometry (procedure): code 127783003
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2018-01-11T08:31:06Z to 2018-01-11T14:59:55Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: outpatient, from 2018-02-28T08:31:06Z to 2018-02-28T08:46:06Z
+
+            Conditions: None
+            Medications: 
+- Jolivette 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2018-03-13T04:43:47Z to 2018-03-13T06:02:18Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2018-04-12T06:02:18Z to 2018-04-12T07:26:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2018-05-12T07:26:27Z to 2018-05-12T08:56:22Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2018-05-13T21:31:06Z to 2018-05-13T21:46:06Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: wellness, from 2019-01-03T08:31:06Z to 2019-01-03T09:07:12Z
+
+            Conditions: 
+- Full-time employment (finding)
+- Gingivitis (disorder)
+            Medications: 
+- albuterol 5 MG/ML Inhalation Solution
+- tramadol hydrochloride 50 MG Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+            Observations: 
+- FEV1/FVC: 35.7 %
+- Body Height: 163.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 66.2 kg
+- Body mass index (BMI) [Ratio]: 24.7 kg/m2
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 145.0 mm[Hg]
+- Heart rate: 94.0 /min
+- Respiratory rate: 16.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 197.0 mg/dL
+- Triglycerides: 135.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 136.2 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 33.6 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 274008 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 986 MacGyver Route Unit 82
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Spirometry (procedure): code 127783003
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2019-01-17T08:31:06Z to 2019-01-17T11:43:24Z
+
+            Conditions: 
+- Dental filling lost (finding)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Restoration of tooth with coverage of all cusps using dental filling material (procedure): code 1256042007
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: outpatient, from 2019-02-23T08:31:06Z to 2019-02-23T08:46:06Z
+
+            Conditions: None
+            Medications: 
+- Errin 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2019-05-06T08:56:22Z to 2019-05-06T10:21:24Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2019-06-05T10:21:24Z to 2019-06-05T11:24:33Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2019-07-05T11:24:33Z to 2019-07-05T12:36:12Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: wellness, from 2020-01-09T08:31:06Z to 2020-01-09T09:09:44Z
+
+            Conditions: 
+- Medication review due (situation)
+- Stress (finding)
+            Medications: 
+- albuterol 5 MG/ML Inhalation Solution
+- tramadol hydrochloride 50 MG Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+            Observations: 
+- FEV1/FVC: 37.0 %
+- Body Height: 163.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 67.3 kg
+- Body mass index (BMI) [Ratio]: 25.1 kg/m2
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 138.0 mm[Hg]
+- Heart rate: 99.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 274008 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 986 MacGyver Route Unit 82
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 7.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 5.0 {score}
+- Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 3.0 {score}
+            Procedures: 
+- Spirometry (procedure): code 127783003
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: emergency, from 2020-05-17T12:36:12Z to 2020-05-17T13:36:12Z
+
+            Conditions: 
+- Overdose (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2020-08-09T13:36:12Z to 2020-08-09T14:59:24Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2020-10-13T14:59:24Z to 2020-10-13T16:00:54Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2020-11-12T16:00:54Z to 2020-11-12T17:20:01Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2020-12-12T17:20:01Z to 2020-12-12T18:35:18Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: wellness, from 2021-01-14T08:31:06Z to 2021-01-14T09:28:33Z
+
+            Conditions: 
+- Medication review due (situation)
+- Victim of intimate partner abuse (finding)
+            Medications: 
+- albuterol 5 MG/ML Inhalation Solution
+- tramadol hydrochloride 50 MG Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+            Observations: 
+- FEV1/FVC: 42.7 %
+- Body Height: 163.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 68.3 kg
+- Body mass index (BMI) [Ratio]: 25.5 kg/m2
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 135.0 mm[Hg]
+- Heart rate: 85.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 274008 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 986 MacGyver Route Unit 82
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Total score [HARK]: 3.0 {score}
+            Procedures: 
+- Spirometry (procedure): code 127783003
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2021-02-11T08:31:06Z to 2021-02-11T08:46:06Z
+
+            Conditions: 
+- Normal pregnancy (finding)
+- Miscarriage in first trimester (disorder)
+- Blighted ovum (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Standard pregnancy test (procedure): code 252160004
+- Ultrasound scan for fetal viability (procedure): code 169230002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: emergency, from 2021-03-01T18:35:18Z to 2021-03-02T08:35:18Z
+
+            Conditions: 
+- Overdose (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2021-02-28T08:31:06Z to 2021-02-28T08:46:06Z
+
+            Conditions: 
+- Past pregnancy history of miscarriage (situation)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Physical examination procedure (procedure): code 5880005
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: outpatient, from 2021-03-11T08:31:06Z to 2021-03-11T09:28:29Z
+
+            Conditions: 
+- Sterilization requested (situation)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Sterilization education (procedure): code 268533009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: inpatient, from 2021-03-18T09:28:29Z to 2021-03-19T09:28:29Z
+
+            Conditions: 
+- History of tubal ligation (situation)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Ligation of bilateral fallopian tubes (procedure): code 287664005
+- Postoperative care (regime/therapy): code 133899007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: emergency, from 2021-04-24T09:34:33Z to 2021-04-24T10:34:33Z
+
+            Conditions: 
+- Injury of knee (disorder)
+- Injury of medial collateral ligament of knee (disorder)
+            Medications: 
+- Ibuprofen 200 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Plain X-ray of knee region (procedure): code 1290407002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: inpatient, from 2021-04-27T08:35:18Z to 2021-04-28T08:35:18Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2021-04-28T02:31:06Z to 2021-04-28T02:46:06Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.1 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: inpatient, from 2021-05-01T09:34:33Z to 2021-05-03T14:35:33Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Surgical manipulation of joint of knee (procedure): code 699253003
+- Postoperative care (regime/therapy): code 133899007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: snf, from 2021-05-03T14:35:33Z to 2021-08-11T14:50:33Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- History AND physical examination (procedure): code 63332003
+- Initial patient assessment (procedure): code 315639002
+- Development of individualized plan of care (procedure): code 370789001
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Speech and language therapy regime (regime/therapy): code 311555007
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Speech and language therapy regime (regime/therapy): code 311555007
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Speech and language therapy regime (regime/therapy): code 311555007
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Care regimes assessment (procedure): code 392091000
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Speech and language therapy regime (regime/therapy): code 311555007
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Speech and language therapy regime (regime/therapy): code 311555007
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Speech and language therapy regime (regime/therapy): code 311555007
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Speech and language therapy regime (regime/therapy): code 311555007
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Care regimes assessment (procedure): code 392091000
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Pre-discharge assessment (procedure): code 225386006
+- Discharge from hospital (procedure): code 308283009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2021-08-12T08:31:06Z to 2021-08-12T09:52:03Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2021-08-19T08:31:06Z to 2021-08-19T08:46:06Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.4 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: outpatient, from 2021-08-26T08:31:06Z to 2021-08-26T09:07:07Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- albuterol 5 MG/ML Inhalation Solution
+- tramadol hydrochloride 50 MG Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+            Observations: 
+- FEV1/FVC: 40.4 %
+- Body Height: 163.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 68.3 kg
+- Body mass index (BMI) [Ratio]: 25.5 kg/m2
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 133.0 mm[Hg]
+- Heart rate: 78.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 274008 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 986 MacGyver Route Unit 82
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Spirometry (procedure): code 127783003
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: outpatient, from 2021-09-02T08:31:06Z to 2021-09-02T08:46:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2021-09-11T09:52:03Z to 2021-09-11T11:17:54Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: outpatient, from 2021-09-30T08:31:06Z to 2021-09-30T08:46:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2021-10-11T11:17:54Z to 2021-10-11T12:24:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2021-11-10T12:24:40Z to 2021-11-10T13:30:38Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2021-12-10T13:30:38Z to 2021-12-10T14:55:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2022-01-09T14:55:07Z to 2022-01-09T16:06:16Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: wellness, from 2022-01-20T08:31:06Z to 2022-01-20T09:18:29Z
+
+            Conditions: 
+- Stress (finding)
+            Medications: 
+- albuterol 5 MG/ML Inhalation Solution
+- tramadol hydrochloride 50 MG Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+            Observations: 
+- FEV1/FVC: 29.4 %
+- Body Height: 163.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 69.6 kg
+- Body mass index (BMI) [Ratio]: 25.9 kg/m2
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 133.0 mm[Hg]
+- Heart rate: 72.0 /min
+- Respiratory rate: 14.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 196.5 mg/dL
+- Triglycerides: 113.9 mg/dL
+- Low Density Lipoprotein Cholesterol: 143.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 30.2 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 274008 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 986 MacGyver Route Unit 82
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Spirometry (procedure): code 127783003
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2022-02-03T08:31:06Z to 2022-02-03T12:25:19Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2022-02-08T16:06:16Z to 2022-02-08T17:17:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2022-03-10T17:17:07Z to 2022-03-10T18:20:41Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: inpatient, from 2022-03-27T08:31:06Z to 2022-04-05T22:31:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Lung volume reduction surgery (procedure): code 429609002
+- Postoperative care (regime/therapy): code 133899007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2022-10-29T18:20:41Z to 2022-10-29T19:28:22Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2022-11-28T19:28:22Z to 2022-11-28T20:40:01Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: wellness, from 2023-01-26T08:31:06Z to 2023-01-26T09:30:52Z
+
+            Conditions: None
+            Medications: 
+- albuterol 5 MG/ML Inhalation Solution
+- tramadol hydrochloride 50 MG Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+            Observations: 
+- FEV1/FVC: 28.1 %
+- Body Height: 163.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 71.0 kg
+- Body mass index (BMI) [Ratio]: 26.5 kg/m2
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 142.0 mm[Hg]
+- Heart rate: 65.0 /min
+- Respiratory rate: 13.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 3.5 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.7 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 45.9 %
+- MCV [Entitic volume] by Automated count: 94.1 fL
+- MCH [Entitic mass] by Automated count: 31.0 pg
+- MCHC [Mass/volume] by Automated count: 34.8 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 42.5 fL
+- Platelets [#/volume] in Blood by Automated count: 332.7 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 208.1 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.3 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 274008 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 986 MacGyver Route Unit 82
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+            Procedures: 
+- Spirometry (procedure): code 127783003
+- Pulmonary rehabilitation (regime/therapy): code 15081005
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2023-02-09T08:31:06Z to 2023-02-09T12:05:36Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: wellness, from 2024-02-01T08:31:06Z to 2024-02-01T09:08:48Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- albuterol 5 MG/ML Inhalation Solution
+- tramadol hydrochloride 50 MG Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+            Observations: 
+- FEV1/FVC: 12.0 %
+- Body Height: 163.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 72.4 kg
+- Body mass index (BMI) [Ratio]: 27.0 kg/m2
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 147.0 mm[Hg]
+- Heart rate: 95.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 274008 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 986 MacGyver Route Unit 82
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 6.0 {score}
+- Total score [HARK]: 0.0 {score}
+            Procedures: 
+- Spirometry (procedure): code 127783003
+- Pulmonary rehabilitation (regime/therapy): code 15081005
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2024-02-07T20:40:01Z to 2024-02-07T21:59:41Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2024-02-15T08:31:06Z to 2024-02-15T11:18:17Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2024-03-08T21:59:41Z to 2024-03-08T23:04:01Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: inpatient, from 2024-06-30T23:04:01Z to 2024-07-03T23:04:01Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 7.0 {score}
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2024-10-23T23:04:01Z to 2024-10-24T00:07:02Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2024-11-23T00:07:02Z to 2024-11-23T01:18:17Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2024-12-23T01:18:17Z to 2024-12-23T02:45:21Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2025-01-22T02:45:21Z to 2025-01-22T04:07:02Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: wellness, from 2025-02-06T08:31:06Z to 2025-02-06T09:11:12Z
+
+            Conditions: 
+- Part-time employment (finding)
+            Medications: 
+- albuterol 5 MG/ML Inhalation Solution
+- tramadol hydrochloride 50 MG Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+            Observations: 
+- FEV1/FVC: 21.9 %
+- Body Height: 163.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 73.5 kg
+- Body mass index (BMI) [Ratio]: 27.4 kg/m2
+- Diastolic Blood Pressure: 73.0 mm[Hg]
+- Systolic Blood Pressure: 132.0 mm[Hg]
+- Heart rate: 85.0 /min
+- Respiratory rate: 15.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 137.0 mg/dL
+- Triglycerides: 108.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 84.6 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 30.6 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 274008 /a
+- Primary insurance: Medicare
+- Employment status - current: Part-time or temporary work
+- Highest level of education: Less than high school degree
+- Address: 986 MacGyver Route Unit 82
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+            Procedures: 
+- Spirometry (procedure): code 127783003
+- Pulmonary rehabilitation (regime/therapy): code 15081005
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: ambulatory, from 2025-02-20T08:31:06Z to 2025-02-20T15:50:12Z
+
+            Conditions: 
+- Gingival disease (disorder)
+- Primary dental caries (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure): code 1259293006
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Rosena550 Veum823, Gender: F, DOB: 1985-10-31, SSN: 999-51-5075
+
+            Encounter: inpatient, from 2025-05-23T04:07:02Z to 2025-05-25T04:07:02Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+            

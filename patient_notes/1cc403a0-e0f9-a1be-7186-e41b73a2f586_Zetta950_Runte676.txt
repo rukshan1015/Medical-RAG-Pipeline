@@ -1,0 +1,419 @@
+Patient: Zetta950 Runte676, Gender: F, DOB: 2011-07-21
+            ------------------------------------------------------------
+                        Patient: Zetta950 Runte676, Gender: F, DOB: 2011-07-21, SSN: 999-49-7139
+
+            Encounter: emergency, from 2016-06-10T10:54:00Z to 2016-06-10T11:54:00Z
+
+            Conditions: 
+- Laceration - injury (disorder)
+- Facial laceration (disorder)
+            Medications: 
+- Ibuprofen 100 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Suture open wound (procedure): code 288086009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Zetta950 Runte676, Gender: F, DOB: 2011-07-21, SSN: 999-49-7139
+
+            Encounter: wellness, from 2016-06-30T10:54:00Z to 2016-06-30T11:09:00Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 105.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 23.5 kg
+- Body mass index (BMI) [Ratio]: 21.3 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 99.3 %
+- Diastolic Blood Pressure: 72.0 mm[Hg]
+- Systolic Blood Pressure: 108.0 mm[Hg]
+- Heart rate: 71.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- varicella
+- IPV
+- Influenza  seasonal  injectable  preservative free
+- DTaP
+- MMR
+            
+
+            Patient: Zetta950 Runte676, Gender: F, DOB: 2011-07-21, SSN: 999-49-7139
+
+            Encounter: wellness, from 2017-07-06T10:54:00Z to 2017-07-06T11:09:00Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 111.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 22.9 kg
+- Body mass index (BMI) [Ratio]: 18.3 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 93.2 %
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 117.0 mm[Hg]
+- Heart rate: 76.0 /min
+- Respiratory rate: 14.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 8.4 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.8 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 16.4 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 48.3 %
+- MCV [Entitic volume] by Automated count: 92.9 fL
+- MCH [Entitic mass] by Automated count: 27.4 pg
+- MCHC [Mass/volume] by Automated count: 34.3 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 42.6 fL
+- Platelets [#/volume] in Blood by Automated count: 256.8 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 210.5 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.5 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Zetta950 Runte676, Gender: F, DOB: 2011-07-21, SSN: 999-49-7139
+
+            Encounter: wellness, from 2018-07-12T10:54:00Z to 2018-07-12T11:09:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 118.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 25.6 kg
+- Body mass index (BMI) [Ratio]: 18.3 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 89.8 %
+- Diastolic Blood Pressure: 70.0 mm[Hg]
+- Systolic Blood Pressure: 104.0 mm[Hg]
+- Heart rate: 71.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Zetta950 Runte676, Gender: F, DOB: 2011-07-21, SSN: 999-49-7139
+
+            Encounter: wellness, from 2019-07-18T10:54:00Z to 2019-07-18T11:09:00Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 124.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 30.2 kg
+- Body mass index (BMI) [Ratio]: 19.5 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 91.9 %
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 112.0 mm[Hg]
+- Heart rate: 70.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Zetta950 Runte676, Gender: F, DOB: 2011-07-21, SSN: 999-49-7139
+
+            Encounter: ambulatory, from 2019-07-25T10:54:00Z to 2019-07-25T13:57:13Z
+
+            Conditions: 
+- Primary dental caries (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure): code 1259293006
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Zetta950 Runte676, Gender: F, DOB: 2011-07-21, SSN: 999-49-7139
+
+            Encounter: wellness, from 2020-07-23T10:54:00Z to 2020-07-23T11:09:00Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 130.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 35.9 kg
+- Body mass index (BMI) [Ratio]: 21.2 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 93.7 %
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 106.0 mm[Hg]
+- Heart rate: 63.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Zetta950 Runte676, Gender: F, DOB: 2011-07-21, SSN: 999-49-7139
+
+            Encounter: ambulatory, from 2020-07-30T10:54:00Z to 2020-07-30T17:49:33Z
+
+            Conditions: 
+- Gingival disease (disorder)
+- Loose dental filling (finding)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure): code 1259293006
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Zetta950 Runte676, Gender: F, DOB: 2011-07-21, SSN: 999-49-7139
+
+            Encounter: ambulatory, from 2020-11-06T01:54:00Z to 2020-11-06T02:09:00Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: 
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Zetta950 Runte676, Gender: F, DOB: 2011-07-21, SSN: 999-49-7139
+
+            Encounter: wellness, from 2021-07-29T10:54:00Z to 2021-07-29T11:09:00Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 134.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 42.8 kg
+- Body mass index (BMI) [Ratio]: 23.5 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 95.8 %
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 105.0 mm[Hg]
+- Heart rate: 62.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Zetta950 Runte676, Gender: F, DOB: 2011-07-21, SSN: 999-49-7139
+
+            Encounter: wellness, from 2022-08-04T10:54:00Z to 2022-08-04T11:09:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 140.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 53.4 kg
+- Body mass index (BMI) [Ratio]: 27.0 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 97.8 %
+- Diastolic Blood Pressure: 70.0 mm[Hg]
+- Systolic Blood Pressure: 104.0 mm[Hg]
+- Heart rate: 87.0 /min
+- Respiratory rate: 14.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 8.6 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.0 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 41.5 %
+- MCV [Entitic volume] by Automated count: 92.0 fL
+- MCH [Entitic mass] by Automated count: 28.4 pg
+- MCHC [Mass/volume] by Automated count: 33.3 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 39.2 fL
+- Platelets [#/volume] in Blood by Automated count: 305.8 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 177.7 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.9 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Tdap
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+- meningococcal MCV4P
+            
+
+            Patient: Zetta950 Runte676, Gender: F, DOB: 2011-07-21, SSN: 999-49-7139
+
+            Encounter: emergency, from 2022-10-27T11:07:44Z to 2022-10-27T12:07:44Z
+
+            Conditions: 
+- Sprain (morphologic abnormality)
+- Sprain of ankle (disorder)
+            Medications: 
+- Acetaminophen 160 MG Chewable Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Zetta950 Runte676, Gender: F, DOB: 2011-07-21, SSN: 999-49-7139
+
+            Encounter: outpatient, from 2023-08-03T10:54:00Z to 2023-08-03T11:09:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Zetta950 Runte676, Gender: F, DOB: 2011-07-21, SSN: 999-49-7139
+
+            Encounter: wellness, from 2023-08-10T10:54:00Z to 2023-08-10T11:18:25Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 147.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 55.2 kg
+- Body mass index (BMI) [Ratio]: 25.3 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 95.0 %
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 104.0 mm[Hg]
+- Heart rate: 69.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 4.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+            
+
+            Patient: Zetta950 Runte676, Gender: F, DOB: 2011-07-21, SSN: 999-49-7139
+
+            Encounter: outpatient, from 2023-08-24T10:54:00Z to 2023-08-24T11:09:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Zetta950 Runte676, Gender: F, DOB: 2011-07-21, SSN: 999-49-7139
+
+            Encounter: wellness, from 2024-08-15T10:54:00Z to 2024-08-15T11:09:00Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 153.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 67.8 kg
+- Body mass index (BMI) [Ratio]: 28.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 97.2 %
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 110.0 mm[Hg]
+- Heart rate: 66.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 0.0 {score}
+            Procedures: 
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+            
+
+            Patient: Zetta950 Runte676, Gender: F, DOB: 2011-07-21, SSN: 999-49-7139
+
+            Encounter: wellness, from 2025-08-21T10:54:00Z to 2025-08-21T11:17:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 157.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 64.6 kg
+- Body mass index (BMI) [Ratio]: 26.1 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 93.1 %
+- Diastolic Blood Pressure: 73.0 mm[Hg]
+- Systolic Blood Pressure: 110.0 mm[Hg]
+- Heart rate: 93.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 9.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 0.0 {score}
+            Procedures: 
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+            

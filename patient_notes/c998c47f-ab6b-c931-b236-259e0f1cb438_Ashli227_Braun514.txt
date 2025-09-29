@@ -1,0 +1,376 @@
+Patient: Ashli227 Braun514, Gender: F, DOB: 2024-03-30
+            ------------------------------------------------------------
+                        Patient: Ashli227 Braun514, Gender: F, DOB: 2024-03-30, SSN: 999-91-2461
+
+            Encounter: wellness, from 2024-03-30T23:07:31Z to 2024-03-30T23:22:31Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 51.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 4.1 kg
+- Weight-for-length Per age and sex: 63.9 %
+- Head Occipital-frontal circumference Percentile: 52.4 %
+- Head Occipital-frontal circumference: 34.8 cm
+- Diastolic Blood Pressure: 87.0 mm[Hg]
+- Systolic Blood Pressure: 88.0 mm[Hg]
+- Heart rate: 92.0 /min
+- Respiratory rate: 13.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 8.4 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.6 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.3 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 48.2 %
+- MCV [Entitic volume] by Automated count: 90.4 fL
+- MCH [Entitic mass] by Automated count: 29.3 pg
+- MCHC [Mass/volume] by Automated count: 35.2 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 40.6 fL
+- Platelets [#/volume] in Blood by Automated count: 430.0 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 467.6 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 12.0 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Ashli227 Braun514, Gender: F, DOB: 2024-03-30, SSN: 999-91-2461
+
+            Encounter: wellness, from 2024-05-04T23:07:31Z to 2024-05-04T23:22:31Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 55.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 4.9 kg
+- Weight-for-length Per age and sex: 67.7 %
+- Head Occipital-frontal circumference Percentile: 52.4 %
+- Head Occipital-frontal circumference: 38.1 cm
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 103.0 mm[Hg]
+- Heart rate: 96.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Ashli227 Braun514, Gender: F, DOB: 2024-03-30, SSN: 999-91-2461
+
+            Encounter: wellness, from 2024-07-06T23:07:31Z to 2024-07-06T23:22:31Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 60.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 6.4 kg
+- Weight-for-length Per age and sex: 63.5 %
+- Head Occipital-frontal circumference Percentile: 52.4 %
+- Head Occipital-frontal circumference: 40.6 cm
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 98.0 mm[Hg]
+- Heart rate: 64.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- rotavirus  monovalent
+- IPV
+- DTaP
+- Pneumococcal conjugate PCV 13
+            
+
+            Patient: Ashli227 Braun514, Gender: F, DOB: 2024-03-30, SSN: 999-91-2461
+
+            Encounter: ambulatory, from 2024-08-16T23:07:31Z to 2024-08-16T23:22:31Z
+
+            Conditions: 
+- Atopic dermatitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ashli227 Braun514, Gender: F, DOB: 2024-03-30, SSN: 999-91-2461
+
+            Encounter: ambulatory, from 2024-08-20T23:07:31Z to 2024-08-20T23:22:31Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Percentage area affected by eczema Head and Neck [PhenX]: 53.2 %
+- Percentage area affected by eczema Trunk [PhenX]: 6.3 %
+- Percentage area affected by eczema Upper extremity - bilateral [PhenX]: 17.8 %
+- Percentage area affected by eczema Lower extremity - bilateral [PhenX]: 5.1 %
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ashli227 Braun514, Gender: F, DOB: 2024-03-30, SSN: 999-91-2461
+
+            Encounter: wellness, from 2024-09-07T23:07:31Z to 2024-09-07T23:22:31Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 64.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 7.5 kg
+- Weight-for-length Per age and sex: 79.0 %
+- Head Occipital-frontal circumference Percentile: 52.4 %
+- Head Occipital-frontal circumference: 42.2 cm
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 105.0 mm[Hg]
+- Heart rate: 92.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- rotavirus  monovalent
+- IPV
+- DTaP
+- Pneumococcal conjugate PCV 13
+            
+
+            Patient: Ashli227 Braun514, Gender: F, DOB: 2024-03-30, SSN: 999-91-2461
+
+            Encounter: ambulatory, from 2024-09-14T23:07:31Z to 2024-09-14T23:33:02Z
+
+            Conditions: None
+            Medications: 
+- cetirizine hydrochloride 5 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+            Observations: 
+- Peanut IgE Ab [Units/volume] in Serum: 0.1 kU/L
+- Walnut IgE Ab [Units/volume] in Serum: 0.0 kU/L
+- Codfish IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Shrimp IgE Ab [Units/volume] in Serum: 0.1 kU/L
+- Wheat IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Egg white IgE Ab [Units/volume] in Serum: 0.1 kU/L
+- Soybean IgE Ab [Units/volume] in Serum: 0.1 kU/L
+- Cow milk IgE Ab [Units/volume] in Serum: 0.0 kU/L
+- White oak IgE Ab [Units/volume] in Serum: 0.2 kU/L
+- Common Ragweed IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Cat dander IgE Ab [Units/volume] in Serum: 0.1 kU/L
+- American house dust mite IgE Ab [Units/volume] in Serum: 0.0 kU/L
+- Cladosporium herbarum IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Honey bee IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Latex IgE Ab [Units/volume] in Serum: 0.3 kU/L
+            Procedures: 
+- Allergy screening test (procedure): code 395142003
+            Allergies: 
+- Wheal (finding): MILD
+- Rhinoconjunctivitis (disorder): MILD
+- Cough (finding): MODERATE
+- Rhinoconjunctivitis (disorder): MODERATE
+- Allergic angioedema (disorder): MODERATE
+- Finding of vomiting (finding): MILD
+            Immunization: None
+            
+
+            Patient: Ashli227 Braun514, Gender: F, DOB: 2024-03-30, SSN: 999-91-2461
+
+            Encounter: wellness, from 2024-12-07T23:07:31Z to 2024-12-07T23:22:31Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 69.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 9.0 kg
+- Weight-for-length Per age and sex: 85.2 %
+- Head Occipital-frontal circumference Percentile: 52.4 %
+- Head Occipital-frontal circumference: 43.8 cm
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 104.0 mm[Hg]
+- Heart rate: 91.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- IPV
+- Influenza  seasonal  injectable  preservative free
+- DTaP
+- Pneumococcal conjugate PCV 13
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Ashli227 Braun514, Gender: F, DOB: 2024-03-30, SSN: 999-91-2461
+
+            Encounter: emergency, from 2025-02-27T23:07:31Z to 2025-02-28T00:07:31Z
+
+            Conditions: 
+- Fracture of bone (disorder)
+- Fracture of forearm (disorder)
+            Medications: 
+- Ibuprofen 100 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Plain X-ray of humerus (procedure): code 713026007
+- Bone immobilization (procedure): code 274474001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ashli227 Braun514, Gender: F, DOB: 2024-03-30, SSN: 999-91-2461
+
+            Encounter: wellness, from 2025-03-08T23:07:31Z to 2025-03-08T23:31:10Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 73.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 10.1 kg
+- Weight-for-length Per age and sex: 87.5 %
+- Head Occipital-frontal circumference Percentile: 52.4 %
+- Head Occipital-frontal circumference: 45.0 cm
+- Diastolic Blood Pressure: 87.0 mm[Hg]
+- Systolic Blood Pressure: 100.0 mm[Hg]
+- Heart rate: 93.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Fall risk total [Morse Fall Scale]: 84.0 {#}
+- Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment using Morse Fall Scale (procedure): code 762993000
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ashli227 Braun514, Gender: F, DOB: 2024-03-30, SSN: 999-91-2461
+
+            Encounter: outpatient, from 2025-04-05T23:07:31Z to 2025-04-05T23:25:45Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 74.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 10.4 kg
+- Weight-for-length Per age and sex: 88.7 %
+- Head Occipital-frontal circumference Percentile: 52.4 %
+- Head Occipital-frontal circumference: 45.3 cm
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 87.0 mm[Hg]
+- Heart rate: 85.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Fall risk total [Morse Fall Scale]: 21.0 {#}
+- Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24)
+            Procedures: 
+- Assessment using Morse Fall Scale (procedure): code 762993000
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- varicella
+- MMR
+- Pneumococcal conjugate PCV 13
+- Hep A  ped/adol  2 dose
+            
+
+            Patient: Ashli227 Braun514, Gender: F, DOB: 2024-03-30, SSN: 999-91-2461
+
+            Encounter: ambulatory, from 2025-04-12T23:07:31Z to 2025-04-12T23:22:31Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ashli227 Braun514, Gender: F, DOB: 2024-03-30, SSN: 999-91-2461
+
+            Encounter: ambulatory, from 2025-04-23T23:35:48Z to 2025-04-23T23:50:48Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ashli227 Braun514, Gender: F, DOB: 2024-03-30, SSN: 999-91-2461
+
+            Encounter: wellness, from 2025-06-07T23:07:31Z to 2025-06-07T23:22:31Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 76.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 11.0 kg
+- Weight-for-length Per age and sex: 86.2 %
+- Head Occipital-frontal circumference Percentile: 52.4 %
+- Head Occipital-frontal circumference: 45.8 cm
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 96.0 mm[Hg]
+- Heart rate: 82.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ashli227 Braun514, Gender: F, DOB: 2024-03-30, SSN: 999-91-2461
+
+            Encounter: wellness, from 2025-09-06T23:07:31Z to 2025-09-06T23:22:31Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 79.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 11.7 kg
+- Weight-for-length Per age and sex: 86.1 %
+- Head Occipital-frontal circumference Percentile: 52.4 %
+- Head Occipital-frontal circumference: 46.5 cm
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 98.0 mm[Hg]
+- Heart rate: 90.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- DTaP
+            
+
+            Patient: Ashli227 Braun514, Gender: F, DOB: 2024-03-30, SSN: 999-91-2461
+
+            Encounter: virtual, from 2025-09-13T23:07:31Z to 2025-09-13T23:22:31Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+            

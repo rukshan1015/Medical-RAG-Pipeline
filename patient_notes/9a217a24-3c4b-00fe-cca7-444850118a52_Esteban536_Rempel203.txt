@@ -1,0 +1,1244 @@
+Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14
+            ------------------------------------------------------------
+                        Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: ambulatory, from 1978-09-30T00:36:21Z to 1978-09-30T00:51:21Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: emergency, from 1985-06-03T00:36:21Z to 1985-06-03T01:46:56Z
+
+            Conditions: 
+- Seizure disorder (disorder)
+- History of seizure (situation)
+- Epilepsy (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: wellness, from 1994-02-06T00:36:21Z to 1994-02-06T01:25:25Z
+
+            Conditions: 
+- Serving in military service (finding)
+- Received higher education (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: ambulatory, from 2003-07-17T00:36:21Z to 2003-07-17T00:51:21Z
+
+            Conditions: 
+- Chronic sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: wellness, from 2011-05-22T00:36:21Z to 2011-05-22T01:33:22Z
+
+            Conditions: 
+- Prediabetes (finding)
+- Full-time employment (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: wellness, from 2013-06-02T00:36:21Z to 2013-06-02T01:28:15Z
+
+            Conditions: 
+- Anemia (disorder)
+- Body mass index 30+ - obesity (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: wellness, from 2015-06-14T00:36:21Z to 2015-06-14T01:27:58Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: wellness, from 2016-06-19T00:36:21Z to 2016-06-19T01:24:04Z
+
+            Conditions: 
+- Medication review due (situation)
+- Stress (finding)
+- Gingivitis (disorder)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.1 %
+- Body Height: 165.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 82.2 kg
+- Body mass index (BMI) [Ratio]: 30.2 kg/m2
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 132.0 mm[Hg]
+- Heart rate: 98.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 97.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 12.7 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 9.2 mg/dL
+- Sodium [Moles/volume] in Blood: 137.2 mmol/L
+- Potassium [Moles/volume] in Blood: 4.3 mmol/L
+- Chloride [Moles/volume] in Blood: 107.9 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.8 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care (Medical  Dental  Mental Health  Vision)
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 2538 /a
+- Primary insurance: I choose not to answer this question
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 200 Jacobs Lodge
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: Yes
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Hep A  adult
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: ambulatory, from 2016-07-03T00:36:21Z to 2016-07-03T05:33:55Z
+
+            Conditions: 
+- Infection of tooth (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Simple extraction of tooth (procedure): code 173291009
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: ambulatory, from 2016-07-10T00:36:21Z to 2016-07-10T02:04:21Z
+
+            Conditions: 
+- Loss of teeth (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Take oral or dental impression (procedure): code 234745004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: ambulatory, from 2016-07-31T02:04:21Z to 2016-07-31T03:01:17Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Fitting of denture (procedure): code 1269321004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: wellness, from 2017-06-25T00:36:21Z to 2017-06-25T01:13:41Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %
+- Body Height: 165.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 82.2 kg
+- Body mass index (BMI) [Ratio]: 30.2 kg/m2
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 122.0 mm[Hg]
+- Heart rate: 99.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 80.0 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 14.3 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 9.0 mg/dL
+- Sodium [Moles/volume] in Blood: 138.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.2 mmol/L
+- Chloride [Moles/volume] in Blood: 109.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 28.0 mmol/L
+- Leukocytes [#/volume] in Blood by Automated count: 8.5 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.1 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.5 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 37.8 %
+- MCV [Entitic volume] by Automated count: 94.7 fL
+- MCH [Entitic mass] by Automated count: 28.6 pg
+- MCHC [Mass/volume] by Automated count: 33.4 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 40.8 fL
+- Platelets [#/volume] in Blood by Automated count: 409.2 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 321.8 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.8 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 2538 /a
+- Primary insurance: Medicaid
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 200 Jacobs Lodge
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: Yes
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+- Hep A  adult
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: ambulatory, from 2018-04-20T22:36:21Z to 2018-04-20T22:51:21Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.3 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: emergency, from 2018-05-14T00:36:21Z to 2018-05-14T01:36:21Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: ambulatory, from 2018-05-16T05:36:21Z to 2018-05-16T05:51:21Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: wellness, from 2018-07-01T00:36:21Z to 2018-07-01T01:24:19Z
+
+            Conditions: 
+- Medication review due (situation)
+- Part-time employment (finding)
+- Stress (finding)
+- Acute infective cystitis (disorder)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Body Height: 165.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 79.1 kg
+- Body mass index (BMI) [Ratio]: 29.1 kg/m2
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 123.0 mm[Hg]
+- Heart rate: 83.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 95.0 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 7.5 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 10.0 mg/dL
+- Sodium [Moles/volume] in Blood: 142.3 mmol/L
+- Potassium [Moles/volume] in Blood: 5.0 mmol/L
+- Chloride [Moles/volume] in Blood: 102.9 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 23.7 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 127.6 mg/dL
+- Triglycerides: 112.6 mg/dL
+- Low Density Lipoprotein Cholesterol: 47.8 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 57.3 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 2538 /a
+- Primary insurance: Medicaid
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 200 Jacobs Lodge
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: Yes
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: Yes
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: ambulatory, from 2019-01-18T00:36:21Z to 2019-01-18T02:04:10Z
+
+            Conditions: 
+- Recurrent urinary tract infection (disorder)
+- Acute infective cystitis (disorder)
+            Medications: 
+- ciprofloxacin 500 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Urine by Test strip: 9.5 mg/dL
+- Ketones [Presence] in Urine by Test strip: Urine ketones not detected (finding) {nominal}
+- Specific gravity of Urine by Test strip: 1.0 {nominal}
+- pH of Urine by Test strip: 5.9 pH
+- Protein [Mass/volume] in Urine by Test strip: 1.8 mg/dL
+- Nitrite [Presence] in Urine by Test strip: Nitrite detected in urine (finding) {nominal}
+- Hemoglobin [Presence] in Urine by Test strip: Urine blood test = + (finding) {nominal}
+- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocyte test one plus (finding) {nominal}
+- WBCs: 40.3 /[HPF]
+- RBCs: 1.5 /[HPF]
+- Epithelial Cells: 1.4 /[HPF]
+- Casts: Urine microscopy: no casts (finding) {nominal}
+- Mucus Threads: Mucus in urine (finding) {nominal}
+- Bacteria: Finding of presence of bacteria (finding) {nominal}
+- Bacteria identified in Urine by Culture: Greater than 100 000 colony forming units per mL Escherichia coli
+            Procedures: 
+- History taking (procedure): code 84100007
+- Discussion about signs and symptoms (procedure): code 223470000
+- History and physical examination  limited (procedure): code 67879005
+- Evaluation procedure (procedure): code 386053000
+- Discussion about pregnancy (procedure): code 440546007
+- Urine specimen collection (procedure): code 57617002
+- Urinalysis with reflex to microscopy and culture (procedure): code 441550005
+- Antibiotic therapy (procedure): code 281789004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: emergency, from 2019-04-18T18:04:10Z to 2019-04-18T20:11:52Z
+
+            Conditions: None
+            Medications: 
+- sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet
+            Observations: 
+- Emergency severity index: Needs no resources
+- Diastolic Blood Pressure: 86.0 mm[Hg]
+- Systolic Blood Pressure: 148.5 mm[Hg]
+- Heart rate: 91.8 /min
+- Respiratory rate: 16.6 /min
+- Oxygen saturation in Arterial blood: 99.9 %
+- Body temperature: 38.1 Cel
+- Glucose [Mass/volume] in Urine by Test strip: 5.3 mg/dL
+- Ketones [Presence] in Urine by Test strip: Urine ketones not detected (finding) {nominal}
+- Specific gravity of Urine by Test strip: 1.0 {nominal}
+- pH of Urine by Test strip: 6.3 pH
+- Protein [Mass/volume] in Urine by Test strip: 0.8 mg/dL
+- Nitrite [Presence] in Urine by Test strip: Nitrite detected in urine (finding) {nominal}
+- Hemoglobin [Presence] in Urine by Test strip: Urine blood test = + (finding) {nominal}
+- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocyte test one plus (finding) {nominal}
+- WBCs: 48.1 /[HPF]
+- RBCs: 1.2 /[HPF]
+- Epithelial Cells: 0.5 /[HPF]
+- Casts: Urine microscopy: no casts (finding) {nominal}
+- Mucus Threads: Mucus in urine (finding) {nominal}
+- Bacteria: Finding of presence of bacteria (finding) {nominal}
+- Bacteria identified in Urine by Culture: Greater than 100 000 colony forming units per mL Escherichia coli
+            Procedures: 
+- History taking (procedure): code 84100007
+- Discussion about signs and symptoms (procedure): code 223470000
+- Triage: emergency center (procedure): code 386478007
+- Taking patient vital signs (procedure): code 61746007
+- History and physical examination with evaluation and management of patient (procedure): code 14736009
+- Urinalysis with reflex to microscopy and culture (procedure): code 441550005
+- Urine specimen collection (procedure): code 57617002
+- Urinalysis with reflex to microscopy and culture (procedure): code 441550005
+- Antibiotic therapy (procedure): code 281789004
+- Patient discharge (procedure): code 58000006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: wellness, from 2019-07-07T00:36:21Z to 2019-07-07T01:31:00Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.1 %
+- Body Height: 165.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 75.0 kg
+- Body mass index (BMI) [Ratio]: 27.5 kg/m2
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 150.0 mm[Hg]
+- Heart rate: 80.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 92.1 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 13.2 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.0 mg/dL
+- Calcium [Mass/volume] in Blood: 9.2 mg/dL
+- Sodium [Moles/volume] in Blood: 136.3 mmol/L
+- Potassium [Moles/volume] in Blood: 4.6 mmol/L
+- Chloride [Moles/volume] in Blood: 109.9 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.0 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 2538 /a
+- Primary insurance: I choose not to answer this question
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 200 Jacobs Lodge
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: Yes
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 4.0 {score}
+- Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 4.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: ambulatory, from 2019-07-21T00:36:21Z to 2019-07-21T05:42:06Z
+
+            Conditions: 
+- Infection of tooth (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Simple extraction of tooth (procedure): code 173291009
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: wellness, from 2020-07-12T00:36:21Z to 2020-07-12T01:10:37Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Victim of intimate partner abuse (finding)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %
+- Body Height: 165.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 77.0 kg
+- Body mass index (BMI) [Ratio]: 28.3 kg/m2
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 129.0 mm[Hg]
+- Heart rate: 96.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 89.5 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 14.4 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.3 mg/dL
+- Calcium [Mass/volume] in Blood: 9.2 mg/dL
+- Sodium [Moles/volume] in Blood: 142.0 mmol/L
+- Potassium [Moles/volume] in Blood: 4.5 mmol/L
+- Chloride [Moles/volume] in Blood: 107.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 22.7 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: Yes
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 2538 /a
+- Primary insurance: I choose not to answer this question
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 200 Jacobs Lodge
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: Yes
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [AUDIT-C]: 3.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: ambulatory, from 2020-11-01T05:36:21Z to 2020-11-01T05:51:21Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: outpatient, from 2021-01-10T00:36:21Z to 2021-01-10T00:51:21Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: outpatient, from 2021-01-31T00:36:21Z to 2021-01-31T00:51:21Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: wellness, from 2021-07-18T00:36:21Z to 2021-07-18T01:12:07Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Body Height: 165.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 79.0 kg
+- Body mass index (BMI) [Ratio]: 29.0 kg/m2
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 133.0 mm[Hg]
+- Heart rate: 71.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 97.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 19.4 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.0 mg/dL
+- Calcium [Mass/volume] in Blood: 8.7 mg/dL
+- Sodium [Moles/volume] in Blood: 140.4 mmol/L
+- Potassium [Moles/volume] in Blood: 4.2 mmol/L
+- Chloride [Moles/volume] in Blood: 103.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.0 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 155.2 mg/dL
+- Triglycerides: 102.0 mg/dL
+- Low Density Lipoprotein Cholesterol: 85.9 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 48.8 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 2538 /a
+- Primary insurance: I choose not to answer this question
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 200 Jacobs Lodge
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: Yes
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: Yes
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [AUDIT-C]: 3.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: ambulatory, from 2021-08-01T00:36:21Z to 2021-08-01T03:45:06Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: ambulatory, from 2022-04-25T05:36:21Z to 2022-04-25T05:51:21Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: wellness, from 2022-07-24T00:36:21Z to 2022-07-24T01:16:24Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %
+- Body Height: 165.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 81.1 kg
+- Body mass index (BMI) [Ratio]: 29.8 kg/m2
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 125.0 mm[Hg]
+- Heart rate: 72.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 75.0 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 18.6 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 8.6 mg/dL
+- Sodium [Moles/volume] in Blood: 143.1 mmol/L
+- Potassium [Moles/volume] in Blood: 3.8 mmol/L
+- Chloride [Moles/volume] in Blood: 109.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.8 mmol/L
+- Leukocytes [#/volume] in Blood by Automated count: 3.9 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.1 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 36.3 %
+- MCV [Entitic volume] by Automated count: 88.3 fL
+- MCH [Entitic mass] by Automated count: 29.1 pg
+- MCHC [Mass/volume] by Automated count: 35.5 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 42.1 fL
+- Platelets [#/volume] in Blood by Automated count: 150.9 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 257.1 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.8 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 2538 /a
+- Primary insurance: Medicaid
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 200 Jacobs Lodge
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: Yes
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: wellness, from 2023-07-30T00:36:21Z to 2023-07-30T01:06:34Z
+
+            Conditions: 
+- Part-time employment (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Gingivitis (disorder)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Body Height: 165.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 79.5 kg
+- Body mass index (BMI) [Ratio]: 29.2 kg/m2
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 133.0 mm[Hg]
+- Heart rate: 98.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 94.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 9.8 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.0 mg/dL
+- Calcium [Mass/volume] in Blood: 9.1 mg/dL
+- Sodium [Moles/volume] in Blood: 141.5 mmol/L
+- Potassium [Moles/volume] in Blood: 3.8 mmol/L
+- Chloride [Moles/volume] in Blood: 102.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 20.1 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Clothing
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 2538 /a
+- Primary insurance: Medicaid
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 200 Jacobs Lodge
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: Yes
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: ambulatory, from 2023-07-30T03:01:17Z to 2023-07-30T04:20:42Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Take oral or dental impression (procedure): code 234745004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: ambulatory, from 2023-08-13T00:36:21Z to 2023-08-13T10:10:09Z
+
+            Conditions: 
+- Infection of tooth (disorder)
+- Gingival disease (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Simple extraction of tooth (procedure): code 173291009
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: ambulatory, from 2023-08-13T04:20:42Z to 2023-08-13T05:09:57Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Fitting of denture (procedure): code 1269321004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: ambulatory, from 2023-09-04T15:18:23Z to 2023-09-04T15:33:23Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: urgentcare, from 2023-09-17T00:36:21Z to 2023-09-17T01:16:46Z
+
+            Conditions: 
+- Medication review due (situation)
+- Not in labor force (finding)
+- Has a criminal record (finding)
+- Gingivitis (disorder)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Body Height: 165.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 78.6 kg
+- Body mass index (BMI) [Ratio]: 28.9 kg/m2
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 129.0 mm[Hg]
+- Heart rate: 91.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 67.6 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 8.9 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.0 mg/dL
+- Calcium [Mass/volume] in Blood: 9.9 mg/dL
+- Sodium [Moles/volume] in Blood: 142.8 mmol/L
+- Potassium [Moles/volume] in Blood: 4.4 mmol/L
+- Chloride [Moles/volume] in Blood: 107.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.1 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 2538 /a
+- Primary insurance: Medicaid
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: More than high school
+- Address: 200 Jacobs Lodge
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: Yes
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: ambulatory, from 2023-10-01T00:36:21Z to 2023-10-01T03:30:23Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: wellness, from 2024-08-04T00:36:21Z to 2024-08-04T01:09:22Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+- Gingivitis (disorder)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Body Height: 165.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 75.7 kg
+- Body mass index (BMI) [Ratio]: 27.8 kg/m2
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 127.0 mm[Hg]
+- Heart rate: 62.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 85.1 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 10.3 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.0 mg/dL
+- Calcium [Mass/volume] in Blood: 8.9 mg/dL
+- Sodium [Moles/volume] in Blood: 140.8 mmol/L
+- Potassium [Moles/volume] in Blood: 4.7 mmol/L
+- Chloride [Moles/volume] in Blood: 105.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 26.2 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 178.6 mg/dL
+- Triglycerides: 141.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 105.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 44.9 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 2538 /a
+- Primary insurance: I choose not to answer this question
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 200 Jacobs Lodge
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: Yes
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: ambulatory, from 2024-08-18T00:36:21Z to 2024-08-18T03:59:39Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: wellness, from 2025-08-10T00:36:21Z to 2025-08-10T01:08:59Z
+
+            Conditions: 
+- Limited social contact (finding)
+- Victim of intimate partner abuse (finding)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Body Height: 165.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 75.7 kg
+- Body mass index (BMI) [Ratio]: 27.8 kg/m2
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 122.0 mm[Hg]
+- Heart rate: 83.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 68.3 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 19.8 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.0 mg/dL
+- Calcium [Mass/volume] in Blood: 10.1 mg/dL
+- Sodium [Moles/volume] in Blood: 136.7 mmol/L
+- Potassium [Moles/volume] in Blood: 4.0 mmol/L
+- Chloride [Moles/volume] in Blood: 105.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 20.8 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: Yes
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 2538 /a
+- Primary insurance: I choose not to answer this question
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 200 Jacobs Lodge
+- Are you worried about losing your housing?: I choose not to answer this question
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: Yes
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: Yes
+- Race: Pacific Islander
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Esteban536 Rempel203, Gender: M, DOB: 1975-12-14, SSN: 999-97-4894
+
+            Encounter: ambulatory, from 2025-08-24T00:36:21Z to 2025-08-24T04:01:54Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+            

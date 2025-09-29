@@ -1,0 +1,1962 @@
+Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07
+            ------------------------------------------------------------
+                        Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 1936-12-08T05:21:31Z to 1936-12-08T05:36:31Z
+
+            Conditions: 
+- Risk activity involvement (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 1940-12-31T05:21:31Z to 1940-12-31T06:09:50Z
+
+            Conditions: 
+- Educated to high school level (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 1941-06-03T05:21:31Z to 1941-06-03T06:40:50Z
+
+            Conditions: None
+            Medications: 
+- ferrous sulfate 325 MG Oral Tablet
+- Vitamin B12 5 MG/ML Injectable Solution
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: inpatient, from 1948-10-16T06:17:10Z to 1948-10-17T06:17:10Z
+
+            Conditions: 
+- History of tubal ligation (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 1956-10-09T08:21:31Z to 1956-10-09T08:36:31Z
+
+            Conditions: 
+- Chronic sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 1962-11-13T05:21:31Z to 1962-11-13T06:01:59Z
+
+            Conditions: 
+- Prediabetes (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 1977-12-06T05:21:31Z to 1977-12-06T06:08:02Z
+
+            Conditions: 
+- Diabetes mellitus type 2 (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 1978-12-12T05:21:31Z to 1978-12-12T05:51:48Z
+
+            Conditions: 
+- Essential hypertension (disorder)
+- Hypertriglyceridemia (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 1979-12-18T05:21:31Z to 1979-12-18T06:17:48Z
+
+            Conditions: 
+- Metabolic syndrome X (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 1987-01-27T05:21:31Z to 1987-01-27T05:58:21Z
+
+            Conditions: 
+- Neuropathy due to type 2 diabetes mellitus (disorder)
+- Ischemic heart disease (disorder)
+            Medications: 
+- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 1987-02-07T13:10:25Z to 1987-02-07T18:25:27Z
+
+            Conditions: 
+- Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 1987-04-20T19:16:37Z to 1987-04-21T00:46:47Z
+
+            Conditions: 
+- History of coronary artery bypass grafting (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 1992-02-25T05:21:31Z to 1992-02-25T05:52:36Z
+
+            Conditions: 
+- Victim of intimate partner abuse (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: emergency, from 1994-01-23T05:21:31Z to 1994-01-23T06:21:31Z
+
+            Conditions: 
+- Acute ST segment elevation myocardial infarction (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: inpatient, from 1994-01-23T05:45:37Z to 1994-01-24T05:45:37Z
+
+            Conditions: 
+- History of myocardial infarction (situation)
+            Medications: 
+- aspirin 81 MG Oral Tablet
+- 24 HR metoprolol succinate 50 MG Extended Release Oral Tablet
+- simvastatin 20 MG Oral Tablet
+- losartan potassium 50 MG Oral Tablet
+- prasugrel 10 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 1998-03-31T05:21:31Z to 1998-03-31T05:59:36Z
+
+            Conditions: 
+- Hyperlipidemia (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 1998-04-21T05:21:31Z to 1998-04-21T05:36:31Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 1998-06-30T05:21:31Z to 1998-06-30T06:44:08Z
+
+            Conditions: 
+- Loss of teeth (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 2003-04-29T05:21:31Z to 2003-04-29T06:10:33Z
+
+            Conditions: 
+- Osteoporosis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: urgentcare, from 2011-04-26T05:21:31Z to 2011-04-26T06:02:13Z
+
+            Conditions: 
+- Limited social contact (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 2014-07-01T05:21:31Z to 2014-07-01T06:17:33Z
+
+            Conditions: 
+- Part-time employment (finding)
+- Stress (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 2015-07-07T05:21:31Z to 2015-07-07T06:07:49Z
+
+            Conditions: 
+- Social isolation (finding)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2015-07-08T05:21:31Z to 2015-07-08T05:36:31Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 2016-07-12T05:21:31Z to 2016-07-12T06:01:28Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.9 %
+- Body Height: 170.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 80.0 kg
+- Body mass index (BMI) [Ratio]: 27.4 kg/m2
+- Diastolic Blood Pressure: 52.0 mm[Hg]
+- Systolic Blood Pressure: 104.0 mm[Hg]
+- Heart rate: 99.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 119.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 17.9 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.4 mg/dL
+- Calcium [Mass/volume] in Blood: 8.9 mg/dL
+- Sodium [Moles/volume] in Blood: 136.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.9 mmol/L
+- Chloride [Moles/volume] in Blood: 110.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.8 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 206.4 mg/dL
+- Triglycerides: 170.4 mg/dL
+- Low Density Lipoprotein Cholesterol: 118.4 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.0 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 5.8 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 127.1 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 47372 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 875 Frami Stravenue
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Fall risk total [Morse Fall Scale]: 9.0 {#}
+- Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24)
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2016-07-19T05:21:31Z to 2016-07-19T05:36:31Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 109.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 8.2 mg/dL
+- Creatinine [Mass/volume] in Blood: 3.1 mg/dL
+- Calcium [Mass/volume] in Blood: 8.5 mg/dL
+- Sodium [Moles/volume] in Blood: 138.9 mmol/L
+- Potassium [Moles/volume] in Blood: 4.2 mmol/L
+- Chloride [Moles/volume] in Blood: 102.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 22.4 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 74.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.7 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.4 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.7 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.9 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 93.4 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 43.5 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 26.9 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 163.1 mg/dL
+- Triglycerides: 167.9 mg/dL
+- Low Density Lipoprotein Cholesterol: 125.2 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 34.4 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2016-07-26T05:21:31Z to 2016-07-26T08:28:37Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 2017-07-18T05:21:31Z to 2017-07-18T05:55:48Z
+
+            Conditions: 
+- Part-time employment (finding)
+- Gingivitis (disorder)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.9 %
+- Body Height: 170.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 80.0 kg
+- Body mass index (BMI) [Ratio]: 27.4 kg/m2
+- Diastolic Blood Pressure: 50.0 mm[Hg]
+- Systolic Blood Pressure: 105.0 mm[Hg]
+- Heart rate: 76.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 107.6 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 13.8 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.6 mg/dL
+- Calcium [Mass/volume] in Blood: 9.6 mg/dL
+- Sodium [Moles/volume] in Blood: 139.8 mmol/L
+- Potassium [Moles/volume] in Blood: 3.7 mmol/L
+- Chloride [Moles/volume] in Blood: 105.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.5 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 202.3 mg/dL
+- Triglycerides: 193.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 110.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.0 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 10.8 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 78.3 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 47372 /a
+- Primary insurance: Medicare
+- Employment status - current: Part-time or temporary work
+- Highest level of education: High school diploma or GED
+- Address: 875 Frami Stravenue
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- Fall risk total [Morse Fall Scale]: 80.0 {#}
+- Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+)
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2017-07-19T05:21:31Z to 2017-07-19T05:36:31Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 115.0 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 9.4 mg/dL
+- Creatinine [Mass/volume] in Blood: 3.2 mg/dL
+- Calcium [Mass/volume] in Blood: 8.8 mg/dL
+- Sodium [Moles/volume] in Blood: 140.3 mmol/L
+- Potassium [Moles/volume] in Blood: 4.9 mmol/L
+- Chloride [Moles/volume] in Blood: 105.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.5 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 70.1 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.5 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.3 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.5 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.4 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 109.7 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 23.8 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 22.1 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 193.0 mg/dL
+- Triglycerides: 155.1 mg/dL
+- Low Density Lipoprotein Cholesterol: 90.8 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 79.5 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2017-08-01T05:21:31Z to 2017-08-01T08:41:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 2018-07-24T05:21:31Z to 2018-07-24T05:55:14Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+- Stress (finding)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.9 %
+- Body Height: 170.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 80.0 kg
+- Body mass index (BMI) [Ratio]: 27.4 kg/m2
+- Diastolic Blood Pressure: 51.0 mm[Hg]
+- Systolic Blood Pressure: 97.0 mm[Hg]
+- Heart rate: 85.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 117.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 18.4 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.6 mg/dL
+- Calcium [Mass/volume] in Blood: 9.6 mg/dL
+- Sodium [Moles/volume] in Blood: 141.3 mmol/L
+- Potassium [Moles/volume] in Blood: 4.6 mmol/L
+- Chloride [Moles/volume] in Blood: 101.9 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 28.7 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 205.7 mg/dL
+- Triglycerides: 172.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 125.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 46.2 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 11.5 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 77.2 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 47372 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 875 Frami Stravenue
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- Fall risk total [Morse Fall Scale]: 44.0 {#}
+- Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45)
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2018-07-31T05:21:31Z to 2018-07-31T05:36:31Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 112.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 17.5 mg/dL
+- Creatinine [Mass/volume] in Blood: 2.6 mg/dL
+- Calcium [Mass/volume] in Blood: 9.6 mg/dL
+- Sodium [Moles/volume] in Blood: 137.6 mmol/L
+- Potassium [Moles/volume] in Blood: 3.9 mmol/L
+- Chloride [Moles/volume] in Blood: 109.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 20.4 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 80.0 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.4 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.4 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.6 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 136.0 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 48.5 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 32.8 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 165.8 mg/dL
+- Triglycerides: 198.5 mg/dL
+- Low Density Lipoprotein Cholesterol: 105.6 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 39.7 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 2019-07-30T05:21:31Z to 2019-07-30T06:08:29Z
+
+            Conditions: None
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.9 %
+- Body Height: 170.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 80.0 kg
+- Body mass index (BMI) [Ratio]: 27.4 kg/m2
+- Diastolic Blood Pressure: 53.0 mm[Hg]
+- Systolic Blood Pressure: 94.0 mm[Hg]
+- Heart rate: 69.0 /min
+- Respiratory rate: 16.0 /min
+- Glucose [Mass/volume] in Blood: 115.5 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 11.6 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.4 mg/dL
+- Calcium [Mass/volume] in Blood: 9.8 mg/dL
+- Sodium [Moles/volume] in Blood: 140.3 mmol/L
+- Potassium [Moles/volume] in Blood: 4.8 mmol/L
+- Chloride [Moles/volume] in Blood: 104.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 22.0 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 211.0 mg/dL
+- Triglycerides: 189.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 114.2 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 58.9 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 3.0 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 107.3 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 47372 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 875 Frami Stravenue
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Fall risk total [Morse Fall Scale]: 115.0 {#}
+- Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+)
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2019-07-31T05:21:31Z to 2019-07-31T05:36:31Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 113.3 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 17.5 mg/dL
+- Creatinine [Mass/volume] in Blood: 3.4 mg/dL
+- Calcium [Mass/volume] in Blood: 9.6 mg/dL
+- Sodium [Moles/volume] in Blood: 136.5 mmol/L
+- Potassium [Moles/volume] in Blood: 4.6 mmol/L
+- Chloride [Moles/volume] in Blood: 107.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 26.2 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 87.9 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.9 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 5.4 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.6 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.0 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 37.1 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 24.7 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 38.7 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 159.1 mg/dL
+- Triglycerides: 121.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 112.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 49.7 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: emergency, from 2020-01-29T09:18:30Z to 2020-01-29T11:11:30Z
+
+            Conditions: 
+- Fracture of bone (disorder)
+- Closed fracture of hip (disorder)
+- Osteoporotic fracture of bone (disorder)
+            Medications: 
+- Naproxen sodium 220 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Plain X-ray of pelvis (procedure): code 713021002
+- Admission to orthopedic department (procedure): code 305428000
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: snf, from 2020-01-29T11:11:30Z to 2020-04-21T11:26:30Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- History AND physical examination (procedure): code 63332003
+- Initial patient assessment (procedure): code 315639002
+- Development of individualized plan of care (procedure): code 370789001
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Speech and language therapy regime (regime/therapy): code 311555007
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Occupational therapy (regime/therapy): code 84478008
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Speech and language therapy regime (regime/therapy): code 311555007
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Speech and language therapy regime (regime/therapy): code 311555007
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Speech and language therapy regime (regime/therapy): code 311555007
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Pre-discharge assessment (procedure): code 225386006
+- Discharge from hospital (procedure): code 308283009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2020-07-23T11:11:30Z to 2020-07-23T11:26:30Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 2020-08-04T05:21:31Z to 2020-08-04T05:55:35Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.9 %
+- Body Height: 170.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 80.0 kg
+- Body mass index (BMI) [Ratio]: 27.4 kg/m2
+- Diastolic Blood Pressure: 66.0 mm[Hg]
+- Systolic Blood Pressure: 96.0 mm[Hg]
+- Heart rate: 71.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 100.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 7.5 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.4 mg/dL
+- Calcium [Mass/volume] in Blood: 9.0 mg/dL
+- Sodium [Moles/volume] in Blood: 142.8 mmol/L
+- Potassium [Moles/volume] in Blood: 4.2 mmol/L
+- Chloride [Moles/volume] in Blood: 109.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 25.1 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 217.3 mg/dL
+- Triglycerides: 153.0 mg/dL
+- Low Density Lipoprotein Cholesterol: 143.8 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 42.8 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 16.2 mg/g
+- Leukocytes [#/volume] in Blood by Automated count: 6.9 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.0 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 17.3 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 36.7 %
+- MCV [Entitic volume] by Automated count: 83.9 fL
+- MCH [Entitic mass] by Automated count: 32.0 pg
+- MCHC [Mass/volume] by Automated count: 34.7 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 40.8 fL
+- Platelets [#/volume] in Blood by Automated count: 162.2 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 363.8 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.5 fL
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 105.0 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 47372 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 875 Frami Stravenue
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Fall risk total [Morse Fall Scale]: 14.0 {#}
+- Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24)
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2020-08-11T05:21:31Z to 2020-08-11T05:36:31Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 120.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 14.7 mg/dL
+- Creatinine [Mass/volume] in Blood: 3.0 mg/dL
+- Calcium [Mass/volume] in Blood: 9.7 mg/dL
+- Sodium [Moles/volume] in Blood: 136.8 mmol/L
+- Potassium [Moles/volume] in Blood: 4.6 mmol/L
+- Chloride [Moles/volume] in Blood: 103.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 20.4 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 85.6 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.7 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 5.1 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.5 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 70.3 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 23.4 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 34.7 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 204.1 mg/dL
+- Triglycerides: 113.5 mg/dL
+- Low Density Lipoprotein Cholesterol: 117.2 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 37.1 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2020-08-18T05:21:31Z to 2020-08-18T11:22:51Z
+
+            Conditions: 
+- Infection of tooth (disorder)
+- Primary dental caries (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Simple extraction of tooth (procedure): code 173291009
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Examination of gingivae (procedure): code 274788003
+- Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure): code 1259293006
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: outpatient, from 2021-02-16T05:21:31Z to 2021-02-16T05:36:31Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: outpatient, from 2021-03-16T05:21:31Z to 2021-03-16T05:36:31Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 2021-08-10T05:21:31Z to 2021-08-10T06:01:46Z
+
+            Conditions: 
+- Gingivitis (disorder)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.9 %
+- Body Height: 170.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 80.0 kg
+- Body mass index (BMI) [Ratio]: 27.4 kg/m2
+- Diastolic Blood Pressure: 53.0 mm[Hg]
+- Systolic Blood Pressure: 104.0 mm[Hg]
+- Heart rate: 65.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 113.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 12.2 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.4 mg/dL
+- Calcium [Mass/volume] in Blood: 9.3 mg/dL
+- Sodium [Moles/volume] in Blood: 142.5 mmol/L
+- Potassium [Moles/volume] in Blood: 4.9 mmol/L
+- Chloride [Moles/volume] in Blood: 110.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 25.2 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 204.7 mg/dL
+- Triglycerides: 196.0 mg/dL
+- Low Density Lipoprotein Cholesterol: 122.0 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 43.5 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 8.8 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 138.5 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care (Medical  Dental  Mental Health  Vision)
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 47372 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 875 Frami Stravenue
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Fall risk total [Morse Fall Scale]: 16.0 {#}
+- Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24)
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2021-08-11T05:21:31Z to 2021-08-11T05:36:31Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 113.1 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 10.5 mg/dL
+- Creatinine [Mass/volume] in Blood: 3.2 mg/dL
+- Calcium [Mass/volume] in Blood: 9.9 mg/dL
+- Sodium [Moles/volume] in Blood: 141.5 mmol/L
+- Potassium [Moles/volume] in Blood: 4.1 mmol/L
+- Chloride [Moles/volume] in Blood: 110.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.5 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 72.4 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.6 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.2 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.3 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.9 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 50.2 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 25.5 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 18.4 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 154.5 mg/dL
+- Triglycerides: 100.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 98.6 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 48.8 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2021-08-24T05:21:31Z to 2021-08-24T08:18:48Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 2022-08-16T05:21:31Z to 2022-08-16T06:07:53Z
+
+            Conditions: 
+- Medication review due (situation)
+- Stress (finding)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.9 %
+- Body Height: 170.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 80.0 kg
+- Body mass index (BMI) [Ratio]: 27.4 kg/m2
+- Diastolic Blood Pressure: 59.0 mm[Hg]
+- Systolic Blood Pressure: 96.0 mm[Hg]
+- Heart rate: 66.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 116.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 17.4 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.4 mg/dL
+- Calcium [Mass/volume] in Blood: 8.6 mg/dL
+- Sodium [Moles/volume] in Blood: 143.7 mmol/L
+- Potassium [Moles/volume] in Blood: 4.3 mmol/L
+- Chloride [Moles/volume] in Blood: 105.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 26.3 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 224.5 mg/dL
+- Triglycerides: 186.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 141.4 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 45.7 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 13.3 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 106.6 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 47372 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 875 Frami Stravenue
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 7.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2022-08-23T05:21:31Z to 2022-08-23T05:36:31Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 107.5 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 18.0 mg/dL
+- Creatinine [Mass/volume] in Blood: 2.6 mg/dL
+- Calcium [Mass/volume] in Blood: 8.8 mg/dL
+- Sodium [Moles/volume] in Blood: 136.9 mmol/L
+- Potassium [Moles/volume] in Blood: 4.1 mmol/L
+- Chloride [Moles/volume] in Blood: 102.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 28.3 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 66.0 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.8 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.7 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.3 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.7 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 53.0 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 51.7 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 23.7 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 152.9 mg/dL
+- Triglycerides: 175.9 mg/dL
+- Low Density Lipoprotein Cholesterol: 103.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 32.0 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2023-02-24T17:21:31Z to 2023-02-24T17:36:31Z
+
+            Conditions: 
+- Streptococcal sore throat (disorder)
+            Medications: 
+- Penicillin V Potassium 500 MG Oral Tablet
+            Observations: 
+- Body temperature: 37.7 Cel
+            Procedures: 
+- Throat culture (procedure): code 117015009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: urgentcare, from 2023-03-07T05:21:31Z to 2023-03-07T05:56:19Z
+
+            Conditions: None
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.9 %
+- Body Height: 170.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 80.0 kg
+- Body mass index (BMI) [Ratio]: 27.4 kg/m2
+- Diastolic Blood Pressure: 53.0 mm[Hg]
+- Systolic Blood Pressure: 102.0 mm[Hg]
+- Heart rate: 67.0 /min
+- Respiratory rate: 16.0 /min
+- Glucose [Mass/volume] in Blood: 117.1 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 10.5 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.4 mg/dL
+- Calcium [Mass/volume] in Blood: 9.8 mg/dL
+- Sodium [Moles/volume] in Blood: 136.9 mmol/L
+- Potassium [Moles/volume] in Blood: 4.1 mmol/L
+- Chloride [Moles/volume] in Blood: 101.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 23.1 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 209.7 mg/dL
+- Triglycerides: 195.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 117.9 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 52.6 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 11.0 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 85.3 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 47372 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 875 Frami Stravenue
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Fall risk total [Morse Fall Scale]: 44.0 {#}
+- Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45)
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: outpatient, from 2023-03-14T05:21:31Z to 2023-03-14T05:36:31Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.9 %
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 2023-08-22T05:21:31Z to 2023-08-22T06:01:04Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.9 %
+- Body Height: 170.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 80.0 kg
+- Body mass index (BMI) [Ratio]: 27.4 kg/m2
+- Diastolic Blood Pressure: 51.0 mm[Hg]
+- Systolic Blood Pressure: 95.0 mm[Hg]
+- Heart rate: 75.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 114.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 12.8 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.4 mg/dL
+- Calcium [Mass/volume] in Blood: 10.2 mg/dL
+- Sodium [Moles/volume] in Blood: 144.0 mmol/L
+- Potassium [Moles/volume] in Blood: 4.9 mmol/L
+- Chloride [Moles/volume] in Blood: 107.5 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 23.5 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 220.7 mg/dL
+- Triglycerides: 191.9 mg/dL
+- Low Density Lipoprotein Cholesterol: 139.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 42.7 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 5.6 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 100.7 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 47372 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 875 Frami Stravenue
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Fall risk total [Morse Fall Scale]: 40.0 {#}
+- Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45)
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [DAST-10]: 0.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2023-08-29T05:21:31Z to 2023-08-29T06:37:43Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Take oral or dental impression (procedure): code 234745004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2023-09-05T05:21:31Z to 2023-09-05T05:36:31Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 106.6 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 9.8 mg/dL
+- Creatinine [Mass/volume] in Blood: 2.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.4 mg/dL
+- Sodium [Moles/volume] in Blood: 141.6 mmol/L
+- Potassium [Moles/volume] in Blood: 5.0 mmol/L
+- Chloride [Moles/volume] in Blood: 108.5 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.0 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 89.1 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.8 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.5 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 3.2 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.0 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 58.2 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 33.6 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 27.6 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 165.5 mg/dL
+- Triglycerides: 145.6 mg/dL
+- Low Density Lipoprotein Cholesterol: 134.0 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 65.4 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2023-09-12T05:21:31Z to 2023-09-12T08:07:58Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2023-09-12T06:37:43Z to 2023-09-12T07:35:31Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Fitting of denture (procedure): code 1269321004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: emergency, from 2024-04-08T11:11:30Z to 2024-04-08T12:11:30Z
+
+            Conditions: 
+- Concussion injury of brain (disorder)
+- Concussion with no loss of consciousness (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2024-06-02T11:11:30Z to 2024-06-02T11:26:30Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 2024-08-27T05:21:31Z to 2024-08-27T05:59:06Z
+
+            Conditions: 
+- Medication review due (situation)
+- Part-time employment (finding)
+- Stress (finding)
+- Gingivitis (disorder)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.9 %
+- Body Height: 170.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 80.0 kg
+- Body mass index (BMI) [Ratio]: 27.4 kg/m2
+- Diastolic Blood Pressure: 50.0 mm[Hg]
+- Systolic Blood Pressure: 105.0 mm[Hg]
+- Heart rate: 87.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 116.2 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 11.4 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.4 mg/dL
+- Calcium [Mass/volume] in Blood: 8.6 mg/dL
+- Sodium [Moles/volume] in Blood: 138.7 mmol/L
+- Potassium [Moles/volume] in Blood: 4.5 mmol/L
+- Chloride [Moles/volume] in Blood: 104.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 23.6 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 202.5 mg/dL
+- Triglycerides: 162.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 116.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.7 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 10.1 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 106.9 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Very much
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 47372 /a
+- Primary insurance: Medicare
+- Employment status - current: Part-time or temporary work
+- Highest level of education: High school diploma or GED
+- Address: 875 Frami Stravenue
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 6.0 {score}
+- Fall risk total [Morse Fall Scale]: 102.0 {#}
+- Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+)
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2024-09-10T05:21:31Z to 2024-09-10T08:34:12Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2024-09-17T05:21:31Z to 2024-09-17T05:36:31Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 124.6 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 18.7 mg/dL
+- Creatinine [Mass/volume] in Blood: 3.0 mg/dL
+- Calcium [Mass/volume] in Blood: 9.5 mg/dL
+- Sodium [Moles/volume] in Blood: 141.4 mmol/L
+- Potassium [Moles/volume] in Blood: 4.1 mmol/L
+- Chloride [Moles/volume] in Blood: 108.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.0 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 87.1 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.6 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 5.4 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.3 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.6 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 49.5 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 40.8 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 32.5 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 154.0 mg/dL
+- Triglycerides: 102.0 mg/dL
+- Low Density Lipoprotein Cholesterol: 103.0 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 39.9 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2025-08-18T00:41:24Z to 2025-08-18T00:56:24Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+            Observations: None
+            Procedures: 
+- Sputum examination (procedure): code 269911007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: urgentcare, from 2025-08-26T05:21:31Z to 2025-08-26T06:10:50Z
+
+            Conditions: 
+- Full-time employment (finding)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.9 %
+- Body Height: 170.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 80.0 kg
+- Body mass index (BMI) [Ratio]: 27.4 kg/m2
+- Diastolic Blood Pressure: 59.0 mm[Hg]
+- Systolic Blood Pressure: 94.0 mm[Hg]
+- Heart rate: 63.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 101.1 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 14.6 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.4 mg/dL
+- Calcium [Mass/volume] in Blood: 8.7 mg/dL
+- Sodium [Moles/volume] in Blood: 138.7 mmol/L
+- Potassium [Moles/volume] in Blood: 3.8 mmol/L
+- Chloride [Moles/volume] in Blood: 107.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.7 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 236.8 mg/dL
+- Triglycerides: 171.4 mg/dL
+- Low Density Lipoprotein Cholesterol: 147.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 55.2 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 2.2 mg/g
+- Leukocytes [#/volume] in Blood by Automated count: 7.9 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.7 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 45.5 %
+- MCV [Entitic volume] by Automated count: 90.9 fL
+- MCH [Entitic mass] by Automated count: 29.2 pg
+- MCHC [Mass/volume] by Automated count: 34.2 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 43.9 fL
+- Platelets [#/volume] in Blood by Automated count: 312.3 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 315.8 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.0 fL
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 119.5 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 47372 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 875 Frami Stravenue
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 8.0 {score}
+- Fall risk total [Morse Fall Scale]: 125.0 {#}
+- Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+)
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [DAST-10]: 0.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: wellness, from 2025-09-02T05:21:31Z to 2025-09-02T05:36:31Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.9 %
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2025-09-09T05:21:31Z to 2025-09-09T09:17:10Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Leonida214 Mohr916, Gender: F, DOB: 1922-11-07, SSN: 999-82-8557
+
+            Encounter: ambulatory, from 2025-09-17T05:21:31Z to 2025-09-17T05:36:31Z
+
+            Conditions: None
+            Medications: 
+- Simvastatin 10 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Blood: 111.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 7.2 mg/dL
+- Creatinine [Mass/volume] in Blood: 3.3 mg/dL
+- Calcium [Mass/volume] in Blood: 8.7 mg/dL
+- Sodium [Moles/volume] in Blood: 137.8 mmol/L
+- Potassium [Moles/volume] in Blood: 3.9 mmol/L
+- Chloride [Moles/volume] in Blood: 110.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 28.8 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 83.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.3 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 5.1 g/dL
+- Globulin [Mass/volume] in Serum by calculation: 2.0 g/L
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.0 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 58.0 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 42.3 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 22.7 U/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 176.0 mg/dL
+- Triglycerides: 113.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 144.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 50.0 mg/dL
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+            

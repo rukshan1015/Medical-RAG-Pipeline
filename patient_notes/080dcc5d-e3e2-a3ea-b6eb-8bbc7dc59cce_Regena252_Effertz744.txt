@@ -1,0 +1,599 @@
+Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17
+            ------------------------------------------------------------
+                        Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: wellness, from 2017-01-17T17:40:34Z to 2017-01-17T17:55:34Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 50.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 3.9 kg
+- Weight-for-length Per age and sex: 86.4 %
+- Head Occipital-frontal circumference Percentile: 32.6 %
+- Head Occipital-frontal circumference: 34.0 cm
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 126.0 mm[Hg]
+- Heart rate: 81.0 /min
+- Respiratory rate: 12.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 5.9 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.3 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.0 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 37.7 %
+- MCV [Entitic volume] by Automated count: 89.9 fL
+- MCH [Entitic mass] by Automated count: 31.6 pg
+- MCHC [Mass/volume] by Automated count: 34.0 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 40.7 fL
+- Platelets [#/volume] in Blood by Automated count: 430.6 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 169.7 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.2 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: wellness, from 2017-02-21T17:40:34Z to 2017-02-21T17:55:34Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 54.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 4.6 kg
+- Weight-for-length Per age and sex: 64.0 %
+- Head Occipital-frontal circumference Percentile: 32.6 %
+- Head Occipital-frontal circumference: 37.3 cm
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 116.0 mm[Hg]
+- Heart rate: 96.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: wellness, from 2017-04-25T17:40:34Z to 2017-04-25T17:55:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 59.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 5.9 kg
+- Weight-for-length Per age and sex: 64.8 %
+- Head Occipital-frontal circumference Percentile: 32.6 %
+- Head Occipital-frontal circumference: 39.9 cm
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 124.0 mm[Hg]
+- Heart rate: 62.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- rotavirus  monovalent
+- IPV
+- DTaP
+- Pneumococcal conjugate PCV 13
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: wellness, from 2017-06-27T17:40:34Z to 2017-06-27T17:55:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 63.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 7.1 kg
+- Weight-for-length Per age and sex: 73.2 %
+- Head Occipital-frontal circumference Percentile: 32.6 %
+- Head Occipital-frontal circumference: 41.5 cm
+- Diastolic Blood Pressure: 73.0 mm[Hg]
+- Systolic Blood Pressure: 114.0 mm[Hg]
+- Heart rate: 65.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- rotavirus  monovalent
+- IPV
+- DTaP
+- Pneumococcal conjugate PCV 13
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: wellness, from 2017-09-26T17:40:34Z to 2017-09-26T17:55:34Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 67.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 8.4 kg
+- Weight-for-length Per age and sex: 73.7 %
+- Head Occipital-frontal circumference Percentile: 32.6 %
+- Head Occipital-frontal circumference: 43.2 cm
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 126.0 mm[Hg]
+- Heart rate: 72.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- IPV
+- Influenza  seasonal  injectable  preservative free
+- DTaP
+- Pneumococcal conjugate PCV 13
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: wellness, from 2017-12-26T17:40:34Z to 2017-12-26T17:55:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 71.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 9.5 kg
+- Weight-for-length Per age and sex: 77.8 %
+- Head Occipital-frontal circumference Percentile: 32.6 %
+- Head Occipital-frontal circumference: 44.3 cm
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 121.0 mm[Hg]
+- Heart rate: 90.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: ambulatory, from 2018-01-14T14:40:34Z to 2018-01-14T15:02:01Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+            Observations: None
+            Procedures: 
+- Measurement of respiratory function (procedure): code 23426006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: wellness, from 2018-03-27T17:40:34Z to 2018-03-27T17:55:34Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 75.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 10.3 kg
+- Weight-for-length Per age and sex: 80.3 %
+- Head Occipital-frontal circumference Percentile: 32.6 %
+- Head Occipital-frontal circumference: 45.2 cm
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 115.0 mm[Hg]
+- Heart rate: 93.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- varicella
+- MMR
+- Pneumococcal conjugate PCV 13
+- Hep A  ped/adol  2 dose
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: wellness, from 2018-06-26T17:40:34Z to 2018-06-26T17:55:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 78.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 11.0 kg
+- Weight-for-length Per age and sex: 80.2 %
+- Head Occipital-frontal circumference Percentile: 32.6 %
+- Head Occipital-frontal circumference: 45.8 cm
+- Diastolic Blood Pressure: 66.0 mm[Hg]
+- Systolic Blood Pressure: 112.0 mm[Hg]
+- Heart rate: 94.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- DTaP
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: wellness, from 2018-12-25T17:40:34Z to 2018-12-25T17:55:34Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 83.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 12.1 kg
+- Weight-for-length Per age and sex: 71.1 %
+- Head Occipital-frontal circumference Percentile: 32.6 %
+- Head Occipital-frontal circumference: 46.8 cm
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 122.0 mm[Hg]
+- Heart rate: 93.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: emergency, from 2019-01-19T17:40:34Z to 2019-01-19T18:40:34Z
+
+            Conditions: 
+- Fracture of bone (disorder)
+- Fracture of rib (disorder)
+            Medications: 
+- Acetaminophen 160 MG Chewable Tablet
+            Observations: None
+            Procedures: 
+- Plain X-ray of chest (procedure): code 399208008
+- Bone immobilization (procedure): code 274474001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: ambulatory, from 2019-03-10T18:07:47Z to 2019-03-10T18:22:47Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: wellness, from 2019-06-25T17:40:34Z to 2019-06-25T17:55:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 87.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 13.0 kg
+- Weight-for-length Per age and sex: 70.1 %
+- Head Occipital-frontal circumference Percentile: 32.6 %
+- Head Occipital-frontal circumference: 47.4 cm
+- Body mass index (BMI) [Ratio]: 17.0 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 73.8 %
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 124.0 mm[Hg]
+- Heart rate: 94.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Hep A  ped/adol  2 dose
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: wellness, from 2019-12-24T17:40:34Z to 2019-12-24T17:57:04Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 91.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 14.1 kg
+- Weight-for-length Per age and sex: 74.0 %
+- Head Occipital-frontal circumference Percentile: 32.6 %
+- Head Occipital-frontal circumference: 47.9 cm
+- Body mass index (BMI) [Ratio]: 16.8 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 78.5 %
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 122.0 mm[Hg]
+- Heart rate: 85.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: ambulatory, from 2019-12-31T17:40:34Z to 2019-12-31T21:01:39Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: wellness, from 2020-06-23T17:40:34Z to 2020-06-23T17:55:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 94.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 15.0 kg
+- Weight-for-length Per age and sex: 79.0 %
+- Head Occipital-frontal circumference Percentile: 32.6 %
+- Head Occipital-frontal circumference: 47.9 cm
+- Body mass index (BMI) [Ratio]: 16.7 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 80.7 %
+- Diastolic Blood Pressure: 69.0 mm[Hg]
+- Systolic Blood Pressure: 118.0 mm[Hg]
+- Heart rate: 87.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: outpatient, from 2020-09-08T17:40:34Z to 2020-09-08T17:55:34Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 96.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 15.3 kg
+- Weight-for-length Per age and sex: 79.0 %
+- Head Occipital-frontal circumference Percentile: 32.6 %
+- Head Occipital-frontal circumference: 47.9 cm
+- Body mass index (BMI) [Ratio]: 16.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 80.9 %
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 120.0 mm[Hg]
+- Heart rate: 67.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: ambulatory, from 2020-09-15T17:40:34Z to 2020-09-15T17:55:34Z
+
+            Conditions: 
+- Streptococcal sore throat (disorder)
+            Medications: 
+- Penicillin V Potassium 250 MG Oral Tablet
+            Observations: 
+- Body temperature: 37.3 Cel
+            Procedures: 
+- Throat culture (procedure): code 117015009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: wellness, from 2020-12-22T17:40:34Z to 2020-12-22T17:55:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 98.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 15.9 kg
+- Weight-for-length Per age and sex: 79.0 %
+- Head Occipital-frontal circumference Percentile: 32.6 %
+- Head Occipital-frontal circumference: 47.9 cm
+- Body mass index (BMI) [Ratio]: 16.5 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 80.6 %
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 121.0 mm[Hg]
+- Heart rate: 75.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: wellness, from 2021-12-28T17:40:34Z to 2021-12-28T17:55:34Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 104.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 18.0 kg
+- Body mass index (BMI) [Ratio]: 16.4 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 79.5 %
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 113.0 mm[Hg]
+- Heart rate: 81.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- varicella
+- IPV
+- Influenza  seasonal  injectable  preservative free
+- DTaP
+- MMR
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: wellness, from 2023-01-03T17:40:34Z to 2023-01-03T17:55:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 111.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 20.9 kg
+- Body mass index (BMI) [Ratio]: 16.8 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 81.4 %
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 110.0 mm[Hg]
+- Heart rate: 92.0 /min
+- Respiratory rate: 15.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 10.4 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.3 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 17.0 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 40.3 %
+- MCV [Entitic volume] by Automated count: 84.6 fL
+- MCH [Entitic mass] by Automated count: 28.3 pg
+- MCHC [Mass/volume] by Automated count: 34.4 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 43.0 fL
+- Platelets [#/volume] in Blood by Automated count: 312.5 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 397.8 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.9 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: wellness, from 2024-01-09T17:40:34Z to 2024-01-09T17:55:34Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 118.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 24.2 kg
+- Body mass index (BMI) [Ratio]: 17.3 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 82.1 %
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 120.0 mm[Hg]
+- Heart rate: 63.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: wellness, from 2025-01-14T17:40:34Z to 2025-01-14T17:55:34Z
+
+            Conditions: 
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 124.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 28.5 kg
+- Body mass index (BMI) [Ratio]: 18.4 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 86.2 %
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 125.0 mm[Hg]
+- Heart rate: 75.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Regena252 Effertz744, Gender: F, DOB: 2017-01-17, SSN: 999-51-5678
+
+            Encounter: ambulatory, from 2025-01-21T17:40:34Z to 2025-01-21T20:56:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+            

@@ -1,0 +1,527 @@
+Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22
+            ------------------------------------------------------------
+                        Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: wellness, from 2014-08-27T07:09:15Z to 2014-08-27T07:24:15Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: wellness, from 2016-09-07T07:09:15Z to 2016-09-07T07:24:15Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 112.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 25.9 kg
+- Body mass index (BMI) [Ratio]: 20.4 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 98.8 %
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 138.0 mm[Hg]
+- Heart rate: 81.0 /min
+- Respiratory rate: 14.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 6.3 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.0 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.0 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 47.5 %
+- MCV [Entitic volume] by Automated count: 91.1 fL
+- MCH [Entitic mass] by Automated count: 27.7 pg
+- MCHC [Mass/volume] by Automated count: 35.6 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 41.6 fL
+- Platelets [#/volume] in Blood by Automated count: 189.9 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 166.4 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.7 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: wellness, from 2017-09-13T07:09:15Z to 2017-09-13T07:24:15Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 118.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 27.3 kg
+- Body mass index (BMI) [Ratio]: 19.3 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 95.7 %
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 130.0 mm[Hg]
+- Heart rate: 71.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: ambulatory, from 2017-09-20T07:09:15Z to 2017-09-20T10:32:28Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: urgentcare, from 2017-10-18T07:09:15Z to 2017-10-18T07:24:15Z
+
+            Conditions: 
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 119.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 27.5 kg
+- Body mass index (BMI) [Ratio]: 19.3 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 95.3 %
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 124.0 mm[Hg]
+- Heart rate: 94.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: outpatient, from 2017-10-25T07:09:15Z to 2017-10-25T07:24:15Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: ambulatory, from 2017-11-01T07:09:15Z to 2017-11-01T07:24:15Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Measurement of respiratory function (procedure): code 23426006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: ambulatory, from 2017-11-08T07:09:15Z to 2017-11-08T13:15:48Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: wellness, from 2018-09-19T07:09:15Z to 2018-09-19T07:24:15Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 124.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 29.8 kg
+- Body mass index (BMI) [Ratio]: 19.1 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 92.3 %
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 126.0 mm[Hg]
+- Heart rate: 61.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: wellness, from 2019-09-25T07:09:15Z to 2019-09-25T07:26:34Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 130.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 34.6 kg
+- Body mass index (BMI) [Ratio]: 20.2 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 92.9 %
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 124.0 mm[Hg]
+- Heart rate: 86.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: ambulatory, from 2019-10-02T07:09:15Z to 2019-10-02T11:41:18Z
+
+            Conditions: 
+- Primary dental caries (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Restoration of tooth with coverage of all cusps using dental filling material (procedure): code 1256042007
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: wellness, from 2020-09-30T07:09:15Z to 2020-09-30T07:24:15Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 135.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 39.4 kg
+- Body mass index (BMI) [Ratio]: 21.4 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 93.5 %
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 131.0 mm[Hg]
+- Heart rate: 85.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: ambulatory, from 2020-10-07T07:09:15Z to 2020-10-07T10:43:55Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: wellness, from 2021-10-06T07:09:15Z to 2021-10-06T07:24:15Z
+
+            Conditions: 
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 140.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 44.8 kg
+- Body mass index (BMI) [Ratio]: 22.8 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 94.2 %
+- Diastolic Blood Pressure: 73.0 mm[Hg]
+- Systolic Blood Pressure: 124.0 mm[Hg]
+- Heart rate: 86.0 /min
+- Respiratory rate: 14.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 7.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.8 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.3 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 41.4 %
+- MCV [Entitic volume] by Automated count: 82.1 fL
+- MCH [Entitic mass] by Automated count: 31.3 pg
+- MCHC [Mass/volume] by Automated count: 33.1 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 39.3 fL
+- Platelets [#/volume] in Blood by Automated count: 419.9 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 494.7 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.0 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Tdap
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+- meningococcal MCV4P
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: ambulatory, from 2021-10-13T07:09:15Z to 2021-10-13T10:42:27Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: outpatient, from 2022-10-05T07:09:15Z to 2022-10-05T07:24:15Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: wellness, from 2022-10-12T07:09:15Z to 2022-10-12T07:31:44Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 145.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 51.3 kg
+- Body mass index (BMI) [Ratio]: 24.2 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 94.9 %
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 131.0 mm[Hg]
+- Heart rate: 91.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 0.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: outpatient, from 2022-10-26T07:09:15Z to 2022-10-26T07:24:15Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: ambulatory, from 2022-10-26T07:09:15Z to 2022-10-26T13:08:03Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: wellness, from 2023-10-18T07:09:15Z to 2023-10-18T07:28:11Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 152.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 60.3 kg
+- Body mass index (BMI) [Ratio]: 25.9 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 96.0 %
+- Diastolic Blood Pressure: 73.0 mm[Hg]
+- Systolic Blood Pressure: 138.0 mm[Hg]
+- Heart rate: 65.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 17.0 {score}
+            Procedures: 
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: ambulatory, from 2023-11-01T07:09:15Z to 2023-11-01T10:30:32Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: ambulatory, from 2024-08-30T05:09:15Z to 2024-08-30T05:24:15Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Henry768 Boyer713, Gender: M, DOB: 2010-09-22, SSN: 999-56-3824
+
+            Encounter: wellness, from 2024-10-23T07:09:15Z to 2024-10-23T07:24:15Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 160.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 65.5 kg
+- Body mass index (BMI) [Ratio]: 25.4 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 93.7 %
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 126.0 mm[Hg]
+- Heart rate: 83.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 4.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+            

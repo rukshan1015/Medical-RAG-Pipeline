@@ -1,0 +1,2133 @@
+Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09
+            ------------------------------------------------------------
+                        Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: emergency, from 1956-09-29T23:23:57Z to 1956-09-30T01:37:37Z
+
+            Conditions: 
+- Seizure disorder (disorder)
+- History of seizure (situation)
+- Epilepsy (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 1972-10-05T12:53:10Z to 1972-10-05T14:24:01Z
+
+            Conditions: 
+- Recurrent urinary tract infection (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: wellness, from 1974-06-03T23:23:57Z to 1974-06-04T00:18:54Z
+
+            Conditions: 
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Social isolation (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: wellness, from 1975-06-09T23:23:57Z to 1975-06-10T00:01:40Z
+
+            Conditions: 
+- Limited social contact (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: wellness, from 1981-06-15T23:23:57Z to 1981-06-15T23:59:44Z
+
+            Conditions: 
+- Prediabetes (finding)
+- Has a criminal record (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: wellness, from 1984-06-18T23:23:57Z to 1984-06-19T00:06:23Z
+
+            Conditions: 
+- Anemia (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: inpatient, from 1991-06-11T00:18:48Z to 1991-06-12T00:18:48Z
+
+            Conditions: 
+- History of tubal ligation (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: wellness, from 1996-04-15T23:23:57Z to 1996-04-16T00:00:58Z
+
+            Conditions: 
+- Body mass index 30+ - obesity (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: wellness, from 2006-04-10T23:23:57Z to 2006-04-11T00:21:39Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: wellness, from 2014-05-26T23:23:57Z to 2014-05-27T00:23:45Z
+
+            Conditions: 
+- Stress (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: wellness, from 2015-06-01T23:23:57Z to 2015-06-02T00:06:55Z
+
+            Conditions: 
+- Full-time employment (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2016-04-17T00:46:13Z to 2016-04-17T01:29:31Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Colonoscopy (procedure): code 73761001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: wellness, from 2016-06-06T23:23:57Z to 2016-06-07T00:11:32Z
+
+            Conditions: 
+- Metabolic syndrome X (disorder)
+- Diabetes mellitus type 2 (disorder)
+- Part-time employment (finding)
+- Victim of intimate partner abuse (finding)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 7.0 %
+- Body Height: 179.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 90.7 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 108.0 mm[Hg]
+- Systolic Blood Pressure: 146.0 mm[Hg]
+- Heart rate: 97.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 94.0 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 10.8 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.3 mg/dL
+- Calcium [Mass/volume] in Blood: 9.0 mg/dL
+- Sodium [Moles/volume] in Blood: 141.6 mmol/L
+- Potassium [Moles/volume] in Blood: 4.0 mmol/L
+- Chloride [Moles/volume] in Blood: 105.9 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.5 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 154.7 mg/dL
+- Triglycerides: 133.1 mg/dL
+- Low Density Lipoprotein Cholesterol: 79.2 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 48.9 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 15.4 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 65.2 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: Yes
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Very much
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 49517 /a
+- Primary insurance: Medicare
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 807 Ernser Lodge
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 9.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2016-06-20T23:23:57Z to 2016-06-21T02:03:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2016-06-27T23:23:57Z to 2016-06-28T00:12:57Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 15.0 mm[Hg]
+- Right eye Intraocular pressure: 15.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- History taking (procedure): code 84100007
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: wellness, from 2017-06-12T23:23:57Z to 2017-06-13T00:00:00Z
+
+            Conditions: 
+- Essential hypertension (disorder)
+- Medication review due (situation)
+- Hypertriglyceridemia (disorder)
+- Full-time employment (finding)
+- Gingivitis (disorder)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 7.0 %
+- Body Height: 179.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 90.7 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 109.0 mm[Hg]
+- Systolic Blood Pressure: 152.0 mm[Hg]
+- Heart rate: 93.0 /min
+- Respiratory rate: 16.0 /min
+- Glucose [Mass/volume] in Blood: 101.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 10.9 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.9 mg/dL
+- Calcium [Mass/volume] in Blood: 9.4 mg/dL
+- Sodium [Moles/volume] in Blood: 140.8 mmol/L
+- Potassium [Moles/volume] in Blood: 4.7 mmol/L
+- Chloride [Moles/volume] in Blood: 107.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 25.1 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 224.5 mg/dL
+- Triglycerides: 174.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 140.6 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 49.0 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 16.1 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 107.6 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 49517 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 807 Ernser Lodge
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [DAST-10]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2017-06-26T23:23:57Z to 2017-06-27T02:39:08Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2017-07-03T23:23:57Z to 2017-07-04T00:07:57Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 15.0 mm[Hg]
+- Right eye Intraocular pressure: 15.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2017-07-12T23:23:57Z to 2017-07-12T23:38:57Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 96.0 mm[Hg]
+- Systolic Blood Pressure: 132.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2017-09-10T23:23:57Z to 2017-09-10T23:38:57Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 96.0 mm[Hg]
+- Systolic Blood Pressure: 125.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2017-11-09T23:23:57Z to 2017-11-09T23:38:57Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 94.0 mm[Hg]
+- Systolic Blood Pressure: 132.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: wellness, from 2018-06-18T23:23:57Z to 2018-06-19T00:19:12Z
+
+            Conditions: 
+- Severe anxiety (panic) (finding)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 7.0 %
+- Body Height: 179.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 90.7 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 90.0 mm[Hg]
+- Systolic Blood Pressure: 124.0 mm[Hg]
+- Heart rate: 90.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 101.3 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 18.0 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 10.0 mg/dL
+- Sodium [Moles/volume] in Blood: 141.9 mmol/L
+- Potassium [Moles/volume] in Blood: 5.1 mmol/L
+- Chloride [Moles/volume] in Blood: 105.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 25.8 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 203.4 mg/dL
+- Triglycerides: 161.6 mg/dL
+- Low Density Lipoprotein Cholesterol: 114.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 56.6 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 10.4 mg/g
+- Leukocytes [#/volume] in Blood by Automated count: 7.5 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.0 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 37.1 %
+- MCV [Entitic volume] by Automated count: 87.8 fL
+- MCH [Entitic mass] by Automated count: 27.4 pg
+- MCHC [Mass/volume] by Automated count: 34.5 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 44.5 fL
+- Platelets [#/volume] in Blood by Automated count: 172.4 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 212.4 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 12.0 fL
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 145.3 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 49517 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 807 Ernser Lodge
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 20.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [AUDIT-C]: 0.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2018-06-28T23:40:06Z to 2018-06-29T00:24:06Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 18.0 mm[Hg]
+- Right eye Intraocular pressure: 18.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2019-05-24T23:57:49Z to 2019-05-25T00:41:49Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 15.0 mm[Hg]
+- Right eye Intraocular pressure: 15.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: wellness, from 2019-06-24T23:23:57Z to 2019-06-24T23:54:25Z
+
+            Conditions: 
+- Medication review due (situation)
+- Not in labor force (finding)
+- Gingivitis (disorder)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 7.0 %
+- Body Height: 179.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 90.7 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 113.0 mm[Hg]
+- Heart rate: 86.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 108.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 7.4 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.9 mg/dL
+- Sodium [Moles/volume] in Blood: 139.7 mmol/L
+- Potassium [Moles/volume] in Blood: 4.4 mmol/L
+- Chloride [Moles/volume] in Blood: 101.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 26.4 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 209.9 mg/dL
+- Triglycerides: 185.4 mg/dL
+- Low Density Lipoprotein Cholesterol: 123.9 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 48.9 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 11.0 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 140.6 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 49517 /a
+- Primary insurance: Medicare
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: More than high school
+- Address: 807 Ernser Lodge
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2019-07-08T23:23:57Z to 2019-07-09T03:22:38Z
+
+            Conditions: 
+- Primary dental caries (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure): code 1259293006
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2020-04-19T00:13:55Z to 2020-04-19T00:57:55Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 16.0 mm[Hg]
+- Right eye Intraocular pressure: 16.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: wellness, from 2020-06-29T23:23:57Z to 2020-06-29T23:56:21Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 7.0 %
+- Body Height: 179.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 90.7 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 123.0 mm[Hg]
+- Heart rate: 73.0 /min
+- Respiratory rate: 12.0 /min
+- Glucose [Mass/volume] in Blood: 113.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 7.6 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 8.6 mg/dL
+- Sodium [Moles/volume] in Blood: 139.6 mmol/L
+- Potassium [Moles/volume] in Blood: 5.2 mmol/L
+- Chloride [Moles/volume] in Blood: 105.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 28.8 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 228.3 mg/dL
+- Triglycerides: 170.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 141.9 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 52.4 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 1.4 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 106.2 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 49517 /a
+- Primary insurance: Medicare
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: More than high school
+- Address: 807 Ernser Lodge
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2020-07-13T23:23:57Z to 2020-07-14T02:29:16Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: outpatient, from 2021-03-01T23:23:57Z to 2021-03-01T23:38:57Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: outpatient, from 2021-03-22T23:23:57Z to 2021-03-22T23:38:57Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2021-04-17T01:29:31Z to 2021-04-17T01:58:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Colonoscopy (procedure): code 73761001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2021-04-14T00:30:51Z to 2021-04-14T01:14:51Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 16.0 mm[Hg]
+- Right eye Intraocular pressure: 16.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: wellness, from 2021-07-05T23:23:57Z to 2021-07-06T00:21:26Z
+
+            Conditions: 
+- Medication review due (situation)
+- Ischemic heart disease (disorder)
+- Full-time employment (finding)
+- Gingivitis (disorder)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 7.0 %
+- Body Height: 179.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 90.7 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 90.0 mm[Hg]
+- Systolic Blood Pressure: 122.0 mm[Hg]
+- Heart rate: 84.0 /min
+- Respiratory rate: 16.0 /min
+- Glucose [Mass/volume] in Blood: 117.0 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 8.5 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 10.0 mg/dL
+- Sodium [Moles/volume] in Blood: 137.4 mmol/L
+- Potassium [Moles/volume] in Blood: 4.5 mmol/L
+- Chloride [Moles/volume] in Blood: 105.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 28.9 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 221.8 mg/dL
+- Triglycerides: 156.6 mg/dL
+- Low Density Lipoprotein Cholesterol: 146.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 43.8 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 5.9 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 144.5 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 49517 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 807 Ernser Lodge
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Pneumococcal conjugate PCV 13
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2021-07-12T23:23:57Z to 2021-07-13T00:06:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Priority Level: 2 {score}
+- Operative Status Value: urgent {score}
+            Procedures: 
+- Referral to cardiology service (procedure): code 183519002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2021-07-16T17:06:10Z to 2021-07-16T22:33:18Z
+
+            Conditions: 
+- Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Consultation for treatment (procedure): code 698314001
+- Angiography of coronary artery (procedure): code 33367005
+- Post anesthesia care management (procedure): code 736169004
+- Referral to service (procedure): code 306206005
+- Referral to cardiology service (procedure): code 183519002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2021-07-26T23:23:57Z to 2021-07-27T02:32:20Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2021-08-02T23:23:57Z to 2021-08-03T00:13:53Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Percutaneous coronary intervention (procedure): code 415070008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2021-12-23T23:23:57Z to 2021-12-25T22:24:42Z
+
+            Conditions: 
+- Malignant neoplasm of breast (disorder)
+            Medications: None
+            Observations: 
+- Site of distant metastasis in Breast tumor: None (qualifier value)
+- Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+- Size.maximum dimension in Tumor: 3.4 cm
+- Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT2 (qualifier value)
+- Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy: 0.0 {#}
+- Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN0 (qualifier value)
+- HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+- HER2 [Presence] in Breast cancer specimen by FISH: less than 1.8 ratio
+- Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+- Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+- Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Positive (qualifier value)
+- Stage group.clinical Cancer: American Joint Committee on Cancer stage IIA (qualifier value)
+- Stage group.clinical Cancer: Stage 2 (qualifier value)
+            Procedures: 
+- Mammogram - symptomatic (procedure): code 241055006
+- Ultrasonography of bilateral breasts (procedure): code 1571000087109
+- Biopsy of breast (procedure): code 122548005
+- Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure): code 434363004
+- Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure): code 433114000
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2021-12-30T02:24:42Z to 2021-12-30T03:21:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Discussion about options (procedure): code 223487003
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: inpatient, from 2021-12-31T03:21:07Z to 2022-01-01T05:08:02Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Lumpectomy of breast (procedure): code 392021009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-01-09T23:08:02Z to 2022-01-09T23:29:39Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-01-11T06:43:39Z to 2022-01-11T07:21:46Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-01-12T09:36:46Z to 2022-01-12T10:07:57Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-01-13T20:54:57Z to 2022-01-13T21:30:35Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-01-14T22:36:35Z to 2022-01-14T23:05:31Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-01-16T03:53:31Z to 2022-01-16T04:17:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-01-17T09:06:26Z to 2022-01-17T09:28:09Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-01-18T17:15:09Z to 2022-01-18T17:46:29Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-01-20T02:01:29Z to 2022-01-20T02:23:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-01-21T02:31:56Z to 2022-01-21T02:57:11Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-01-22T08:44:11Z to 2022-01-22T09:16:01Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-01-23T10:17:01Z to 2022-01-23T10:35:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-01-24T21:38:40Z to 2022-01-24T22:17:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-01-26T07:52:34Z to 2022-01-26T08:11:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-01-27T18:10:34Z to 2022-01-27T18:44:43Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-01-29T03:35:43Z to 2022-01-29T04:10:04Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-01-30T14:54:04Z to 2022-01-30T15:31:20Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-01-31T21:40:20Z to 2022-01-31T22:19:14Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-02-02T01:53:14Z to 2022-02-02T02:25:02Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-02-03T03:51:02Z to 2022-02-03T04:25:01Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-02-04T05:24:01Z to 2022-02-04T06:00:42Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-02-05T14:13:42Z to 2022-02-05T14:49:03Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-02-06T19:14:03Z to 2022-02-06T19:32:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-02-07T23:11:45Z to 2022-02-07T23:48:17Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-02-09T08:33:17Z to 2022-02-09T08:49:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-02-10T18:36:06Z to 2022-02-10T18:59:01Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-02-11T19:02:01Z to 2022-02-11T19:33:58Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-02-13T01:54:58Z to 2022-02-13T02:26:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-02-14T06:36:13Z to 2022-02-14T06:52:52Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-02-15T08:48:52Z to 2022-02-15T09:26:57Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-02-16T11:58:57Z to 2022-02-16T12:14:23Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-02-17T22:26:23Z to 2022-02-17T23:05:36Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-02-19T01:01:36Z to 2022-02-19T01:26:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-02-20T10:55:08Z to 2022-02-20T11:18:11Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Radiation therapy care (regime/therapy): code 385798007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-02-22T11:18:11Z to 2022-02-22T11:33:11Z
+
+            Conditions: None
+            Medications: 
+- Tamoxifen 10 MG Oral Tablet
+- Verzenio 100 MG Oral Tablet
+            Observations: 
+- Treatment status Cancer: Treatment changed (situation)
+- Response to cancer treatment: Improving (qualifier value)
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-03-10T00:46:52Z to 2022-03-10T01:30:52Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 18.0 mm[Hg]
+- Right eye Intraocular pressure: 18.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-06-08T11:18:11Z to 2022-06-08T12:01:11Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Physical examination  complete (procedure): code 25656009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: wellness, from 2022-07-11T23:23:57Z to 2022-07-12T00:00:10Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 7.0 %
+- Body Height: 179.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 90.7 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 67.0 mm[Hg]
+- Systolic Blood Pressure: 96.0 mm[Hg]
+- Heart rate: 79.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 113.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 16.9 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.7 mg/dL
+- Sodium [Moles/volume] in Blood: 141.7 mmol/L
+- Potassium [Moles/volume] in Blood: 3.8 mmol/L
+- Chloride [Moles/volume] in Blood: 102.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.6 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 233.4 mg/dL
+- Triglycerides: 179.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 149.2 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 48.2 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 15.5 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 160.0 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 49517 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 807 Ernser Lodge
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- pneumococcal polysaccharide vaccine  23 valent
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2022-10-02T12:01:11Z to 2022-10-02T12:34:36Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Physical examination  complete (procedure): code 25656009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2023-01-08T12:34:36Z to 2023-01-08T13:10:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Physical examination  complete (procedure): code 25656009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2023-01-08T13:10:10Z to 2023-01-08T13:34:59Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Mammography (procedure): code 71651007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2023-01-08T13:34:59Z to 2023-01-08T14:05:19Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Response to cancer treatment: Improving (qualifier value)
+            Procedures: 
+- Manual pelvic examination (procedure): code 35025007
+- Cytopathology procedure  preparation of smear  genital source (procedure): code 90226004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2023-02-03T01:03:15Z to 2023-02-03T01:47:15Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 15.0 mm[Hg]
+- Right eye Intraocular pressure: 15.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: virtual, from 2023-04-30T14:05:19Z to 2023-04-30T14:38:14Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Physical examination  complete (procedure): code 25656009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: wellness, from 2023-07-17T23:23:57Z to 2023-07-18T00:19:25Z
+
+            Conditions: 
+- Medication review due (situation)
+- Part-time employment (finding)
+- Victim of intimate partner abuse (finding)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 7.0 %
+- Body Height: 179.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 90.7 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 104.0 mm[Hg]
+- Heart rate: 84.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 111.6 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 17.0 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.2 mg/dL
+- Sodium [Moles/volume] in Blood: 140.5 mmol/L
+- Potassium [Moles/volume] in Blood: 3.9 mmol/L
+- Chloride [Moles/volume] in Blood: 104.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 22.9 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 220.2 mg/dL
+- Triglycerides: 158.1 mg/dL
+- Low Density Lipoprotein Cholesterol: 146.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 42.0 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 5.2 mg/g
+- Leukocytes [#/volume] in Blood by Automated count: 8.9 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.4 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.1 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 47.5 %
+- MCV [Entitic volume] by Automated count: 84.6 fL
+- MCH [Entitic mass] by Automated count: 29.6 pg
+- MCHC [Mass/volume] by Automated count: 34.0 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 39.8 fL
+- Platelets [#/volume] in Blood by Automated count: 420.3 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 205.4 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.9 fL
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 155.8 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: Yes
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 49517 /a
+- Primary insurance: Medicare
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 807 Ernser Lodge
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Fall risk total [Morse Fall Scale]: 41.0 {#}
+- Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45)
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2023-07-25T15:23:57Z to 2023-07-25T15:38:57Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2023-08-09T14:38:14Z to 2023-08-09T15:09:57Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Physical examination  complete (procedure): code 25656009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2023-11-25T15:09:57Z to 2023-11-25T15:49:52Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Physical examination  complete (procedure): code 25656009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2023-11-25T15:49:52Z to 2023-11-25T16:12:09Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Mammography (procedure): code 71651007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2023-11-25T16:12:09Z to 2023-11-25T16:42:32Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Response to cancer treatment: Improving (qualifier value)
+            Procedures: 
+- Manual pelvic examination (procedure): code 35025007
+- Cytopathology procedure  preparation of smear  genital source (procedure): code 90226004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2023-12-30T01:21:16Z to 2023-12-30T02:05:16Z
+
+            Conditions: None
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 14.0 mm[Hg]
+- Right eye Intraocular pressure: 14.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: No apparent retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2024-03-16T16:42:32Z to 2024-03-16T17:27:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Physical examination  complete (procedure): code 25656009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2024-06-26T17:27:27Z to 2024-06-26T18:07:39Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Physical examination  complete (procedure): code 25656009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: wellness, from 2024-07-22T23:23:57Z to 2024-07-22T23:59:19Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+- Stress (finding)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 7.0 %
+- Body Height: 179.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 90.7 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 110.0 mm[Hg]
+- Heart rate: 70.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 108.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 15.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.2 mg/dL
+- Sodium [Moles/volume] in Blood: 142.9 mmol/L
+- Potassium [Moles/volume] in Blood: 4.0 mmol/L
+- Chloride [Moles/volume] in Blood: 108.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 22.1 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 207.5 mg/dL
+- Triglycerides: 163.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 128.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 46.1 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 15.8 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 121.4 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 49517 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 807 Ernser Lodge
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2024-10-28T18:07:39Z to 2024-10-28T18:43:39Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Physical examination  complete (procedure): code 25656009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2024-10-28T18:43:39Z to 2024-10-28T18:59:12Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Mammography (procedure): code 71651007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2024-10-28T18:59:12Z to 2024-10-28T19:32:31Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Response to cancer treatment: Improving (qualifier value)
+            Procedures: 
+- Manual pelvic examination (procedure): code 35025007
+- Cytopathology procedure  preparation of smear  genital source (procedure): code 90226004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2024-11-24T01:38:02Z to 2024-11-24T02:22:02Z
+
+            Conditions: 
+- Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)
+            Medications: 
+- tropicamide 5 MG/ML Ophthalmic Solution
+            Observations: 
+- LogMAR visual acuity left eye (observable entity): 0 {logmar}
+- LogMAR visual acuity right eye (observable entity): 0 {logmar}
+- Left eye Intraocular pressure: 16.0 mm[Hg]
+- Right eye Intraocular pressure: 16.0 mm[Hg]
+- Left eye Diabetic retinopathy severity level by Ophthalmoscopy: Mild non-proliferative retinopathy
+- Right eye Diabetic retinopathy severity level by Ophthalmoscopy: Mild non-proliferative retinopathy
+            Procedures: 
+- Visual acuity testing (procedure): code 16830007
+- Intraocular pressure test (procedure): code 252832004
+- Ocular slit lamp examination (procedure): code 55468007
+- Indirect gonioscopy (procedure): code 389153003
+- Camera fundoscopy (procedure): code 314971001
+- Diabetic retinal eye exam (procedure): code 722161008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: ambulatory, from 2025-02-14T19:32:31Z to 2025-02-14T20:13:44Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Physical examination  complete (procedure): code 25656009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: virtual, from 2025-06-06T20:13:44Z to 2025-06-06T20:58:12Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Physical examination  complete (procedure): code 25656009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karri995 Jacobson885, Gender: F, DOB: 1956-04-09, SSN: 999-82-8582
+
+            Encounter: wellness, from 2025-07-28T23:23:57Z to 2025-07-29T00:10:47Z
+
+            Conditions: None
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 7.0 %
+- Body Height: 179.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 90.7 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Diastolic Blood Pressure: 73.0 mm[Hg]
+- Systolic Blood Pressure: 106.0 mm[Hg]
+- Heart rate: 62.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 112.2 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 10.2 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.1 mg/dL
+- Sodium [Moles/volume] in Blood: 141.7 mmol/L
+- Potassium [Moles/volume] in Blood: 3.7 mmol/L
+- Chloride [Moles/volume] in Blood: 104.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.8 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 238.8 mg/dL
+- Triglycerides: 160.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 148.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 58.3 mg/dL
+- Microalbumin/Creatinine [Mass Ratio] in Urine: 10.6 mg/g
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 158.6 mL/min/{1.73_m2}
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Phone
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 49517 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 807 Ernser Lodge
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- Fall risk total [Morse Fall Scale]: 104.0 {#}
+- Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+)
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+            

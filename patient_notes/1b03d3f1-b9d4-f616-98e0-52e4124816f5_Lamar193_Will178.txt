@@ -1,0 +1,372 @@
+Patient: Lamar193 Will178, Gender: M, DOB: 2011-10-17
+            ------------------------------------------------------------
+                        Patient: Lamar193 Will178, Gender: M, DOB: 2011-10-17, SSN: 999-12-3882
+
+            Encounter: wellness, from 2015-09-21T23:29:06Z to 2015-09-21T23:44:06Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lamar193 Will178, Gender: M, DOB: 2011-10-17, SSN: 999-12-3882
+
+            Encounter: wellness, from 2016-09-26T23:29:06Z to 2016-09-26T23:44:19Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 111.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 27.6 kg
+- Body mass index (BMI) [Ratio]: 22.0 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 99.9 %
+- Diastolic Blood Pressure: 69.0 mm[Hg]
+- Systolic Blood Pressure: 96.0 mm[Hg]
+- Heart rate: 69.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- varicella
+- IPV
+- Influenza  seasonal  injectable  preservative free
+- DTaP
+- MMR
+            
+
+            Patient: Lamar193 Will178, Gender: M, DOB: 2011-10-17, SSN: 999-12-3882
+
+            Encounter: ambulatory, from 2016-10-03T23:29:06Z to 2016-10-04T06:13:15Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lamar193 Will178, Gender: M, DOB: 2011-10-17, SSN: 999-12-3882
+
+            Encounter: wellness, from 2017-10-02T23:29:06Z to 2017-10-02T23:44:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 118.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 29.1 kg
+- Body mass index (BMI) [Ratio]: 20.7 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 99.0 %
+- Diastolic Blood Pressure: 69.0 mm[Hg]
+- Systolic Blood Pressure: 99.0 mm[Hg]
+- Heart rate: 80.0 /min
+- Respiratory rate: 13.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 9.1 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.3 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 43.2 %
+- MCV [Entitic volume] by Automated count: 80.6 fL
+- MCH [Entitic mass] by Automated count: 27.6 pg
+- MCHC [Mass/volume] by Automated count: 35.3 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 39.4 fL
+- Platelets [#/volume] in Blood by Automated count: 397.1 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 417.1 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.8 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Lamar193 Will178, Gender: M, DOB: 2011-10-17, SSN: 999-12-3882
+
+            Encounter: wellness, from 2018-10-08T23:29:06Z to 2018-10-08T23:44:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 125.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 33.8 kg
+- Body mass index (BMI) [Ratio]: 21.5 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 98.6 %
+- Diastolic Blood Pressure: 70.0 mm[Hg]
+- Systolic Blood Pressure: 90.0 mm[Hg]
+- Heart rate: 72.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Lamar193 Will178, Gender: M, DOB: 2011-10-17, SSN: 999-12-3882
+
+            Encounter: wellness, from 2019-10-14T23:29:06Z to 2019-10-14T23:44:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 131.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 40.5 kg
+- Body mass index (BMI) [Ratio]: 23.3 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 98.6 %
+- Diastolic Blood Pressure: 68.0 mm[Hg]
+- Systolic Blood Pressure: 100.0 mm[Hg]
+- Heart rate: 64.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Lamar193 Will178, Gender: M, DOB: 2011-10-17, SSN: 999-12-3882
+
+            Encounter: ambulatory, from 2019-10-21T23:29:06Z to 2019-10-22T03:00:45Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lamar193 Will178, Gender: M, DOB: 2011-10-17, SSN: 999-12-3882
+
+            Encounter: wellness, from 2020-10-19T23:29:06Z to 2020-10-19T23:44:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 138.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 48.8 kg
+- Body mass index (BMI) [Ratio]: 25.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 98.8 %
+- Diastolic Blood Pressure: 70.0 mm[Hg]
+- Systolic Blood Pressure: 95.0 mm[Hg]
+- Heart rate: 95.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Lamar193 Will178, Gender: M, DOB: 2011-10-17, SSN: 999-12-3882
+
+            Encounter: wellness, from 2021-10-25T23:29:06Z to 2021-10-25T23:44:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 143.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 57.7 kg
+- Body mass index (BMI) [Ratio]: 28.0 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 98.9 %
+- Diastolic Blood Pressure: 66.0 mm[Hg]
+- Systolic Blood Pressure: 96.0 mm[Hg]
+- Heart rate: 74.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Lamar193 Will178, Gender: M, DOB: 2011-10-17, SSN: 999-12-3882
+
+            Encounter: wellness, from 2022-10-31T23:29:06Z to 2022-10-31T23:44:06Z
+
+            Conditions: 
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 148.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 68.6 kg
+- Body mass index (BMI) [Ratio]: 31.0 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 99.1 %
+- Diastolic Blood Pressure: 67.0 mm[Hg]
+- Systolic Blood Pressure: 103.0 mm[Hg]
+- Heart rate: 93.0 /min
+- Respiratory rate: 15.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 6.4 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.4 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.9 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 48.6 %
+- MCV [Entitic volume] by Automated count: 89.5 fL
+- MCH [Entitic mass] by Automated count: 29.6 pg
+- MCHC [Mass/volume] by Automated count: 34.7 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 41.1 fL
+- Platelets [#/volume] in Blood by Automated count: 434.0 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 168.1 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.8 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Tdap
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+- meningococcal MCV4P
+            
+
+            Patient: Lamar193 Will178, Gender: M, DOB: 2011-10-17, SSN: 999-12-3882
+
+            Encounter: ambulatory, from 2022-11-07T23:29:06Z to 2022-11-08T02:16:02Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lamar193 Will178, Gender: M, DOB: 2011-10-17, SSN: 999-12-3882
+
+            Encounter: wellness, from 2023-11-06T23:29:06Z to 2023-11-06T23:44:06Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 154.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 76.9 kg
+- Body mass index (BMI) [Ratio]: 32.2 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 99.1 %
+- Diastolic Blood Pressure: 68.0 mm[Hg]
+- Systolic Blood Pressure: 90.0 mm[Hg]
+- Heart rate: 73.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 10.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+            
+
+            Patient: Lamar193 Will178, Gender: M, DOB: 2011-10-17, SSN: 999-12-3882
+
+            Encounter: ambulatory, from 2023-11-20T23:29:06Z to 2023-11-21T05:57:38Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lamar193 Will178, Gender: M, DOB: 2011-10-17, SSN: 999-12-3882
+
+            Encounter: wellness, from 2024-11-11T23:29:06Z to 2024-11-11T23:44:06Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 162.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 83.9 kg
+- Body mass index (BMI) [Ratio]: 32.0 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 99.0 %
+- Diastolic Blood Pressure: 68.0 mm[Hg]
+- Systolic Blood Pressure: 95.0 mm[Hg]
+- Heart rate: 83.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+            Procedures: 
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+            
+
+            Patient: Lamar193 Will178, Gender: M, DOB: 2011-10-17, SSN: 999-12-3882
+
+            Encounter: ambulatory, from 2025-08-26T23:29:06Z to 2025-08-26T23:44:06Z
+
+            Conditions: 
+- Child attention deficit disorder (disorder)
+            Medications: 
+- Methylphenidate Hydrochloride 20 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+            

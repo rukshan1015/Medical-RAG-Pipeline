@@ -1,0 +1,985 @@
+Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09
+            ------------------------------------------------------------
+                        Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: emergency, from 1971-10-13T19:45:09Z to 1971-10-13T21:17:27Z
+
+            Conditions: 
+- Seizure disorder (disorder)
+- History of seizure (situation)
+- Epilepsy (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: wellness, from 1979-11-03T19:45:09Z to 1979-11-03T20:23:50Z
+
+            Conditions: 
+- Received higher education (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: wellness, from 2003-09-20T19:45:09Z to 2003-09-20T20:27:35Z
+
+            Conditions: 
+- Body mass index 30+ - obesity (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: wellness, from 2011-09-10T19:45:09Z to 2011-09-10T20:41:01Z
+
+            Conditions: 
+- Victim of intimate partner abuse (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: outpatient, from 2013-02-09T19:45:09Z to 2013-02-09T20:27:04Z
+
+            Conditions: 
+- Stress (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: wellness, from 2013-09-21T19:45:09Z to 2013-09-21T20:31:57Z
+
+            Conditions: 
+- Misuses drugs (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: outpatient, from 2014-02-03T19:45:09Z to 2014-02-03T20:00:09Z
+
+            Conditions: 
+- Chronic pain (finding)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: wellness, from 2014-09-27T19:45:09Z to 2014-09-27T20:16:19Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: wellness, from 2015-10-03T19:45:09Z to 2015-10-03T20:39:56Z
+
+            Conditions: 
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 172.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 85.9 kg
+- Body mass index (BMI) [Ratio]: 29.0 kg/m2
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 98.0 mm[Hg]
+- Heart rate: 84.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: Yes
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 59453 /a
+- Primary insurance: Medicare
+- Employment status - current: I choose not to answer this question
+- Highest level of education: More than high school
+- Address: 779 Cassin Mall
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 6.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Total score [DAST-10]: 9.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: ambulatory, from 2015-10-17T19:45:09Z to 2015-10-17T22:46:49Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: ambulatory, from 2016-09-16T20:17:08Z to 2016-09-16T20:45:47Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Colonoscopy (procedure): code 73761001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: wellness, from 2016-10-08T19:45:09Z to 2016-10-08T20:43:23Z
+
+            Conditions: 
+- Medication review due (situation)
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Victim of intimate partner abuse (finding)
+            Medications: None
+            Observations: 
+- Body Height: 172.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 88.2 kg
+- Body mass index (BMI) [Ratio]: 29.7 kg/m2
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 100.0 mm[Hg]
+- Heart rate: 77.0 /min
+- Respiratory rate: 15.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 164.5 mg/dL
+- Triglycerides: 142.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 74.8 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 61.3 mg/dL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: No
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 59453 /a
+- Primary insurance: Medicare
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 779 Cassin Mall
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 6.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- Total score [HARK]: 3.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: ambulatory, from 2017-06-09T12:45:09Z to 2017-06-09T13:00:09Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: wellness, from 2017-10-14T19:45:09Z to 2017-10-14T20:34:56Z
+
+            Conditions: 
+- Essential hypertension (disorder)
+- Full-time employment (finding)
+- Stress (finding)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Body Height: 172.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 90.4 kg
+- Body mass index (BMI) [Ratio]: 30.5 kg/m2
+- Diastolic Blood Pressure: 100.0 mm[Hg]
+- Systolic Blood Pressure: 143.0 mm[Hg]
+- Heart rate: 66.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 59453 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 779 Cassin Mall
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 6.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: wellness, from 2018-10-20T19:45:09Z to 2018-10-20T20:32:52Z
+
+            Conditions: 
+- Ischemic heart disease (disorder)
+- Limited social contact (finding)
+- Gingivitis (disorder)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+            Observations: 
+- Body Height: 172.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 83.7 kg
+- Body mass index (BMI) [Ratio]: 28.2 kg/m2
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 126.0 mm[Hg]
+- Heart rate: 83.0 /min
+- Respiratory rate: 12.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 10.1 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.0 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.9 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 35.9 %
+- MCV [Entitic volume] by Automated count: 80.2 fL
+- MCH [Entitic mass] by Automated count: 31.0 pg
+- MCHC [Mass/volume] by Automated count: 35.6 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 40.6 fL
+- Platelets [#/volume] in Blood by Automated count: 240.7 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 363.5 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.8 fL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 59453 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 779 Cassin Mall
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 6.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: ambulatory, from 2018-10-27T19:45:09Z to 2018-10-27T20:40:52Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Priority Level: 2 {score}
+- Operative Status Value: urgent {score}
+            Procedures: 
+- Referral to cardiology service (procedure): code 183519002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: ambulatory, from 2018-10-29T04:40:52Z to 2018-10-29T09:33:05Z
+
+            Conditions: 
+- Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Consultation for treatment (procedure): code 698314001
+- Angiography of coronary artery (procedure): code 33367005
+- Post anesthesia care management (procedure): code 736169004
+- Referral to cardiology service (procedure): code 183519002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: ambulatory, from 2018-10-30T17:33:05Z to 2018-10-30T18:32:04Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Percutaneous coronary intervention (procedure): code 415070008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: ambulatory, from 2018-11-10T19:45:09Z to 2018-11-10T23:34:07Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: wellness, from 2019-10-26T19:45:09Z to 2019-10-26T20:36:23Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Body Height: 172.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 84.8 kg
+- Body mass index (BMI) [Ratio]: 28.6 kg/m2
+- Diastolic Blood Pressure: 72.0 mm[Hg]
+- Systolic Blood Pressure: 117.0 mm[Hg]
+- Heart rate: 76.0 /min
+- Respiratory rate: 15.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 164.5 mg/dL
+- Triglycerides: 105.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 91.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 51.8 mg/dL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 59453 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 779 Cassin Mall
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 6.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: wellness, from 2020-10-31T19:45:09Z to 2020-10-31T20:16:43Z
+
+            Conditions: 
+- Stress (finding)
+- Gingivitis (disorder)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Body Height: 172.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 86.7 kg
+- Body mass index (BMI) [Ratio]: 29.2 kg/m2
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 108.0 mm[Hg]
+- Heart rate: 92.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 59453 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 779 Cassin Mall
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 6.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: ambulatory, from 2020-11-14T19:45:09Z to 2020-11-15T02:47:05Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: ambulatory, from 2021-09-16T20:45:47Z to 2021-09-16T21:14:24Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Colonoscopy (procedure): code 73761001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: wellness, from 2021-11-06T19:45:09Z to 2021-11-06T20:23:02Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Body Height: 172.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 88.5 kg
+- Body mass index (BMI) [Ratio]: 29.9 kg/m2
+- Diastolic Blood Pressure: 73.0 mm[Hg]
+- Systolic Blood Pressure: 114.0 mm[Hg]
+- Heart rate: 63.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Unsure
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 59453 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 779 Cassin Mall
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 6.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: wellness, from 2022-11-12T19:45:09Z to 2022-11-12T20:39:19Z
+
+            Conditions: 
+- Medication review due (situation)
+- Part-time employment (finding)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Body Height: 172.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 90.4 kg
+- Body mass index (BMI) [Ratio]: 30.5 kg/m2
+- Diastolic Blood Pressure: 67.0 mm[Hg]
+- Systolic Blood Pressure: 120.0 mm[Hg]
+- Heart rate: 78.0 /min
+- Respiratory rate: 14.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 200.4 mg/dL
+- Triglycerides: 112.6 mg/dL
+- Low Density Lipoprotein Cholesterol: 121.4 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 56.5 mg/dL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 59453 /a
+- Primary insurance: Medicare
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 779 Cassin Mall
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 6.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [DAST-10]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: emergency, from 2023-05-17T19:45:09Z to 2023-05-17T20:45:09Z
+
+            Conditions: 
+- Myocardial infarction (disorder)
+- Acute ST segment elevation myocardial infarction (disorder)
+            Medications: 
+- aspirin 325 MG Oral Tablet
+- nitroglycerin 0.4 MG Sublingual Tablet
+            Observations: 
+- Leukocytes [#/volume] in Blood by Automated count: 3.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 3.8 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.5 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 41.8 %
+- MCV [Entitic volume] by Automated count: 89.6 fL
+- MCH [Entitic mass] by Automated count: 28.1 pg
+- MCHC [Mass/volume] by Automated count: 34.4 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 14.9 %
+- Platelets [#/volume] in Blood by Automated count: 130.8 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 83.9 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 18.2 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 2.8 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 9.2 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 140.9 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.7 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 105.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 28.9 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 7.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.0 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.9 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 14.7 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 79.4 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 7.4 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 9.4 U/L
+- Magnesium [Mass/volume] in Blood: 1.8 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 250.9 mg/dL
+- Triglycerides: 124.1 mg/dL
+- Low Density Lipoprotein Cholesterol: 136.4 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 40.1 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.3 %
+- INR in Platelet poor plasma by Coagulation assay: 0.9 {INR}
+- aPTT in Blood by Coagulation assay: 33.5 s
+- Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Blood by Immunoassay: 1.7 pg/mL
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 78.8 ng/L
+            Procedures: 
+- Assessment of cardiac status using monitoring device (procedure): code 710839006
+- Electrocardiographic procedure (procedure): code 29303009
+- Oxygen administration by mask (procedure): code 371908008
+- Laboratory test (procedure): code 15220000
+- Plain X-ray of chest (procedure): code 399208008
+- Diagnostic assessment (procedure): code 165197003
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: inpatient, from 2023-05-17T20:12:19Z to 2023-05-18T20:12:19Z
+
+            Conditions: 
+- History of myocardial infarction (situation)
+            Medications: 
+- bivalirudin 50 ML; 5 MG/ML Injection
+- prasugrel 10 MG Oral Tablet
+- carvedilol 25 MG Oral Tablet
+- rosuvastatin calcium 10 MG Oral Tablet
+- enalapril maleate 5 MG Oral Tablet
+- prasugrel 10 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Consultation for treatment (procedure): code 698314001
+- Angiography of coronary artery (procedure): code 33367005
+- Percutaneous coronary intervention (procedure): code 415070008
+- Transthoracic echocardiography (procedure): code 433236007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: wellness, from 2023-11-18T19:45:09Z to 2023-11-18T20:41:50Z
+
+            Conditions: 
+- Full-time employment (finding)
+- Stress (finding)
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Body Height: 172.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 82.0 kg
+- Body mass index (BMI) [Ratio]: 27.7 kg/m2
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 104.0 mm[Hg]
+- Heart rate: 98.0 /min
+- Respiratory rate: 15.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 10.4 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.2 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 35.9 %
+- MCV [Entitic volume] by Automated count: 95.0 fL
+- MCH [Entitic mass] by Automated count: 29.9 pg
+- MCHC [Mass/volume] by Automated count: 34.9 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 39.7 fL
+- Platelets [#/volume] in Blood by Automated count: 175.7 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 259.7 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.2 fL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 59453 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 779 Cassin Mall
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 6.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [AUDIT-C]: 3.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: emergency, from 2024-02-19T19:59:42Z to 2024-02-19T20:59:42Z
+
+            Conditions: 
+- Sprain (morphologic abnormality)
+- Sprain of ankle (disorder)
+            Medications: 
+- Ibuprofen 200 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: wellness, from 2024-11-23T19:45:09Z to 2024-11-23T20:23:13Z
+
+            Conditions: None
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Body Height: 172.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 81.8 kg
+- Body mass index (BMI) [Ratio]: 27.6 kg/m2
+- Diastolic Blood Pressure: 70.0 mm[Hg]
+- Systolic Blood Pressure: 119.0 mm[Hg]
+- Heart rate: 76.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 59453 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 779 Cassin Mall
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 6.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: ambulatory, from 2024-12-07T19:45:09Z to 2024-12-07T23:07:30Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: emergency, from 2025-02-04T19:59:42Z to 2025-02-04T20:59:42Z
+
+            Conditions: 
+- Laceration - injury (disorder)
+- Laceration of thigh (disorder)
+            Medications: 
+- Naproxen sodium 220 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Suture open wound (procedure): code 288086009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Reyes140 Nienow652, Gender: M, DOB: 1961-09-09, SSN: 999-58-6994
+
+            Encounter: ambulatory, from 2025-04-14T12:45:09Z to 2025-04-14T13:00:09Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.1 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+            

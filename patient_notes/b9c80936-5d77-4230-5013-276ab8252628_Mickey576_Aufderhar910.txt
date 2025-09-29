@@ -1,0 +1,1719 @@
+Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15
+            ------------------------------------------------------------
+                        Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: emergency, from 1984-08-14T17:33:56Z to 1984-08-14T18:55:50Z
+
+            Conditions: 
+- Seizure disorder (disorder)
+- History of seizure (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: outpatient, from 1992-03-07T17:33:56Z to 1992-03-07T17:48:56Z
+
+            Conditions: 
+- Risk activity involvement (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: wellness, from 1992-08-08T17:33:56Z to 1992-08-08T18:19:39Z
+
+            Conditions: 
+- Received higher education (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: wellness, from 1993-08-14T17:33:56Z to 1993-08-14T18:33:38Z
+
+            Conditions: 
+- Full-time employment (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: wellness, from 2005-08-27T17:33:56Z to 2005-08-27T18:28:41Z
+
+            Conditions: 
+- Prediabetes (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: wellness, from 2008-08-30T17:33:56Z to 2008-08-30T18:17:53Z
+
+            Conditions: 
+- Medication review due (situation)
+- Anemia (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2008-09-06T17:33:56Z to 2008-09-06T18:49:27Z
+
+            Conditions: None
+            Medications: 
+- Vitamin B12 5 MG/ML Injectable Solution
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: wellness, from 2011-09-03T17:33:56Z to 2011-09-03T18:24:31Z
+
+            Conditions: 
+- Body mass index 30+ - obesity (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: outpatient, from 2014-02-03T17:33:56Z to 2014-02-03T17:48:56Z
+
+            Conditions: 
+- Chronic pain (finding)
+- Chronic low back pain (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2014-03-28T13:33:56Z to 2014-03-28T13:48:56Z
+
+            Conditions: None
+            Medications: 
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: wellness, from 2015-02-21T17:33:56Z to 2015-02-21T18:09:43Z
+
+            Conditions: None
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: emergency, from 2016-02-06T05:58:56Z to 2016-02-06T06:58:56Z
+
+            Conditions: 
+- Injury of knee (disorder)
+- Rupture of patellar tendon (disorder)
+            Medications: 
+- Ibuprofen 200 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Plain X-ray of knee region (procedure): code 1290407002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: inpatient, from 2016-02-13T05:58:56Z to 2016-02-18T15:49:56Z
+
+            Conditions: None
+            Medications: 
+- Meperidine Hydrochloride 50 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Surgical manipulation of joint of knee (procedure): code 699253003
+- Postoperative care (regime/therapy): code 133899007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: snf, from 2016-02-18T15:49:56Z to 2016-02-21T16:04:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- History AND physical examination (procedure): code 63332003
+- Initial patient assessment (procedure): code 315639002
+- Development of individualized plan of care (procedure): code 370789001
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Pre-discharge assessment (procedure): code 225386006
+- Discharge from hospital (procedure): code 308283009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: wellness, from 2016-03-05T17:33:56Z to 2016-03-05T18:07:10Z
+
+            Conditions: 
+- Stress (finding)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 173.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 90.8 kg
+- Body mass index (BMI) [Ratio]: 30.2 kg/m2
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 121.0 mm[Hg]
+- Heart rate: 81.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 81.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 13.6 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.3 mg/dL
+- Calcium [Mass/volume] in Blood: 9.3 mg/dL
+- Sodium [Moles/volume] in Blood: 143.5 mmol/L
+- Potassium [Moles/volume] in Blood: 4.5 mmol/L
+- Chloride [Moles/volume] in Blood: 103.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.6 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 137565 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 601 Schaefer Route
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 5.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+- Hep A  adult
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2016-12-13T17:33:56Z to 2016-12-13T19:02:37Z
+
+            Conditions: 
+- Dependent drug abuse (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2017-01-12T19:02:37Z to 2017-01-12T20:13:22Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2017-02-11T20:13:22Z to 2017-02-11T21:38:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: wellness, from 2017-03-11T17:33:56Z to 2017-03-11T18:30:48Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Body Height: 173.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 85.6 kg
+- Body mass index (BMI) [Ratio]: 28.5 kg/m2
+- Diastolic Blood Pressure: 73.0 mm[Hg]
+- Systolic Blood Pressure: 122.0 mm[Hg]
+- Heart rate: 69.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 91.9 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 7.4 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 9.9 mg/dL
+- Sodium [Moles/volume] in Blood: 142.4 mmol/L
+- Potassium [Moles/volume] in Blood: 5.2 mmol/L
+- Chloride [Moles/volume] in Blood: 104.5 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 22.9 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Child care
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 137565 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 601 Schaefer Route
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 5.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 5.0 {score}
+- Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 18.0 {score}
+- Total score [DAST-10]: 0.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2017-03-13T21:38:13Z to 2017-03-13T22:56:11Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2017-03-25T17:33:56Z to 2017-03-25T21:02:13Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2017-04-12T22:56:11Z to 2017-04-13T00:25:39Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2017-05-13T00:25:39Z to 2017-05-13T01:43:52Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2017-06-12T01:43:52Z to 2017-06-12T03:02:05Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2017-10-25T03:02:05Z to 2017-10-25T04:06:05Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2017-11-24T04:06:05Z to 2017-11-24T05:19:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2017-12-24T05:19:56Z to 2017-12-24T06:20:04Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2018-01-23T06:20:04Z to 2018-01-23T07:36:32Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: wellness, from 2018-03-17T17:33:56Z to 2018-03-17T18:23:44Z
+
+            Conditions: None
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 173.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 83.9 kg
+- Body mass index (BMI) [Ratio]: 27.9 kg/m2
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 113.0 mm[Hg]
+- Heart rate: 62.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 76.3 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 13.8 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 8.7 mg/dL
+- Sodium [Moles/volume] in Blood: 139.0 mmol/L
+- Potassium [Moles/volume] in Blood: 4.6 mmol/L
+- Chloride [Moles/volume] in Blood: 108.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.4 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 92.0 mg/dL
+- Triglycerides: 129.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 12.4 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.6 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 137565 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 601 Schaefer Route
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 5.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Total score [HARK]: 0.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: outpatient, from 2018-06-23T17:33:56Z to 2018-06-23T18:22:40Z
+
+            Conditions: 
+- Medication review due (situation)
+- Not in labor force (finding)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Body Height: 173.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 84.4 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 127.0 mm[Hg]
+- Heart rate: 73.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 72.2 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 17.2 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 8.5 mg/dL
+- Sodium [Moles/volume] in Blood: 137.6 mmol/L
+- Potassium [Moles/volume] in Blood: 4.8 mmol/L
+- Chloride [Moles/volume] in Blood: 106.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 22.3 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Very much
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 137565 /a
+- Primary insurance: Medicare
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: More than high school
+- Address: 601 Schaefer Route
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 5.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2018-06-30T17:33:56Z to 2018-06-30T17:48:56Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2018-07-07T17:33:56Z to 2018-07-07T20:05:44Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2018-07-12T07:36:32Z to 2018-07-12T08:54:43Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2018-08-11T08:54:43Z to 2018-08-11T10:10:16Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2018-09-10T10:10:16Z to 2018-09-10T11:12:18Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2018-10-10T11:12:18Z to 2018-10-10T12:22:11Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2018-11-09T12:22:11Z to 2018-11-09T13:37:53Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2018-12-09T13:37:53Z to 2018-12-09T14:52:55Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2019-01-08T14:52:55Z to 2019-01-08T15:59:50Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2019-02-07T15:59:50Z to 2019-02-07T17:24:30Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: wellness, from 2019-03-23T17:33:56Z to 2019-03-23T18:15:04Z
+
+            Conditions: 
+- Part-time employment (finding)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Body Height: 173.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 86.0 kg
+- Body mass index (BMI) [Ratio]: 28.6 kg/m2
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 127.0 mm[Hg]
+- Heart rate: 94.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 82.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 8.5 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 8.8 mg/dL
+- Sodium [Moles/volume] in Blood: 142.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.4 mmol/L
+- Chloride [Moles/volume] in Blood: 102.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 28.1 mmol/L
+- Leukocytes [#/volume] in Blood by Automated count: 9.7 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.1 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.2 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 38.0 %
+- MCV [Entitic volume] by Automated count: 89.0 fL
+- MCH [Entitic mass] by Automated count: 30.8 pg
+- MCHC [Mass/volume] by Automated count: 35.6 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 40.2 fL
+- Platelets [#/volume] in Blood by Automated count: 273.9 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 397.0 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 12.3 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 137565 /a
+- Primary insurance: Medicare
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 601 Schaefer Route
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 5.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: inpatient, from 2019-04-20T17:24:30Z to 2019-05-02T17:24:30Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 7.0 {score}
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2019-05-09T17:24:30Z to 2019-05-09T18:29:20Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2019-06-08T18:29:20Z to 2019-06-08T19:53:17Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2019-07-08T19:53:17Z to 2019-07-08T21:18:53Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2019-08-07T21:18:53Z to 2019-08-07T22:42:21Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2019-09-06T22:42:21Z to 2019-09-07T00:06:53Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2019-10-07T00:06:53Z to 2019-10-07T01:30:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: emergency, from 2019-12-04T01:30:06Z to 2019-12-04T05:30:06Z
+
+            Conditions: 
+- Overdose (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: wellness, from 2020-03-28T17:33:56Z to 2020-03-28T18:23:52Z
+
+            Conditions: 
+- Essential hypertension (disorder)
+- Medication review due (situation)
+- Full-time employment (finding)
+- Stress (finding)
+- Gingivitis (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 173.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 88.1 kg
+- Body mass index (BMI) [Ratio]: 29.3 kg/m2
+- Diastolic Blood Pressure: 118.0 mm[Hg]
+- Systolic Blood Pressure: 157.0 mm[Hg]
+- Heart rate: 72.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 92.0 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 18.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 8.8 mg/dL
+- Sodium [Moles/volume] in Blood: 141.1 mmol/L
+- Potassium [Moles/volume] in Blood: 5.1 mmol/L
+- Chloride [Moles/volume] in Blood: 108.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 20.9 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 137565 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 601 Schaefer Route
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 5.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2020-04-01T05:30:06Z to 2020-04-01T06:46:09Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2020-04-11T17:33:56Z to 2020-04-11T20:16:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2020-04-27T17:33:56Z to 2020-04-27T17:48:56Z
+
+            Conditions: None
+            Medications: 
+- lisinopril 10 MG Oral Tablet
+            Observations: 
+- Diastolic Blood Pressure: 108.0 mm[Hg]
+- Systolic Blood Pressure: 135.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2020-05-01T06:46:09Z to 2020-05-01T08:05:15Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2020-05-31T08:05:15Z to 2020-05-31T09:34:31Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2020-06-26T17:33:56Z to 2020-06-26T17:48:56Z
+
+            Conditions: None
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+            Observations: 
+- Diastolic Blood Pressure: 90.0 mm[Hg]
+- Systolic Blood Pressure: 128.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2020-06-30T09:34:31Z to 2020-06-30T10:35:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2020-07-30T10:35:56Z to 2020-07-30T11:42:18Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2020-08-25T17:33:56Z to 2020-08-25T17:48:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 86.0 mm[Hg]
+- Systolic Blood Pressure: 107.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2020-11-21T11:42:18Z to 2020-11-21T12:47:35Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: outpatient, from 2021-03-27T17:33:56Z to 2021-03-27T17:48:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: wellness, from 2021-04-03T17:33:56Z to 2021-04-03T18:29:36Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Body Height: 173.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 90.2 kg
+- Body mass index (BMI) [Ratio]: 30.0 kg/m2
+- Diastolic Blood Pressure: 88.0 mm[Hg]
+- Systolic Blood Pressure: 109.0 mm[Hg]
+- Heart rate: 63.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 85.5 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 16.9 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 10.1 mg/dL
+- Sodium [Moles/volume] in Blood: 137.4 mmol/L
+- Potassium [Moles/volume] in Blood: 3.8 mmol/L
+- Chloride [Moles/volume] in Blood: 108.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.4 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 180.3 mg/dL
+- Triglycerides: 113.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 98.6 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 58.9 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 137565 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 601 Schaefer Route
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 5.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: outpatient, from 2021-04-17T17:33:56Z to 2021-04-17T17:48:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2021-04-17T17:33:56Z to 2021-04-17T23:15:16Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: emergency, from 2021-08-30T12:47:35Z to 2021-08-30T13:47:35Z
+
+            Conditions: 
+- Overdose (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2021-09-06T13:47:35Z to 2021-09-06T15:00:47Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2022-01-05T15:00:47Z to 2022-01-05T16:15:12Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2022-02-04T16:15:12Z to 2022-02-04T17:26:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2022-03-06T17:26:26Z to 2022-03-06T18:27:11Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: wellness, from 2022-04-09T17:33:56Z to 2022-04-09T18:08:59Z
+
+            Conditions: 
+- Medication review due (situation)
+- Metabolic syndrome X (disorder)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 173.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 90.8 kg
+- Body mass index (BMI) [Ratio]: 30.2 kg/m2
+- Diastolic Blood Pressure: 88.0 mm[Hg]
+- Systolic Blood Pressure: 117.0 mm[Hg]
+- Heart rate: 63.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 89.8 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 18.7 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 9.4 mg/dL
+- Sodium [Moles/volume] in Blood: 139.6 mmol/L
+- Potassium [Moles/volume] in Blood: 4.0 mmol/L
+- Chloride [Moles/volume] in Blood: 101.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 26.9 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 137565 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 601 Schaefer Route
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 5.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2022-04-16T17:33:56Z to 2022-04-16T18:49:17Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2022-05-16T18:49:17Z to 2022-05-16T19:51:33Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2022-06-01T14:33:56Z to 2022-06-01T14:48:56Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2022-06-15T19:51:33Z to 2022-06-15T20:54:41Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: emergency, from 2022-09-30T20:54:41Z to 2022-10-01T03:54:41Z
+
+            Conditions: 
+- Overdose (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2022-10-29T03:54:41Z to 2022-10-29T05:19:47Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: wellness, from 2023-04-15T17:33:56Z to 2023-04-15T18:20:53Z
+
+            Conditions: 
+- Part-time employment (finding)
+- Social isolation (finding)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Body Height: 173.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 90.8 kg
+- Body mass index (BMI) [Ratio]: 30.2 kg/m2
+- Diastolic Blood Pressure: 88.0 mm[Hg]
+- Systolic Blood Pressure: 115.0 mm[Hg]
+- Heart rate: 96.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 69.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 11.4 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.2 mg/dL
+- Calcium [Mass/volume] in Blood: 9.7 mg/dL
+- Sodium [Moles/volume] in Blood: 142.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.1 mmol/L
+- Chloride [Moles/volume] in Blood: 108.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 28.6 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: I choose not to answer this question
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 137565 /a
+- Primary insurance: Medicare
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 601 Schaefer Route
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 5.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: wellness, from 2024-04-20T17:33:56Z to 2024-04-20T18:27:57Z
+
+            Conditions: 
+- Victim of intimate partner abuse (finding)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Body Height: 173.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 90.8 kg
+- Body mass index (BMI) [Ratio]: 30.2 kg/m2
+- Diastolic Blood Pressure: 88.0 mm[Hg]
+- Systolic Blood Pressure: 116.0 mm[Hg]
+- Heart rate: 71.0 /min
+- Respiratory rate: 16.0 /min
+- Glucose [Mass/volume] in Blood: 74.5 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 14.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.4 mg/dL
+- Calcium [Mass/volume] in Blood: 9.5 mg/dL
+- Sodium [Moles/volume] in Blood: 137.0 mmol/L
+- Potassium [Moles/volume] in Blood: 4.3 mmol/L
+- Chloride [Moles/volume] in Blood: 101.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 22.1 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 178.4 mg/dL
+- Triglycerides: 131.0 mg/dL
+- Low Density Lipoprotein Cholesterol: 97.4 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.7 mg/dL
+- Leukocytes [#/volume] in Blood by Automated count: 9.5 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 3.9 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 47.4 %
+- MCV [Entitic volume] by Automated count: 91.2 fL
+- MCH [Entitic mass] by Automated count: 30.0 pg
+- MCHC [Mass/volume] by Automated count: 35.7 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 40.4 fL
+- Platelets [#/volume] in Blood by Automated count: 426.9 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 514.7 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.6 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: Yes
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 137565 /a
+- Primary insurance: Medicare
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 601 Schaefer Route
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 5.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2024-06-15T17:33:56Z to 2024-06-15T18:16:19Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Colonoscopy (procedure): code 73761001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2025-02-24T05:19:47Z to 2025-02-24T06:45:35Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: wellness, from 2025-04-26T17:33:56Z to 2025-04-26T18:24:59Z
+
+            Conditions: 
+- Limited social contact (finding)
+- Gingivitis (disorder)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 173.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 90.8 kg
+- Body mass index (BMI) [Ratio]: 30.2 kg/m2
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 108.0 mm[Hg]
+- Heart rate: 67.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 74.8 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 16.0 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.1 mg/dL
+- Calcium [Mass/volume] in Blood: 8.9 mg/dL
+- Sodium [Moles/volume] in Blood: 136.2 mmol/L
+- Potassium [Moles/volume] in Blood: 4.0 mmol/L
+- Chloride [Moles/volume] in Blood: 103.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.5 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 137565 /a
+- Primary insurance: Medicare
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 601 Schaefer Route
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 5.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 11.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- zoster vaccine  live
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2025-05-10T17:33:56Z to 2025-05-10T21:05:15Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Mickey576 Aufderhar910, Gender: M, DOB: 1974-06-15, SSN: 999-45-9851
+
+            Encounter: ambulatory, from 2025-09-10T06:45:35Z to 2025-09-10T08:01:32Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Rehabilitation therapy (regime/therapy): code 52052004
+            Allergies: None
+            Immunization: None
+            
+            

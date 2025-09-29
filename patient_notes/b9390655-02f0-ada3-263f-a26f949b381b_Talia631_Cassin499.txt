@@ -1,0 +1,1050 @@
+Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24
+            ------------------------------------------------------------
+                        Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: wellness, from 1988-11-17T12:53:58Z to 1988-11-17T13:30:09Z
+
+            Conditions: 
+- Received higher education (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: ambulatory, from 1993-02-02T20:53:58Z to 1993-02-02T21:08:58Z
+
+            Conditions: 
+- Chronic sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: wellness, from 1998-12-03T12:53:58Z to 1998-12-03T13:50:08Z
+
+            Conditions: 
+- Body mass index 30+ - obesity (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: ambulatory, from 2004-12-30T12:53:58Z to 2004-12-30T13:08:58Z
+
+            Conditions: 
+- Localized  primary osteoarthritis of the hand (disorder)
+            Medications: 
+- Naproxen sodium 220 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: inpatient, from 2006-02-23T14:13:09Z to 2006-02-24T14:13:09Z
+
+            Conditions: 
+- History of tubal ligation (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: wellness, from 2012-10-04T12:53:58Z to 2012-10-04T13:28:13Z
+
+            Conditions: 
+- Essential hypertension (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: wellness, from 2013-10-10T12:53:58Z to 2013-10-10T13:40:08Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: wellness, from 2014-10-16T12:53:58Z to 2014-10-16T13:26:49Z
+
+            Conditions: 
+- Prediabetes (finding)
+- Not in labor force (finding)
+- Stress (finding)
+            Medications: 
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: wellness, from 2015-10-22T12:53:58Z to 2015-10-22T13:50:26Z
+
+            Conditions: None
+            Medications: 
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 75.8 kg
+- Body mass index (BMI) [Ratio]: 27.6 kg/m2
+- Diastolic Blood Pressure: 100.0 mm[Hg]
+- Systolic Blood Pressure: 134.0 mm[Hg]
+- Heart rate: 99.0 /min
+- Respiratory rate: 12.0 /min
+- Glucose [Mass/volume] in Blood: 81.5 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 15.5 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.9 mg/dL
+- Calcium [Mass/volume] in Blood: 10.0 mg/dL
+- Sodium [Moles/volume] in Blood: 141.0 mmol/L
+- Potassium [Moles/volume] in Blood: 4.2 mmol/L
+- Chloride [Moles/volume] in Blood: 102.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 22.1 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 156.2 mg/dL
+- Triglycerides: 126.9 mg/dL
+- Low Density Lipoprotein Cholesterol: 74.2 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 56.6 mg/dL
+- Leukocytes [#/volume] in Blood by Automated count: 9.9 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 42.0 %
+- MCV [Entitic volume] by Automated count: 86.1 fL
+- MCH [Entitic mass] by Automated count: 29.9 pg
+- MCHC [Mass/volume] by Automated count: 35.6 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 40.6 fL
+- Platelets [#/volume] in Blood by Automated count: 165.1 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 447.6 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.5 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 129456 /a
+- Primary insurance: Private insurance
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: More than high school
+- Address: 720 Willms Throughway Unit 45
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: ambulatory, from 2015-11-05T12:53:58Z to 2015-11-05T17:01:42Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: wellness, from 2016-10-27T12:53:58Z to 2016-10-27T13:47:56Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+- Stress (finding)
+            Medications: 
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.8 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 75.8 kg
+- Body mass index (BMI) [Ratio]: 27.6 kg/m2
+- Diastolic Blood Pressure: 106.0 mm[Hg]
+- Systolic Blood Pressure: 135.0 mm[Hg]
+- Heart rate: 70.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 83.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 10.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 10.0 mg/dL
+- Sodium [Moles/volume] in Blood: 138.1 mmol/L
+- Potassium [Moles/volume] in Blood: 4.7 mmol/L
+- Chloride [Moles/volume] in Blood: 109.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.3 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 129456 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 720 Willms Throughway Unit 45
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 13.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: outpatient, from 2017-02-23T12:53:58Z to 2017-02-23T14:05:50Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Removal of subcutaneous contraceptive (procedure): code 301807007
+- Insertion of subcutaneous contraceptive (procedure): code 169553002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: wellness, from 2017-11-02T12:53:58Z to 2017-11-02T13:37:01Z
+
+            Conditions: 
+- Medication review due (situation)
+- Part-time employment (finding)
+- Gingivitis (disorder)
+            Medications: 
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 75.8 kg
+- Body mass index (BMI) [Ratio]: 27.6 kg/m2
+- Diastolic Blood Pressure: 99.0 mm[Hg]
+- Systolic Blood Pressure: 139.0 mm[Hg]
+- Heart rate: 73.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 66.2 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 17.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.0 mg/dL
+- Calcium [Mass/volume] in Blood: 9.8 mg/dL
+- Sodium [Moles/volume] in Blood: 138.2 mmol/L
+- Potassium [Moles/volume] in Blood: 4.3 mmol/L
+- Chloride [Moles/volume] in Blood: 103.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 20.1 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Unsure
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 129456 /a
+- Primary insurance: Private insurance
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 720 Willms Throughway Unit 45
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 6.0 {score}
+- Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 18.0 {score}
+- Total score [DAST-10]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: ambulatory, from 2017-11-16T12:53:58Z to 2017-11-16T18:43:34Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: wellness, from 2018-11-08T12:53:58Z to 2018-11-08T13:43:50Z
+
+            Conditions: 
+- Anemia (disorder)
+- Full-time employment (finding)
+- Social isolation (finding)
+            Medications: 
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 75.8 kg
+- Body mass index (BMI) [Ratio]: 27.6 kg/m2
+- Diastolic Blood Pressure: 106.0 mm[Hg]
+- Systolic Blood Pressure: 138.0 mm[Hg]
+- Heart rate: 97.0 /min
+- Respiratory rate: 12.0 /min
+- Glucose [Mass/volume] in Blood: 92.2 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 13.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 10.1 mg/dL
+- Sodium [Moles/volume] in Blood: 140.2 mmol/L
+- Potassium [Moles/volume] in Blood: 5.1 mmol/L
+- Chloride [Moles/volume] in Blood: 105.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.8 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 169.1 mg/dL
+- Triglycerides: 100.4 mg/dL
+- Low Density Lipoprotein Cholesterol: 89.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 59.5 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 129456 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 720 Willms Throughway Unit 45
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: ambulatory, from 2018-11-15T12:53:58Z to 2018-11-15T13:57:47Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Hemoglobin [Mass/volume] in Blood: 7.0 g/dL
+- Hematocrit [Volume Fraction] of Blood: 31.7 %
+- Leukocytes [#/volume] in Blood by Automated count: 6.2 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.8 10*6/uL
+- MCV [Entitic volume] by Automated count: 82.1 fL
+- MCH [Entitic mass] by Automated count: 32.6 pg
+- MCHC [Mass/volume] by Automated count: 33.0 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 39.1 fL
+- Platelets [#/volume] in Blood by Automated count: 412.1 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 353.9 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.5 fL
+            Procedures: 
+- Peripheral blood smear interpretation (procedure): code 14768001
+- Review of systems (procedure): code 415300000
+- Medication reconciliation (procedure): code 430193006
+- Brief general examination (procedure): code 162676008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: ambulatory, from 2018-11-29T12:53:58Z to 2018-11-29T15:50:49Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: wellness, from 2019-11-14T12:53:58Z to 2019-11-14T13:47:06Z
+
+            Conditions: 
+- Gingivitis (disorder)
+            Medications: 
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.1 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 75.8 kg
+- Body mass index (BMI) [Ratio]: 27.6 kg/m2
+- Diastolic Blood Pressure: 103.0 mm[Hg]
+- Systolic Blood Pressure: 140.0 mm[Hg]
+- Heart rate: 83.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 92.1 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 12.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.3 mg/dL
+- Calcium [Mass/volume] in Blood: 9.9 mg/dL
+- Sodium [Moles/volume] in Blood: 136.9 mmol/L
+- Potassium [Moles/volume] in Blood: 3.9 mmol/L
+- Chloride [Moles/volume] in Blood: 110.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.4 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 129456 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 720 Willms Throughway Unit 45
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 0.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: ambulatory, from 2019-11-28T12:53:58Z to 2019-11-28T15:29:17Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: ambulatory, from 2020-09-24T12:53:58Z to 2020-09-24T13:36:53Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Colonoscopy (procedure): code 73761001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: wellness, from 2020-11-19T12:53:58Z to 2020-11-19T13:36:37Z
+
+            Conditions: 
+- Medication review due (situation)
+- Stress (finding)
+            Medications: 
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 75.8 kg
+- Body mass index (BMI) [Ratio]: 27.6 kg/m2
+- Diastolic Blood Pressure: 106.0 mm[Hg]
+- Systolic Blood Pressure: 132.0 mm[Hg]
+- Heart rate: 96.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 96.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 9.8 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.9 mg/dL
+- Sodium [Moles/volume] in Blood: 143.9 mmol/L
+- Potassium [Moles/volume] in Blood: 3.7 mmol/L
+- Chloride [Moles/volume] in Blood: 110.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 25.6 mmol/L
+- Leukocytes [#/volume] in Blood by Automated count: 6.7 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.4 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.4 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 46.3 %
+- MCV [Entitic volume] by Automated count: 84.9 fL
+- MCH [Entitic mass] by Automated count: 32.5 pg
+- MCHC [Mass/volume] by Automated count: 35.4 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 42.4 fL
+- Platelets [#/volume] in Blood by Automated count: 297.5 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 352.7 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.9 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Very much
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 129456 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 720 Willms Throughway Unit 45
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- zoster vaccine  live
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: outpatient, from 2021-02-25T12:53:58Z to 2021-02-25T13:56:42Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Removal of subcutaneous contraceptive (procedure): code 301807007
+- Insertion of subcutaneous contraceptive (procedure): code 169553002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: outpatient, from 2021-04-01T12:53:58Z to 2021-04-01T13:08:58Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: outpatient, from 2021-04-29T12:53:58Z to 2021-04-29T13:08:58Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: wellness, from 2021-11-25T12:53:58Z to 2021-11-25T13:45:43Z
+
+            Conditions: 
+- Medication review due (situation)
+- Part-time employment (finding)
+            Medications: 
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 75.8 kg
+- Body mass index (BMI) [Ratio]: 27.6 kg/m2
+- Diastolic Blood Pressure: 102.0 mm[Hg]
+- Systolic Blood Pressure: 139.0 mm[Hg]
+- Heart rate: 80.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 65.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 9.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 8.9 mg/dL
+- Sodium [Moles/volume] in Blood: 143.2 mmol/L
+- Potassium [Moles/volume] in Blood: 5.0 mmol/L
+- Chloride [Moles/volume] in Blood: 106.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 20.8 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 205.4 mg/dL
+- Triglycerides: 140.6 mg/dL
+- Low Density Lipoprotein Cholesterol: 118.6 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 58.6 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 129456 /a
+- Primary insurance: Private insurance
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 720 Willms Throughway Unit 45
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- zoster vaccine  live
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: wellness, from 2022-12-01T12:53:58Z to 2022-12-01T13:35:17Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+            Medications: 
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 75.8 kg
+- Body mass index (BMI) [Ratio]: 27.6 kg/m2
+- Diastolic Blood Pressure: 101.0 mm[Hg]
+- Systolic Blood Pressure: 132.0 mm[Hg]
+- Heart rate: 92.0 /min
+- Respiratory rate: 15.0 /min
+- Glucose [Mass/volume] in Blood: 76.8 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 14.9 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.3 mg/dL
+- Calcium [Mass/volume] in Blood: 8.6 mg/dL
+- Sodium [Moles/volume] in Blood: 138.9 mmol/L
+- Potassium [Moles/volume] in Blood: 4.1 mmol/L
+- Chloride [Moles/volume] in Blood: 101.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 22.2 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: No
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 129456 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 720 Willms Throughway Unit 45
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 0.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: ambulatory, from 2022-12-15T12:53:58Z to 2022-12-15T16:06:54Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: wellness, from 2023-12-07T12:53:58Z to 2023-12-07T13:30:07Z
+
+            Conditions: 
+- Limited social contact (finding)
+            Medications: 
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 75.8 kg
+- Body mass index (BMI) [Ratio]: 27.6 kg/m2
+- Diastolic Blood Pressure: 103.0 mm[Hg]
+- Systolic Blood Pressure: 140.0 mm[Hg]
+- Heart rate: 91.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 73.5 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 12.3 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.9 mg/dL
+- Sodium [Moles/volume] in Blood: 143.4 mmol/L
+- Potassium [Moles/volume] in Blood: 4.8 mmol/L
+- Chloride [Moles/volume] in Blood: 101.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 25.4 mmol/L
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 129456 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 720 Willms Throughway Unit 45
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: ambulatory, from 2023-12-21T12:53:58Z to 2023-12-21T16:45:10Z
+
+            Conditions: 
+- Loose dental filling (finding)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Restoration of tooth with coverage of all cusps using dental filling material (procedure): code 1256042007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: wellness, from 2024-12-12T12:53:58Z to 2024-12-12T13:38:40Z
+
+            Conditions: None
+            Medications: 
+- amLODIPine 2.5 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 165.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 75.8 kg
+- Body mass index (BMI) [Ratio]: 27.6 kg/m2
+- Diastolic Blood Pressure: 106.0 mm[Hg]
+- Systolic Blood Pressure: 139.0 mm[Hg]
+- Heart rate: 61.0 /min
+- Respiratory rate: 12.0 /min
+- Glucose [Mass/volume] in Blood: 84.0 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 12.7 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.3 mg/dL
+- Calcium [Mass/volume] in Blood: 9.9 mg/dL
+- Sodium [Moles/volume] in Blood: 136.2 mmol/L
+- Potassium [Moles/volume] in Blood: 4.7 mmol/L
+- Chloride [Moles/volume] in Blood: 102.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 23.2 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 169.6 mg/dL
+- Triglycerides: 120.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 91.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.8 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 129456 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 720 Willms Throughway Unit 45
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 1.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: ambulatory, from 2024-12-26T12:53:58Z to 2024-12-26T16:42:17Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: outpatient, from 2025-02-27T12:53:58Z to 2025-02-27T14:01:54Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Removal of subcutaneous contraceptive (procedure): code 301807007
+- Insertion of subcutaneous contraceptive (procedure): code 169553002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Talia631 Cassin499, Gender: F, DOB: 1970-09-24, SSN: 999-78-2737
+
+            Encounter: ambulatory, from 2025-09-24T13:36:53Z to 2025-09-24T14:21:02Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Colonoscopy (procedure): code 73761001
+            Allergies: None
+            Immunization: None
+            
+            

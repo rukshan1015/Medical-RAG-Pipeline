@@ -1,0 +1,942 @@
+Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29
+            ------------------------------------------------------------
+                        Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2012-08-11T18:30:32Z to 2012-08-11T18:45:32Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2012-08-25T19:30:32Z to 2012-08-25T20:03:26Z
+
+            Conditions: None
+            Medications: 
+- cetirizine hydrochloride 5 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+            Observations: None
+            Procedures: None
+            Allergies: 
+- Wheal (finding): MILD
+- Finding of vomiting (finding): MODERATE
+- Diarrhea (finding): MILD
+- Diarrhea (finding): MILD
+- Wheal (finding): MODERATE
+- Anaphylaxis (disorder): SEVERE
+- Allergic angioedema (disorder): MODERATE
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2013-06-13T02:30:32Z to 2013-06-13T02:45:32Z
+
+            Conditions: 
+- Childhood asthma (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2014-07-26T02:30:32Z to 2014-07-26T02:45:32Z
+
+            Conditions: 
+- Seasonal allergic rhinitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: wellness, from 2015-03-03T02:30:32Z to 2015-03-03T02:45:32Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: wellness, from 2016-03-08T02:30:32Z to 2016-03-08T02:45:32Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: 
+- Body Height: 100.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 13.7 kg
+- Body mass index (BMI) [Ratio]: 13.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 6.2 %
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 106.0 mm[Hg]
+- Heart rate: 64.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- varicella
+- IPV
+- Influenza  seasonal  injectable  preservative free
+- DTaP
+- MMR
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2016-05-28T02:30:32Z to 2016-05-28T02:45:32Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: emergency, from 2016-09-06T02:30:32Z to 2016-09-06T03:30:32Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: 
+- Body Height: 103.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 14.6 kg
+- Body mass index (BMI) [Ratio]: 13.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 6.9 %
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 112.0 mm[Hg]
+- Heart rate: 93.0 /min
+- Respiratory rate: 12.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 7.4 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.5 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 39.3 %
+- MCV [Entitic volume] by Automated count: 90.0 fL
+- MCH [Entitic mass] by Automated count: 30.6 pg
+- MCHC [Mass/volume] by Automated count: 35.9 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 45.0 fL
+- Platelets [#/volume] in Blood by Automated count: 357.1 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 340.6 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.6 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: urgentcare, from 2016-09-13T02:30:32Z to 2016-09-13T02:45:32Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: 
+- Body Height: 103.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 14.6 kg
+- Body mass index (BMI) [Ratio]: 13.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 6.9 %
+- Diastolic Blood Pressure: 86.0 mm[Hg]
+- Systolic Blood Pressure: 118.0 mm[Hg]
+- Heart rate: 78.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: urgentcare, from 2016-09-20T02:30:32Z to 2016-09-20T02:45:32Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: 
+- Body Height: 103.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 14.6 kg
+- Body mass index (BMI) [Ratio]: 13.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 6.9 %
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 107.0 mm[Hg]
+- Heart rate: 88.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: urgentcare, from 2016-09-27T02:30:32Z to 2016-09-27T02:45:32Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: outpatient, from 2016-10-04T02:30:32Z to 2016-10-04T02:45:32Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: 
+- Body Height: 104.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 14.7 kg
+- Body mass index (BMI) [Ratio]: 13.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 7.0 %
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 110.0 mm[Hg]
+- Heart rate: 87.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2016-10-11T02:30:32Z to 2016-10-11T06:38:37Z
+
+            Conditions: 
+- Primary dental caries (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Restoration of tooth with coverage of all cusps using dental filling material (procedure): code 1256042007
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2016-10-18T02:30:32Z to 2016-10-18T02:45:32Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.9 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2016-11-24T02:30:32Z to 2016-11-24T02:45:32Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: wellness, from 2017-03-14T02:30:32Z to 2017-03-14T02:45:32Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: 
+- Body Height: 106.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 15.5 kg
+- Body mass index (BMI) [Ratio]: 13.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 7.1 %
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 106.0 mm[Hg]
+- Heart rate: 95.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: wellness, from 2018-03-20T02:30:32Z to 2018-03-20T02:45:32Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: 
+- Body Height: 113.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 17.4 kg
+- Body mass index (BMI) [Ratio]: 13.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 6.9 %
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 107.0 mm[Hg]
+- Heart rate: 80.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: wellness, from 2019-03-26T02:30:32Z to 2019-03-26T02:45:32Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: 
+- Body Height: 118.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 20.4 kg
+- Body mass index (BMI) [Ratio]: 14.5 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 20.9 %
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 109.0 mm[Hg]
+- Heart rate: 95.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2019-04-02T02:30:32Z to 2019-04-02T06:03:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2019-11-09T02:30:32Z to 2019-11-09T02:45:32Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: wellness, from 2020-03-31T02:30:32Z to 2020-03-31T02:45:32Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: 
+- Body Height: 123.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 23.0 kg
+- Body mass index (BMI) [Ratio]: 15.0 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 24.2 %
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 113.0 mm[Hg]
+- Heart rate: 75.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2020-04-07T02:30:32Z to 2020-04-07T06:29:36Z
+
+            Conditions: 
+- Primary dental caries (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure): code 1259293006
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: urgentcare, from 2020-12-15T02:30:32Z to 2020-12-15T02:45:32Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: 
+- Body Height: 126.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 24.9 kg
+- Body mass index (BMI) [Ratio]: 15.5 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 28.1 %
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 108.0 mm[Hg]
+- Heart rate: 92.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: urgentcare, from 2020-12-22T02:30:32Z to 2020-12-22T02:45:32Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: 
+- Body Height: 126.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 24.9 kg
+- Body mass index (BMI) [Ratio]: 15.5 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 28.1 %
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 116.0 mm[Hg]
+- Heart rate: 61.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: outpatient, from 2020-12-29T02:30:32Z to 2020-12-29T02:45:32Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: None
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2021-01-05T02:30:32Z to 2021-01-05T02:45:32Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Sputum examination (procedure): code 269911007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2021-01-12T02:30:32Z to 2021-01-12T08:14:46Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: wellness, from 2021-04-06T02:30:32Z to 2021-04-06T02:45:32Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: 
+- Body Height: 128.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 25.9 kg
+- Body mass index (BMI) [Ratio]: 15.8 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 30.3 %
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 122.0 mm[Hg]
+- Heart rate: 75.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2021-05-02T02:30:32Z to 2021-05-02T02:45:32Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: wellness, from 2022-04-12T02:30:32Z to 2022-04-12T02:45:32Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: 
+- Body Height: 133.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 29.7 kg
+- Body mass index (BMI) [Ratio]: 16.8 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 38.5 %
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 112.0 mm[Hg]
+- Heart rate: 94.0 /min
+- Respiratory rate: 12.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 6.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.0 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.5 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 35.0 %
+- MCV [Entitic volume] by Automated count: 87.1 fL
+- MCH [Entitic mass] by Automated count: 28.8 pg
+- MCHC [Mass/volume] by Automated count: 33.8 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 39.8 fL
+- Platelets [#/volume] in Blood by Automated count: 180.2 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 511.0 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 12.0 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Tdap
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+- meningococcal MCV4P
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: wellness, from 2023-04-18T02:30:32Z to 2023-04-18T02:45:32Z
+
+            Conditions: 
+- Medication review due (situation)
+- Risk activity involvement (finding)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: 
+- Body Height: 139.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 34.5 kg
+- Body mass index (BMI) [Ratio]: 17.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 42.7 %
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 112.0 mm[Hg]
+- Heart rate: 98.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+            Procedures: 
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Health risks education (procedure): code 370995009
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2023-04-24T23:30:32Z to 2023-04-24T23:45:32Z
+
+            Conditions: 
+- Streptococcal sore throat (disorder)
+            Medications: 
+- Penicillin V Potassium 250 MG Oral Tablet
+            Observations: 
+- Body temperature: 37.3 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: urgentcare, from 2023-05-02T02:30:32Z to 2023-05-02T02:59:26Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: 
+- Body Height: 140.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 35.0 kg
+- Body mass index (BMI) [Ratio]: 17.7 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 43.3 %
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 111.0 mm[Hg]
+- Heart rate: 98.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 7.0 {score}
+            Procedures: 
+- Assessment of anxiety (procedure): code 710841007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+            Allergies: None
+            Immunization: 
+- HPV  quadrivalent
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: outpatient, from 2023-05-09T02:30:32Z to 2023-05-09T02:45:32Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: None
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2023-05-16T02:30:32Z to 2023-05-16T05:49:52Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2023-12-01T04:30:32Z to 2023-12-01T04:45:32Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.8 Cel
+            Procedures: 
+- Throat culture (procedure): code 117015009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: urgentcare, from 2023-12-12T02:30:32Z to 2023-12-12T03:00:24Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: 
+- Body Height: 144.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 38.5 kg
+- Body mass index (BMI) [Ratio]: 18.4 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 48.8 %
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 117.0 mm[Hg]
+- Heart rate: 82.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+            Procedures: 
+- Assessment of anxiety (procedure): code 710841007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2023-12-26T02:30:32Z to 2023-12-26T06:24:58Z
+
+            Conditions: 
+- Primary dental caries (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Restoration of tooth with coverage of all cusps using dental filling material (procedure): code 1256042007
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2024-04-02T02:30:32Z to 2024-04-02T02:45:32Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2024-04-16T02:30:32Z to 2024-04-16T02:45:32Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: wellness, from 2024-04-23T02:30:32Z to 2024-04-23T02:45:32Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: 
+- Body Height: 146.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 39.8 kg
+- Body mass index (BMI) [Ratio]: 18.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 47.3 %
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 122.0 mm[Hg]
+- Heart rate: 96.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2024-04-30T02:30:32Z to 2024-04-30T06:28:09Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: ambulatory, from 2024-10-13T02:30:32Z to 2024-10-13T02:45:32Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Laura391 Ballesteros368, Gender: F, DOB: 2011-03-29, SSN: 999-64-3593
+
+            Encounter: wellness, from 2025-04-29T02:30:32Z to 2025-04-29T02:45:32Z
+
+            Conditions: 
+- Medication review due (situation)
+- Risk activity involvement (finding)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+            Observations: 
+- Body Height: 150.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 40.7 kg
+- Body mass index (BMI) [Ratio]: 18.0 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 29.3 %
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 114.0 mm[Hg]
+- Heart rate: 75.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Health risks education (procedure): code 370995009
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+            

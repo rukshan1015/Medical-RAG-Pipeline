@@ -1,0 +1,1470 @@
+Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03
+            ------------------------------------------------------------
+                        Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2010-07-21T03:41:00Z to 2010-07-21T03:56:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2010-08-05T23:41:00Z to 2010-08-06T00:08:17Z
+
+            Conditions: None
+            Medications: 
+- Loratadine 5 MG Chewable Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+            Observations: None
+            Procedures: None
+            Allergies: 
+- Allergic angioedema (disorder): MODERATE
+- Itching (finding): MODERATE
+- Cutaneous hypersensitivity (disorder): MILD
+- Nasal discharge present (situation): MILD
+- Rhinoconjunctivitis (disorder): MODERATE
+- Eruption of skin (disorder): MILD
+- Wheal (finding): MODERATE
+- Anaphylaxis (disorder): SEVERE
+- Eruption of skin (disorder): MODERATE
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2012-04-03T19:41:00Z to 2012-04-03T19:56:00Z
+
+            Conditions: 
+- Perennial allergic rhinitis with seasonal variation (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2013-06-08T19:41:00Z to 2013-06-08T19:56:00Z
+
+            Conditions: 
+- Childhood asthma (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: wellness, from 2015-06-19T19:41:00Z to 2015-06-19T19:56:00Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.21 MG/ML Inhalation Solution
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: wellness, from 2016-06-24T19:41:00Z to 2016-06-24T19:56:00Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.21 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 117.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 22.4 kg
+- Body mass index (BMI) [Ratio]: 16.4 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 69.5 %
+- Diastolic Blood Pressure: 72.0 mm[Hg]
+- Systolic Blood Pressure: 108.0 mm[Hg]
+- Heart rate: 77.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: wellness, from 2017-06-30T19:41:00Z to 2017-06-30T19:56:00Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.21 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 122.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 27.6 kg
+- Body mass index (BMI) [Ratio]: 18.3 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 85.3 %
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 97.0 mm[Hg]
+- Heart rate: 87.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2017-07-07T19:41:00Z to 2017-07-07T22:31:25Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: emergency, from 2018-05-17T19:41:00Z to 2018-05-17T20:41:00Z
+
+            Conditions: 
+- Burn injury (morphologic abnormality)
+- Epidermal burn of skin (disorder)
+            Medications: 
+- Ibuprofen 100 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: snf, from 2018-05-17T19:41:00Z to 2018-06-28T19:56:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- History AND physical examination (procedure): code 63332003
+- Initial patient assessment (procedure): code 315639002
+- Development of individualized plan of care (procedure): code 370789001
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Speech and language therapy regime (regime/therapy): code 311555007
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Speech and language therapy regime (regime/therapy): code 311555007
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Speech and language therapy regime (regime/therapy): code 311555007
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Care regimes assessment (procedure): code 392091000
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Speech and language therapy regime (regime/therapy): code 311555007
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Occupational therapy (regime/therapy): code 84478008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Care regimes assessment (procedure): code 392091000
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Speech and language therapy regime (regime/therapy): code 311555007
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Physical therapy procedure (regime/therapy): code 91251008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Occupational therapy (regime/therapy): code 84478008
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Pre-discharge assessment (procedure): code 225386006
+- Discharge from hospital (procedure): code 308283009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: wellness, from 2018-07-06T19:41:00Z to 2018-07-06T19:56:00Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.21 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 128.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 30.0 kg
+- Body mass index (BMI) [Ratio]: 18.2 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 77.2 %
+- Diastolic Blood Pressure: 72.0 mm[Hg]
+- Systolic Blood Pressure: 109.0 mm[Hg]
+- Heart rate: 64.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2018-07-27T19:41:00Z to 2018-07-27T19:56:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2019-05-08T19:41:00Z to 2019-05-08T19:56:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: wellness, from 2019-07-12T19:41:00Z to 2019-07-12T19:56:00Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.21 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 133.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 34.5 kg
+- Body mass index (BMI) [Ratio]: 19.5 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 81.9 %
+- Diastolic Blood Pressure: 72.0 mm[Hg]
+- Systolic Blood Pressure: 99.0 mm[Hg]
+- Heart rate: 61.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: wellness, from 2020-07-17T19:41:00Z to 2020-07-17T19:56:00Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.21 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 138.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 35.4 kg
+- Body mass index (BMI) [Ratio]: 18.4 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 63.5 %
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 109.0 mm[Hg]
+- Heart rate: 96.0 /min
+- Respiratory rate: 13.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 3.6 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 16.1 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 35.6 %
+- MCV [Entitic volume] by Automated count: 81.3 fL
+- MCH [Entitic mass] by Automated count: 29.4 pg
+- MCHC [Mass/volume] by Automated count: 35.4 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 45.6 fL
+- Platelets [#/volume] in Blood by Automated count: 396.0 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 205.5 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.7 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Tdap
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+- meningococcal MCV4P
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2020-07-24T19:41:00Z to 2020-07-25T01:32:00Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: emergency, from 2020-07-31T19:41:00Z to 2020-07-31T20:41:00Z
+
+            Conditions: 
+- Sprain (morphologic abnormality)
+- Sprain of wrist (disorder)
+            Medications: 
+- Ibuprofen 100 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2021-04-27T19:41:00Z to 2021-04-27T19:56:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: outpatient, from 2021-07-16T19:41:00Z to 2021-07-16T19:56:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: wellness, from 2021-07-23T19:41:00Z to 2021-07-23T19:59:04Z
+
+            Conditions: 
+- Medication review due (situation)
+- Risk activity involvement (finding)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.21 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 145.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 39.2 kg
+- Body mass index (BMI) [Ratio]: 18.4 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 54.8 %
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 94.0 mm[Hg]
+- Heart rate: 86.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Health risks education (procedure): code 370995009
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: outpatient, from 2021-08-06T19:41:00Z to 2021-08-06T19:56:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2022-07-08T19:41:00Z to 2022-07-08T20:15:21Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Peanut IgE Ab [Units/volume] in Serum: 0.1 kU/L
+- Walnut IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Codfish IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Shrimp IgE Ab [Units/volume] in Serum: 0.2 kU/L
+- Wheat IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Egg white IgE Ab [Units/volume] in Serum: 0.2 kU/L
+- Soybean IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Cow milk IgE Ab [Units/volume] in Serum: 0.2 kU/L
+- White oak IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Common Ragweed IgE Ab [Units/volume] in Serum: 0.1 kU/L
+- Cat dander IgE Ab [Units/volume] in Serum: 0.1 kU/L
+- American house dust mite IgE Ab [Units/volume] in Serum: 0.1 kU/L
+- Cladosporium herbarum IgE Ab [Units/volume] in Serum: 0.2 kU/L
+- Honey bee IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Latex IgE Ab [Units/volume] in Serum: 0.0 kU/L
+            Procedures: 
+- Allergy screening test (procedure): code 395142003
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: wellness, from 2022-07-29T19:41:00Z to 2022-07-29T20:04:23Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.21 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 152.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 42.0 kg
+- Body mass index (BMI) [Ratio]: 18.2 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 41.5 %
+- Diastolic Blood Pressure: 69.0 mm[Hg]
+- Systolic Blood Pressure: 108.0 mm[Hg]
+- Heart rate: 97.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 2.0 {score}
+            Procedures: 
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2022-08-03T20:15:21Z to 2022-08-03T20:55:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2022-08-24T20:55:34Z to 2022-08-24T21:31:19Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2022-09-20T21:31:19Z to 2022-09-20T22:11:44Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2022-10-17T22:11:44Z to 2022-10-17T22:35:03Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2022-11-12T22:35:03Z to 2022-11-12T22:51:25Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2022-12-09T22:51:25Z to 2022-12-09T23:39:58Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2023-01-01T23:39:58Z to 2023-01-02T00:04:36Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2023-01-28T00:04:36Z to 2023-01-28T01:04:18Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2023-02-18T01:04:18Z to 2023-02-18T01:32:32Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: urgentcare, from 2023-03-03T19:41:00Z to 2023-03-03T19:56:00Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.21 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 154.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 42.7 kg
+- Body mass index (BMI) [Ratio]: 17.9 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 31.4 %
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 107.0 mm[Hg]
+- Heart rate: 66.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: urgentcare, from 2023-03-10T19:41:00Z to 2023-03-10T19:56:00Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.21 MG/ML Inhalation Solution
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: urgentcare, from 2023-03-17T19:41:00Z to 2023-03-17T19:56:00Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.21 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 154.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 42.7 kg
+- Body mass index (BMI) [Ratio]: 17.9 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 31.4 %
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 107.0 mm[Hg]
+- Heart rate: 72.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+            Procedures: 
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: outpatient, from 2023-03-24T19:41:00Z to 2023-03-24T19:56:00Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.21 MG/ML Inhalation Solution
+            Observations: None
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2023-03-31T19:41:00Z to 2023-03-31T20:12:51Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2023-04-07T19:41:00Z to 2023-04-08T01:52:23Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2023-04-14T19:41:00Z to 2023-04-14T19:56:00Z
+
+            Conditions: 
+- Streptococcal sore throat (disorder)
+            Medications: 
+- Penicillin V Potassium 250 MG Oral Tablet
+            Observations: 
+- Body temperature: 39.2 Cel
+            Procedures: 
+- Throat culture (procedure): code 117015009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2023-04-22T20:12:51Z to 2023-04-22T20:33:57Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2023-05-19T20:33:57Z to 2023-05-19T21:08:29Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2023-06-14T21:08:29Z to 2023-06-14T21:44:03Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: emergency, from 2023-07-04T03:41:00Z to 2023-07-04T06:52:00Z
+
+            Conditions: 
+- Acute allergic reaction (disorder)
+            Medications: 
+- predniSONE 5 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Injection of epinephrine (procedure): code 313191000
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2023-07-05T00:52:00Z to 2023-07-05T01:07:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2023-07-09T21:44:03Z to 2023-07-09T22:27:18Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: wellness, from 2023-08-04T19:41:00Z to 2023-08-04T19:56:00Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.21 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 155.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 43.0 kg
+- Body mass index (BMI) [Ratio]: 17.8 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 26.0 %
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 104.0 mm[Hg]
+- Heart rate: 83.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 4.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2023-08-04T22:27:18Z to 2023-08-04T22:45:30Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2023-08-25T22:45:30Z to 2023-08-25T23:27:46Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2023-09-21T23:27:46Z to 2023-09-22T00:20:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2023-10-16T00:20:00Z to 2023-10-16T00:48:54Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2023-10-14T19:41:00Z to 2023-10-14T19:56:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2023-11-07T00:48:54Z to 2023-11-07T01:38:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2023-12-02T01:38:07Z to 2023-12-02T02:11:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2023-12-23T02:11:34Z to 2023-12-23T02:55:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2024-01-14T02:55:00Z to 2024-01-14T03:16:09Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2024-02-08T03:16:09Z to 2024-02-08T03:36:50Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2024-03-01T03:36:50Z to 2024-03-01T04:27:02Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2024-03-28T04:27:02Z to 2024-03-28T05:17:49Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2024-04-22T05:17:49Z to 2024-04-22T05:58:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2024-05-15T05:58:07Z to 2024-05-15T06:51:21Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2024-06-06T06:51:21Z to 2024-06-06T07:34:23Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2024-06-28T07:34:23Z to 2024-06-28T07:55:19Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2024-07-24T07:55:19Z to 2024-07-24T08:46:43Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: wellness, from 2024-08-09T19:41:00Z to 2024-08-09T19:56:00Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.21 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 157.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 45.7 kg
+- Body mass index (BMI) [Ratio]: 18.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 29.8 %
+- Diastolic Blood Pressure: 70.0 mm[Hg]
+- Systolic Blood Pressure: 108.0 mm[Hg]
+- Heart rate: 99.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 22.0 {score}
+            Procedures: 
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2024-08-15T08:46:43Z to 2024-08-15T09:11:30Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2024-09-08T09:11:30Z to 2024-09-08T09:35:02Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2024-10-04T09:35:02Z to 2024-10-04T10:19:04Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2024-10-30T10:19:04Z to 2024-10-30T10:42:14Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2024-11-25T10:42:14Z to 2024-11-25T11:15:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2024-12-19T11:15:26Z to 2024-12-19T12:00:03Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2025-01-15T12:00:03Z to 2025-01-15T12:27:44Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2025-02-05T12:27:44Z to 2025-02-05T13:19:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2025-03-01T13:19:13Z to 2025-03-01T14:10:42Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2025-03-26T14:10:42Z to 2025-03-26T15:09:01Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2025-04-20T15:09:01Z to 2025-04-20T15:35:41Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2025-05-15T15:35:41Z to 2025-05-15T16:09:46Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2025-06-11T16:09:46Z to 2025-06-11T16:47:01Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: outpatient, from 2025-06-22T19:41:00Z to 2025-06-22T19:56:00Z
+
+            Conditions: None
+            Medications: 
+- Trinessa 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2025-07-04T16:47:01Z to 2025-07-04T17:11:51Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2025-07-29T17:11:51Z to 2025-07-29T17:38:21Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: wellness, from 2025-08-15T19:41:00Z to 2025-08-15T20:03:46Z
+
+            Conditions: 
+- Gingivitis (disorder)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.21 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 157.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 47.0 kg
+- Body mass index (BMI) [Ratio]: 18.9 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 28.1 %
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 95.0 mm[Hg]
+- Heart rate: 80.0 /min
+- Respiratory rate: 12.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 7.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 38.6 %
+- MCV [Entitic volume] by Automated count: 94.2 fL
+- MCH [Entitic mass] by Automated count: 31.5 pg
+- MCHC [Mass/volume] by Automated count: 33.6 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 40.1 fL
+- Platelets [#/volume] in Blood by Automated count: 389.7 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 338.1 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.5 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+            Procedures: 
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- meningococcal MCV4P
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2025-08-20T17:38:21Z to 2025-08-20T18:34:46Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2025-08-29T19:41:00Z to 2025-08-29T22:44:59Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Karena692 Lehner980, Gender: F, DOB: 2009-07-03, SSN: 999-62-1830
+
+            Encounter: ambulatory, from 2025-09-10T18:34:46Z to 2025-09-10T19:09:28Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+            

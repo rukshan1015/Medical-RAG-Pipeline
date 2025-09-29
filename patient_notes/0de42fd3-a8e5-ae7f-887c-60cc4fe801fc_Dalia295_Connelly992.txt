@@ -1,0 +1,881 @@
+Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08
+            ------------------------------------------------------------
+                        Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: ambulatory, from 1977-02-08T22:46:28Z to 1977-02-08T23:01:28Z
+
+            Conditions: None
+            Medications: 
+- Astemizole 10 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: ambulatory, from 1977-02-16T15:46:28Z to 1977-02-16T16:06:44Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: 
+- Rhinoconjunctivitis (disorder): MODERATE
+- Allergic angioedema (disorder): MODERATE
+- Abdominal pain (finding): MODERATE
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: wellness, from 1990-01-01T22:46:28Z to 1990-01-01T23:31:29Z
+
+            Conditions: 
+- Received higher education (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: outpatient, from 1990-01-29T22:46:28Z to 1990-01-29T23:41:49Z
+
+            Conditions: 
+- Victim of intimate partner abuse (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: emergency, from 1993-09-25T22:46:28Z to 1993-09-26T22:46:28Z
+
+            Conditions: 
+- Chronic paralysis due to lesion of spinal cord (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: inpatient, from 1997-03-15T23:35:44Z to 1997-03-16T23:35:44Z
+
+            Conditions: 
+- History of tubal ligation (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: wellness, from 2000-01-17T22:46:28Z to 2000-01-17T23:26:56Z
+
+            Conditions: 
+- Limited social contact (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: wellness, from 2011-11-14T22:46:28Z to 2011-11-14T23:32:30Z
+
+            Conditions: 
+- Medication review due (situation)
+- Body mass index 30+ - obesity (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: wellness, from 2013-11-18T22:46:28Z to 2013-11-18T23:43:50Z
+
+            Conditions: 
+- Unemployed (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: wellness, from 2015-11-23T22:46:28Z to 2015-11-23T23:35:03Z
+
+            Conditions: 
+- Part-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 172.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 89.7 kg
+- Body mass index (BMI) [Ratio]: 30.2 kg/m2
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 104.0 mm[Hg]
+- Heart rate: 85.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: No
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care (Medical  Dental  Mental Health  Vision)
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 36540 /a
+- Primary insurance: Private insurance
+- Employment status - current: Part-time or temporary work
+- Highest level of education: More than high school
+- Address: 341 Kovacek Passage Suite 45
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: ambulatory, from 2015-12-07T22:46:28Z to 2015-12-08T01:54:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: ambulatory, from 2017-03-13T13:46:28Z to 2017-03-13T14:01:28Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.7 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: emergency, from 2017-05-11T23:24:42Z to 2017-05-12T00:24:42Z
+
+            Conditions: 
+- Fracture of bone (disorder)
+- Fracture subluxation of wrist (disorder)
+            Medications: 
+- Ibuprofen 200 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Plain X-ray of wrist region (procedure): code 713024005
+- Bone immobilization (procedure): code 274474001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: ambulatory, from 2017-07-25T23:54:45Z to 2017-07-26T00:09:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: wellness, from 2017-11-27T22:46:28Z to 2017-11-27T23:27:53Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+            Medications: None
+            Observations: 
+- Body Height: 172.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 89.7 kg
+- Body mass index (BMI) [Ratio]: 30.2 kg/m2
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 107.0 mm[Hg]
+- Heart rate: 79.0 /min
+- Respiratory rate: 12.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 159.6 mg/dL
+- Triglycerides: 134.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 82.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 50.1 mg/dL
+- Leukocytes [#/volume] in Blood by Automated count: 5.4 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.4 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 16.2 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 38.8 %
+- MCV [Entitic volume] by Automated count: 86.5 fL
+- MCH [Entitic mass] by Automated count: 29.4 pg
+- MCHC [Mass/volume] by Automated count: 33.1 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 43.4 fL
+- Platelets [#/volume] in Blood by Automated count: 385.3 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 300.9 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.8 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 36540 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 341 Kovacek Passage Suite 45
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: ambulatory, from 2017-12-11T22:46:28Z to 2017-12-12T05:19:29Z
+
+            Conditions: 
+- Gingival disease (disorder)
+- Primary dental caries (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Restoration of tooth with coverage of all cusps using dental filling material (procedure): code 1256042007
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: wellness, from 2019-12-02T22:46:28Z to 2019-12-02T23:24:17Z
+
+            Conditions: 
+- Essential hypertension (disorder)
+- Medication review due (situation)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+            Observations: 
+- Body Height: 172.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 89.7 kg
+- Body mass index (BMI) [Ratio]: 30.2 kg/m2
+- Diastolic Blood Pressure: 86.0 mm[Hg]
+- Systolic Blood Pressure: 148.0 mm[Hg]
+- Heart rate: 74.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 36540 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 341 Kovacek Passage Suite 45
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: ambulatory, from 2020-01-01T22:46:28Z to 2020-01-01T23:01:28Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 76.0 mm[Hg]
+- Systolic Blood Pressure: 128.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: ambulatory, from 2020-03-01T22:46:28Z to 2020-03-01T23:01:28Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 138.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: ambulatory, from 2020-04-30T22:46:28Z to 2020-04-30T23:01:28Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 72.0 mm[Hg]
+- Systolic Blood Pressure: 133.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: wellness, from 2020-12-07T22:46:28Z to 2020-12-07T23:42:04Z
+
+            Conditions: None
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+            Observations: 
+- Body Height: 172.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 89.7 kg
+- Body mass index (BMI) [Ratio]: 30.2 kg/m2
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 126.0 mm[Hg]
+- Heart rate: 73.0 /min
+- Respiratory rate: 13.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 130.4 mg/dL
+- Triglycerides: 145.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 46.9 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.3 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: Yes
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 36540 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 341 Kovacek Passage Suite 45
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: ambulatory, from 2020-12-21T22:46:28Z to 2020-12-22T02:42:35Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: outpatient, from 2021-03-08T22:46:28Z to 2021-03-08T23:01:28Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: outpatient, from 2021-04-05T22:46:28Z to 2021-04-05T23:01:28Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: ambulatory, from 2021-10-27T15:46:28Z to 2021-10-27T16:01:28Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: ambulatory, from 2021-11-08T22:46:28Z to 2021-11-08T23:28:47Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Colonoscopy (procedure): code 73761001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: wellness, from 2021-12-13T22:46:28Z to 2021-12-13T23:16:44Z
+
+            Conditions: 
+- Stress (finding)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+            Observations: 
+- Body Height: 172.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 89.7 kg
+- Body mass index (BMI) [Ratio]: 30.2 kg/m2
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 127.0 mm[Hg]
+- Heart rate: 71.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: Yes
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 36540 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 341 Kovacek Passage Suite 45
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- zoster vaccine  live
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: emergency, from 2022-04-18T23:54:45Z to 2022-04-19T00:54:45Z
+
+            Conditions: 
+- Sprain (morphologic abnormality)
+- Sprain of wrist (disorder)
+            Medications: 
+- Naproxen sodium 220 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: wellness, from 2022-12-19T22:46:28Z to 2022-12-19T23:31:54Z
+
+            Conditions: 
+- Limited social contact (finding)
+- Reports of violence in the environment (finding)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+            Observations: 
+- Body Height: 172.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 89.7 kg
+- Body mass index (BMI) [Ratio]: 30.2 kg/m2
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 131.0 mm[Hg]
+- Heart rate: 76.0 /min
+- Respiratory rate: 14.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 9.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.7 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.8 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 48.2 %
+- MCV [Entitic volume] by Automated count: 92.5 fL
+- MCH [Entitic mass] by Automated count: 32.2 pg
+- MCHC [Mass/volume] by Automated count: 35.0 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 46.0 fL
+- Platelets [#/volume] in Blood by Automated count: 183.5 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 291.7 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 9.5 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: No
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 36540 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 341 Kovacek Passage Suite 45
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 6.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- zoster vaccine  live
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: ambulatory, from 2023-01-02T22:46:28Z to 2023-01-03T04:42:30Z
+
+            Conditions: 
+- Infection of tooth (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Simple extraction of tooth (procedure): code 173291009
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: ambulatory, from 2023-01-09T22:46:28Z to 2023-01-09T23:51:51Z
+
+            Conditions: 
+- Loss of teeth (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Take oral or dental impression (procedure): code 234745004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: ambulatory, from 2023-01-30T23:51:51Z to 2023-01-31T00:25:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Fitting of denture (procedure): code 1269321004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: wellness, from 2023-12-25T22:46:28Z to 2023-12-25T23:33:42Z
+
+            Conditions: None
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+            Observations: 
+- Body Height: 172.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 89.7 kg
+- Body mass index (BMI) [Ratio]: 30.2 kg/m2
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 138.0 mm[Hg]
+- Heart rate: 88.0 /min
+- Respiratory rate: 15.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 165.6 mg/dL
+- Triglycerides: 116.1 mg/dL
+- Low Density Lipoprotein Cholesterol: 89.2 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.2 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 36540 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 341 Kovacek Passage Suite 45
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: ambulatory, from 2024-01-08T22:46:28Z to 2024-01-09T05:41:02Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Dalia295 Connelly992, Gender: F, DOB: 1971-11-08, SSN: 999-34-7831
+
+            Encounter: wellness, from 2024-12-30T22:46:28Z to 2024-12-30T23:28:20Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- Hydrochlorothiazide 25 MG Oral Tablet
+            Observations: 
+- Body Height: 172.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 89.7 kg
+- Body mass index (BMI) [Ratio]: 30.2 kg/m2
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 130.0 mm[Hg]
+- Heart rate: 72.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 36540 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 341 Kovacek Passage Suite 45
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- Total score [AUDIT-C]: 0.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+            

@@ -1,0 +1,540 @@
+Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10
+            ------------------------------------------------------------
+                        Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: wellness, from 2017-10-10T01:36:56Z to 2017-10-10T01:51:56Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 56.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 4.3 kg
+- Weight-for-length Per age and sex: 5.0 %
+- Head Occipital-frontal circumference Percentile: 97.2 %
+- Head Occipital-frontal circumference: 38.2 cm
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 142.0 mm[Hg]
+- Heart rate: 80.0 /min
+- Respiratory rate: 13.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 6.7 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.6 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.9 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 40.3 %
+- MCV [Entitic volume] by Automated count: 81.2 fL
+- MCH [Entitic mass] by Automated count: 31.9 pg
+- MCHC [Mass/volume] by Automated count: 35.9 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 41.4 fL
+- Platelets [#/volume] in Blood by Automated count: 172.3 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 319.2 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.4 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: wellness, from 2017-11-14T01:36:56Z to 2017-11-14T01:51:56Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 59.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 5.2 kg
+- Weight-for-length Per age and sex: 14.1 %
+- Head Occipital-frontal circumference Percentile: 97.2 %
+- Head Occipital-frontal circumference: 41.0 cm
+- Diastolic Blood Pressure: 89.0 mm[Hg]
+- Systolic Blood Pressure: 142.0 mm[Hg]
+- Heart rate: 87.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: wellness, from 2018-01-16T01:36:56Z to 2018-01-16T01:51:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 64.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 6.6 kg
+- Weight-for-length Per age and sex: 14.9 %
+- Head Occipital-frontal circumference Percentile: 97.2 %
+- Head Occipital-frontal circumference: 43.3 cm
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 142.0 mm[Hg]
+- Heart rate: 99.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- rotavirus  monovalent
+- IPV
+- DTaP
+- Pneumococcal conjugate PCV 13
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: outpatient, from 2018-02-07T01:36:56Z to 2018-02-07T01:51:56Z
+
+            Conditions: 
+- Otitis media (disorder)
+            Medications: 
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: wellness, from 2018-03-20T01:36:56Z to 2018-03-20T01:51:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 68.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 7.8 kg
+- Weight-for-length Per age and sex: 29.2 %
+- Head Occipital-frontal circumference Percentile: 97.2 %
+- Head Occipital-frontal circumference: 44.7 cm
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 131.0 mm[Hg]
+- Heart rate: 99.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- rotavirus  monovalent
+- IPV
+- DTaP
+- Pneumococcal conjugate PCV 13
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: ambulatory, from 2018-05-10T10:36:56Z to 2018-05-10T10:51:56Z
+
+            Conditions: 
+- Streptococcal sore throat (disorder)
+            Medications: 
+- Penicillin V Potassium 250 MG Oral Tablet
+            Observations: 
+- Body temperature: 38.3 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: wellness, from 2018-06-19T01:36:56Z to 2018-06-19T01:51:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 73.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 9.3 kg
+- Weight-for-length Per age and sex: 48.1 %
+- Head Occipital-frontal circumference Percentile: 97.2 %
+- Head Occipital-frontal circumference: 46.3 cm
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 133.0 mm[Hg]
+- Heart rate: 69.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- IPV
+- Influenza  seasonal  injectable  preservative free
+- DTaP
+- Pneumococcal conjugate PCV 13
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: outpatient, from 2018-07-18T01:36:56Z to 2018-07-18T01:51:56Z
+
+            Conditions: 
+- Otitis media (disorder)
+            Medications: 
+- Cefuroxime 250 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: wellness, from 2018-09-18T01:36:56Z to 2018-09-18T01:51:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 77.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 10.5 kg
+- Weight-for-length Per age and sex: 61.8 %
+- Head Occipital-frontal circumference Percentile: 97.2 %
+- Head Occipital-frontal circumference: 47.4 cm
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 138.0 mm[Hg]
+- Heart rate: 94.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: wellness, from 2018-12-18T01:36:56Z to 2018-12-18T01:51:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 81.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 11.4 kg
+- Weight-for-length Per age and sex: 61.7 %
+- Head Occipital-frontal circumference Percentile: 97.2 %
+- Head Occipital-frontal circumference: 48.3 cm
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 133.0 mm[Hg]
+- Heart rate: 99.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- varicella
+- MMR
+- Pneumococcal conjugate PCV 13
+- Hep A  ped/adol  2 dose
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: wellness, from 2019-03-19T01:36:56Z to 2019-03-19T01:51:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 85.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 12.2 kg
+- Weight-for-length Per age and sex: 66.5 %
+- Head Occipital-frontal circumference Percentile: 97.2 %
+- Head Occipital-frontal circumference: 48.9 cm
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 129.0 mm[Hg]
+- Heart rate: 88.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- DTaP
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: outpatient, from 2019-03-26T01:36:56Z to 2019-03-26T01:51:56Z
+
+            Conditions: 
+- Otitis media (disorder)
+            Medications: 
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: wellness, from 2019-09-17T01:36:56Z to 2019-09-17T01:51:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 91.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 13.4 kg
+- Weight-for-length Per age and sex: 59.6 %
+- Head Occipital-frontal circumference Percentile: 97.2 %
+- Head Occipital-frontal circumference: 50.0 cm
+- Diastolic Blood Pressure: 86.0 mm[Hg]
+- Systolic Blood Pressure: 131.0 mm[Hg]
+- Heart rate: 63.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: wellness, from 2020-03-17T01:36:56Z to 2020-03-17T01:51:56Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 95.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 14.6 kg
+- Weight-for-length Per age and sex: 58.9 %
+- Head Occipital-frontal circumference Percentile: 97.2 %
+- Head Occipital-frontal circumference: 50.8 cm
+- Body mass index (BMI) [Ratio]: 15.9 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 44.9 %
+- Diastolic Blood Pressure: 88.0 mm[Hg]
+- Systolic Blood Pressure: 134.0 mm[Hg]
+- Heart rate: 87.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Hep A  ped/adol  2 dose
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: wellness, from 2020-09-15T01:36:56Z to 2020-09-15T01:51:56Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 100.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 15.8 kg
+- Weight-for-length Per age and sex: 62.7 %
+- Head Occipital-frontal circumference Percentile: 97.2 %
+- Head Occipital-frontal circumference: 51.4 cm
+- Body mass index (BMI) [Ratio]: 15.8 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 51.2 %
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 129.0 mm[Hg]
+- Heart rate: 87.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: wellness, from 2021-03-16T01:36:56Z to 2021-03-16T01:51:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 104.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 17.3 kg
+- Weight-for-length Per age and sex: 63.1 %
+- Head Occipital-frontal circumference Percentile: 97.2 %
+- Head Occipital-frontal circumference: 51.5 cm
+- Body mass index (BMI) [Ratio]: 16.0 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 64.6 %
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 131.0 mm[Hg]
+- Heart rate: 67.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: wellness, from 2021-09-14T01:36:56Z to 2021-09-14T01:51:56Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 107.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 19.1 kg
+- Weight-for-length Per age and sex: 63.1 %
+- Head Occipital-frontal circumference Percentile: 97.2 %
+- Head Occipital-frontal circumference: 51.5 cm
+- Body mass index (BMI) [Ratio]: 16.4 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 79.1 %
+- Diastolic Blood Pressure: 90.0 mm[Hg]
+- Systolic Blood Pressure: 150.0 mm[Hg]
+- Heart rate: 65.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: wellness, from 2022-09-20T01:36:56Z to 2022-09-20T01:51:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 115.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 24.3 kg
+- Body mass index (BMI) [Ratio]: 18.3 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 95.1 %
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 128.0 mm[Hg]
+- Heart rate: 69.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- varicella
+- IPV
+- Influenza  seasonal  injectable  preservative free
+- DTaP
+- MMR
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: ambulatory, from 2022-11-30T06:36:56Z to 2022-11-30T06:51:56Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.5 Cel
+            Procedures: 
+- Throat culture (procedure): code 117015009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: wellness, from 2023-09-26T01:36:56Z to 2023-09-26T01:51:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 123.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 31.9 kg
+- Body mass index (BMI) [Ratio]: 21.0 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 98.4 %
+- Diastolic Blood Pressure: 88.0 mm[Hg]
+- Systolic Blood Pressure: 132.0 mm[Hg]
+- Heart rate: 95.0 /min
+- Respiratory rate: 14.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 6.3 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.3 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 16.3 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 40.2 %
+- MCV [Entitic volume] by Automated count: 93.5 fL
+- MCH [Entitic mass] by Automated count: 27.2 pg
+- MCHC [Mass/volume] by Automated count: 34.0 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 39.6 fL
+- Platelets [#/volume] in Blood by Automated count: 280.4 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 358.4 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.1 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: ambulatory, from 2023-10-03T01:36:56Z to 2023-10-03T07:33:52Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Belinda283 Harber290, Gender: F, DOB: 2017-10-10, SSN: 999-35-8205
+
+            Encounter: wellness, from 2024-10-01T01:36:56Z to 2024-10-01T01:51:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 130.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 39.8 kg
+- Body mass index (BMI) [Ratio]: 23.3 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 98.9 %
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 132.0 mm[Hg]
+- Heart rate: 76.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+            

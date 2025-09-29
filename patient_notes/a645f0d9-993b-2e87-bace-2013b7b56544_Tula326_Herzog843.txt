@@ -1,0 +1,583 @@
+Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22
+            ------------------------------------------------------------
+                        Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: ambulatory, from 2010-12-14T00:19:13Z to 2010-12-14T00:34:13Z
+
+            Conditions: 
+- Chronic sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: wellness, from 2016-05-19T10:19:13Z to 2016-05-19T10:34:13Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 129.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 30.0 kg
+- Body mass index (BMI) [Ratio]: 17.8 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 81.4 %
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 124.0 mm[Hg]
+- Heart rate: 90.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: wellness, from 2017-05-25T10:19:13Z to 2017-05-25T10:34:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 135.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 33.1 kg
+- Body mass index (BMI) [Ratio]: 18.0 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 75.9 %
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 126.0 mm[Hg]
+- Heart rate: 71.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: ambulatory, from 2018-04-18T11:19:13Z to 2018-04-18T11:34:13Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: wellness, from 2018-05-31T10:19:13Z to 2018-05-31T10:34:13Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 140.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 37.4 kg
+- Body mass index (BMI) [Ratio]: 18.9 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 76.8 %
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 126.0 mm[Hg]
+- Heart rate: 87.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: ambulatory, from 2018-06-07T10:19:13Z to 2018-06-07T13:50:24Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: wellness, from 2019-06-06T10:19:13Z to 2019-06-06T10:34:13Z
+
+            Conditions: 
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 147.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 42.1 kg
+- Body mass index (BMI) [Ratio]: 19.5 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 75.0 %
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 119.0 mm[Hg]
+- Heart rate: 83.0 /min
+- Respiratory rate: 13.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 3.6 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.1 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 16.5 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 47.5 %
+- MCV [Entitic volume] by Automated count: 92.7 fL
+- MCH [Entitic mass] by Automated count: 30.7 pg
+- MCHC [Mass/volume] by Automated count: 33.9 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 40.8 fL
+- Platelets [#/volume] in Blood by Automated count: 363.1 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 517.9 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.2 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Tdap
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+- meningococcal MCV4P
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: ambulatory, from 2019-06-13T10:19:13Z to 2019-06-13T13:37:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: wellness, from 2020-06-11T10:19:13Z to 2020-06-11T10:43:10Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 154.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 48.0 kg
+- Body mass index (BMI) [Ratio]: 20.2 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 74.2 %
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 119.0 mm[Hg]
+- Heart rate: 70.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: ambulatory, from 2020-06-25T10:19:13Z to 2020-06-25T12:49:32Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: emergency, from 2020-09-21T10:19:13Z to 2020-09-21T11:19:13Z
+
+            Conditions: 
+- Sprain (morphologic abnormality)
+- Sprain of ankle (disorder)
+            Medications: 
+- Naproxen sodium 220 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: ambulatory, from 2021-01-09T17:19:13Z to 2021-01-09T17:34:13Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.3 Cel
+            Procedures: 
+- Throat culture (procedure): code 117015009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: wellness, from 2021-06-17T10:19:13Z to 2021-06-17T10:34:13Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 160.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 57.6 kg
+- Body mass index (BMI) [Ratio]: 22.5 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 84.6 %
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 119.0 mm[Hg]
+- Heart rate: 62.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: outpatient, from 2021-10-14T10:19:13Z to 2021-10-14T10:34:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: outpatient, from 2021-11-11T10:19:13Z to 2021-11-11T10:34:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: wellness, from 2022-06-23T10:19:13Z to 2022-06-23T10:36:06Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 163.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 63.2 kg
+- Body mass index (BMI) [Ratio]: 23.8 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 86.5 %
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 120.0 mm[Hg]
+- Heart rate: 86.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 5.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+            Procedures: 
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: ambulatory, from 2022-07-07T10:19:13Z to 2022-07-07T13:31:39Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: outpatient, from 2023-05-17T10:19:13Z to 2023-05-17T10:34:13Z
+
+            Conditions: None
+            Medications: 
+- Camila 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: wellness, from 2023-06-29T10:19:13Z to 2023-06-29T10:45:41Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 164.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 68.4 kg
+- Body mass index (BMI) [Ratio]: 25.3 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 89.3 %
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 124.0 mm[Hg]
+- Heart rate: 65.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of anxiety (procedure): code 710841007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: ambulatory, from 2023-07-13T10:19:13Z to 2023-07-13T13:38:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: wellness, from 2024-07-04T10:19:13Z to 2024-07-04T10:45:50Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 165.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 62.7 kg
+- Body mass index (BMI) [Ratio]: 23.0 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 75.4 %
+- Diastolic Blood Pressure: 78.0 mm[Hg]
+- Systolic Blood Pressure: 120.0 mm[Hg]
+- Heart rate: 62.0 /min
+- Respiratory rate: 14.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 9.2 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.3 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.8 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 42.0 %
+- MCV [Entitic volume] by Automated count: 85.3 fL
+- MCH [Entitic mass] by Automated count: 28.8 pg
+- MCHC [Mass/volume] by Automated count: 33.7 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 44.2 fL
+- Platelets [#/volume] in Blood by Automated count: 367.4 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 350.8 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.2 fL
+- Tobacco smoking status: Smokes tobacco daily (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 4.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- meningococcal MCV4P
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: ambulatory, from 2024-07-18T10:19:13Z to 2024-07-18T13:16:56Z
+
+            Conditions: 
+- Primary dental caries (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Restoration of tooth with coverage of all cusps using dental filling material (procedure): code 1256042007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: emergency, from 2024-11-18T10:19:13Z to 2024-11-18T11:19:13Z
+
+            Conditions: 
+- Sprain (morphologic abnormality)
+- Sprain of ankle (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: wellness, from 2025-07-10T10:19:13Z to 2025-07-10T10:34:13Z
+
+            Conditions: 
+- Medication review due (situation)
+- Risk activity involvement (finding)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 165.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 58.1 kg
+- Body mass index (BMI) [Ratio]: 21.2 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 53.7 %
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 124.0 mm[Hg]
+- Heart rate: 69.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Ex-smoker (finding)
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 2.0 {score}
+            Procedures: 
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Health risks education (procedure): code 370995009
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: ambulatory, from 2025-07-24T10:19:13Z to 2025-07-24T14:09:20Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Tula326 Herzog843, Gender: F, DOB: 2008-05-22, SSN: 999-95-1665
+
+            Encounter: ambulatory, from 2025-09-12T19:19:13Z to 2025-09-12T19:34:13Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+            

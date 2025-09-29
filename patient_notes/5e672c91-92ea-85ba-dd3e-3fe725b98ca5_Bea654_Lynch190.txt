@@ -1,0 +1,983 @@
+Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01
+            ------------------------------------------------------------
+                        Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 1987-08-24T00:59:27Z to 1987-08-24T01:14:27Z
+
+            Conditions: None
+            Medications: 
+- Astemizole 10 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 1987-08-30T23:59:27Z to 1987-08-31T00:20:23Z
+
+            Conditions: None
+            Medications: 
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: wellness, from 2003-02-25T00:59:27Z to 2003-02-25T01:29:57Z
+
+            Conditions: 
+- Housing unsatisfactory (finding)
+- Educated to high school level (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: outpatient, from 2004-10-26T00:59:27Z to 2004-10-26T01:30:39Z
+
+            Conditions: 
+- Misuses drugs (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: wellness, from 2010-03-09T00:59:27Z to 2010-03-09T01:32:24Z
+
+            Conditions: 
+- Body mass index 30+ - obesity (finding)
+- Full-time employment (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: wellness, from 2013-03-12T00:59:27Z to 2013-03-12T01:46:51Z
+
+            Conditions: 
+- Stress (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: emergency, from 2015-09-26T01:49:11Z to 2015-09-26T03:22:11Z
+
+            Conditions: 
+- Fracture of bone (disorder)
+- Fracture of clavicle (disorder)
+            Medications: 
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: outpatient, from 2015-09-30T03:13:35Z to 2015-09-30T03:28:35Z
+
+            Conditions: None
+            Medications: 
+- Jolivette 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 2015-12-09T03:22:11Z to 2015-12-09T03:37:11Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: wellness, from 2016-03-15T00:59:27Z to 2016-03-15T01:52:29Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 165.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 76.5 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 130.0 mm[Hg]
+- Heart rate: 99.0 /min
+- Respiratory rate: 13.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 263.0 mg/dL
+- Triglycerides: 122.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 186.4 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 52.1 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 31783 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 256 Oberbrunner Fork Apt 14
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 3.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 6.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 2016-03-29T00:59:27Z to 2016-03-29T03:48:11Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: outpatient, from 2016-05-31T00:59:27Z to 2016-05-31T01:57:23Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Removal of intrauterine contraceptive device (procedure): code 1263416007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 2016-07-19T00:59:27Z to 2016-07-19T01:14:27Z
+
+            Conditions: 
+- Normal pregnancy (finding)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Standard pregnancy test (procedure): code 252160004
+- Ultrasound scan for fetal viability (procedure): code 169230002
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+- Blood group typing (procedure): code 44608003
+- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure): code 104091002
+- Hepatitis B surface antigen measurement (procedure): code 47758006
+- Human immunodeficiency virus antigen test (procedure): code 31676001
+- Chlamydia antigen test (procedure): code 310861008
+- Gonorrhea infection titer test (procedure): code 165829005
+- Syphilis infectious titer test (procedure): code 269828009
+- Urine culture (procedure): code 117010004
+- Cytopathology procedure  preparation of smear  genital source (procedure): code 90226004
+- Urine screening test for diabetes (procedure): code 395123002
+- Hepatitis C antibody  confirmatory test (procedure): code 104375008
+- Rubella screening test (procedure): code 314098000
+- Measurement of Varicella-zoster virus antibody (procedure): code 104326007
+- Skin test for tuberculosis  Tine test (procedure): code 28163009
+- Urinalysis  protein  qualitative (procedure): code 60218003
+- Physical examination procedure (procedure): code 5880005
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 2016-08-16T00:59:27Z to 2016-08-16T01:14:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+- Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure): code 443529005
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 2016-09-13T00:59:27Z to 2016-09-13T01:14:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Fetal anatomy study (procedure): code 271442007
+- Alpha-fetoprotein test - antenatal (procedure): code 275833003
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 2016-10-11T00:59:27Z to 2016-10-11T01:14:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 2016-11-08T00:59:27Z to 2016-11-08T01:14:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 2016-12-06T00:59:27Z to 2016-12-06T01:14:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Antenatal RhD antibody screening (procedure): code 169673001
+- Passive immunization (procedure): code 51116004
+- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure): code 104091002
+- Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure): code 399014008
+- Urine screening for glucose (procedure): code 268556000
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 2017-01-03T00:59:27Z to 2017-01-03T01:14:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 2017-01-31T00:59:27Z to 2017-01-31T01:14:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Streptococcus pneumoniae group B antigen assay (procedure): code 118001005
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 2017-02-14T00:59:27Z to 2017-02-14T01:14:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: emergency, from 2017-02-21T00:59:27Z to 2017-02-21T01:59:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Episiotomy (procedure): code 85548006
+- Human parturition  function (observable entity): code 386216000
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 2017-04-04T00:59:27Z to 2017-04-04T01:14:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Passive immunization (procedure): code 51116004
+- Physical examination procedure (procedure): code 5880005
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: outpatient, from 2017-04-11T00:59:27Z to 2017-04-11T01:14:27Z
+
+            Conditions: None
+            Medications: 
+- Liletta 52 MG Intrauterine System
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 2017-04-04T05:59:27Z to 2017-04-04T06:14:27Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: outpatient, from 2017-04-14T06:59:27Z to 2017-04-14T08:02:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Insertion of intrauterine contraceptive device (procedure): code 65200003
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: outpatient, from 2018-12-18T00:59:27Z to 2018-12-18T01:52:41Z
+
+            Conditions: 
+- Unemployed (finding)
+- Severe anxiety (panic) (finding)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 165.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 81.9 kg
+- Body mass index (BMI) [Ratio]: 30.1 kg/m2
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 127.0 mm[Hg]
+- Heart rate: 87.0 /min
+- Respiratory rate: 15.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 3.7 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.5 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 37.7 %
+- MCV [Entitic volume] by Automated count: 93.4 fL
+- MCH [Entitic mass] by Automated count: 28.2 pg
+- MCHC [Mass/volume] by Automated count: 33.6 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 39.5 fL
+- Platelets [#/volume] in Blood by Automated count: 163.8 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 322.3 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.6 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 31783 /a
+- Primary insurance: Private insurance
+- Employment status - current: Unemployed
+- Highest level of education: High school diploma or GED
+- Address: 256 Oberbrunner Fork Apt 14
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 3.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 19.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 2018-12-25T00:59:27Z to 2018-12-25T01:14:39Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Measurement of respiratory function (procedure): code 23426006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 2019-01-01T00:59:27Z to 2019-01-01T06:43:01Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: wellness, from 2019-03-19T00:59:27Z to 2019-03-19T01:36:03Z
+
+            Conditions: 
+- Medication review due (situation)
+- Stress (finding)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 165.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 82.4 kg
+- Body mass index (BMI) [Ratio]: 30.3 kg/m2
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 129.0 mm[Hg]
+- Heart rate: 84.0 /min
+- Respiratory rate: 13.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 273.1 mg/dL
+- Triglycerides: 143.3 mg/dL
+- Low Density Lipoprotein Cholesterol: 192.9 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 51.6 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 31783 /a
+- Primary insurance: Private insurance
+- Employment status - current: Unemployed
+- Highest level of education: High school diploma or GED
+- Address: 256 Oberbrunner Fork Apt 14
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 3.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 9.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 2019-04-02T00:59:27Z to 2019-04-02T04:12:05Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: outpatient, from 2019-04-16T00:59:27Z to 2019-04-16T01:38:01Z
+
+            Conditions: None
+            Medications: 
+- Etonogestrel 68 MG Drug Implant
+            Observations: None
+            Procedures: 
+- Insertion of subcutaneous contraceptive (procedure): code 169553002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: outpatient, from 2020-05-19T00:59:27Z to 2020-05-19T01:47:16Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 165.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 84.0 kg
+- Body mass index (BMI) [Ratio]: 30.9 kg/m2
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 126.0 mm[Hg]
+- Heart rate: 91.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 31783 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 256 Oberbrunner Fork Apt 14
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 3.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 5.0 {score}
+- Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 3.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 2020-05-26T00:59:27Z to 2020-05-26T01:14:27Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: emergency, from 2020-05-22T00:59:27Z to 2020-06-11T03:59:27Z
+
+            Conditions: 
+- Sepsis (disorder)
+- Acute respiratory distress syndrome (disorder)
+            Medications: 
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- 4 ML norepinephrine 1 MG/ML Injection
+            Observations: 
+- Gram positive blood culture panel by Probe in Positive blood culture: Positive (qualifier value)
+- Capillary refill [Time] of Nail bed: Increased capillary filling time (finding)
+- Oxygen saturation in Arterial blood: 93.0 %
+- Lactate [Moles/volume] in Blood: 3.1 mmol/L
+- Mean blood pressure: 90.6 mm[Hg]
+- Lactate [Moles/volume] in Blood: 2.7 mmol/L
+- Diastolic Blood Pressure: 67.0 mm[Hg]
+- Systolic Blood Pressure: 111.8 mm[Hg]
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 114.0 mm[Hg]
+            Procedures: 
+- Resuscitation using intravenous fluid (procedure): code 430701006
+- Transfer to stepdown unit (procedure): code 449214001
+- Admission to intensive care unit (procedure): code 305351004
+- Resuscitation using intravenous fluid (procedure): code 430701006
+- Artificial ventilation (regime/therapy): code 40617009
+- Weaning from mechanically assisted ventilation (regime/therapy): code 243174005
+- Transfer to stepdown unit (procedure): code 449214001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: ambulatory, from 2020-06-23T00:59:27Z to 2020-06-23T04:51:42Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: outpatient, from 2022-01-11T00:59:27Z to 2022-01-11T01:14:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: outpatient, from 2022-02-08T00:59:27Z to 2022-02-08T01:14:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: wellness, from 2022-03-22T00:59:27Z to 2022-03-22T01:32:19Z
+
+            Conditions: 
+- Limited social contact (finding)
+            Medications: None
+            Observations: 
+- Body Height: 165.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 84.0 kg
+- Body mass index (BMI) [Ratio]: 30.9 kg/m2
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 128.0 mm[Hg]
+- Heart rate: 79.0 /min
+- Respiratory rate: 12.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 289.1 mg/dL
+- Triglycerides: 121.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 220.0 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 44.9 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 31783 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 256 Oberbrunner Fork Apt 14
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 3.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: outpatient, from 2022-03-31T01:38:01Z to 2022-03-31T01:53:01Z
+
+            Conditions: None
+            Medications: 
+- Jolivette 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: outpatient, from 2022-04-19T00:59:27Z to 2022-04-19T02:09:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Replacement of contraceptive intrauterine device (procedure): code 46706006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: outpatient, from 2023-03-26T01:38:01Z to 2023-03-26T01:53:01Z
+
+            Conditions: None
+            Medications: 
+- Jolivette 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: outpatient, from 2024-03-20T01:38:01Z to 2024-03-20T01:53:01Z
+
+            Conditions: None
+            Medications: 
+- Camila 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: wellness, from 2025-01-07T00:59:27Z to 2025-01-07T01:50:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 165.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 84.0 kg
+- Body mass index (BMI) [Ratio]: 30.9 kg/m2
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 135.0 mm[Hg]
+- Heart rate: 87.0 /min
+- Respiratory rate: 12.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 7.3 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.0 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 16.5 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 36.6 %
+- MCV [Entitic volume] by Automated count: 84.3 fL
+- MCH [Entitic mass] by Automated count: 32.5 pg
+- MCHC [Mass/volume] by Automated count: 34.1 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 40.0 fL
+- Platelets [#/volume] in Blood by Automated count: 369.6 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 244.5 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.3 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Child care
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 31783 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 256 Oberbrunner Fork Apt 14
+- Are you worried about losing your housing?: Yes
+- Housing status: I have housing
+- How many people are living or staying at this address?: 3.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [AUDIT-C]: 0.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Hep A  adult
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: outpatient, from 2025-03-15T01:38:01Z to 2025-03-15T01:53:01Z
+
+            Conditions: None
+            Medications: 
+- Liletta 52 MG Intrauterine System
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Bea654 Lynch190, Gender: F, DOB: 1985-01-01, SSN: 999-45-5842
+
+            Encounter: outpatient, from 2025-03-18T00:38:01Z to 2025-03-18T01:44:32Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Insertion of intrauterine contraceptive device (procedure): code 65200003
+            Allergies: None
+            Immunization: None
+            
+            

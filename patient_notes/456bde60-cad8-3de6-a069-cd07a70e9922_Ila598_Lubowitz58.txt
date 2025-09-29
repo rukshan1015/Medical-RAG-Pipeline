@@ -1,0 +1,2386 @@
+Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05
+            ------------------------------------------------------------
+                        Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: wellness, from 1982-03-31T23:28:27Z to 1982-04-01T00:07:31Z
+
+            Conditions: 
+- Only received primary school education (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 1982-04-21T23:28:27Z to 1982-04-22T00:49:04Z
+
+            Conditions: 
+- Loss of teeth (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 1987-09-15T23:28:27Z to 1987-09-15T23:43:27Z
+
+            Conditions: 
+- Past pregnancy history of miscarriage (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 1992-06-30T02:16:15Z to 1992-06-30T02:31:15Z
+
+            Conditions: None
+            Medications: 
+- ferrous sulfate 325 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: wellness, from 2001-04-25T23:28:27Z to 2001-04-26T00:16:26Z
+
+            Conditions: 
+- Full-time employment (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: wellness, from 2004-02-11T23:28:27Z to 2004-02-12T00:26:09Z
+
+            Conditions: 
+- Prediabetes (finding)
+- Body mass index 30+ - obesity (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: wellness, from 2006-02-15T23:28:27Z to 2006-02-16T00:27:27Z
+
+            Conditions: 
+- Medication review due (situation)
+- Social isolation (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: wellness, from 2008-02-20T23:28:27Z to 2008-02-21T00:14:40Z
+
+            Conditions: 
+- Stress (finding)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.1 %
+- Body Height: 161.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 79.2 kg
+- Body mass index (BMI) [Ratio]: 30.5 kg/m2
+- Diastolic Blood Pressure: 77.0 mm[Hg]
+- Systolic Blood Pressure: 116.0 mm[Hg]
+- Heart rate: 75.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 70.2 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 12.4 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.9 mg/dL
+- Calcium [Mass/volume] in Blood: 9.2 mg/dL
+- Sodium [Moles/volume] in Blood: 137.7 mmol/L
+- Potassium [Moles/volume] in Blood: 4.0 mmol/L
+- Chloride [Moles/volume] in Blood: 109.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.2 mmol/L
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 100334 /a
+- Primary insurance: None/uninsured
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 431 Turner Branch Apt 33
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 5.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: outpatient, from 2009-09-23T02:24:56Z to 2009-09-23T02:39:56Z
+
+            Conditions: None
+            Medications: 
+- Yaz 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: wellness, from 2010-02-24T23:28:27Z to 2010-02-25T00:17:58Z
+
+            Conditions: 
+- Medication review due (situation)
+- Part-time employment (finding)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Body Height: 161.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 72.3 kg
+- Body mass index (BMI) [Ratio]: 27.8 kg/m2
+- Diastolic Blood Pressure: 75.0 mm[Hg]
+- Systolic Blood Pressure: 123.0 mm[Hg]
+- Heart rate: 99.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 90.7 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 15.2 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 8.9 mg/dL
+- Sodium [Moles/volume] in Blood: 141.8 mmol/L
+- Potassium [Moles/volume] in Blood: 4.3 mmol/L
+- Chloride [Moles/volume] in Blood: 109.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 22.3 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 146.3 mg/dL
+- Triglycerides: 115.5 mg/dL
+- Low Density Lipoprotein Cholesterol: 73.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 49.8 mg/dL
+- Leukocytes [#/volume] in Blood by Automated count: 10.3 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 35.8 %
+- MCV [Entitic volume] by Automated count: 81.9 fL
+- MCH [Entitic mass] by Automated count: 31.8 pg
+- MCHC [Mass/volume] by Automated count: 34.8 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 40.0 fL
+- Platelets [#/volume] in Blood by Automated count: 432.5 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 458.8 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.3 fL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 100334 /a
+- Primary insurance: None/uninsured
+- Employment status - current: Part-time or temporary work
+- Highest level of education: Less than high school degree
+- Address: 431 Turner Branch Apt 33
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 5.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2010-03-10T23:28:27Z to 2010-03-11T02:20:35Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: outpatient, from 2010-09-18T02:24:56Z to 2010-09-18T02:39:56Z
+
+            Conditions: None
+            Medications: 
+- Jolivette 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: outpatient, from 2011-09-13T02:24:56Z to 2011-09-13T02:39:56Z
+
+            Conditions: None
+            Medications: 
+- Errin 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: outpatient, from 2011-10-12T23:28:27Z to 2011-10-13T00:11:47Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Replacement of contraceptive intrauterine device (procedure): code 46706006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: wellness, from 2012-02-29T23:28:27Z to 2012-03-01T00:21:10Z
+
+            Conditions: 
+- Full-time employment (finding)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 161.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 72.3 kg
+- Body mass index (BMI) [Ratio]: 27.8 kg/m2
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 110.0 mm[Hg]
+- Heart rate: 86.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 66.4 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 18.7 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.4 mg/dL
+- Calcium [Mass/volume] in Blood: 9.3 mg/dL
+- Sodium [Moles/volume] in Blood: 136.8 mmol/L
+- Potassium [Moles/volume] in Blood: 4.9 mmol/L
+- Chloride [Moles/volume] in Blood: 102.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 23.0 mmol/L
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 100334 /a
+- Primary insurance: None/uninsured
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 431 Turner Branch Apt 33
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 5.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: outpatient, from 2013-05-01T23:28:27Z to 2013-05-02T00:27:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Removal of intrauterine contraceptive device (procedure): code 1263416007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2013-06-19T23:28:27Z to 2013-06-19T23:43:27Z
+
+            Conditions: 
+- Normal pregnancy (finding)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Standard pregnancy test (procedure): code 252160004
+- Ultrasound scan for fetal viability (procedure): code 169230002
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+- Blood group typing (procedure): code 44608003
+- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure): code 104091002
+- Hepatitis B surface antigen measurement (procedure): code 47758006
+- Human immunodeficiency virus antigen test (procedure): code 31676001
+- Chlamydia antigen test (procedure): code 310861008
+- Gonorrhea infection titer test (procedure): code 165829005
+- Syphilis infectious titer test (procedure): code 269828009
+- Urine culture (procedure): code 117010004
+- Cytopathology procedure  preparation of smear  genital source (procedure): code 90226004
+- Urine screening test for diabetes (procedure): code 395123002
+- Hepatitis C antibody  confirmatory test (procedure): code 104375008
+- Rubella screening test (procedure): code 314098000
+- Measurement of Varicella-zoster virus antibody (procedure): code 104326007
+- Skin test for tuberculosis  Tine test (procedure): code 28163009
+- Urinalysis  protein  qualitative (procedure): code 60218003
+- Physical examination procedure (procedure): code 5880005
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2013-07-17T23:28:27Z to 2013-07-17T23:43:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+- Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure): code 443529005
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2013-08-14T23:28:27Z to 2013-08-14T23:43:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Fetal anatomy study (procedure): code 271442007
+- Alpha-fetoprotein test - antenatal (procedure): code 275833003
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2013-09-11T23:28:27Z to 2013-09-11T23:43:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2013-10-09T23:28:27Z to 2013-10-09T23:43:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2013-11-06T23:28:27Z to 2013-11-06T23:43:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure): code 104091002
+- Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure): code 399014008
+- Urine screening for glucose (procedure): code 268556000
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2013-12-04T23:28:27Z to 2013-12-04T23:43:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2014-01-01T23:28:27Z to 2014-01-01T23:43:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Streptococcus pneumoniae group B antigen assay (procedure): code 118001005
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2014-01-15T23:28:27Z to 2014-01-15T23:43:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2014-01-22T23:28:27Z to 2014-01-22T23:43:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: emergency, from 2014-01-29T23:28:27Z to 2014-01-30T00:28:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Human parturition  function (observable entity): code 386216000
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: wellness, from 2014-02-05T23:28:27Z to 2014-02-06T00:03:56Z
+
+            Conditions: 
+- Medication review due (situation)
+- Limited social contact (finding)
+            Medications: None
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 161.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 72.3 kg
+- Body mass index (BMI) [Ratio]: 27.8 kg/m2
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 114.0 mm[Hg]
+- Heart rate: 75.0 /min
+- Respiratory rate: 14.0 /min
+- Glucose [Mass/volume] in Blood: 91.8 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 10.7 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.6 mg/dL
+- Sodium [Moles/volume] in Blood: 138.9 mmol/L
+- Potassium [Moles/volume] in Blood: 4.1 mmol/L
+- Chloride [Moles/volume] in Blood: 110.0 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 21.4 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 155.5 mg/dL
+- Triglycerides: 131.0 mg/dL
+- Low Density Lipoprotein Cholesterol: 78.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 50.8 mg/dL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 100334 /a
+- Primary insurance: Medicaid
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 431 Turner Branch Apt 33
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 5.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+            Allergies: None
+            Immunization: 
+- zoster vaccine  live
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: emergency, from 2014-02-12T23:28:27Z to 2014-02-13T00:28:27Z
+
+            Conditions: 
+- Concussion injury of brain (disorder)
+- Concussion with no loss of consciousness (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: outpatient, from 2014-02-12T23:28:27Z to 2014-02-12T23:43:27Z
+
+            Conditions: 
+- Chronic pain (finding)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+            Medications: None
+            Observations: 
+- What number best describes how pain has interfered with your general activity during the past week: 2.2 {score}
+- What number best describes how pain has interfered with your enjoyment of life during the past week: 9.6 {score}
+- Pain severity in the past week - 0-10 numeric rating [Reported]: 5.8 {score}
+- Drugs of abuse 5 panel - Urine by Screen method: Positive (qualifier value)
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2014-02-25T17:28:27Z to 2014-02-25T17:43:27Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.5 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2014-03-12T23:28:27Z to 2014-03-12T23:43:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Physical examination procedure (procedure): code 5880005
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2014-04-13T22:28:27Z to 2014-04-13T22:43:27Z
+
+            Conditions: None
+            Medications: 
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+            Observations: 
+- What number best describes how pain has interfered with your general activity during the past week: 4.6 {score}
+- What number best describes how pain has interfered with your enjoyment of life during the past week: 2.5 {score}
+- Pain severity in the past week - 0-10 numeric rating [Reported]: 6.3 {score}
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2014-05-06T23:28:27Z to 2014-05-06T23:43:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2014-06-18T10:27:15Z to 2014-06-18T11:53:16Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Take oral or dental impression (procedure): code 234745004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2014-06-12T22:28:27Z to 2014-06-12T22:43:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- What number best describes how pain has interfered with your general activity during the past week: 1.1 {score}
+- What number best describes how pain has interfered with your enjoyment of life during the past week: 6.1 {score}
+- Pain severity in the past week - 0-10 numeric rating [Reported]: 8.5 {score}
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2014-07-02T11:53:16Z to 2014-07-02T12:16:59Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Fitting of denture (procedure): code 1269321004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2014-09-06T14:28:27Z to 2014-09-06T14:43:27Z
+
+            Conditions: 
+- Streptococcal sore throat (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.7 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: wellness, from 2015-02-11T23:28:27Z to 2015-02-12T00:04:59Z
+
+            Conditions: 
+- Medication review due (situation)
+- Ischemic heart disease (disorder)
+- Stress (finding)
+- Gingivitis (disorder)
+            Medications: 
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- Body Height: 161.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 72.3 kg
+- Body mass index (BMI) [Ratio]: 27.8 kg/m2
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 125.0 mm[Hg]
+- Heart rate: 64.0 /min
+- Respiratory rate: 13.0 /min
+- Glucose [Mass/volume] in Blood: 86.3 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 9.8 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.2 mg/dL
+- Sodium [Moles/volume] in Blood: 138.0 mmol/L
+- Potassium [Moles/volume] in Blood: 4.4 mmol/L
+- Chloride [Moles/volume] in Blood: 109.1 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.4 mmol/L
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 100334 /a
+- Primary insurance: None/uninsured
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 431 Turner Branch Apt 33
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 5.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- zoster vaccine  live
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2015-02-18T23:28:27Z to 2015-02-19T00:27:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Priority Level: 2 {score}
+- Operative Status Value: urgent {score}
+            Procedures: 
+- Referral to cardiology service (procedure): code 183519002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2015-02-23T07:27:06Z to 2015-02-23T12:28:48Z
+
+            Conditions: 
+- Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Consultation for treatment (procedure): code 698314001
+- Angiography of coronary artery (procedure): code 33367005
+- Post anesthesia care management (procedure): code 736169004
+- Referral to cardiology service (procedure): code 183519002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2015-03-04T23:28:27Z to 2015-03-05T02:45:40Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2015-03-11T23:28:27Z to 2015-03-12T00:51:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Percutaneous coronary intervention (procedure): code 415070008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2015-05-06T23:28:27Z to 2015-05-07T00:52:28Z
+
+            Conditions: 
+- Chronic congestive heart failure (disorder)
+            Medications: None
+            Observations: 
+- Symptom: Dyspnea on exertion (finding)
+- Symptom: Dyspnea (finding)
+- Symptom: Paroxysmal dyspnea (finding)
+- Symptom: Orthopnea (finding)
+- Symptom: Edema (finding)
+- Symptom: Respiratory crackles (finding)
+- Body Weight: 72.3 kg
+- NT-proBNP: 1953.7 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 6.5 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.0 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 38.5 %
+- MCV [Entitic volume] by Automated count: 81.6 fL
+- MCH [Entitic mass] by Automated count: 32.8 pg
+- MCHC [Mass/volume] by Automated count: 32.9 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 12.6 %
+- Platelets [#/volume] in Blood by Automated count: 171.1 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 94.1 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 18.8 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 9.5 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 138.1 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 5.1 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 107.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 26.0 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 112.3 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.1 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.7 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 79.7 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 36.3 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 31.8 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.1 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 181.0 mg/dL
+- Triglycerides: 135.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 97.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 56.4 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.1 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 91.0 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 71.0 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 332.4 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 34.2 %
+- Functional capacity NYHA: Class II
+- Objective assessment of cardiovascular disease NYHA: Objective evidence of severe cardiovascular disease
+            Procedures: 
+- Electrocardiographic procedure (procedure): code 29303009
+- Cardiovascular stress testing (procedure): code 76746007
+- Plain X-ray of chest (procedure): code 399208008
+- Assessment using New York Heart Association Classification (procedure): code 762998009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2015-05-22T00:41:28Z to 2015-05-22T01:11:28Z
+
+            Conditions: None
+            Medications: 
+- Furosemide 40 MG Oral Tablet
+- carvedilol 25 MG Oral Tablet
+- losartan potassium 50 MG Oral Tablet
+            Observations: 
+- Left ventricular Ejection fraction: 38.7 %
+- Glucose [Mass/volume] in Blood: 72.5 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 13.1 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.4 mg/dL
+- Sodium [Moles/volume] in Blood: 139.5 mmol/L
+- Potassium [Moles/volume] in Blood: 3.8 mmol/L
+- Chloride [Moles/volume] in Blood: 103.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 22.7 mmol/L
+            Procedures: 
+- Echocardiography (procedure): code 40701008
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: emergency, from 2015-11-18T00:41:28Z to 2015-11-18T01:41:28Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Oxygen saturation in Arterial blood: 88.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 435.6 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 7.5 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.4 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.1 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 46.9 %
+- MCV [Entitic volume] by Automated count: 86.4 fL
+- MCH [Entitic mass] by Automated count: 30.7 pg
+- MCHC [Mass/volume] by Automated count: 32.6 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 15.2 %
+- Platelets [#/volume] in Blood by Automated count: 171.3 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 68.7 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 11.2 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 9.5 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 142.6 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.3 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 101.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 27.9 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 126.4 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.8 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.4 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 40.5 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 4.1 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 38.4 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.2 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 165.6 mg/dL
+- Triglycerides: 126.6 mg/dL
+- Low Density Lipoprotein Cholesterol: 83.2 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 57.1 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 91.0 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 153.7 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 370.2 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 27.7 %
+            Procedures: 
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Plain X-ray of chest (procedure): code 399208008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: inpatient, from 2015-11-18T00:41:28Z to 2015-11-23T01:30:54Z
+
+            Conditions: None
+            Medications: 
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+            Observations: 
+- Left ventricular Ejection fraction: 37.3 %
+- Oxygen saturation in Arterial blood: 88.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 658.6 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 4.9 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.4 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 43.4 %
+- MCV [Entitic volume] by Automated count: 87.7 fL
+- MCH [Entitic mass] by Automated count: 28.5 pg
+- MCHC [Mass/volume] by Automated count: 34.5 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.6 %
+- Platelets [#/volume] in Blood by Automated count: 323.8 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 68.7 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 11.2 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 9.5 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 142.6 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.3 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 101.4 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 27.9 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 126.4 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.9 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.4 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 91.7 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 16.6 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 7.8 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.9 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 165.6 mg/dL
+- Triglycerides: 126.6 mg/dL
+- Low Density Lipoprotein Cholesterol: 83.2 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 57.1 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 48.0 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 109.0 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 413.7 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 38.6 %
+- Oxygen saturation in Arterial blood: 79.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 499.5 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 9.0 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.1 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.1 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 41.3 %
+- MCV [Entitic volume] by Automated count: 80.9 fL
+- MCH [Entitic mass] by Automated count: 31.5 pg
+- MCHC [Mass/volume] by Automated count: 34.0 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 14.2 %
+- Platelets [#/volume] in Blood by Automated count: 375.9 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 79.8 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 10.9 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 10.1 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 138.5 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.5 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 103.9 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 21.9 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 129.4 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.3 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.5 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.6 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 100.7 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 27.9 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 30.9 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.3 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 139.3 mg/dL
+- Triglycerides: 129.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 60.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.0 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 120.5 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 129.9 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 290.5 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 45.0 %
+- Oxygen saturation in Arterial blood: 79.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 510.9 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 7.1 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.5 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 16.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 37.5 %
+- MCV [Entitic volume] by Automated count: 96.3 fL
+- MCH [Entitic mass] by Automated count: 29.3 pg
+- MCHC [Mass/volume] by Automated count: 35.1 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 14.5 %
+- Platelets [#/volume] in Blood by Automated count: 371.5 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 79.8 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 10.9 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 10.1 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 138.5 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.5 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 103.9 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 21.9 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 129.4 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.5 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.3 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 116.8 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 4.2 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 1.2 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.0 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 139.3 mg/dL
+- Triglycerides: 129.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 60.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.0 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 47.7 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 76.7 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 431.6 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 45.9 %
+- Oxygen saturation in Arterial blood: 79.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 328.2 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 5.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.6 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.5 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 37.2 %
+- MCV [Entitic volume] by Automated count: 79.3 fL
+- MCH [Entitic mass] by Automated count: 31.9 pg
+- MCHC [Mass/volume] by Automated count: 34.5 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 14.3 %
+- Platelets [#/volume] in Blood by Automated count: 159.4 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 79.8 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 10.9 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 10.1 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 138.5 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.5 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 103.9 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 21.9 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 129.4 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.6 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.2 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.3 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 77.5 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 0.3 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 13.8 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.8 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 139.3 mg/dL
+- Triglycerides: 129.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 60.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.0 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 41.8 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 121.2 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 388.2 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 42.8 %
+- Oxygen saturation in Arterial blood: 79.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 1253.1 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 10.0 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.6 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.4 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 41.3 %
+- MCV [Entitic volume] by Automated count: 85.1 fL
+- MCH [Entitic mass] by Automated count: 30.5 pg
+- MCHC [Mass/volume] by Automated count: 34.3 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.7 %
+- Platelets [#/volume] in Blood by Automated count: 252.4 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 79.8 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 10.9 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 10.1 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 138.5 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.5 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 103.9 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 21.9 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 129.4 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 8.3 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.8 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.9 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 103.3 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 20.9 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 8.4 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.7 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 139.3 mg/dL
+- Triglycerides: 129.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 60.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.0 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 92.2 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 162.5 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 293.7 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 33.3 %
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Electrocardiographic procedure (procedure): code 29303009
+- Echocardiography (procedure): code 40701008
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Heart failure education (procedure): code 423475008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: wellness, from 2016-02-17T23:28:27Z to 2016-02-18T00:16:55Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: 
+- carvedilol 25 MG Oral Tablet
+- Furosemide 40 MG Oral Tablet
+- losartan potassium 50 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Body Height: 161.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 72.3 kg
+- Body mass index (BMI) [Ratio]: 27.8 kg/m2
+- Diastolic Blood Pressure: 50.0 mm[Hg]
+- Systolic Blood Pressure: 64.0 mm[Hg]
+- Heart rate: 65.0 /min
+- Respiratory rate: 12.0 /min
+- Glucose [Mass/volume] in Blood: 92.2 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 7.8 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.0 mg/dL
+- Sodium [Moles/volume] in Blood: 138.8 mmol/L
+- Potassium [Moles/volume] in Blood: 3.7 mmol/L
+- Chloride [Moles/volume] in Blood: 104.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 28.2 mmol/L
+- Leukocytes [#/volume] in Blood by Automated count: 6.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.4 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 47.3 %
+- MCV [Entitic volume] by Automated count: 91.3 fL
+- MCH [Entitic mass] by Automated count: 27.8 pg
+- MCHC [Mass/volume] by Automated count: 35.8 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 40.5 fL
+- Platelets [#/volume] in Blood by Automated count: 400.4 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 466.3 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.3 fL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 100334 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 431 Turner Branch Apt 33
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 5.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2016-03-02T23:28:27Z to 2016-03-03T07:05:17Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2016-05-21T01:30:54Z to 2016-05-21T02:00:54Z
+
+            Conditions: None
+            Medications: 
+- lisinopril 20 MG Oral Tablet
+            Observations: 
+- Left ventricular Ejection fraction: 36.9 %
+- Glucose [Mass/volume] in Blood: 92.6 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 10.6 mg/dL
+- Creatinine [Mass/volume] in Blood: 1.0 mg/dL
+- Calcium [Mass/volume] in Blood: 10.1 mg/dL
+- Sodium [Moles/volume] in Blood: 141.5 mmol/L
+- Potassium [Moles/volume] in Blood: 3.8 mmol/L
+- Chloride [Moles/volume] in Blood: 102.7 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 20.6 mmol/L
+            Procedures: 
+- Echocardiography (procedure): code 40701008
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2016-11-17T01:30:54Z to 2016-11-17T02:00:54Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Left ventricular Ejection fraction: 37.2 %
+- Glucose [Mass/volume] in Blood: 86.6 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 17.6 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.8 mg/dL
+- Calcium [Mass/volume] in Blood: 9.6 mg/dL
+- Sodium [Moles/volume] in Blood: 138.6 mmol/L
+- Potassium [Moles/volume] in Blood: 3.7 mmol/L
+- Chloride [Moles/volume] in Blood: 109.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 27.8 mmol/L
+            Procedures: 
+- Echocardiography (procedure): code 40701008
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: wellness, from 2017-02-22T23:28:27Z to 2017-02-23T00:06:22Z
+
+            Conditions: 
+- Medication review due (situation)
+- Social isolation (finding)
+- Stress (finding)
+            Medications: 
+- carvedilol 25 MG Oral Tablet
+- Furosemide 40 MG Oral Tablet
+- losartan potassium 50 MG Oral Tablet
+- lisinopril 20 MG Oral Tablet
+            Observations: 
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %
+- Body Height: 161.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 72.3 kg
+- Body mass index (BMI) [Ratio]: 27.8 kg/m2
+- Diastolic Blood Pressure: 52.0 mm[Hg]
+- Systolic Blood Pressure: 80.0 mm[Hg]
+- Heart rate: 79.0 /min
+- Respiratory rate: 12.0 /min
+- Glucose [Mass/volume] in Blood: 80.5 mg/dL
+- Urea nitrogen [Mass/volume] in Blood: 14.5 mg/dL
+- Creatinine [Mass/volume] in Blood: 0.7 mg/dL
+- Calcium [Mass/volume] in Blood: 9.7 mg/dL
+- Sodium [Moles/volume] in Blood: 141.9 mmol/L
+- Potassium [Moles/volume] in Blood: 5.0 mmol/L
+- Chloride [Moles/volume] in Blood: 108.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Blood: 24.1 mmol/L
+- Cholesterol [Mass/volume] in Serum or Plasma: 158.6 mg/dL
+- Triglycerides: 148.9 mg/dL
+- Low Density Lipoprotein Cholesterol: 74.4 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.4 mg/dL
+- Tobacco smoking status: Ex-smoker (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Other
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 100334 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: Less than high school degree
+- Address: 431 Turner Branch Apt 33
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 5.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2017-03-08T23:28:27Z to 2017-03-09T02:48:05Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: emergency, from 2017-05-16T01:30:54Z to 2017-05-16T02:30:54Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Oxygen saturation in Arterial blood: 78.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 508.1 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 4.2 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.6 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.8 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 46.9 %
+- MCV [Entitic volume] by Automated count: 88.7 fL
+- MCH [Entitic mass] by Automated count: 27.3 pg
+- MCHC [Mass/volume] by Automated count: 31.6 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 14.1 %
+- Platelets [#/volume] in Blood by Automated count: 340.3 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 84.2 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 19.9 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 0.7 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.8 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 140.8 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 5.0 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 109.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 21.8 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 101.1 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.3 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.5 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.3 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 56.7 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 31.4 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 32.1 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.0 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 204.1 mg/dL
+- Triglycerides: 148.4 mg/dL
+- Low Density Lipoprotein Cholesterol: 125.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 49.1 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 149.8 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 63.6 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 283.5 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 48.6 %
+            Procedures: 
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Plain X-ray of chest (procedure): code 399208008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: inpatient, from 2017-05-16T01:30:54Z to 2017-05-26T02:19:03Z
+
+            Conditions: None
+            Medications: 
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+            Observations: 
+- Oxygen saturation in Arterial blood: 78.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 995.6 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 7.2 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.6 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.4 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 45.4 %
+- MCV [Entitic volume] by Automated count: 88.3 fL
+- MCH [Entitic mass] by Automated count: 28.8 pg
+- MCHC [Mass/volume] by Automated count: 34.1 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.6 %
+- Platelets [#/volume] in Blood by Automated count: 328.7 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 84.2 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 19.9 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 0.7 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.8 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 140.8 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 5.0 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 109.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 21.8 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 101.1 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.7 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.7 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.7 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 77.6 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 28.1 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 23.8 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.6 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 204.1 mg/dL
+- Triglycerides: 148.4 mg/dL
+- Low Density Lipoprotein Cholesterol: 125.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 49.1 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 98.5 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 164.1 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 336.9 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 27.7 %
+- Oxygen saturation in Arterial blood: 78.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 456.1 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 9.3 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.5 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.0 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 36.9 %
+- MCV [Entitic volume] by Automated count: 87.2 fL
+- MCH [Entitic mass] by Automated count: 28.9 pg
+- MCHC [Mass/volume] by Automated count: 33.2 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.1 %
+- Platelets [#/volume] in Blood by Automated count: 156.3 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 84.2 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 19.9 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 0.7 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.8 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 140.8 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 5.0 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 109.6 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 21.8 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 101.1 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 8.0 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 5.0 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 96.0 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 26.4 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 9.3 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.9 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 204.1 mg/dL
+- Triglycerides: 148.4 mg/dL
+- Low Density Lipoprotein Cholesterol: 125.3 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 49.1 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 45.1 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 139.4 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 419.2 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 31.6 %
+- Oxygen saturation in Arterial blood: 81.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 1533.8 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 9.7 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.7 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 36.3 %
+- MCV [Entitic volume] by Automated count: 87.4 fL
+- MCH [Entitic mass] by Automated count: 31.5 pg
+- MCHC [Mass/volume] by Automated count: 32.6 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 14.8 %
+- Platelets [#/volume] in Blood by Automated count: 326.5 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 88.0 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 8.5 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 0.7 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.6 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 142.2 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.7 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 103.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 27.8 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 124.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.2 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.9 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.7 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 45.4 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 17.1 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 10.0 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.9 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 156.6 mg/dL
+- Triglycerides: 117.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 78.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.9 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 35.5 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 133.6 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 305.1 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 49.3 %
+- Oxygen saturation in Arterial blood: 81.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 1204.9 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 6.1 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 43.9 %
+- MCV [Entitic volume] by Automated count: 89.7 fL
+- MCH [Entitic mass] by Automated count: 28.9 pg
+- MCHC [Mass/volume] by Automated count: 31.8 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 12.9 %
+- Platelets [#/volume] in Blood by Automated count: 319.2 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 88.0 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 8.5 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 0.7 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.6 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 142.2 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.7 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 103.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 27.8 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 124.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.3 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.5 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.5 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 50.6 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 21.1 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 8.7 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.7 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 156.6 mg/dL
+- Triglycerides: 117.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 78.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.9 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 66.7 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 145.5 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 386.0 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 18.7 %
+- Oxygen saturation in Arterial blood: 81.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 418.5 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 8.3 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.6 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 14.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 47.6 %
+- MCV [Entitic volume] by Automated count: 85.0 fL
+- MCH [Entitic mass] by Automated count: 30.4 pg
+- MCHC [Mass/volume] by Automated count: 34.2 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.4 %
+- Platelets [#/volume] in Blood by Automated count: 411.7 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 88.0 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 8.5 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 0.7 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.6 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 142.2 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.7 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 103.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 27.8 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 124.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 8.3 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.3 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 48.7 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 0.5 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 35.5 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.1 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 156.6 mg/dL
+- Triglycerides: 117.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 78.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.9 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 130.9 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 60.5 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 258.4 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 30.0 %
+- Oxygen saturation in Arterial blood: 81.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 689.4 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 7.1 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.4 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.2 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 41.4 %
+- MCV [Entitic volume] by Automated count: 95.7 fL
+- MCH [Entitic mass] by Automated count: 32.3 pg
+- MCHC [Mass/volume] by Automated count: 32.4 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 14.3 %
+- Platelets [#/volume] in Blood by Automated count: 278.8 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 88.0 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 8.5 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 0.7 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.6 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 142.2 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.7 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 103.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 27.8 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 124.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.0 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.6 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.0 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 114.1 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 28.7 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 16.2 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.1 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 156.6 mg/dL
+- Triglycerides: 117.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 78.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.9 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 93.3 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 45.0 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 270.2 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 30.9 %
+- Oxygen saturation in Arterial blood: 81.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 1088.5 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 3.5 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 11.1 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 44.4 %
+- MCV [Entitic volume] by Automated count: 95.8 fL
+- MCH [Entitic mass] by Automated count: 27.8 pg
+- MCHC [Mass/volume] by Automated count: 34.6 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 15.0 %
+- Platelets [#/volume] in Blood by Automated count: 338.7 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 88.0 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 8.5 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 0.7 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.6 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 142.2 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.7 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 103.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 27.8 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 124.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 8.0 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.0 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.4 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 106.3 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 9.2 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 12.9 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.7 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 156.6 mg/dL
+- Triglycerides: 117.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 78.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.9 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 134.0 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 127.3 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 399.1 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 49.2 %
+- Oxygen saturation in Arterial blood: 81.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 1376.6 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 4.4 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.1 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 16.2 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 36.9 %
+- MCV [Entitic volume] by Automated count: 96.9 fL
+- MCH [Entitic mass] by Automated count: 29.8 pg
+- MCHC [Mass/volume] by Automated count: 34.4 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.9 %
+- Platelets [#/volume] in Blood by Automated count: 208.7 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 88.0 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 8.5 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 0.7 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.6 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 142.2 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.7 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 103.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 27.8 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 124.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.2 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.9 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 70.8 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 37.8 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 6.8 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.7 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 156.6 mg/dL
+- Triglycerides: 117.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 78.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.9 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 100.9 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 151.8 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 434.3 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 22.6 %
+- Oxygen saturation in Arterial blood: 81.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 440.1 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 7.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.6 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.3 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 49.7 %
+- MCV [Entitic volume] by Automated count: 84.8 fL
+- MCH [Entitic mass] by Automated count: 31.6 pg
+- MCHC [Mass/volume] by Automated count: 31.7 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.9 %
+- Platelets [#/volume] in Blood by Automated count: 408.7 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 88.0 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 8.5 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 0.7 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 8.6 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 142.2 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.7 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 103.8 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 27.8 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 124.2 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.4 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.9 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 50.5 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 42.2 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 11.5 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.3 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 156.6 mg/dL
+- Triglycerides: 117.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 78.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.9 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 53.2 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 132.9 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 412.1 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 37.7 %
+- Oxygen saturation in Arterial blood: 81.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 1989.7 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 10.4 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 3.9 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 47.7 %
+- MCV [Entitic volume] by Automated count: 87.4 fL
+- MCH [Entitic mass] by Automated count: 27.8 pg
+- MCHC [Mass/volume] by Automated count: 32.8 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 12.9 %
+- Platelets [#/volume] in Blood by Automated count: 161.5 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 88.3 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 7.6 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.0 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 10.2 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 143.7 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.9 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 104.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 23.6 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 77.1 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.7 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.1 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.6 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 72.5 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 39.4 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 11.7 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.2 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 188.5 mg/dL
+- Triglycerides: 122.9 mg/dL
+- Low Density Lipoprotein Cholesterol: 101.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 62.8 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 103.8 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 122.1 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 446.8 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 42.9 %
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Electrocardiographic procedure (procedure): code 29303009
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Heart failure education (procedure): code 423475008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2017-05-27T02:19:03Z to 2017-05-27T02:34:03Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 55.0 mm[Hg]
+- Systolic Blood Pressure: 83.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2017-05-28T02:19:03Z to 2017-05-28T02:34:03Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 59.0 mm[Hg]
+- Systolic Blood Pressure: 88.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: emergency, from 2017-05-30T02:19:03Z to 2017-05-30T03:19:03Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Oxygen saturation in Arterial blood: 81.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 1336.0 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 3.6 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.3 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 17.2 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 42.3 %
+- MCV [Entitic volume] by Automated count: 82.7 fL
+- MCH [Entitic mass] by Automated count: 30.6 pg
+- MCHC [Mass/volume] by Automated count: 34.2 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.9 %
+- Platelets [#/volume] in Blood by Automated count: 328.9 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 88.3 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 7.6 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.0 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 10.2 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 143.7 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.9 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 104.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 23.6 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 77.1 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 8.0 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.7 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 98.7 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 16.6 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 2.3 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.1 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 188.5 mg/dL
+- Triglycerides: 122.9 mg/dL
+- Low Density Lipoprotein Cholesterol: 101.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 62.8 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 119.0 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 36.2 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 402.8 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 46.0 %
+            Procedures: 
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Plain X-ray of chest (procedure): code 399208008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: inpatient, from 2017-05-30T02:19:03Z to 2017-06-04T03:23:54Z
+
+            Conditions: None
+            Medications: 
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+- 10 ML Furosemide 10 MG/ML Injection
+            Observations: 
+- Oxygen saturation in Arterial blood: 81.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 569.3 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 4.3 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 49.1 %
+- MCV [Entitic volume] by Automated count: 88.2 fL
+- MCH [Entitic mass] by Automated count: 30.3 pg
+- MCHC [Mass/volume] by Automated count: 33.2 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 12.7 %
+- Platelets [#/volume] in Blood by Automated count: 438.8 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 88.3 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 7.6 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.0 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 10.2 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 143.7 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.9 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 104.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 23.6 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 77.1 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 8.5 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.1 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 41.2 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 9.3 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 38.6 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.7 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 188.5 mg/dL
+- Triglycerides: 122.9 mg/dL
+- Low Density Lipoprotein Cholesterol: 101.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 62.8 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 30.7 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 122.7 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 390.6 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 37.1 %
+- Oxygen saturation in Arterial blood: 81.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 1418.7 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 5.2 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.5 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 48.0 %
+- MCV [Entitic volume] by Automated count: 95.3 fL
+- MCH [Entitic mass] by Automated count: 28.1 pg
+- MCHC [Mass/volume] by Automated count: 33.5 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 13.7 %
+- Platelets [#/volume] in Blood by Automated count: 204.0 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 88.3 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 7.6 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.0 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 10.2 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 143.7 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.9 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 104.3 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 23.6 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 77.1 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.7 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.2 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.7 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 47.1 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 3.2 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 10.7 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.6 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 188.5 mg/dL
+- Triglycerides: 122.9 mg/dL
+- Low Density Lipoprotein Cholesterol: 101.1 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 62.8 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 46.9 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 112.6 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 379.9 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 31.3 %
+- Oxygen saturation in Arterial blood: 86.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 1432.1 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 9.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.0 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 44.3 %
+- MCV [Entitic volume] by Automated count: 88.6 fL
+- MCH [Entitic mass] by Automated count: 29.6 pg
+- MCHC [Mass/volume] by Automated count: 34.5 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 14.2 %
+- Platelets [#/volume] in Blood by Automated count: 316.6 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 98.8 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 13.8 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.3 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 9.1 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 141.5 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.9 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 109.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 21.9 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 58.5 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 7.2 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.1 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.3 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 94.8 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 21.6 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 23.4 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 2.3 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 125.1 mg/dL
+- Triglycerides: 135.1 mg/dL
+- Low Density Lipoprotein Cholesterol: 43.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.4 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 64.9 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 42.8 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 425.6 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 43.0 %
+- Oxygen saturation in Arterial blood: 86.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 668.2 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 4.8 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.5 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 11.7 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 43.9 %
+- MCV [Entitic volume] by Automated count: 83.1 fL
+- MCH [Entitic mass] by Automated count: 29.6 pg
+- MCHC [Mass/volume] by Automated count: 35.5 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 14.3 %
+- Platelets [#/volume] in Blood by Automated count: 261.6 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 98.8 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 13.8 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.3 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 9.1 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 141.5 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.9 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 109.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 21.9 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 58.5 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.2 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.3 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.2 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 42.3 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 43.2 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 5.8 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.8 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 125.1 mg/dL
+- Triglycerides: 135.1 mg/dL
+- Low Density Lipoprotein Cholesterol: 43.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.4 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 75.9 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 127.3 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 321.9 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 43.9 %
+- Oxygen saturation in Arterial blood: 86.0 %
+- Body Weight: 72.3 kg
+- NT-proBNP: 1798.8 pg/mL
+- Leukocytes [#/volume] in Blood by Automated count: 10.1 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.4 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 11.3 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 45.5 %
+- MCV [Entitic volume] by Automated count: 96.5 fL
+- MCH [Entitic mass] by Automated count: 32.6 pg
+- MCHC [Mass/volume] by Automated count: 34.6 g/dL
+- Erythrocyte distribution width [Ratio] by Automated count: 14.5 %
+- Platelets [#/volume] in Blood by Automated count: 174.7 10*3/uL
+- Glucose [Mass/volume] in Serum or Plasma: 98.8 mg/dL
+- Urea nitrogen [Mass/volume] in Serum or Plasma: 13.8 mg/dL
+- Creatinine [Mass/volume] in Serum or Plasma: 1.3 mg/dL
+- Calcium [Mass/volume] in Serum or Plasma: 9.1 mg/dL
+- Sodium [Moles/volume] in Serum or Plasma: 141.5 mmol/L
+- Potassium [Moles/volume] in Serum or Plasma: 4.9 mmol/L
+- Chloride [Moles/volume] in Serum or Plasma: 109.2 mmol/L
+- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 21.9 mmol/L
+- Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD): 58.5 mL/min
+- Protein [Mass/volume] in Serum or Plasma: 6.0 g/dL
+- Albumin [Mass/volume] in Serum or Plasma: 4.0 g/dL
+- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.7 mg/dL
+- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 44.9 U/L
+- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 42.0 U/L
+- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 16.5 U/L
+- Magnesium [Mass/volume] in Serum or Plasma: 1.8 mg/dL
+- Cholesterol [Mass/volume] in Serum or Plasma: 125.1 mg/dL
+- Triglycerides: 135.1 mg/dL
+- Low Density Lipoprotein Cholesterol: 43.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.4 mg/dL
+- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %
+- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL
+- Ferritin [Mass/volume] in Serum or Plasma: 89.7 ug/L
+- Iron [Mass/volume] in Serum or Plasma: 118.4 ug/dL
+- Iron binding capacity [Mass/volume] in Serum or Plasma: 320.9 ug/dL
+- Iron saturation [Mass Fraction] in Serum or Plasma: 45.7 %
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Electrocardiographic procedure (procedure): code 29303009
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Oxygen administration by mask (procedure): code 371908008
+- Placing subject in prone position (procedure): code 431182000
+- Heart failure education (procedure): code 423475008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2017-06-05T03:23:54Z to 2017-06-05T03:38:54Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 57.0 mm[Hg]
+- Systolic Blood Pressure: 84.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2017-06-06T03:23:54Z to 2017-06-06T03:38:54Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 55.0 mm[Hg]
+- Systolic Blood Pressure: 83.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2017-06-07T03:23:54Z to 2017-06-07T03:38:54Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 55.0 mm[Hg]
+- Systolic Blood Pressure: 97.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: ambulatory, from 2017-06-08T03:23:54Z to 2017-06-08T03:38:54Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Diastolic Blood Pressure: 56.0 mm[Hg]
+- Systolic Blood Pressure: 96.0 mm[Hg]
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: hospice, from 2017-06-14T23:28:27Z to 2017-06-17T15:23:54Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Certification procedure (procedure): code 310417005
+- Notifications (procedure): code 185087000
+- Initial patient assessment (procedure): code 315639002
+- Development of individualized plan of care (procedure): code 370789001
+- Hospice care (regime/therapy): code 385763009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Ila598 Lubowitz58, Gender: F, DOB: 1964-02-05, SSN: 999-11-1393
+
+            Encounter: wellness, from 2017-06-21T23:28:27Z to 2017-06-21T23:43:27Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Cause of Death [US Standard Certificate of Death]: Chronic congestive heart failure (disorder)
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+            

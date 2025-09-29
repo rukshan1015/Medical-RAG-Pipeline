@@ -1,0 +1,1019 @@
+Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19
+            ------------------------------------------------------------
+                        Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: ambulatory, from 1988-07-09T06:13:42Z to 1988-07-09T06:28:42Z
+
+            Conditions: 
+- Atopic dermatitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: ambulatory, from 1988-08-01T02:13:42Z to 1988-08-01T02:34:22Z
+
+            Conditions: None
+            Medications: 
+- Chlorpheniramine Maleate 2 MG/ML Oral Solution
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: wellness, from 2006-03-14T06:13:42Z to 2006-03-14T07:12:22Z
+
+            Conditions: 
+- Received higher education (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: wellness, from 2007-03-20T06:13:42Z to 2007-03-20T06:56:12Z
+
+            Conditions: 
+- Stress (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: outpatient, from 2014-02-06T06:13:42Z to 2014-02-06T06:28:42Z
+
+            Conditions: 
+- Chronic pain (finding)
+- Chronic neck pain (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: wellness, from 2014-04-01T06:13:42Z to 2014-04-01T06:50:15Z
+
+            Conditions: 
+- Limited social contact (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: ambulatory, from 2014-04-08T06:13:42Z to 2014-04-08T06:28:42Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: wellness, from 2015-04-07T06:13:42Z to 2015-04-07T06:49:03Z
+
+            Conditions: 
+- Not in labor force (finding)
+- Social isolation (finding)
+            Medications: 
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: wellness, from 2016-04-12T06:13:42Z to 2016-04-12T06:53:16Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+            Observations: 
+- Body Height: 193.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 100.3 kg
+- Body mass index (BMI) [Ratio]: 26.9 kg/m2
+- Diastolic Blood Pressure: 92.0 mm[Hg]
+- Systolic Blood Pressure: 116.0 mm[Hg]
+- Heart rate: 92.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 465836 /a
+- Primary insurance: Medicare
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: More than high school
+- Address: 116 Bechtelar Rapid Unit 37
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: ambulatory, from 2016-04-26T06:13:42Z to 2016-04-26T08:47:21Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: wellness, from 2017-04-18T06:13:42Z to 2017-04-18T07:05:03Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: 
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+            Observations: 
+- Body Height: 193.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 101.7 kg
+- Body mass index (BMI) [Ratio]: 27.2 kg/m2
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 118.0 mm[Hg]
+- Heart rate: 89.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 465836 /a
+- Primary insurance: Medicare
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: More than high school
+- Address: 116 Bechtelar Rapid Unit 37
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: ambulatory, from 2017-05-02T06:13:42Z to 2017-05-02T10:05:23Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: wellness, from 2018-04-24T06:13:42Z to 2018-04-24T07:08:27Z
+
+            Conditions: 
+- Medication review due (situation)
+- Full-time employment (finding)
+            Medications: 
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+            Observations: 
+- Body Height: 193.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 103.6 kg
+- Body mass index (BMI) [Ratio]: 27.7 kg/m2
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 115.0 mm[Hg]
+- Heart rate: 98.0 /min
+- Respiratory rate: 15.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 128.8 mg/dL
+- Triglycerides: 109.7 mg/dL
+- Low Density Lipoprotein Cholesterol: 54.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 52.2 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 465836 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 116 Bechtelar Rapid Unit 37
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Fall risk total [Morse Fall Scale]: 106.0 {#}
+- Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+)
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Assessment using Morse Fall Scale (procedure): code 762993000
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: emergency, from 2018-04-27T08:15:39Z to 2018-04-27T09:15:39Z
+
+            Conditions: 
+- Fracture of bone (disorder)
+- Fracture subluxation of wrist (disorder)
+            Medications: 
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Plain X-ray of wrist region (procedure): code 713024005
+- Bone immobilization (procedure): code 274474001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: ambulatory, from 2018-06-08T08:38:36Z to 2018-06-08T08:53:36Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: ambulatory, from 2018-08-02T04:13:42Z to 2018-08-02T04:28:42Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: 
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: ambulatory, from 2019-01-23T14:13:42Z to 2019-01-23T14:28:42Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.4 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: ambulatory, from 2019-02-09T06:13:42Z to 2019-02-09T06:28:42Z
+
+            Conditions: 
+- Inflammatory disorder due to increased blood urate level (disorder)
+            Medications: 
+- Naproxen 500 MG Oral Tablet
+- Allopurinol 100 MG Oral Tablet
+            Observations: 
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 5.0 {score}
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: wellness, from 2019-04-30T06:13:42Z to 2019-04-30T06:52:08Z
+
+            Conditions: None
+            Medications: 
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+            Observations: 
+- Body Height: 193.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 105.1 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Diastolic Blood Pressure: 82.0 mm[Hg]
+- Systolic Blood Pressure: 113.0 mm[Hg]
+- Heart rate: 85.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 465836 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 116 Bechtelar Rapid Unit 37
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: wellness, from 2020-05-05T06:13:42Z to 2020-05-05T07:07:31Z
+
+            Conditions: None
+            Medications: 
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+            Observations: 
+- Body Height: 193.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 106.7 kg
+- Body mass index (BMI) [Ratio]: 28.6 kg/m2
+- Diastolic Blood Pressure: 84.0 mm[Hg]
+- Systolic Blood Pressure: 114.0 mm[Hg]
+- Heart rate: 71.0 /min
+- Respiratory rate: 13.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 9.4 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.7 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.0 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 46.9 %
+- MCV [Entitic volume] by Automated count: 94.9 fL
+- MCH [Entitic mass] by Automated count: 27.6 pg
+- MCHC [Mass/volume] by Automated count: 34.7 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 39.4 fL
+- Platelets [#/volume] in Blood by Automated count: 212.9 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 322.8 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.0 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Other
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 465836 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 116 Bechtelar Rapid Unit 37
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 11.0 {score}
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: ambulatory, from 2020-05-19T06:13:42Z to 2020-05-19T09:28:34Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: outpatient, from 2021-03-23T06:13:42Z to 2021-03-23T06:28:42Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: outpatient, from 2021-04-13T06:13:42Z to 2021-04-13T06:28:42Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: wellness, from 2021-05-11T06:13:42Z to 2021-05-11T06:58:08Z
+
+            Conditions: 
+- Not in labor force (finding)
+            Medications: 
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+            Observations: 
+- Body Height: 193.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 108.4 kg
+- Body mass index (BMI) [Ratio]: 29.0 kg/m2
+- Diastolic Blood Pressure: 86.0 mm[Hg]
+- Systolic Blood Pressure: 113.0 mm[Hg]
+- Heart rate: 92.0 /min
+- Respiratory rate: 12.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 231.0 mg/dL
+- Triglycerides: 104.8 mg/dL
+- Low Density Lipoprotein Cholesterol: 154.4 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 55.7 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Very much
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 465836 /a
+- Primary insurance: Medicare
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: More than high school
+- Address: 116 Bechtelar Rapid Unit 37
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: ambulatory, from 2021-05-25T06:13:42Z to 2021-05-25T10:02:54Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: urgentcare, from 2021-09-07T06:13:42Z to 2021-09-07T07:13:10Z
+
+            Conditions: 
+- Full-time employment (finding)
+- Social isolation (finding)
+- Reports of violence in the environment (finding)
+            Medications: 
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+            Observations: 
+- Body Height: 193.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 108.4 kg
+- Body mass index (BMI) [Ratio]: 29.0 kg/m2
+- Diastolic Blood Pressure: 81.0 mm[Hg]
+- Systolic Blood Pressure: 113.0 mm[Hg]
+- Heart rate: 82.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: No
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 465836 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 116 Bechtelar Rapid Unit 37
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: outpatient, from 2021-09-14T06:13:42Z to 2021-09-14T06:28:42Z
+
+            Conditions: None
+            Medications: 
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: ambulatory, from 2021-09-21T06:13:42Z to 2021-09-21T06:28:42Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: outpatient, from 2021-12-14T06:13:42Z to 2021-12-14T06:51:36Z
+
+            Conditions: 
+- Not in labor force (finding)
+            Medications: 
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+            Observations: 
+- Body Height: 193.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 108.4 kg
+- Body mass index (BMI) [Ratio]: 29.0 kg/m2
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 117.0 mm[Hg]
+- Heart rate: 71.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 465836 /a
+- Primary insurance: Medicare
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: More than high school
+- Address: 116 Bechtelar Rapid Unit 37
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: ambulatory, from 2021-12-21T06:13:42Z to 2021-12-21T06:28:42Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: ambulatory, from 2021-12-28T06:13:42Z to 2021-12-28T08:45:37Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: wellness, from 2022-05-17T06:13:42Z to 2022-05-17T06:59:40Z
+
+            Conditions: 
+- Full-time employment (finding)
+- Has a criminal record (finding)
+            Medications: 
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+            Observations: 
+- Body Height: 193.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 110.2 kg
+- Body mass index (BMI) [Ratio]: 29.5 kg/m2
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 115.0 mm[Hg]
+- Heart rate: 95.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care (Medical  Dental  Mental Health  Vision)
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 465836 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 116 Bechtelar Rapid Unit 37
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: wellness, from 2023-05-23T06:13:42Z to 2023-05-23T07:04:14Z
+
+            Conditions: 
+- Medication review due (situation)
+- Social isolation (finding)
+            Medications: 
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+            Observations: 
+- Body Height: 193.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 111.3 kg
+- Body mass index (BMI) [Ratio]: 29.8 kg/m2
+- Diastolic Blood Pressure: 87.0 mm[Hg]
+- Systolic Blood Pressure: 124.0 mm[Hg]
+- Heart rate: 74.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Somewhat
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 465836 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 116 Bechtelar Rapid Unit 37
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 0.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: wellness, from 2024-05-28T06:13:42Z to 2024-05-28T07:09:06Z
+
+            Conditions: 
+- Medication review due (situation)
+- Not in labor force (finding)
+            Medications: 
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+            Observations: 
+- Body Height: 193.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 108.8 kg
+- Body mass index (BMI) [Ratio]: 29.1 kg/m2
+- Diastolic Blood Pressure: 92.0 mm[Hg]
+- Systolic Blood Pressure: 127.0 mm[Hg]
+- Heart rate: 86.0 /min
+- Respiratory rate: 13.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 110.4 mg/dL
+- Triglycerides: 141.5 mg/dL
+- Low Density Lipoprotein Cholesterol: 34.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 47.4 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Other
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 465836 /a
+- Primary insurance: Medicare
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: More than high school
+- Address: 116 Bechtelar Rapid Unit 37
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- Total score [AUDIT-C]: 0.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Stanton715 Ledner144, Gender: M, DOB: 1988-01-19, SSN: 999-44-3742
+
+            Encounter: wellness, from 2025-06-03T06:13:42Z to 2025-06-03T07:10:15Z
+
+            Conditions: 
+- Full-time employment (finding)
+            Medications: 
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+            Observations: 
+- Body Height: 193.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 102.8 kg
+- Body mass index (BMI) [Ratio]: 27.5 kg/m2
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 123.0 mm[Hg]
+- Heart rate: 73.0 /min
+- Respiratory rate: 15.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 6.9 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.3 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 38.6 %
+- MCV [Entitic volume] by Automated count: 91.6 fL
+- MCH [Entitic mass] by Automated count: 28.3 pg
+- MCHC [Mass/volume] by Automated count: 33.1 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 45.1 fL
+- Platelets [#/volume] in Blood by Automated count: 323.0 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 156.6 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 12.0 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 465836 /a
+- Primary insurance: Medicare
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 116 Bechtelar Rapid Unit 37
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 7.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+            

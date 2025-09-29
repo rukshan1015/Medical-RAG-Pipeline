@@ -1,0 +1,599 @@
+Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14
+            ------------------------------------------------------------
+                        Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: wellness, from 1998-03-09T10:17:05Z to 1998-03-09T10:49:12Z
+
+            Conditions: 
+- Received higher education (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: wellness, from 2002-03-18T10:17:05Z to 2002-03-18T10:57:13Z
+
+            Conditions: 
+- Full-time employment (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: wellness, from 2005-03-21T10:17:05Z to 2005-03-21T10:56:11Z
+
+            Conditions: 
+- Stress (finding)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: wellness, from 2008-03-24T10:17:05Z to 2008-03-24T10:59:26Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: ambulatory, from 2013-04-29T10:17:05Z to 2013-04-29T11:22:04Z
+
+            Conditions: None
+            Medications: 
+- ferrous sulfate 325 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: ambulatory, from 2013-10-07T04:17:05Z to 2013-10-07T04:32:05Z
+
+            Conditions: 
+- Chronic sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: outpatient, from 2015-06-29T10:17:05Z to 2015-06-29T10:32:05Z
+
+            Conditions: None
+            Medications: 
+- Jolivette 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: outpatient, from 2016-06-23T10:17:05Z to 2016-06-23T10:32:05Z
+
+            Conditions: None
+            Medications: 
+- Jolivette 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: wellness, from 2017-04-03T10:17:05Z to 2017-04-03T11:13:28Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 160.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 76.6 kg
+- Body mass index (BMI) [Ratio]: 29.7 kg/m2
+- Diastolic Blood Pressure: 96.0 mm[Hg]
+- Systolic Blood Pressure: 142.0 mm[Hg]
+- Heart rate: 85.0 /min
+- Respiratory rate: 12.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 163.1 mg/dL
+- Triglycerides: 126.6 mg/dL
+- Low Density Lipoprotein Cholesterol: 84.5 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.4 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Very much
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 53500 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 327 Stoltenberg Station Unit 68
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 4.0 {score}
+- Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 22.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: ambulatory, from 2017-04-17T10:17:05Z to 2017-04-17T14:08:20Z
+
+            Conditions: 
+- Dental filling lost (finding)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure): code 1259293006
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: outpatient, from 2017-06-18T10:17:05Z to 2017-06-18T10:32:05Z
+
+            Conditions: None
+            Medications: 
+- Errin 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: emergency, from 2017-09-19T00:26:28Z to 2017-09-19T01:26:28Z
+
+            Conditions: 
+- Injury of neck (disorder)
+- Whiplash injury to neck (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: snf, from 2017-09-19T00:26:28Z to 2017-09-26T00:41:28Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- History AND physical examination (procedure): code 63332003
+- Initial patient assessment (procedure): code 315639002
+- Development of individualized plan of care (procedure): code 370789001
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Speech and language therapy regime (regime/therapy): code 311555007
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Pre-discharge assessment (procedure): code 225386006
+- Discharge from hospital (procedure): code 308283009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: outpatient, from 2018-06-13T10:17:05Z to 2018-06-13T10:32:05Z
+
+            Conditions: None
+            Medications: 
+- Jolivette 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: outpatient, from 2019-06-08T10:17:05Z to 2019-06-08T10:32:05Z
+
+            Conditions: None
+            Medications: 
+- Kyleena 19.5 MG Intrauterine System
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: outpatient, from 2019-06-11T04:17:05Z to 2019-06-11T04:59:29Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Insertion of intrauterine contraceptive device (procedure): code 65200003
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: wellness, from 2020-01-20T10:17:05Z to 2020-01-20T10:47:43Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 160.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 72.6 kg
+- Body mass index (BMI) [Ratio]: 28.2 kg/m2
+- Diastolic Blood Pressure: 88.0 mm[Hg]
+- Systolic Blood Pressure: 142.0 mm[Hg]
+- Heart rate: 80.0 /min
+- Respiratory rate: 14.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 5.6 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.5 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.8 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 47.2 %
+- MCV [Entitic volume] by Automated count: 89.8 fL
+- MCH [Entitic mass] by Automated count: 27.3 pg
+- MCHC [Mass/volume] by Automated count: 35.5 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 44.0 fL
+- Platelets [#/volume] in Blood by Automated count: 154.5 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 315.3 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.2 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 53500 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 327 Stoltenberg Station Unit 68
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [HARK]: 0.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Screening for domestic abuse (procedure): code 866148006
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Hep A  adult
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: ambulatory, from 2020-02-03T10:17:05Z to 2020-02-03T12:45:09Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: ambulatory, from 2021-06-29T07:17:05Z to 2021-06-29T07:32:05Z
+
+            Conditions: 
+- Streptococcal sore throat (disorder)
+            Medications: 
+- Penicillin V Potassium 500 MG Oral Tablet
+            Observations: 
+- Body temperature: 37.4 Cel
+            Procedures: 
+- Throat culture (procedure): code 117015009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: outpatient, from 2021-10-18T10:17:05Z to 2021-10-18T10:32:05Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: outpatient, from 2021-11-15T10:17:05Z to 2021-11-15T10:32:05Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: wellness, from 2022-01-24T10:17:05Z to 2022-01-24T10:54:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 160.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 76.0 kg
+- Body mass index (BMI) [Ratio]: 29.5 kg/m2
+- Diastolic Blood Pressure: 93.0 mm[Hg]
+- Systolic Blood Pressure: 148.0 mm[Hg]
+- Heart rate: 62.0 /min
+- Respiratory rate: 13.0 /min
+- Cholesterol [Mass/volume] in Serum or Plasma: 186.0 mg/dL
+- Triglycerides: 107.2 mg/dL
+- Low Density Lipoprotein Cholesterol: 103.7 mg/dL
+- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 60.9 mg/dL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Quite a bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 53500 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 327 Stoltenberg Station Unit 68
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+- Hep A  adult
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: outpatient, from 2022-05-26T04:59:29Z to 2022-05-26T05:14:29Z
+
+            Conditions: None
+            Medications: 
+- Errin 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: outpatient, from 2023-05-21T04:59:29Z to 2023-05-21T05:36:36Z
+
+            Conditions: None
+            Medications: 
+- Etonogestrel 68 MG Drug Implant
+            Observations: None
+            Procedures: 
+- Insertion of subcutaneous contraceptive (procedure): code 169553002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: wellness, from 2024-01-29T10:17:05Z to 2024-01-29T11:14:39Z
+
+            Conditions: 
+- Medication review due (situation)
+- Body mass index 30+ - obesity (finding)
+- Social isolation (finding)
+- Severe anxiety (panic) (finding)
+            Medications: None
+            Observations: 
+- Body Height: 160.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 77.7 kg
+- Body mass index (BMI) [Ratio]: 30.2 kg/m2
+- Diastolic Blood Pressure: 96.0 mm[Hg]
+- Systolic Blood Pressure: 138.0 mm[Hg]
+- Heart rate: 90.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 53500 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: More than high school
+- Address: 327 Stoltenberg Station Unit 68
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 2.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 19.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: emergency, from 2024-04-07T00:26:28Z to 2024-04-07T01:26:28Z
+
+            Conditions: 
+- Laceration - injury (disorder)
+- Laceration of thigh (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Suture open wound (procedure): code 288086009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: outpatient, from 2024-05-15T05:36:36Z to 2024-05-15T05:51:36Z
+
+            Conditions: None
+            Medications: 
+- Jolivette 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: outpatient, from 2024-06-17T10:17:05Z to 2024-06-17T11:02:13Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Replacement of contraceptive intrauterine device (procedure): code 46706006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Felicia295 Adams676, Gender: F, DOB: 1980-01-14, SSN: 999-35-9868
+
+            Encounter: outpatient, from 2025-05-10T05:36:36Z to 2025-05-10T05:51:36Z
+
+            Conditions: None
+            Medications: 
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal System
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+            

@@ -1,0 +1,1050 @@
+Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11
+            ------------------------------------------------------------
+                        Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 1998-10-22T11:51:07Z to 1998-10-22T12:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 1998-11-01T09:51:07Z to 1998-11-01T10:24:26Z
+
+            Conditions: None
+            Medications: 
+- Fexofenadine hydrochloride 30 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+            Observations: None
+            Procedures: None
+            Allergies: 
+- Wheal (finding): MILD
+- Diarrhea (finding): MILD
+- Wheezing (finding): MILD
+- Anaphylaxis (disorder): SEVERE
+- Wheal (finding): MODERATE
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2000-01-10T15:51:07Z to 2000-01-10T16:06:07Z
+
+            Conditions: 
+- Seasonal allergic rhinitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2006-10-12T15:51:07Z to 2006-10-12T16:06:07Z
+
+            Conditions: 
+- Child attention deficit disorder (disorder)
+            Medications: 
+- atomoxetine 100 MG Oral Capsule
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: outpatient, from 2015-11-20T16:14:48Z to 2015-11-20T16:29:49Z
+
+            Conditions: None
+            Medications: 
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: wellness, from 2016-02-04T15:51:07Z to 2016-02-04T16:49:38Z
+
+            Conditions: 
+- Medication review due (situation)
+- Educated to high school level (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 163.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 59.8 kg
+- Body mass index (BMI) [Ratio]: 22.5 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 63.6 %
+- Diastolic Blood Pressure: 68.0 mm[Hg]
+- Systolic Blood Pressure: 127.0 mm[Hg]
+- Heart rate: 85.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 143580 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 721 Ortiz Mall
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [AUDIT-C]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2016-02-18T15:51:07Z to 2016-02-18T23:12:25Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: outpatient, from 2016-11-14T16:29:49Z to 2016-11-14T17:00:15Z
+
+            Conditions: None
+            Medications: 
+- Etonogestrel 68 MG Drug Implant
+            Observations: None
+            Procedures: 
+- Insertion of subcutaneous contraceptive (procedure): code 169553002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: outpatient, from 2016-12-15T15:51:07Z to 2016-12-15T16:47:18Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Removal of subcutaneous contraceptive (procedure): code 301807007
+- Insertion of subcutaneous contraceptive (procedure): code 169553002
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: wellness, from 2017-02-09T15:51:07Z to 2017-02-09T16:36:54Z
+
+            Conditions: 
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 163.1 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 59.7 kg
+- Body mass index (BMI) [Ratio]: 22.4 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 59.9 %
+- Diastolic Blood Pressure: 68.0 mm[Hg]
+- Systolic Blood Pressure: 130.0 mm[Hg]
+- Heart rate: 92.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 143580 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 721 Ortiz Mall
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2017-02-23T15:51:07Z to 2017-02-23T21:23:20Z
+
+            Conditions: 
+- Infection of tooth (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Simple extraction of tooth (procedure): code 173291009
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: outpatient, from 2017-11-09T17:00:15Z to 2017-11-09T17:15:15Z
+
+            Conditions: None
+            Medications: 
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal System
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: outpatient, from 2018-11-04T17:00:15Z to 2018-11-04T17:15:15Z
+
+            Conditions: None
+            Medications: 
+- Levora 0.15/30 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: outpatient, from 2019-02-14T15:51:07Z to 2019-02-14T16:17:47Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Removal of subcutaneous contraceptive (procedure): code 301807007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2019-04-04T15:51:07Z to 2019-04-04T16:06:07Z
+
+            Conditions: 
+- Normal pregnancy (finding)
+- Anemia (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Standard pregnancy test (procedure): code 252160004
+- Ultrasound scan for fetal viability (procedure): code 169230002
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+- Blood group typing (procedure): code 44608003
+- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure): code 104091002
+- Hepatitis B surface antigen measurement (procedure): code 47758006
+- Human immunodeficiency virus antigen test (procedure): code 31676001
+- Chlamydia antigen test (procedure): code 310861008
+- Gonorrhea infection titer test (procedure): code 165829005
+- Syphilis infectious titer test (procedure): code 269828009
+- Urine culture (procedure): code 117010004
+- Cytopathology procedure  preparation of smear  genital source (procedure): code 90226004
+- Urine screening test for diabetes (procedure): code 395123002
+- Hepatitis C antibody  confirmatory test (procedure): code 104375008
+- Rubella screening test (procedure): code 314098000
+- Measurement of Varicella-zoster virus antibody (procedure): code 104326007
+- Skin test for tuberculosis  Tine test (procedure): code 28163009
+- Urinalysis  protein  qualitative (procedure): code 60218003
+- Physical examination procedure (procedure): code 5880005
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2019-04-04T15:51:07Z to 2019-04-04T17:08:38Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Hemoglobin [Mass/volume] in Blood: 11.4 g/dL
+- Hematocrit [Volume Fraction] of Blood: 33.3 %
+- Leukocytes [#/volume] in Blood by Automated count: 10.5 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.7 10*6/uL
+- MCV [Entitic volume] by Automated count: 85.3 fL
+- MCH [Entitic mass] by Automated count: 28.1 pg
+- MCHC [Mass/volume] by Automated count: 34.2 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 45.3 fL
+- Platelets [#/volume] in Blood by Automated count: 196.5 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 163.5 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.6 fL
+            Procedures: 
+- Peripheral blood smear interpretation (procedure): code 14768001
+- Review of systems (procedure): code 415300000
+- Medication reconciliation (procedure): code 430193006
+- Brief general examination (procedure): code 162676008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2019-05-02T17:08:38Z to 2019-05-02T17:23:38Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+- Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure): code 443529005
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2019-05-30T17:08:38Z to 2019-05-30T17:23:38Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Fetal anatomy study (procedure): code 271442007
+- Alpha-fetoprotein test - antenatal (procedure): code 275833003
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2019-06-27T17:08:38Z to 2019-06-27T17:23:38Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2019-07-25T17:08:38Z to 2019-07-25T17:23:38Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2019-08-22T17:08:38Z to 2019-08-22T17:23:38Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure): code 104091002
+- Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure): code 399014008
+- Urine screening for glucose (procedure): code 268556000
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2019-09-19T17:08:38Z to 2019-09-19T17:23:38Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2019-10-17T17:08:38Z to 2019-10-17T17:23:38Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Streptococcus pneumoniae group B antigen assay (procedure): code 118001005
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2019-10-31T17:08:38Z to 2019-10-31T17:23:38Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: emergency, from 2019-11-07T17:08:38Z to 2019-11-07T18:08:38Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Episiotomy (procedure): code 85548006
+- Human parturition  function (observable entity): code 386216000
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2019-12-19T17:08:38Z to 2019-12-19T17:23:38Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Physical examination procedure (procedure): code 5880005
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: wellness, from 2020-02-13T15:51:07Z to 2020-02-13T16:50:18Z
+
+            Conditions: 
+- Medication review due (situation)
+- Not in labor force (finding)
+- Stress (finding)
+            Medications: None
+            Observations: 
+- Body Height: 163.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 64.3 kg
+- Body mass index (BMI) [Ratio]: 24.2 kg/m2
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 135.0 mm[Hg]
+- Heart rate: 85.0 /min
+- Respiratory rate: 15.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 6.5 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 15.5 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 37.1 %
+- MCV [Entitic volume] by Automated count: 91.7 fL
+- MCH [Entitic mass] by Automated count: 30.0 pg
+- MCHC [Mass/volume] by Automated count: 33.3 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 43.5 fL
+- Platelets [#/volume] in Blood by Automated count: 344.0 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 162.1 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 9.8 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: A little bit
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 143580 /a
+- Primary insurance: Private insurance
+- Employment status - current: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver)
+- Highest level of education: High school diploma or GED
+- Address: 721 Ortiz Mall
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- Total score [DAST-10]: 1.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening (procedure): code 171207006
+- Assessment of substance use (procedure): code 428211000124100
+- Screening for drug abuse (procedure): code 713106006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed
+- Hep B  adult
+- meningococcal MCV4P
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: outpatient, from 2021-02-04T15:51:07Z to 2021-02-04T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: outpatient, from 2021-03-04T15:51:07Z to 2021-03-04T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2022-01-24T12:51:07Z to 2022-01-24T13:06:07Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.6 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2022-11-05T21:51:07Z to 2022-11-05T22:06:07Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: wellness, from 2023-02-16T15:51:07Z to 2023-02-16T16:37:26Z
+
+            Conditions: 
+- Full-time employment (finding)
+- Social isolation (finding)
+- Unhealthy alcohol drinking behavior (finding)
+            Medications: None
+            Observations: 
+- Body Height: 163.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 68.6 kg
+- Body mass index (BMI) [Ratio]: 25.8 kg/m2
+- Diastolic Blood Pressure: 68.0 mm[Hg]
+- Systolic Blood Pressure: 131.0 mm[Hg]
+- Heart rate: 69.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Within the last year  have you been afraid of your partner or ex-partner?: No
+- Do you feel physically and emotionally safe where you currently live?: Yes
+- Are you a refugee?: No
+- In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No
+- Stress level: Not at all
+- How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week
+- Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living: No
+- In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food
+- What was your best estimate of the total income of all family members from all sources  before taxes  in last year?: 143580 /a
+- Primary insurance: Private insurance
+- Employment status - current: Full-time work
+- Highest level of education: High school diploma or GED
+- Address: 721 Ortiz Mall
+- Are you worried about losing your housing?: No
+- Housing status: I have housing
+- How many people are living or staying at this address?: 4.0 {#}
+- Preferred language: English
+- Have you been discharged from the armed forces of the United States?: No
+- At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No
+- Race: White
+- Do you consider yourself Hispanic/Latino?: No
+- Total score [AUDIT-C]: 4.0 {score}
+            Procedures: 
+- Assessment of health and social care needs (procedure): code 710824005
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure): code 763302001
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2023-07-06T15:51:07Z to 2023-07-06T16:06:07Z
+
+            Conditions: 
+- Normal pregnancy (finding)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Standard pregnancy test (procedure): code 252160004
+- Ultrasound scan for fetal viability (procedure): code 169230002
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+- Blood group typing (procedure): code 44608003
+- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure): code 104091002
+- Hepatitis B surface antigen measurement (procedure): code 47758006
+- Human immunodeficiency virus antigen test (procedure): code 31676001
+- Chlamydia antigen test (procedure): code 310861008
+- Gonorrhea infection titer test (procedure): code 165829005
+- Syphilis infectious titer test (procedure): code 269828009
+- Urine culture (procedure): code 117010004
+- Cytopathology procedure  preparation of smear  genital source (procedure): code 90226004
+- Urine screening test for diabetes (procedure): code 395123002
+- Hepatitis C antibody  confirmatory test (procedure): code 104375008
+- Rubella screening test (procedure): code 314098000
+- Measurement of Varicella-zoster virus antibody (procedure): code 104326007
+- Skin test for tuberculosis  Tine test (procedure): code 28163009
+- Urinalysis  protein  qualitative (procedure): code 60218003
+- Physical examination procedure (procedure): code 5880005
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2023-08-03T15:51:07Z to 2023-08-03T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+- Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure): code 443529005
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2023-08-31T15:51:07Z to 2023-08-31T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Fetal anatomy study (procedure): code 271442007
+- Alpha-fetoprotein test - antenatal (procedure): code 275833003
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2023-09-28T15:51:07Z to 2023-09-28T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2023-10-26T15:51:07Z to 2023-10-26T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2023-11-23T15:51:07Z to 2023-11-23T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure): code 104091002
+- Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure): code 399014008
+- Urine screening for glucose (procedure): code 268556000
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2023-12-21T15:51:07Z to 2023-12-21T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2024-01-18T15:51:07Z to 2024-01-18T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Streptococcus pneumoniae group B antigen assay (procedure): code 118001005
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2024-02-01T15:51:07Z to 2024-02-01T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2024-02-08T15:51:07Z to 2024-02-08T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: emergency, from 2024-02-15T15:51:07Z to 2024-02-15T16:51:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Human parturition  function (observable entity): code 386216000
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2024-03-28T15:51:07Z to 2024-03-28T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Physical examination procedure (procedure): code 5880005
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2024-09-26T15:51:07Z to 2024-09-26T16:06:07Z
+
+            Conditions: 
+- Normal pregnancy (finding)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Standard pregnancy test (procedure): code 252160004
+- Ultrasound scan for fetal viability (procedure): code 169230002
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+- Blood group typing (procedure): code 44608003
+- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure): code 104091002
+- Hepatitis B surface antigen measurement (procedure): code 47758006
+- Human immunodeficiency virus antigen test (procedure): code 31676001
+- Chlamydia antigen test (procedure): code 310861008
+- Gonorrhea infection titer test (procedure): code 165829005
+- Syphilis infectious titer test (procedure): code 269828009
+- Urine culture (procedure): code 117010004
+- Cytopathology procedure  preparation of smear  genital source (procedure): code 90226004
+- Urine screening test for diabetes (procedure): code 395123002
+- Hepatitis C antibody  confirmatory test (procedure): code 104375008
+- Rubella screening test (procedure): code 314098000
+- Measurement of Varicella-zoster virus antibody (procedure): code 104326007
+- Skin test for tuberculosis  Tine test (procedure): code 28163009
+- Urinalysis  protein  qualitative (procedure): code 60218003
+- Physical examination procedure (procedure): code 5880005
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2024-10-24T15:51:07Z to 2024-10-24T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+- Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure): code 443529005
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2024-11-21T15:51:07Z to 2024-11-21T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Fetal anatomy study (procedure): code 271442007
+- Alpha-fetoprotein test - antenatal (procedure): code 275833003
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2024-12-19T15:51:07Z to 2024-12-19T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2025-01-16T15:51:07Z to 2025-01-16T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2025-02-13T15:51:07Z to 2025-02-13T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure): code 104091002
+- Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure): code 399014008
+- Urine screening for glucose (procedure): code 268556000
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2025-03-13T15:51:07Z to 2025-03-13T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2025-04-10T15:51:07Z to 2025-04-10T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Streptococcus pneumoniae group B antigen assay (procedure): code 118001005
+- Evaluation of uterine fundal height (procedure): code 274804006
+- Auscultation of the fetal heart (procedure): code 225158009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: emergency, from 2025-04-24T15:51:07Z to 2025-04-24T16:51:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Episiotomy (procedure): code 85548006
+- Human parturition  function (observable entity): code 386216000
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: ambulatory, from 2025-06-05T15:51:07Z to 2025-06-05T16:06:07Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Physical examination procedure (procedure): code 5880005
+- Depression screening (procedure): code 171207006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Lakia502 Block661, Gender: F, DOB: 1997-12-11, SSN: 999-93-1737
+
+            Encounter: outpatient, from 2025-06-12T15:51:07Z to 2025-06-12T16:06:07Z
+
+            Conditions: None
+            Medications: 
+- Levora 0.15/30 28 Day Pack
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+            

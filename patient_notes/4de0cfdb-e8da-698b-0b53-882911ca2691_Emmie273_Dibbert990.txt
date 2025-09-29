@@ -1,0 +1,919 @@
+Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14
+            ------------------------------------------------------------
+                        Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: ambulatory, from 2009-02-26T12:07:43Z to 2009-02-26T12:22:43Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: ambulatory, from 2009-03-14T03:07:43Z to 2009-03-14T03:40:43Z
+
+            Conditions: None
+            Medications: 
+- Loratadine 5 MG Chewable Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+            Observations: None
+            Procedures: None
+            Allergies: 
+- Eruption of skin (disorder): MODERATE
+- Dyspnea (finding): MILD
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: wellness, from 2015-04-06T18:07:43Z to 2015-04-06T18:22:43Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: wellness, from 2016-04-11T18:07:43Z to 2016-04-11T18:22:43Z
+
+            Conditions: 
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 129.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 34.1 kg
+- Body mass index (BMI) [Ratio]: 20.4 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 94.6 %
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 124.0 mm[Hg]
+- Heart rate: 84.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: ambulatory, from 2016-04-18T18:07:43Z to 2016-04-18T21:14:34Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: wellness, from 2017-04-17T18:07:43Z to 2017-04-17T18:22:43Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 135.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 39.6 kg
+- Body mass index (BMI) [Ratio]: 21.7 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 94.8 %
+- Diastolic Blood Pressure: 86.0 mm[Hg]
+- Systolic Blood Pressure: 116.0 mm[Hg]
+- Heart rate: 74.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: outpatient, from 2017-07-17T18:07:43Z to 2017-07-17T18:22:43Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 136.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 41.3 kg
+- Body mass index (BMI) [Ratio]: 22.3 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 95.2 %
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 133.0 mm[Hg]
+- Heart rate: 87.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: ambulatory, from 2017-07-24T18:07:43Z to 2017-07-24T18:22:43Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Sputum examination (procedure): code 269911007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: wellness, from 2018-04-23T18:07:43Z to 2018-04-23T18:22:43Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 140.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 47.0 kg
+- Body mass index (BMI) [Ratio]: 23.9 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 96.2 %
+- Diastolic Blood Pressure: 87.0 mm[Hg]
+- Systolic Blood Pressure: 108.0 mm[Hg]
+- Heart rate: 97.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: ambulatory, from 2018-04-30T18:07:43Z to 2018-05-01T00:20:08Z
+
+            Conditions: 
+- Infection of tooth (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Simple extraction of tooth (procedure): code 173291009
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: ambulatory, from 2018-05-07T18:07:43Z to 2018-05-07T18:22:43Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: 
+- Penicillin V Potassium 250 MG Oral Tablet
+            Observations: 
+- Body temperature: 37.8 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: wellness, from 2019-04-29T18:07:43Z to 2019-04-29T18:22:43Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 146.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 56.9 kg
+- Body mass index (BMI) [Ratio]: 26.5 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 97.4 %
+- Diastolic Blood Pressure: 80.0 mm[Hg]
+- Systolic Blood Pressure: 125.0 mm[Hg]
+- Heart rate: 79.0 /min
+- Respiratory rate: 13.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 5.5 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 4.8 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 16.0 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 35.9 %
+- MCV [Entitic volume] by Automated count: 94.9 fL
+- MCH [Entitic mass] by Automated count: 27.9 pg
+- MCHC [Mass/volume] by Automated count: 33.5 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 45.4 fL
+- Platelets [#/volume] in Blood by Automated count: 401.3 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 254.9 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 12.2 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Tdap
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+- meningococcal MCV4P
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: ambulatory, from 2019-08-14T19:07:43Z to 2019-08-14T19:22:43Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: None
+            Observations: 
+- Body temperature: 37.1 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: wellness, from 2020-05-04T18:07:43Z to 2020-05-04T18:22:43Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 153.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 68.8 kg
+- Body mass index (BMI) [Ratio]: 29.1 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 98.1 %
+- Diastolic Blood Pressure: 79.0 mm[Hg]
+- Systolic Blood Pressure: 132.0 mm[Hg]
+- Heart rate: 82.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: emergency, from 2020-07-16T18:07:43Z to 2020-07-16T19:25:11Z
+
+            Conditions: 
+- Seizure disorder (disorder)
+- History of seizure (situation)
+            Medications: 
+- Diazepam 5 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Electroencephalogram (procedure): code 54550000
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: ambulatory, from 2021-04-19T18:07:43Z to 2021-04-19T18:22:43Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: wellness, from 2021-05-10T18:07:43Z to 2021-05-10T18:33:14Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- carbamazepine 20 MG/ML Oral Suspension [Tegretol]
+            Observations: 
+- Body Height: 159.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 64.8 kg
+- Body mass index (BMI) [Ratio]: 25.5 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 93.7 %
+- Diastolic Blood Pressure: 83.0 mm[Hg]
+- Systolic Blood Pressure: 130.0 mm[Hg]
+- Heart rate: 64.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of anxiety (procedure): code 710841007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: outpatient, from 2021-06-14T18:07:43Z to 2021-06-14T18:22:43Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: outpatient, from 2021-07-12T18:07:43Z to 2021-07-12T18:22:43Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: outpatient, from 2022-04-14T18:07:43Z to 2022-04-14T18:22:43Z
+
+            Conditions: None
+            Medications: 
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: wellness, from 2022-05-16T18:07:43Z to 2022-05-16T18:27:36Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 162.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 70.3 kg
+- Body mass index (BMI) [Ratio]: 26.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 93.9 %
+- Diastolic Blood Pressure: 87.0 mm[Hg]
+- Systolic Blood Pressure: 129.0 mm[Hg]
+- Heart rate: 72.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 0.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: outpatient, from 2022-07-25T18:07:43Z to 2022-07-25T18:25:12Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: outpatient, from 2022-10-24T18:07:43Z to 2022-10-24T18:22:43Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: outpatient, from 2023-01-23T18:07:43Z to 2023-01-23T18:26:58Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: ambulatory, from 2023-04-07T05:07:43Z to 2023-04-07T05:22:43Z
+
+            Conditions: 
+- Acute viral pharyngitis (disorder)
+            Medications: 
+- Penicillin V Potassium 250 MG Oral Tablet
+            Observations: 
+- Body temperature: 37.2 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: outpatient, from 2023-04-24T18:07:43Z to 2023-04-24T18:25:58Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: wellness, from 2023-05-22T18:07:43Z to 2023-05-22T18:26:34Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 164.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 75.5 kg
+- Body mass index (BMI) [Ratio]: 28.1 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 94.9 %
+- Diastolic Blood Pressure: 86.0 mm[Hg]
+- Systolic Blood Pressure: 130.0 mm[Hg]
+- Heart rate: 96.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 2.0 {score}
+            Procedures: 
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: ambulatory, from 2023-06-05T18:07:43Z to 2023-06-05T22:00:50Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: outpatient, from 2023-07-24T18:07:43Z to 2023-07-24T18:23:12Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: outpatient, from 2023-10-23T18:07:43Z to 2023-10-23T18:22:43Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: outpatient, from 2024-01-22T18:07:43Z to 2024-01-22T18:24:19Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: ambulatory, from 2024-02-24T17:07:43Z to 2024-02-24T17:22:43Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Measurement of respiratory function (procedure): code 23426006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: outpatient, from 2024-03-04T18:07:43Z to 2024-03-04T18:31:12Z
+
+            Conditions: 
+- Risk activity involvement (finding)
+            Medications: None
+            Observations: 
+- Body Height: 164.5 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 80.0 kg
+- Body mass index (BMI) [Ratio]: 29.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 95.8 %
+- Diastolic Blood Pressure: 86.0 mm[Hg]
+- Systolic Blood Pressure: 132.0 mm[Hg]
+- Heart rate: 80.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 0.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Health risks education (procedure): code 370995009
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: ambulatory, from 2024-03-18T18:07:43Z to 2024-03-18T21:32:55Z
+
+            Conditions: 
+- Primary dental caries (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Restoration of tooth with coverage of all cusps using dental filling material (procedure): code 1256042007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: emergency, from 2024-03-25T18:07:43Z to 2024-03-25T19:07:43Z
+
+            Conditions: 
+- Fracture of bone (disorder)
+- Fracture of ankle (disorder)
+            Medications: 
+- Naproxen sodium 220 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Plain X-ray of ankle region (procedure): code 1290459008
+- Bone immobilization (procedure): code 274474001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: outpatient, from 2024-04-22T18:07:43Z to 2024-04-22T18:24:38Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: wellness, from 2024-05-27T18:07:43Z to 2024-05-27T18:37:02Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 164.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 81.6 kg
+- Body mass index (BMI) [Ratio]: 30.1 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 96.1 %
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 129.0 mm[Hg]
+- Heart rate: 81.0 /min
+- Respiratory rate: 13.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 8.6 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 17.1 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 42.4 %
+- MCV [Entitic volume] by Automated count: 88.4 fL
+- MCH [Entitic mass] by Automated count: 32.4 pg
+- MCHC [Mass/volume] by Automated count: 33.5 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 39.8 fL
+- Platelets [#/volume] in Blood by Automated count: 359.3 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 409.0 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 12.1 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 4.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- meningococcal MCV4P
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: ambulatory, from 2024-06-10T18:07:43Z to 2024-06-11T00:09:34Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: outpatient, from 2024-07-22T18:07:43Z to 2024-07-22T18:25:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: ambulatory, from 2024-07-29T18:07:43Z to 2024-07-29T18:22:43Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: outpatient, from 2024-10-21T18:07:43Z to 2024-10-21T18:25:00Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: outpatient, from 2025-01-20T18:07:43Z to 2025-01-20T18:25:00Z
+
+            Conditions: 
+- Acute infective cystitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: ambulatory, from 2025-02-05T18:07:43Z to 2025-02-05T19:31:42Z
+
+            Conditions: None
+            Medications: 
+- ciprofloxacin 250 MG Oral Tablet
+            Observations: 
+- Glucose [Mass/volume] in Urine by Test strip: 4.7 mg/dL
+- Ketones [Presence] in Urine by Test strip: Urine ketones not detected (finding) {nominal}
+- Specific gravity of Urine by Test strip: 1.0 {nominal}
+- pH of Urine by Test strip: 5.2 pH
+- Protein [Mass/volume] in Urine by Test strip: 10.8 mg/dL
+- Nitrite [Presence] in Urine by Test strip: Nitrite detected in urine (finding) {nominal}
+- Hemoglobin [Presence] in Urine by Test strip: Urine blood test = + (finding) {nominal}
+- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocyte test one plus (finding) {nominal}
+- WBCs: 18.9 /[HPF]
+- RBCs: 1.4 /[HPF]
+- Epithelial Cells: 2.6 /[HPF]
+- Casts: Urine microscopy: no casts (finding) {nominal}
+- Mucus Threads: Mucus in urine (finding) {nominal}
+- Bacteria: Finding of presence of bacteria (finding) {nominal}
+- Bacteria identified in Urine by Culture: Greater than 100 000 colony forming units per mL Staphylococcus aureus
+            Procedures: 
+- History taking (procedure): code 84100007
+- Discussion about signs and symptoms (procedure): code 223470000
+- History and physical examination  limited (procedure): code 67879005
+- Evaluation procedure (procedure): code 386053000
+- Urine specimen collection (procedure): code 57617002
+- Urinalysis with reflex to microscopy and culture (procedure): code 441550005
+- Antibiotic therapy (procedure): code 281789004
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: outpatient, from 2025-04-21T18:07:43Z to 2025-04-21T18:22:43Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: wellness, from 2025-06-02T18:07:43Z to 2025-06-02T18:22:43Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: None
+            Observations: 
+- Body Height: 164.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 84.8 kg
+- Body mass index (BMI) [Ratio]: 31.2 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 96.3 %
+- Diastolic Blood Pressure: 85.0 mm[Hg]
+- Systolic Blood Pressure: 132.0 mm[Hg]
+- Heart rate: 81.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 2.0 {score}
+            Procedures: 
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: ambulatory, from 2025-06-16T18:07:43Z to 2025-06-16T20:52:14Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Emmie273 Dibbert990, Gender: F, DOB: 2008-04-14, SSN: 999-11-7051
+
+            Encounter: outpatient, from 2025-07-21T18:07:43Z to 2025-07-21T18:25:43Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Intramuscular injection (procedure): code 76601001
+            Allergies: None
+            Immunization: None
+            
+            

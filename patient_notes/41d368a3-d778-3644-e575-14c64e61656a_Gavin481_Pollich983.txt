@@ -1,0 +1,1394 @@
+Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29
+            ------------------------------------------------------------
+                        Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2010-10-28T07:23:49Z to 2010-10-28T07:38:49Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2010-11-10T14:23:49Z to 2010-11-10T15:01:57Z
+
+            Conditions: None
+            Medications: 
+- cetirizine hydrochloride 5 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+            Observations: None
+            Procedures: None
+            Allergies: 
+- Sneezing (finding): MILD
+- Nasal discharge present (situation): MILD
+- Rhinoconjunctivitis (disorder): MODERATE
+- Eruption of skin (disorder): MODERATE
+- Wheal (finding): MILD
+- Eruption of skin (disorder): MODERATE
+- Diarrhea (finding): MILD
+- Allergic angioedema (disorder): MODERATE
+- Dyspnea (finding): MILD
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2011-03-07T19:23:49Z to 2011-03-07T19:38:49Z
+
+            Conditions: 
+- Atopic dermatitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2012-12-28T19:23:49Z to 2012-12-28T19:38:49Z
+
+            Conditions: 
+- Childhood asthma (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2013-09-12T19:23:49Z to 2013-09-12T19:38:49Z
+
+            Conditions: 
+- Perennial allergic rhinitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: wellness, from 2013-10-03T19:23:49Z to 2013-10-03T19:38:49Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: wellness, from 2015-04-09T19:23:49Z to 2015-04-09T19:38:49Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: wellness, from 2016-04-14T19:23:49Z to 2016-04-14T19:38:49Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 126.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- Body Weight: 22.7 kg
+- Body mass index (BMI) [Ratio]: 14.1 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 11.6 %
+- Diastolic Blood Pressure: 69.0 mm[Hg]
+- Systolic Blood Pressure: 115.0 mm[Hg]
+- Heart rate: 95.0 /min
+- Respiratory rate: 14.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 9.4 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.2 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 16.6 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 39.0 %
+- MCV [Entitic volume] by Automated count: 92.9 fL
+- MCH [Entitic mass] by Automated count: 27.6 pg
+- MCHC [Mass/volume] by Automated count: 33.6 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 39.5 fL
+- Platelets [#/volume] in Blood by Automated count: 364.2 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 252.3 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.2 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2016-09-10T20:23:49Z to 2016-09-10T20:43:06Z
+
+            Conditions: 
+- Acute bronchitis (disorder)
+            Medications: 
+- Acetaminophen 325 MG Oral Tablet
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: None
+            Procedures: 
+- Measurement of respiratory function (procedure): code 23426006
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: urgentcare, from 2016-09-22T19:23:49Z to 2016-09-22T19:38:49Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 129.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 23.7 kg
+- Body mass index (BMI) [Ratio]: 14.1 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 10.6 %
+- Diastolic Blood Pressure: 73.0 mm[Hg]
+- Systolic Blood Pressure: 107.0 mm[Hg]
+- Heart rate: 63.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2016-09-29T19:23:49Z to 2016-09-29T22:01:02Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: wellness, from 2017-04-20T19:23:49Z to 2017-04-20T19:38:49Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 134.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 25.9 kg
+- Body mass index (BMI) [Ratio]: 14.4 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 17.5 %
+- Diastolic Blood Pressure: 70.0 mm[Hg]
+- Systolic Blood Pressure: 110.0 mm[Hg]
+- Heart rate: 69.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: wellness, from 2018-04-26T19:23:49Z to 2018-04-26T19:38:49Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 141.4 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 29.9 kg
+- Body mass index (BMI) [Ratio]: 14.9 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 28.3 %
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 112.0 mm[Hg]
+- Heart rate: 61.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2018-05-03T19:23:49Z to 2018-05-03T21:52:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2018-06-03T09:23:49Z to 2018-06-03T09:38:49Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: wellness, from 2019-05-02T19:23:49Z to 2019-05-02T19:38:49Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 148.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 35.0 kg
+- Body mass index (BMI) [Ratio]: 15.9 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 43.1 %
+- Diastolic Blood Pressure: 64.0 mm[Hg]
+- Systolic Blood Pressure: 100.0 mm[Hg]
+- Heart rate: 92.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2019-05-09T19:23:49Z to 2019-05-10T00:46:57Z
+
+            Conditions: 
+- Gingival disease (disorder)
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Dental surgical procedure (procedure): code 81733005
+- Dental application of desensitizing medicament (procedure): code 3802001
+- Gingivectomy or gingivoplasty  per tooth (procedure): code 64544008
+- Postoperative care for dental procedure (regime/therapy): code 456191000124101
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2019-05-29T09:23:49Z to 2019-05-29T09:38:49Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: wellness, from 2020-05-07T19:23:49Z to 2020-05-07T19:38:49Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 154.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 43.2 kg
+- Body mass index (BMI) [Ratio]: 18.1 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 72.8 %
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 94.0 mm[Hg]
+- Heart rate: 69.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2020-05-14T19:23:49Z to 2020-05-14T22:58:59Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2020-05-23T09:23:49Z to 2020-05-23T09:38:49Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2020-11-19T09:23:49Z to 2020-11-19T09:38:49Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: wellness, from 2021-05-13T19:23:49Z to 2021-05-13T19:38:49Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 160.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 48.9 kg
+- Body mass index (BMI) [Ratio]: 19.0 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 75.2 %
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 112.0 mm[Hg]
+- Heart rate: 64.0 /min
+- Respiratory rate: 16.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 4.9 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.0 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 13.0 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 44.0 %
+- MCV [Entitic volume] by Automated count: 85.7 fL
+- MCH [Entitic mass] by Automated count: 27.1 pg
+- MCHC [Mass/volume] by Automated count: 36.0 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 43.9 fL
+- Platelets [#/volume] in Blood by Automated count: 431.4 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 303.9 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 11.5 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Tdap
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+- meningococcal MCV4P
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2021-05-18T09:23:49Z to 2021-05-18T09:38:49Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: emergency, from 2022-02-12T19:35:42Z to 2022-02-12T20:35:42Z
+
+            Conditions: 
+- Burn injury (morphologic abnormality)
+- Epidermal burn of skin (disorder)
+            Medications: 
+- Acetaminophen 160 MG Chewable Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: snf, from 2022-02-12T19:35:42Z to 2022-02-18T19:50:42Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- History AND physical examination (procedure): code 63332003
+- Initial patient assessment (procedure): code 315639002
+- Development of individualized plan of care (procedure): code 370789001
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Nursing care/supplementary surveillance (regime/therapy): code 410401003
+- Professional / ancillary services care (regime/therapy): code 409023009
+- Pre-discharge assessment (procedure): code 225386006
+- Discharge from hospital (procedure): code 308283009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2022-03-25T19:35:42Z to 2022-03-25T19:50:42Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2022-03-31T01:23:49Z to 2022-03-31T01:38:49Z
+
+            Conditions: 
+- Streptococcal sore throat (disorder)
+            Medications: 
+- Penicillin V Potassium 250 MG Oral Tablet
+            Observations: 
+- Body temperature: 37.9 Cel
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: urgentcare, from 2022-04-07T19:23:49Z to 2022-04-07T19:38:49Z
+
+            Conditions: 
+- Medication review due (situation)
+- Gingivitis (disorder)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 166.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 52.2 kg
+- Body mass index (BMI) [Ratio]: 18.8 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 65.6 %
+- Diastolic Blood Pressure: 65.0 mm[Hg]
+- Systolic Blood Pressure: 99.0 mm[Hg]
+- Heart rate: 83.0 /min
+- Respiratory rate: 13.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+- HPV  quadrivalent
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: urgentcare, from 2022-04-14T19:23:49Z to 2022-04-14T19:38:49Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: None
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- HPV  quadrivalent
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2022-04-21T19:23:49Z to 2022-04-21T22:14:06Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: outpatient, from 2022-05-12T19:23:49Z to 2022-05-12T19:38:49Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: wellness, from 2022-05-19T19:23:49Z to 2022-05-19T19:38:49Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 167.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 52.5 kg
+- Body mass index (BMI) [Ratio]: 18.8 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 64.3 %
+- Diastolic Blood Pressure: 63.0 mm[Hg]
+- Systolic Blood Pressure: 112.0 mm[Hg]
+- Heart rate: 97.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 2.0 {score}
+            Procedures: 
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: emergency, from 2022-05-26T19:23:49Z to 2022-05-26T20:23:49Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2022-05-28T14:23:49Z to 2022-05-28T14:38:49Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2022-06-02T19:23:49Z to 2022-06-02T22:41:25Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: 
+- COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: outpatient, from 2023-01-05T19:23:49Z to 2023-01-05T19:38:49Z
+
+            Conditions: 
+- Gingivitis (disorder)
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 172.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 56.3 kg
+- Body mass index (BMI) [Ratio]: 19.0 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 60.9 %
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 107.0 mm[Hg]
+- Heart rate: 92.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+            Procedures: 
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2023-01-12T19:23:49Z to 2023-01-12T19:38:49Z
+
+            Conditions: 
+- Viral sinusitis (disorder)
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2023-01-19T19:23:49Z to 2023-01-19T22:36:03Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2023-05-04T19:23:49Z to 2023-05-04T20:03:44Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Peanut IgE Ab [Units/volume] in Serum: 0.1 kU/L
+- Walnut IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Codfish IgE Ab [Units/volume] in Serum: 0.2 kU/L
+- Shrimp IgE Ab [Units/volume] in Serum: 0.1 kU/L
+- Wheat IgE Ab [Units/volume] in Serum: 0.2 kU/L
+- Egg white IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Soybean IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Cow milk IgE Ab [Units/volume] in Serum: 0.2 kU/L
+- White oak IgE Ab [Units/volume] in Serum: 0.1 kU/L
+- Common Ragweed IgE Ab [Units/volume] in Serum: 0.1 kU/L
+- Cat dander IgE Ab [Units/volume] in Serum: 0.2 kU/L
+- American house dust mite IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Cladosporium herbarum IgE Ab [Units/volume] in Serum: 0.2 kU/L
+- Honey bee IgE Ab [Units/volume] in Serum: 0.2 kU/L
+- Latex IgE Ab [Units/volume] in Serum: 0.3 kU/L
+            Procedures: 
+- Allergy screening test (procedure): code 395142003
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: wellness, from 2023-05-25T19:23:49Z to 2023-05-25T19:39:55Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 174.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 58.9 kg
+- Body mass index (BMI) [Ratio]: 19.3 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 61.6 %
+- Diastolic Blood Pressure: 69.0 mm[Hg]
+- Systolic Blood Pressure: 106.0 mm[Hg]
+- Heart rate: 74.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+            Procedures: 
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2023-05-26T20:03:44Z to 2023-05-26T20:49:30Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: emergency, from 2023-06-01T19:23:49Z to 2023-06-01T20:23:49Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2023-06-02T23:23:49Z to 2023-06-02T23:38:49Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2023-06-16T20:49:30Z to 2023-06-16T21:45:17Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2023-07-07T21:45:17Z to 2023-07-07T22:11:02Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2023-08-02T22:11:02Z to 2023-08-02T22:34:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2023-08-25T22:34:10Z to 2023-08-25T22:57:38Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2023-09-20T22:57:38Z to 2023-09-20T23:50:26Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2023-10-11T23:50:26Z to 2023-10-12T00:08:38Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2023-11-02T00:08:38Z to 2023-11-02T00:52:44Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2023-11-24T00:52:44Z to 2023-11-24T01:47:14Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2023-11-29T23:23:49Z to 2023-11-29T23:38:49Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2023-12-21T01:47:14Z to 2023-12-21T02:17:35Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2024-01-16T02:17:35Z to 2024-01-16T02:38:44Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2024-02-07T02:38:44Z to 2024-02-07T03:31:38Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2024-03-01T03:31:38Z to 2024-03-01T04:20:47Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2024-03-26T04:20:47Z to 2024-03-26T05:08:53Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2024-04-16T05:08:53Z to 2024-04-16T05:28:55Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2024-05-12T05:28:55Z to 2024-05-12T06:27:53Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: wellness, from 2024-05-30T19:23:49Z to 2024-05-30T19:43:05Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 182.7 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 62.7 kg
+- Body mass index (BMI) [Ratio]: 18.8 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 43.3 %
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 109.0 mm[Hg]
+- Heart rate: 98.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 2.0 {score}
+            Procedures: 
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2024-06-08T06:27:53Z to 2024-06-08T06:59:48Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2024-07-03T06:59:48Z to 2024-07-03T07:18:53Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2024-07-24T07:18:53Z to 2024-07-24T07:37:44Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2024-08-16T07:37:44Z to 2024-08-16T07:59:56Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2024-09-09T07:59:56Z to 2024-09-09T08:59:54Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2024-10-02T08:59:54Z to 2024-10-02T09:25:20Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2024-10-29T09:25:20Z to 2024-10-29T10:03:59Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2024-11-19T10:03:59Z to 2024-11-19T10:53:01Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2024-11-23T23:23:49Z to 2024-11-23T23:38:49Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2024-12-13T10:53:01Z to 2024-12-13T11:33:45Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2025-01-09T11:33:45Z to 2025-01-09T12:05:48Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2025-02-05T12:05:48Z to 2025-02-05T12:59:29Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2025-02-28T12:59:29Z to 2025-02-28T13:34:52Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2025-03-22T13:34:52Z to 2025-03-22T14:13:16Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2025-04-16T14:13:16Z to 2025-04-16T14:49:03Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2025-05-08T14:49:03Z to 2025-05-08T15:40:08Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: wellness, from 2025-06-05T19:23:49Z to 2025-06-05T19:42:28Z
+
+            Conditions: None
+            Medications: 
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+- albuterol 0.83 MG/ML Inhalation Solution
+            Observations: 
+- Body Height: 187.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 72.7 kg
+- Body mass index (BMI) [Ratio]: 20.7 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 60.3 %
+- Diastolic Blood Pressure: 67.0 mm[Hg]
+- Systolic Blood Pressure: 112.0 mm[Hg]
+- Heart rate: 84.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+- Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Assessment of anxiety (procedure): code 710841007
+- Depression screening (procedure): code 171207006
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure): code 715252007
+- Assessment of substance use (procedure): code 428211000124100
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure): code 868187001
+- Anticipatory guidance (procedure): code 386516004
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2025-06-12T19:23:49Z to 2025-06-12T20:11:40Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2025-07-09T20:11:40Z to 2025-07-09T20:45:02Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2025-08-01T20:45:02Z to 2025-08-01T21:04:21Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2025-08-22T21:04:21Z to 2025-08-22T22:03:10Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Gavin481 Pollich983, Gender: M, DOB: 2010-04-29, SSN: 999-92-6916
+
+            Encounter: ambulatory, from 2025-09-17T22:03:10Z to 2025-09-17T22:31:52Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Subcutaneous immunotherapy (procedure): code 180256009
+            Allergies: None
+            Immunization: None
+            
+            

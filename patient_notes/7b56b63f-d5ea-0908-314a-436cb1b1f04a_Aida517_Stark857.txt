@@ -1,0 +1,531 @@
+Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17
+            ------------------------------------------------------------
+                        Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: wellness, from 2017-01-17T17:40:34Z to 2017-01-17T17:55:34Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 53.3 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 3.9 kg
+- Weight-for-length Per age and sex: 21.2 %
+- Head Occipital-frontal circumference Percentile: 76.5 %
+- Head Occipital-frontal circumference: 35.9 cm
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 131.0 mm[Hg]
+- Heart rate: 63.0 /min
+- Respiratory rate: 13.0 /min
+- Leukocytes [#/volume] in Blood by Automated count: 3.6 10*3/uL
+- Erythrocytes [#/volume] in Blood by Automated count: 5.5 10*6/uL
+- Hemoglobin [Mass/volume] in Blood: 12.4 g/dL
+- Hematocrit [Volume Fraction] of Blood by Automated count: 47.7 %
+- MCV [Entitic volume] by Automated count: 84.3 fL
+- MCH [Entitic mass] by Automated count: 27.7 pg
+- MCHC [Mass/volume] by Automated count: 33.6 g/dL
+- Erythrocyte distribution width [Entitic volume] by Automated count: 45.3 fL
+- Platelets [#/volume] in Blood by Automated count: 417.4 10*3/uL
+- Platelet distribution width [Entitic volume] in Blood by Automated count: 361.6 fL
+- Platelet mean volume [Entitic volume] in Blood by Automated count: 10.5 fL
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: wellness, from 2017-02-21T17:40:34Z to 2017-02-21T17:55:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 56.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 4.7 kg
+- Weight-for-length Per age and sex: 12.2 %
+- Head Occipital-frontal circumference Percentile: 76.5 %
+- Head Occipital-frontal circumference: 39.1 cm
+- Diastolic Blood Pressure: 69.0 mm[Hg]
+- Systolic Blood Pressure: 126.0 mm[Hg]
+- Heart rate: 62.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: wellness, from 2017-04-25T17:40:34Z to 2017-04-25T17:55:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 62.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 6.0 kg
+- Weight-for-length Per age and sex: 19.6 %
+- Head Occipital-frontal circumference Percentile: 76.5 %
+- Head Occipital-frontal circumference: 41.5 cm
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 133.0 mm[Hg]
+- Heart rate: 65.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- rotavirus  monovalent
+- IPV
+- DTaP
+- Pneumococcal conjugate PCV 13
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: wellness, from 2017-06-27T17:40:34Z to 2017-06-27T17:55:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 66.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 7.1 kg
+- Weight-for-length Per age and sex: 29.1 %
+- Head Occipital-frontal circumference Percentile: 76.5 %
+- Head Occipital-frontal circumference: 43.0 cm
+- Diastolic Blood Pressure: 69.0 mm[Hg]
+- Systolic Blood Pressure: 130.0 mm[Hg]
+- Heart rate: 68.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- rotavirus  monovalent
+- IPV
+- DTaP
+- Pneumococcal conjugate PCV 13
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: emergency, from 2017-08-08T17:40:34Z to 2017-08-08T22:08:34Z
+
+            Conditions: 
+- Acute allergic reaction (disorder)
+            Medications: 
+- predniSONE 5 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Injection of epinephrine (procedure): code 313191000
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: ambulatory, from 2017-08-09T16:08:34Z to 2017-08-09T16:23:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: ambulatory, from 2017-08-24T19:40:34Z to 2017-08-24T20:00:59Z
+
+            Conditions: None
+            Medications: 
+- cetirizine hydrochloride 5 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+            Observations: 
+- Peanut IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Walnut IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Codfish IgE Ab [Units/volume] in Serum: 0.1 kU/L
+- Shrimp IgE Ab [Units/volume] in Serum: 0.2 kU/L
+- Wheat IgE Ab [Units/volume] in Serum: 0.0 kU/L
+- Egg white IgE Ab [Units/volume] in Serum: 0.0 kU/L
+- Soybean IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Cow milk IgE Ab [Units/volume] in Serum: 0.2 kU/L
+- White oak IgE Ab [Units/volume] in Serum: 0.1 kU/L
+- Common Ragweed IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Cat dander IgE Ab [Units/volume] in Serum: 0.1 kU/L
+- American house dust mite IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Cladosporium herbarum IgE Ab [Units/volume] in Serum: 0.2 kU/L
+- Honey bee IgE Ab [Units/volume] in Serum: 0.3 kU/L
+- Latex IgE Ab [Units/volume] in Serum: 0.1 kU/L
+            Procedures: 
+- Allergy screening test (procedure): code 395142003
+            Allergies: 
+- Rhinoconjunctivitis (disorder): MODERATE
+- Eruption of skin (disorder): MILD
+- Anaphylaxis (disorder): SEVERE
+- Eruption of skin (disorder): MODERATE
+- Wheal (finding): MODERATE
+- Wheezing (finding): MILD
+            Immunization: None
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: emergency, from 2017-09-03T17:40:34Z to 2017-09-03T19:15:29Z
+
+            Conditions: 
+- Seizure disorder (disorder)
+- History of seizure (situation)
+            Medications: 
+- carbamazepine 20 MG/ML Oral Suspension [Tegretol]
+            Observations: None
+            Procedures: 
+- Electroencephalogram (procedure): code 54550000
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: wellness, from 2017-09-26T17:40:34Z to 2017-09-26T17:55:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 70.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- Body Weight: 8.5 kg
+- Weight-for-length Per age and sex: 42.3 %
+- Head Occipital-frontal circumference Percentile: 76.5 %
+- Head Occipital-frontal circumference: 44.7 cm
+- Diastolic Blood Pressure: 72.0 mm[Hg]
+- Systolic Blood Pressure: 132.0 mm[Hg]
+- Heart rate: 84.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- IPV
+- Influenza  seasonal  injectable  preservative free
+- DTaP
+- Pneumococcal conjugate PCV 13
+- Hep B  adolescent or pediatric
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: wellness, from 2017-12-26T17:40:34Z to 2017-12-26T17:55:34Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 75.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 9.6 kg
+- Weight-for-length Per age and sex: 51.7 %
+- Head Occipital-frontal circumference Percentile: 76.5 %
+- Head Occipital-frontal circumference: 45.8 cm
+- Diastolic Blood Pressure: 73.0 mm[Hg]
+- Systolic Blood Pressure: 117.0 mm[Hg]
+- Heart rate: 61.0 /min
+- Respiratory rate: 16.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: emergency, from 2018-02-24T19:15:29Z to 2018-02-24T21:11:50Z
+
+            Conditions: None
+            Medications: 
+- clonazePAM 0.25 MG Oral Tablet
+            Observations: None
+            Procedures: 
+- Electroencephalogram (procedure): code 54550000
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: wellness, from 2018-03-27T17:40:34Z to 2018-03-27T17:55:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 78.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 10.4 kg
+- Weight-for-length Per age and sex: 46.8 %
+- Head Occipital-frontal circumference Percentile: 76.5 %
+- Head Occipital-frontal circumference: 46.7 cm
+- Diastolic Blood Pressure: 70.0 mm[Hg]
+- Systolic Blood Pressure: 125.0 mm[Hg]
+- Heart rate: 92.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hib (PRP-OMP)
+- varicella
+- MMR
+- Pneumococcal conjugate PCV 13
+- Hep A  ped/adol  2 dose
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: wellness, from 2018-06-26T17:40:34Z to 2018-06-26T17:55:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 81.9 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 11.1 kg
+- Weight-for-length Per age and sex: 48.5 %
+- Head Occipital-frontal circumference Percentile: 76.5 %
+- Head Occipital-frontal circumference: 47.4 cm
+- Diastolic Blood Pressure: 71.0 mm[Hg]
+- Systolic Blood Pressure: 123.0 mm[Hg]
+- Heart rate: 97.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- DTaP
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: outpatient, from 2018-07-11T17:40:34Z to 2018-07-11T17:55:34Z
+
+            Conditions: 
+- Otitis media (disorder)
+            Medications: 
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+            Observations: None
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: wellness, from 2018-12-25T17:40:34Z to 2018-12-25T17:55:34Z
+
+            Conditions: None
+            Medications: 
+- clonazePAM 0.25 MG Oral Tablet
+            Observations: 
+- Body Height: 87.6 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 12.2 kg
+- Weight-for-length Per age and sex: 39.1 %
+- Head Occipital-frontal circumference Percentile: 76.5 %
+- Head Occipital-frontal circumference: 48.4 cm
+- Diastolic Blood Pressure: 69.0 mm[Hg]
+- Systolic Blood Pressure: 128.0 mm[Hg]
+- Heart rate: 94.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: emergency, from 2019-05-19T17:40:34Z to 2019-05-19T18:45:51Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Electroencephalogram (procedure): code 54550000
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: wellness, from 2019-06-25T17:40:34Z to 2019-06-25T17:55:34Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 92.0 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- Body Weight: 13.2 kg
+- Weight-for-length Per age and sex: 43.4 %
+- Head Occipital-frontal circumference Percentile: 76.5 %
+- Head Occipital-frontal circumference: 49.1 cm
+- Body mass index (BMI) [Ratio]: 15.6 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 35.4 %
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 121.0 mm[Hg]
+- Heart rate: 77.0 /min
+- Respiratory rate: 14.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: None
+            Allergies: None
+            Immunization: 
+- Hep A  ped/adol  2 dose
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: wellness, from 2019-12-24T17:40:34Z to 2019-12-24T17:55:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Body Height: 96.2 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- Body Weight: 14.1 kg
+- Weight-for-length Per age and sex: 42.0 %
+- Head Occipital-frontal circumference Percentile: 76.5 %
+- Head Occipital-frontal circumference: 49.7 cm
+- Body mass index (BMI) [Ratio]: 15.3 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 35.0 %
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 126.0 mm[Hg]
+- Heart rate: 81.0 /min
+- Respiratory rate: 15.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+            Allergies: None
+            Immunization: 
+- Influenza  seasonal  injectable  preservative free
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: wellness, from 2020-06-23T17:40:34Z to 2020-06-23T17:55:34Z
+
+            Conditions: 
+- Medication review due (situation)
+            Medications: None
+            Observations: 
+- Body Height: 99.8 cm
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- Body Weight: 15.1 kg
+- Weight-for-length Per age and sex: 40.5 %
+- Head Occipital-frontal circumference Percentile: 76.5 %
+- Head Occipital-frontal circumference: 49.7 cm
+- Body mass index (BMI) [Ratio]: 15.2 kg/m2
+- Body mass index (BMI) [Percentile] Per age and sex: 40.3 %
+- Diastolic Blood Pressure: 74.0 mm[Hg]
+- Systolic Blood Pressure: 126.0 mm[Hg]
+- Heart rate: 92.0 /min
+- Respiratory rate: 12.0 /min
+- Tobacco smoking status: Never smoked tobacco (finding)
+            Procedures: 
+- Medication reconciliation (procedure): code 430193006
+- Patient referral for dental care (procedure): code 103697008
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: ambulatory, from 2020-06-30T17:40:34Z to 2020-06-30T21:09:04Z
+
+            Conditions: None
+            Medications: 
+- sodium fluoride 0.0272 MG/MG Oral Gel
+            Observations: None
+            Procedures: 
+- Dental consultation and report (procedure): code 34043003
+- Dental care (regime/therapy): code 225362009
+- Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure): code 1260009003
+- Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure): code 1260010008
+- Dental plain X-ray bitewing (procedure): code 241046008
+- Examination of gingivae (procedure): code 274788003
+- Dental fluoride treatment (procedure): code 68071007
+- Oral health education (procedure): code 243085009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: hospice, from 2020-09-08T17:40:34Z to 2020-10-07T18:45:51Z
+
+            Conditions: None
+            Medications: None
+            Observations: None
+            Procedures: 
+- Certification procedure (procedure): code 310417005
+- Notifications (procedure): code 185087000
+- Initial patient assessment (procedure): code 315639002
+- Development of individualized plan of care (procedure): code 370789001
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+- Hospice care (regime/therapy): code 385763009
+            Allergies: None
+            Immunization: None
+            
+
+            Patient: Aida517 Stark857, Gender: F, DOB: 2017-01-17, SSN: 999-18-8355
+
+            Encounter: wellness, from 2020-10-13T17:40:34Z to 2020-10-13T17:55:34Z
+
+            Conditions: None
+            Medications: None
+            Observations: 
+- Cause of Death [US Standard Certificate of Death]: Sudden cardiac death (disorder)
+            Procedures: None
+            Allergies: None
+            Immunization: None
+            
+            
